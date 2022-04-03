@@ -6,6 +6,7 @@
 If you want to collaborate open PR ✨
 
 Legendas/Subtitles
+- ES = Espírito Santo
 - SP = Sao Paulo
 - PB = Paraíba
 - PE = Pernanmbuco
