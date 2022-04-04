@@ -12,6 +12,7 @@ Legendas/Subtitles
 - SP = Sao Paulo
 - DF = Distrito Federal
 - ES = Espírito Santo
+- MG = Minas Gerais
 - PB = Paraíba
 - PE = Pernanmbuco
 - SC = Santa Catarina
