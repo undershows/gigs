@@ -9,8 +9,9 @@
 If you want to collaborate open PR ✨
 
 Legendas/Subtitles
-- ES = Espírito Santo
 - SP = Sao Paulo
+- DF = Distrito Federal
+- ES = Espírito Santo
 - PB = Paraíba
 - PE = Pernanmbuco
 - SC = Santa Catarina
