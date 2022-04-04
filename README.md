@@ -15,4 +15,5 @@ Legendas/Subtitles
 - MG = Minas Gerais
 - PB = Paraíba
 - PE = Pernanmbuco
+- PI = Piauí
 - SC = Santa Catarina
