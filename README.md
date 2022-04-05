@@ -9,11 +9,14 @@
 If you want to collaborate open PR ✨
 
 Legendas/Subtitles
-- SP = Sao Paulo
+- SP = São Paulo
+- AP = Macapá
+- CE = Ceará
 - DF = Distrito Federal
 - ES = Espírito Santo
 - MG = Minas Gerais
 - PB = Paraíba
 - PE = Pernambuco
 - PI = Piauí
+- RJ = Rio de Janeiro
 - SC = Santa Catarina
