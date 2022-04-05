@@ -14,6 +14,6 @@ Legendas/Subtitles
 - ES = Espírito Santo
 - MG = Minas Gerais
 - PB = Paraíba
-- PE = Pernanmbuco
+- PE = Pernambuco
 - PI = Piauí
 - SC = Santa Catarina
