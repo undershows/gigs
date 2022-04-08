@@ -5,8 +5,8 @@
 ✨ ![DEPLOY](https://github.com/undershows/gigs/actions/workflows/workflow.yml/badge.svg) \
 ✨ **Score A+**: https://www.ssllabs.com/ssltest/analyze.html?d=undershows.com.br
 
-✨ Se quiser colaborar, abra uma PR ou envie cartaz para [nós](undershows@gmail.com)  
-If you want to collaborate open PR or send poster to [us](undershows@gmail.com)✨
+✨ Se quiser colaborar, abra uma PR ou envie cartaz para [nós](mailto:undershows@gmail.com)  
+If you want to collaborate open PR or send poster to [us](mailto:undershows@gmail.com)✨
 
 Legendas/Subtitles
 - SP = São Paulo
