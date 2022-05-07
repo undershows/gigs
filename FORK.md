@@ -1,0 +1,2 @@
+Quando migrar para o repositório padrão, preciso
+- Criar um novo [token de acesso pessoal](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token) já que vamos triggar o workflow de deploy quando houver uma release e o token padrão GITHUB_TOKEN [não trigga workflows quando há releases](https://github.com/semantic-release/github#github-authentication). 
