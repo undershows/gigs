@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/1mamute/gigs/compare/v1.2.0...v1.2.1) (2022-05-07)
+
+
+### Bug Fixes
+
+* corrigido caminhos do tailwind ([bd6894c](https://github.com/1mamute/gigs/commit/bd6894c36b1ef5c9c1cd8ed1fdb1cf841e5adc4f))
+
 # [1.2.0](https://github.com/1mamute/gigs/compare/v1.1.0...v1.2.0) (2022-05-07)
 
 
