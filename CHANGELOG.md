@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/1mamute/gigs/compare/v1.2.1...v1.3.0) (2022-05-07)
+
+
+### Features
+
+* estilização do titulo ([84a797f](https://github.com/1mamute/gigs/commit/84a797fce8ef0176fc625026e37a6da612844db9))
+
 ## [1.2.1](https://github.com/1mamute/gigs/compare/v1.2.0...v1.2.1) (2022-05-07)
 
 
