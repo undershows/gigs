@@ -7,14 +7,15 @@ export const Card: NextPage<Show> = ({ name, date, bands, schedule, img }) => {
   const convertedDate = parse(date, "dd/MM/yyyy", new Date());
   return (
     <div className="mt-6 w-96 rounded-xl border p-6 text-left hover:text-blue-600 focus:text-blue-600">
-      <h3 className="text-2xl font-bold">{name ? name : bands.toString()}</h3>
+      <h3 className="text-2xl font-bold">{name ? name : bands.join(", ")}</h3>
       <p className="mt-4 text-xl">
         Data: {format(convertedDate, "dd/MM/yyyy")} - Horário: {schedule}
       </p>
       <Image
-        src={`/public/assets/${convertedDate.getFullYear()}/${convertedDate.getMonth()}/${img}`}
+        src={`/assets/${convertedDate.getFullYear()}/${convertedDate.getMonth() + 1}/${img}`}
         alt={name ? name : ""}
-        layout="fill"
+        width={720}
+        height={480}
       ></Image>
     </div>
   );

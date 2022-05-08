@@ -1,4 +1,4 @@
-import type { InferGetStaticPropsType } from "next";
+import type { GetStaticProps, InferGetStaticPropsType } from "next";
 import Head from "next/head";
 import { Card } from "../components/card";
 import yaml from "yaml";
@@ -26,7 +26,7 @@ export default function Home({ shows }: InferGetStaticPropsType<typeof getStatic
         <p className="mt-3 text-2xl">O underground respira.</p>
 
         <div className="mt-6 flex max-w-4xl flex-wrap items-center justify-around sm:w-full">
-          {shows.map(show => (
+          {shows.map((show: Show) => (
             <Card
               key={show.name}
               name={show.name}
@@ -53,7 +53,7 @@ export default function Home({ shows }: InferGetStaticPropsType<typeof getStatic
   );
 }
 
-export const getStaticProps = async () => {
+export const getStaticProps: GetStaticProps = async () => {
   const events = yaml.parse(fs.readFileSync(path.join(process.cwd(), "/public/shows.yaml"), "utf-8")).events as Events;
 
   const shows: Show[] = [];
