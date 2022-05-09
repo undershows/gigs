@@ -1,2 +1,3 @@
 Quando migrar para o repositório padrão, preciso
-- Criar um novo [token de acesso pessoal](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token) já que vamos triggar o workflow de deploy quando houver uma release e o token padrão GITHUB_TOKEN [não trigga workflows quando há releases](https://github.com/semantic-release/github#github-authentication). 
+- Criar os segredos APP_ID e APP_PEM no repositório undershows/gigs
+- O APP_PEM pode ser conseguid com o comando `cat undershowfreddy.private-key.pem | base64 -w 0 && echo`

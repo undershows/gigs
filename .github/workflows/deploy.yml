@@ -1,0 +1,39 @@
+name: Deploy
+on:
+  release:
+    types: [published]
+jobs:
+  release:
+    name: Release
+    runs-on: ubuntu-latest
+    steps:
+      - name: Get token
+        id: get_token
+        uses: machine-learning-apps/actions-app-token@master
+        with:
+          APP_PEM: ${{ secrets.APP_PEM }}
+          APP_ID: ${{ secrets.APP_ID }}
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+          token: ${{ steps.get_token.outputs.app_token }}
+      - name: Setup Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: "lts/*"
+      - name: Install dependencies
+        run: npm ci
+      - name: Build
+        run: npm run build
+      - name: Export
+        run: npm run export
+      - name: Create .nojekyll file on ./out folder # https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#static-site-generators
+        run: touch ./out/.nojekyll
+      - name: Deploy 🚀
+        uses: JamesIves/github-pages-deploy-action@v4.3.3
+        with:
+          token: ${{ steps.get_token.outputs.app_token }}
+          branch: gh-pages # The branch the action should deploy to.
+          folder: . # The folder the action should deploy.
+          force: true # Force-push new deployments to overwrite the previous version.

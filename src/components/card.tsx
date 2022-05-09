@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-img-element */
 import { NextPage } from "next";
 import Image from "next/image";
 import { Show } from "../classes/show";
@@ -15,12 +16,12 @@ export const Card: NextPage<Show> = (show: Show) => {
         <p className="mt-4 text-xl">
           Data: {format(convertedDate, "dd/MM/yyyy")} - Horário: {show.schedule}
         </p>
-        <Image
+        <img
           src={`/assets/${convertedDate.getFullYear()}/${convertedDate.getMonth() + 1}/${show.img}`}
           alt={show.name ? show.name : ""}
           width={720}
           height={480}
-        ></Image>
+        />
       </a>
     </Link>
   );

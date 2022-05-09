@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-img-element */
 import { NextPage } from "next";
 import Image from "next/image";
 import { Show } from "../classes/show";
@@ -115,13 +116,11 @@ export const DetailsCard: NextPage<{ show: Show }> = ({ show }) => {
           </div>
         </div>
       </div>
-      <div className="relative mx-6 mt-6 w-11/12 h-full lg:ml-2 lg:w-3/5 lg:max-w-2xl">
-        <Image
+      <div className="object-contain relative mx-6 mt-6 w-11/12 h-full lg:ml-2 lg:w-3/5 lg:max-w-2xl">
+        <img
           src={`/assets/${convertedDate.getFullYear()}/${convertedDate.getMonth() + 1}/${show.img}`}
           className="rounded-none shadow-2xl lg:rounded-lg"
           alt="aeae"
-          objectFit="contain"
-          layout="fill"
         />
       </div>
     </div>

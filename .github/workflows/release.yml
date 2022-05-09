@@ -8,10 +8,17 @@ jobs:
     name: Release
     runs-on: ubuntu-latest
     steps:
+      - name: Get token
+        id: get_token
+        uses: machine-learning-apps/actions-app-token@master
+        with:
+          APP_PEM: ${{ secrets.APP_PEM }}
+          APP_ID: ${{ secrets.APP_ID }}
       - name: Checkout
         uses: actions/checkout@v2
         with:
           fetch-depth: 0
+          token: ${{ steps.get_token.outputs.app_token }}
       - name: Setup Node.js
         uses: actions/setup-node@v2
         with:
@@ -20,5 +27,5 @@ jobs:
         run: npm ci
       - name: Release
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ steps.get_token.outputs.app_token }}
         run: npx semantic-release
