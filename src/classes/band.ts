@@ -1,3 +1,3 @@
-export interface Band {
-  name: string;
+export class Band {
+  public name!: string;
 }

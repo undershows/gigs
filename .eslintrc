@@ -6,11 +6,13 @@
   },
   "extends": [
     "next/core-web-vitals",
-    "plugin:prettier/recommended",
-    "plugin:@typescript-eslint/recommended"
+    "plugin:@typescript-eslint/recommended",
+    "plugin:tailwindcss/recommended",
+    "plugin:prettier/recommended"
   ],
   "plugins": [
     "@typescript-eslint",
+    "tailwindcss",
     "prettier"
   ],
   "rules": {

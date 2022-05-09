@@ -5,7 +5,8 @@ import yaml from "yaml";
 import fs from "fs";
 import { Year } from "../types/year";
 import { Month } from "../types/month";
-export default function getShows(): Show[] {
+import createShowUri from "./createShowUri";
+export default function getShow(showUri: string): Show | undefined {
   const events = yaml.parse(fs.readFileSync(path.join(process.cwd(), "/public/shows.yaml"), "utf-8")).events as Events;
 
   const shows: Show[] = [];
@@ -17,5 +18,15 @@ export default function getShows(): Show[] {
     });
   });
 
-  return shows;
+  const show = shows.find(show => {
+    if (showUri == createShowUri(show)) {
+      return show;
+    }
+  });
+
+  if (!show) {
+    console.error(`An show with the URI ${showUri} was not found.`);
+  }
+
+  return show;
 }
