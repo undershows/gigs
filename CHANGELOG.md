@@ -1,3 +1,10 @@
+## [1.3.2](https://github.com/1mamute/gigs/compare/v1.3.1...v1.3.2) (2022-05-09)
+
+
+### Bug Fixes
+
+* corrigido workflow de deploy e removido pasta api ([25608af](https://github.com/1mamute/gigs/commit/25608af465268e3a1674a8e23d05abce40dc0270))
+
 ## [1.3.1](https://github.com/1mamute/gigs/compare/v1.3.0...v1.3.1) (2022-05-09)
 
 
