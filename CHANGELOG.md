@@ -1,3 +1,15 @@
+# [1.1.0](https://github.com/1mamute/gigs/compare/v1.0.0...v1.1.0) (2022-05-09)
+
+
+### Bug Fixes
+
+* corrigido changelog [skip release] ([0c70294](https://github.com/1mamute/gigs/commit/0c70294b037891ebc24633e4eea986c586a8ecb4))
+
+
+### Features
+
+* criado workflow para deploy no gh-pages ([#8](https://github.com/1mamute/gigs/issues/8)) ([6ecf460](https://github.com/1mamute/gigs/commit/6ecf46032543f52ae4d0908b0682161891efc7a5))
+
 # 1.0.0 (2022-05-09)
 
 
