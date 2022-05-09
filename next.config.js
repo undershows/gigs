@@ -4,4 +4,7 @@ module.exports = {
   eslint: {
     dirs: ["src/"],
   },
+  images: {
+    loader: "custom",
+  },
 };

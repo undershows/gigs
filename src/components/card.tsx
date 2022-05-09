@@ -6,6 +6,7 @@ import { format, parse } from "date-fns";
 import Link from "next/link";
 import createShowUri from "../utils/createShowUri";
 import createShowName from "../utils/createShowName";
+import imageLoader from "../utils/loader";
 
 export const Card: NextPage<Show> = (show: Show) => {
   const convertedDate = parse(show.date, "dd/MM/yyyy", new Date());
@@ -16,11 +17,12 @@ export const Card: NextPage<Show> = (show: Show) => {
         <p className="mt-4 text-xl">
           Data: {format(convertedDate, "dd/MM/yyyy")} - Horário: {show.schedule}
         </p>
-        <img
+        <Image
           src={`/assets/${convertedDate.getFullYear()}/${convertedDate.getMonth() + 1}/${show.img}`}
           alt={show.name ? show.name : ""}
           width={720}
           height={480}
+          loader={imageLoader}
         />
       </a>
     </Link>
