@@ -28,8 +28,14 @@ jobs:
         run: npm run build
         env:
           NEXT_TELEMETRY_DISABLED: 1
+          BASE_PATH: "/gigs"
+          ASSET_PREFIX: "/gigs/"
       - name: Export
         run: npm run export
+        env:
+          NEXT_TELEMETRY_DISABLED: 1
+          BASE_PATH: "/gigs"
+          ASSET_PREFIX: "/gigs/"
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4.3.3
         with:
