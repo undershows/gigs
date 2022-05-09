@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/1mamute/gigs/compare/v1.2.1...v1.3.0) (2022-05-09)
+
+
+### Features
+
+* adicionado basePath para deploy no gh-pages ([#14](https://github.com/1mamute/gigs/issues/14)) ([2a259fe](https://github.com/1mamute/gigs/commit/2a259fe6ed3294384aabfc694756d34c04651ea9))
+
 ## [1.2.1](https://github.com/1mamute/gigs/compare/v1.2.0...v1.2.1) (2022-05-09)
 
 
