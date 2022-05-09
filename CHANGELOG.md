@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/1mamute/gigs/compare/v1.2.0...v1.2.1) (2022-05-09)
+
+
+### Bug Fixes
+
+* adicionado variavel de ambiente NODE_ENV e assetPrefix ([#13](https://github.com/1mamute/gigs/issues/13)) ([8c38b84](https://github.com/1mamute/gigs/commit/8c38b848ce00eeb66c9fd4bd1f155d5021474071))
+
 # [1.2.0](https://github.com/1mamute/gigs/compare/v1.1.1...v1.2.0) (2022-05-09)
 
 
