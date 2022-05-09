@@ -1,4 +1,5 @@
-const isProd = process.env.NODE_ENV === "production";
+const basePath = process.env.BASE_PATH;
+const assetPrefix = process.env.ASSET_PREFIX;
 
 /** @type {import('next').NextConfig} */
 module.exports = {
@@ -9,6 +10,6 @@ module.exports = {
   images: {
     loader: "custom",
   },
-  assetPrefix: isProd ? "/gigs/" : "",
-  basePath: isProd ? "/gigs" : "",
+  assetPrefix,
+  basePath,
 };

@@ -26,6 +26,8 @@ jobs:
         run: npm ci
       - name: Build
         run: npm run build
+        env:
+          NEXT_TELEMETRY_DISABLED: 1
       - name: Export
         run: npm run export
       - name: Deploy 🚀
