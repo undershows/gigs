@@ -10,4 +10,5 @@ module.exports = {
     loader: "custom",
   },
   assetPrefix: isProd ? "/gigs/" : "",
+  basePath: isProd ? "/gigs" : "",
 };
