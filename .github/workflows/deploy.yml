@@ -4,7 +4,7 @@ on:
     types: [published]
 jobs:
   release:
-    name: Release
+    name: Deploy
     runs-on: ubuntu-latest
     steps:
       - name: Get token
@@ -28,12 +28,14 @@ jobs:
         run: npm run build
       - name: Export
         run: npm run export
-      - name: Create .nojekyll file on ./out folder # https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#static-site-generators
-        run: touch ./out/.nojekyll
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4.3.3
         with:
           token: ${{ steps.get_token.outputs.app_token }}
           branch: gh-pages # The branch the action should deploy to.
-          folder: . # The folder the action should deploy.
+          folder: out # The folder the action should deploy.
           force: true # Force-push new deployments to overwrite the previous version.
+          clean: true # JamesIves/github-pages-deploy-action@v4.3.3
+          clean-exclude: |
+            .nojekyll
+            .gitignore

@@ -1,12 +1,15 @@
 name: Release
 on:
-  push:
+  pull_request:
+    types:
+      - closed
     branches:
-      - main
+      - "main"
 jobs:
   release:
     name: Release
     runs-on: ubuntu-latest
+    if: github.event.pull_request.merged == true ||
     steps:
       - name: Get token
         id: get_token
