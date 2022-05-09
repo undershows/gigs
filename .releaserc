@@ -29,7 +29,7 @@
           "package-lock.json",
           "CHANGELOG.md"
         ],
-        "message": "ci(release): Release: ${nextRelease.version} \n\n${nextRelease.notes}"
+        "message": "ci(release): Release: ${nextRelease.version} [skip ci]\n\n${nextRelease.notes}"
       }
     ]
   ]
