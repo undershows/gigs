@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/1mamute/gigs/compare/v1.1.1...v1.2.0) (2022-05-09)
+
+
+### Features
+
+* criado custom loader para continuar utilizando o next/image sem otimizaçao ([#12](https://github.com/1mamute/gigs/issues/12)) ([f1f1e80](https://github.com/1mamute/gigs/commit/f1f1e80b69c88d256a5786382a3b155ef9c45d50))
+
 ## [1.1.1](https://github.com/1mamute/gigs/compare/v1.1.0...v1.1.1) (2022-05-09)
 
 
