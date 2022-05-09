@@ -9,17 +9,11 @@ jobs:
     runs-on: ubuntu-latest
     if: "! contains(github.event.head_commit.message, '[skip ci]')"
     steps:
-      - name: Get token
-        id: get_token
-        uses: machine-learning-apps/actions-app-token@master
-        with:
-          APP_PEM: ${{ secrets.APP_PEM }}
-          APP_ID: ${{ secrets.APP_ID }}
       - name: Checkout
         uses: actions/checkout@v2
         with:
           fetch-depth: 0
-          token: ${{ steps.get_token.outputs.app_token }}
+          persist-credentials: false
       - name: Setup Node.js
         uses: actions/setup-node@v2
         with:
@@ -28,5 +22,5 @@ jobs:
         run: npm ci
       - name: Release
         env:
-          GITHUB_TOKEN: ${{ steps.get_token.outputs.app_token }}
+          GITHUB_TOKEN: ${{ secrets.PAT_GH_TOKEN }}
         run: npx semantic-release
