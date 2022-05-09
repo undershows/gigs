@@ -1,3 +1,10 @@
+## [1.3.1](https://github.com/1mamute/gigs/compare/v1.3.0...v1.3.1) (2022-05-09)
+
+
+### Bug Fixes
+
+* corrigido basePath e assetPrefix ([7ce73eb](https://github.com/1mamute/gigs/commit/7ce73eb25b5bccb98f73a8cfceda105f644e8bee))
+
 # [1.3.0](https://github.com/1mamute/gigs/compare/v1.2.1...v1.3.0) (2022-05-09)
 
 
