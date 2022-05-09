@@ -1,3 +1,5 @@
+const isProd = process.env.NODE_ENV === "production";
+
 /** @type {import('next').NextConfig} */
 module.exports = {
   reactStrictMode: true,
@@ -7,4 +9,5 @@ module.exports = {
   images: {
     loader: "custom",
   },
+  assetPrefix: isProd ? "/gigs/" : "",
 };
