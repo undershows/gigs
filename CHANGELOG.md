@@ -1,3 +1,15 @@
+## [1.1.1](https://github.com/1mamute/gigs/compare/v1.1.0...v1.1.1) (2022-05-09)
+
+
+### Bug Fixes
+
+* adicionado PAT_GH_TOKEN na pipeline de release ([f9ce979](https://github.com/1mamute/gigs/commit/f9ce979f9cf50e41405b5c714e73e363b0970627))
+* correção do workflow de release apenas para push na branch main ([982057c](https://github.com/1mamute/gigs/commit/982057c144409b410bb16f837882b4e941176e14))
+* ghpages deploy ([#10](https://github.com/1mamute/gigs/issues/10)) ([4c0d01d](https://github.com/1mamute/gigs/commit/4c0d01d627c5ae9d9837fdf6f6230f4000d97095))
+* ghpages deploy ([#11](https://github.com/1mamute/gigs/issues/11)) ([47978a8](https://github.com/1mamute/gigs/commit/47978a8108aebf7c70fdfc169226173384934eaa))
+* ghpages deploy ([#9](https://github.com/1mamute/gigs/issues/9)) ([7f5db0f](https://github.com/1mamute/gigs/commit/7f5db0f19a4d296447c9f661fd1ff031a13aa1a9))
+* nao triggar se tiver skip ci no commit ([9a33463](https://github.com/1mamute/gigs/commit/9a33463bc2c684d0e17e758bb5c371a5b526ca2f))
+
 # [1.1.0](https://github.com/1mamute/gigs/compare/v1.0.0...v1.1.0) (2022-05-09)
 
 
