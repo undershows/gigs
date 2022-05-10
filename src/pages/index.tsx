@@ -43,7 +43,7 @@ export default function Home({ shows }: InferGetStaticPropsType<typeof getStatic
 export const getStaticProps: GetStaticProps = async () => {
   return {
     props: {
-      shows: await getShows(),
+      shows: getShows(),
     },
   };
 };
