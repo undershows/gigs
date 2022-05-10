@@ -1,6 +1,3 @@
-const basePath = process.env.BASE_PATH;
-const assetPrefix = process.env.ASSET_PREFIX;
-
 /** @type {import('next').NextConfig} */
 module.exports = {
   reactStrictMode: true,
@@ -10,6 +7,6 @@ module.exports = {
   images: {
     loader: "custom",
   },
-  assetPrefix,
-  basePath,
+  assetPrefix: process.env.ASSET_PREFIX,
+  basePath: process.env.BASE_PATH,
 };

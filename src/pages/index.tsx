@@ -13,7 +13,7 @@ export default function Home({ shows }: InferGetStaticPropsType<typeof getStatic
     <>
       <Head>
         <title>undershows</title>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href={`${process.env.BASE_PATH}/favicon.ico`} />
       </Head>
 
       <body className="flex flex-col justify-center content-center items-center px-20 w-full h-full">
