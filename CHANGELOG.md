@@ -1,3 +1,10 @@
+## [1.4.8](https://github.com/1mamute/gigs/compare/v1.4.7...v1.4.8) (2022-05-10)
+
+
+### Bug Fixes
+
+* corrigido assetPrefix e basepath ([b58071f](https://github.com/1mamute/gigs/commit/b58071f5750881dc1f15ff3f94f5e5225bad3990))
+
 ## [1.4.7](https://github.com/1mamute/gigs/compare/v1.4.6...v1.4.7) (2022-05-10)
 
 
