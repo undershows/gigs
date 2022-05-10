@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/1mamute/gigs/compare/v1.3.3...v1.4.0) (2022-05-10)
+
+
+### Features
+
+* adicionado base path ao customLoader ([9a3d21d](https://github.com/1mamute/gigs/commit/9a3d21d1ed7406d068427a719c2dd3dbf5f3afa1))
+
 ## [1.3.3](https://github.com/1mamute/gigs/compare/v1.3.2...v1.3.3) (2022-05-10)
 
 
