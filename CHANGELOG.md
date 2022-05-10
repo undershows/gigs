@@ -1,3 +1,10 @@
+## [1.3.3](https://github.com/1mamute/gigs/compare/v1.3.2...v1.3.3) (2022-05-10)
+
+
+### Bug Fixes
+
+* adicionado styled jsx global da fonte Newake ([d21a69f](https://github.com/1mamute/gigs/commit/d21a69fa327378db5245bef898c865e8388a04b4))
+
 ## [1.3.2](https://github.com/1mamute/gigs/compare/v1.3.1...v1.3.2) (2022-05-09)
 
 
