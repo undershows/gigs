@@ -12,16 +12,6 @@ type AppPropsWithLayout = AppProps & {
 };
 
 export default function MyApp({ Component, pageProps }: AppPropsWithLayout) {
-  <style jsx global>{`
-    @font-face {
-      font-family: "Newake";
-      src: url("${process.env.BASE_PATH}/fonts/newake-demo-400.otf");
-      font-style: normal;
-      font-weight: 400;
-      font-display: swap;
-    }
-  `}</style>;
-
   // Use the layout defined at the page level, if available
   const getLayout = Component.getLayout || (page => page);
 

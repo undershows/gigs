@@ -14,7 +14,10 @@ export default function Details({ show }: InferGetStaticPropsType<typeof getStat
     <>
       <Head>
         <title>undershows - {createShowName(show)} </title>
-        <link rel="icon" href={`${process.env.BASE_PATH}/favicon.ico`} />
+        <link
+          rel="icon"
+          href={`${process.env.NEXT_PUBLIC_BASE_PATH ? process.env.NEXT_PUBLIC_BASE_PATH : ""}/favicon.ico`}
+        />
       </Head>
       <div className="h-full antialiased tracking-wider leading-normal text-gray-900 bg-cover">
         <DetailsCard show={show} key={createShowUri(show)} />

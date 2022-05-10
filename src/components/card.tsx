@@ -18,9 +18,9 @@ export const Card: NextPage<Show> = (show: Show) => {
           Data: {format(convertedDate, "dd/MM/yyyy")} - Horário: {show.schedule}
         </p>
         <Image
-          src={`${process.env.NEXT_PUBLIC_BASE_PATH}/assets/${convertedDate.getFullYear()}/${
-            convertedDate.getMonth() + 1
-          }/${show.img}`}
+          src={`${
+            process.env.NEXT_PUBLIC_BASE_PATH ? process.env.NEXT_PUBLIC_BASE_PATH : ""
+          }/assets/${convertedDate.getFullYear()}/${convertedDate.getMonth() + 1}/${show.img}`}
           alt={show.name ? show.name : ""}
           width={720}
           height={480}
