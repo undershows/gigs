@@ -7,6 +7,6 @@ module.exports = {
   images: {
     loader: "custom",
   },
-  assetPrefix: process.env.ASSET_PREFIX,
-  basePath: process.env.BASE_PATH,
+  assetPrefix: process.env.NEXT_PUBLIC_ASSET_PREFIX,
+  basePath: process.env.NEXT_PUBLIC_BASE_PATH ? process.env.NEXT_PUBLIC_BASE_PATH : "",
 };
