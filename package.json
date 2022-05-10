@@ -1,6 +1,6 @@
 {
   "name": "undershows",
-  "version": "1.4.3",
+  "version": "1.4.4",
   "description": "Project to inform underground shows/gigs in Brazil",
   "private": true,
   "scripts": {
