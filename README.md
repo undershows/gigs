@@ -11,12 +11,19 @@ If you want to collaborate open PR or send poster to [us](mailto:undershows@gmai
 Legendas/Subtitles
 - SP = São Paulo
 - AP = Macapá
+- BA = Bahia
 - CE = Ceará
 - DF = Distrito Federal
 - ES = Espírito Santo
+- GO = Goiás
 - MG = Minas Gerais
+- MS = Mato Grosso do Sul
+- PA = Pará
 - PB = Paraíba
 - PE = Pernambuco
 - PI = Piauí
+- PR = Paraná
 - RJ = Rio de Janeiro
+- RN = Rio Grande do Norte
+- RS = Rio Grande do Sul
 - SC = Santa Catarina
