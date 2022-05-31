@@ -10,6 +10,7 @@ If you want to collaborate open PR or send poster to [us](mailto:undershows@gmai
 
 Legendas/Subtitles
 - SP = São Paulo
+- AM = Amazonas
 - AP = Macapá
 - BA = Bahia
 - CE = Ceará
