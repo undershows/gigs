@@ -11,4 +11,4 @@ jobs:
         host: ${{ secrets.SSH_HOST_IP }}
         username: ${{ secrets.SSH_HOST_USERNAME }}
         key: ${{ secrets.SSH_PRIVATE_KEY }}
-        script: cd /var/www/html/gigs && git pull && chown -R www-data:www-data /var/www/html/gigs
+        script: cd /var/www/html/gigs && git pull && service nginx restart && chown -R www-data:www-data /var/www/html/gigs
