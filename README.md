@@ -28,3 +28,4 @@ Legendas/Subtitles
 - RN = Rio Grande do Norte
 - RS = Rio Grande do Sul
 - SC = Santa Catarina
+- SE = Sergipe
