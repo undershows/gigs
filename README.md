@@ -17,6 +17,7 @@ Legendas/Subtitles
 - DF = Distrito Federal
 - ES = Espírito Santo
 - GO = Goiás
+- MA = Maranhão
 - MG = Minas Gerais
 - MS = Mato Grosso do Sul
 - PA = Pará
