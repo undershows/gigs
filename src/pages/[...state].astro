@@ -4,6 +4,7 @@ import { getCollection, getEntryBySlug } from "astro:content";
 
 import Layout from "../layouts/old/Layout.astro";
 import AppNavbar from "../components/old/AppNavbar.astro";
+import GigList from "../components/old/GigList.astro";
 
 export type Props = {
 	states: CollectionEntry<"state">[];
@@ -40,4 +41,6 @@ const { states, currentState } = Astro.props;
 		githubUrl={import.meta.env.GITHUB_URL}
 		posterMail={import.meta.env.POSTER_MAIL}
 	/>
+
+	<GigList state={currentState} />
 </Layout>

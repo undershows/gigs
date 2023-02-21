@@ -1,0 +1,88 @@
+---
+import type { CollectionEntry } from "astro:content";
+import * as R from "ramda";
+import dayjs, { Dayjs } from "dayjs";
+import customParseFormat from "dayjs/plugin/customParseFormat";
+import { t } from "i18next";
+
+dayjs.extend(customParseFormat);
+
+interface Props {
+  state: CollectionEntry<"state">;
+}
+
+type Gig = {
+  poster: string;
+  date: string;
+  city?: string;
+};
+
+type ParsedGig = Gig & {
+  monthName: string;
+  dayGroup: string;
+};
+
+const { state } = Astro.props;
+
+/**
+ * Returns a days group from a date.
+ *
+ * @param Dayjs date
+ * @return string
+ */
+const dayGroupFromDate = (date: Dayjs) => {
+  const dayGroups = Array.from(
+    { length: date.daysInMonth() },
+    (_, x: number) => x + 1
+  );
+
+  return R.pipe(
+    R.splitEvery(5),
+    R.find((days: number[]) => R.includes(date.date(), days)),
+    R.join("/")
+  )(dayGroups);
+};
+
+/**
+ * Gigs grouped by months and day groups.
+ */
+const gigsByMonth = R.pipe(
+  R.defaultTo([]),
+  R.map((gig: Gig) => {
+    const date = dayjs(gig.date, "DD/MM/YYYY HH:mm");
+    const dayGroup = dayGroupFromDate(date);
+    const month = date.format("MMMM");
+    const monthName = R.toUpper(`${t(`month.${month}`)}/${month}`);
+
+    return { ...gig, dayGroup, monthName };
+  }),
+  R.sortWith([R.ascend(R.prop("date"))]),
+  R.groupBy(R.prop("monthName")),
+  R.mapObjIndexed(R.groupBy(R.prop("dayGroup")))
+)(state.data.gigs);
+---
+
+{
+  R.keys(gigsByMonth).map((monthName: string) => (
+    <>
+      <p style="font-size: 30px; text-align: center;">{monthName}</p>
+      {R.keys(gigsByMonth[monthName]).map((dayGroup: string) => (
+        <>
+          <p style="font-size: 20px; text-align: center;">
+            <b>{dayGroup}</b>
+          </p>
+          {gigsByMonth[monthName][dayGroup].map((gig: ParsedGig) => (
+            <>
+              <p style="font-size: 20px; text-align: center;">
+                <b>
+                  {gig.city}/{state.data.abbr} ↓↓↓
+                </b>
+              </p>
+              <img src={`/images/posters/${gig.poster}`} />
+            </>
+          ))}
+        </>
+      ))}
+    </>
+  ))
+}
