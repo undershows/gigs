@@ -1,0 +1,66 @@
+---
+export interface Props {
+  title: string;
+}
+
+const { title } = Astro.props;
+---
+
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="generator" content={Astro.generator} />
+    <title>{title}</title>
+  </head>
+  <body>
+    <slot />
+  </body>
+</html>
+
+<style is:global>
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+    height: 800px;
+  }
+  p.normal {
+    line-height: 1.5;
+    text-align: center;
+    font-size: 30px;
+  }
+  body {
+    background-image: radial-gradient(blue, pink, gray);
+  }
+  a.class1:link,
+  a.class1:visited {
+    font-family: Tahoma, sans-serif;
+    background-color: red;
+    color: white;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  a.class1:hover,
+  a.class1:active {
+    font-family: Tahoma, sans-serif;
+    background-color: red;
+  }
+  a.class2:link,
+  a.class2:visited {
+    color: blue;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  a.class2:hover,
+  a.class2:active {
+    color: blue;
+    text-decoration: underline;
+  }
+</style>

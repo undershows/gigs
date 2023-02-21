@@ -1,0 +1,4 @@
+---
+abbr: GO
+name: Goiás
+---

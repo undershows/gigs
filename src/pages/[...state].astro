@@ -1,0 +1,43 @@
+---
+import type { CollectionEntry } from "astro:content";
+import { getCollection, getEntryBySlug } from "astro:content";
+
+import Layout from "../layouts/old/Layout.astro";
+import AppNavbar from "../components/old/AppNavbar.astro";
+
+export type Props = {
+	states: CollectionEntry<"state">[];
+	currentState: CollectionEntry<"state">;
+};
+
+export async function getStaticPaths() {
+	const states = await getCollection("state");
+	const mainState = await getEntryBySlug("state", import.meta.env.MAIN_STATE);
+	const filteredStates = states.filter(
+		(state) => state.slug !== import.meta.env.MAIN_STATE
+	);
+
+	return [
+		{
+			params: { state: undefined },
+			props: { states, currentState: mainState },
+		},
+		...filteredStates.map((state) => ({
+			params: { state: state.slug },
+			props: { states, currentState: state },
+		})),
+	];
+}
+
+const { states, currentState } = Astro.props;
+---
+
+<Layout title={import.meta.env.OLD_SITE_TITLE}>
+	<AppNavbar
+		states={states}
+		currentState={currentState}
+		mainState={import.meta.env.MAIN_STATE}
+		githubUrl={import.meta.env.GITHUB_URL}
+		posterMail={import.meta.env.POSTER_MAIL}
+	/>
+</Layout>

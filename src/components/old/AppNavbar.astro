@@ -1,0 +1,45 @@
+---
+import type { CollectionEntry } from "astro:content";
+
+interface Props {
+  mainState: string;
+  githubUrl: string;
+  posterMail: string;
+  states: CollectionEntry<"state">[];
+  currentState: CollectionEntry<"state">;
+}
+
+const { states, mainState, githubUrl, posterMail, currentState } = Astro.props;
+const sortedStates = [...states].sort((a) => (a.slug === mainState ? -1 : 1));
+const { Content } = await currentState.render();
+
+const isLink = (state: CollectionEntry<"state">) =>
+  (state.slug !== mainState && state.slug !== currentState.slug) ||
+  (state.slug === mainState && currentState.slug !== mainState);
+---
+
+<p class="normal">
+  ESTADOS/STATES<br />
+  {
+    sortedStates.map((state, index) => (
+      <>
+        {index !== 0 ? " - " : ""}
+        {isLink(state) ? (
+          <a href={state.slug === mainState ? "/" : state.slug} class="class1">
+            {state.data.abbr}
+          </a>
+        ) : (
+          state.data.abbr
+        )}
+      </>
+    ))
+  }
+
+  <br />
+  Mandem cartaz para
+  <a href={`mailto:${posterMail}`} class="class2">{posterMail}</a>
+  ou se quiserem contribuir
+  <a href={githubUrl} class="class2" target="_blank">{githubUrl}</a>
+
+  <Content />
+</p>
