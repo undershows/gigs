@@ -70,15 +70,15 @@ const gigsByMonth = R.pipe(
 {
   R.keys(gigsByMonth).map((monthName: string) => (
     <>
-      <p style="font-size: 30px; text-align: center;">{monthName}</p>
+      <p style="font-size:30px; text-align:center;">{monthName}</p>
       {R.keys(gigsByMonth[monthName]).map((dayGroup: string) => (
         <>
-          <p style="font-size: 20px; text-align: center;">
+          <p style="font-size:20px; text-align:center;">
             <b>{dayGroup}</b>
           </p>
           {gigsByMonth[monthName][dayGroup].map((gig: ParsedGig) => (
             <>
-              <p style="font-size: 20px; text-align: center;">
+              <p style="font-size:20px; text-align:center;">
                 <b>
                   {gig.city}/{state.data.abbr} ↓↓↓
                 </b>
