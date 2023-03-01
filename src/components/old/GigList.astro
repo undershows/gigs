@@ -18,6 +18,7 @@ type Gig = {
 };
 
 type ParsedGig = Gig & {
+  date: Dayjs;
   monthName: string;
   dayGroup: string;
 };
@@ -54,8 +55,9 @@ const gigsByMonth = R.pipe(
     const month = date.format("MMMM");
     const monthName = R.toUpper(`${t(`month.${month}`)}/${month}`);
 
-    return { ...gig, dayGroup, monthName };
+    return { ...gig, date, dayGroup, monthName };
   }),
+  R.filter((gig: ParsedGig) => gig.date.isAfter(dayjs().startOf("day"))),
   R.sortWith([R.ascend(R.prop("date"))]),
   R.groupBy(R.prop("monthName")),
   R.mapObjIndexed(R.groupBy(R.prop("dayGroup")))
