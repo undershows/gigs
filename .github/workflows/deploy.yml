@@ -11,16 +11,10 @@ jobs:
       - name: Checkout 🛎️
         uses: actions/checkout@v3
 
-      - name: Install ⚙️
-        uses: pnpm/action-setup@v2
-        with:
-          version: 6.0.2
-          run_install: |
-            - recursive: true
-              args: [--frozen-lockfile, --strict-peer-dependencies]
-
-      - name: Build 🔧
-        run: pnpm run build
+      - name: Install and Build 🔧
+        run: |
+          npm install
+          npm run build
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4.2.5
