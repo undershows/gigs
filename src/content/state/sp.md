@@ -4,7 +4,7 @@ name: São Paulo
 gigs:
   - poster: f74021f0-d27e-4efa-a962-2f339fbd5e57.jpeg
     city: São Paulo
-    date: 21/03/2023 18:00
+    date: 02/03/2023 18:00
   - poster: FB_IMG_1674168144815.jpg
     city: São José dos Campos
     date: 23/03/2023 20:00
