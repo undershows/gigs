@@ -5,10 +5,11 @@ import astroI18next from "astro-i18next";
 // https://astro.build/config
 import sitemap from "@astrojs/sitemap";
 
-const env = loadEnv(import.meta.env.MODE, process.cwd(), '');
+const env = loadEnv(import.meta.env.MODE, process.cwd(), 'APP_');
 
 // https://astro.build/config
 export default defineConfig({
+  base: import.meta.env.DEV ? '' : '/undershows-gigs',
   site: env.APP_OLD_SITE_URL,
   integrations: [
     astroI18next(),
