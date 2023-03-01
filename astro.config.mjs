@@ -5,7 +5,7 @@ import astroI18next from "astro-i18next";
 // https://astro.build/config
 import sitemap from "@astrojs/sitemap";
 
-const env = loadEnv(import.meta.env.MODE, process.cwd(), '')
+const env = loadEnv(import.meta.env.MODE, process.cwd(), '');
 
 // https://astro.build/config
 export default defineConfig({
