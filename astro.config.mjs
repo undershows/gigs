@@ -9,7 +9,7 @@ const env = loadEnv(import.meta.env.MODE, process.cwd(), '');
 
 // https://astro.build/config
 export default defineConfig({
-  site: env.OLD_SITE_URL,
+  site: env.APP_OLD_SITE_URL,
   integrations: [
     astroI18next(),
     sitemap({

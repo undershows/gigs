@@ -13,9 +13,12 @@ export type Props = {
 
 export async function getStaticPaths() {
 	const states = await getCollection("state");
-	const mainState = await getEntryBySlug("state", import.meta.env.MAIN_STATE);
+	const mainState = await getEntryBySlug(
+		"state",
+		import.meta.env.APP_MAIN_STATE
+	);
 	const filteredStates = states.filter(
-		(state) => state.slug !== import.meta.env.MAIN_STATE
+		(state) => state.slug !== import.meta.env.APP_MAIN_STATE
 	);
 
 	return [
@@ -33,13 +36,13 @@ export async function getStaticPaths() {
 const { states, currentState } = Astro.props;
 ---
 
-<Layout title={import.meta.env.OLD_SITE_TITLE}>
+<Layout title={import.meta.env.APP_OLD_SITE_TITLE}>
 	<AppNavbar
 		states={states}
 		currentState={currentState}
-		mainState={import.meta.env.MAIN_STATE}
-		githubUrl={import.meta.env.GITHUB_URL}
-		posterMail={import.meta.env.POSTER_MAIL}
+		mainState={import.meta.env.APP_MAIN_STATE}
+		githubUrl={import.meta.env.APP_GITHUB_URL}
+		posterMail={import.meta.env.APP_POSTER_MAIL}
 	/>
 
 	<GigList state={currentState} />
