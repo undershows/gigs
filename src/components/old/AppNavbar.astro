@@ -1,5 +1,6 @@
 ---
 import type { CollectionEntry } from "astro:content";
+import Link from "@/components/core/Link.astro";
 
 interface Props {
   mainState: string;
@@ -25,9 +26,9 @@ const isLink = (state: CollectionEntry<"state">) =>
       <>
         {index !== 0 ? " - " : ""}
         {isLink(state) ? (
-          <a href={state.slug === mainState ? "/" : state.slug} class="class1">
+          <Link to={state.slug === mainState ? "" : state.slug} class="class1">
             {state.data.abbr}
-          </a>
+          </Link>
         ) : (
           state.data.abbr
         )}

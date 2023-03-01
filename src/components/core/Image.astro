@@ -1,0 +1,10 @@
+---
+export type Props = astroHTML.JSX.AnchorHTMLAttributes & {
+  path: string;
+};
+
+const { path, ...attrs } = Astro.props;
+const imagePath = `${import.meta.env.BASE_URL}${path}`;
+---
+
+<img src={imagePath} {...attrs} />
