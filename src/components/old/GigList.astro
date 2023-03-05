@@ -2,11 +2,13 @@
 import type { CollectionEntry } from "astro:content";
 import * as R from "ramda";
 import dayjs, { Dayjs } from "dayjs";
+import isSameOrAfter from 'dayjs/plugin/isSameOrAfter';
 import customParseFormat from "dayjs/plugin/customParseFormat";
 import { t } from "i18next";
 
 import Image from "@/components/core/Image.astro";
 
+dayjs.extend(isSameOrAfter);
 dayjs.extend(customParseFormat);
 
 interface Props {
@@ -60,7 +62,7 @@ const gigsByMonth = R.pipe(
 
     return { ...gig, date, dayGroup, monthName };
   }),
-  R.filter((gig: ParsedGig) => gig.date.isAfter(dayjs().startOf("day"))),
+  R.filter((gig: ParsedGig) => gig.date.isSameOrAfter(dayjs().startOf("day"))),
   R.sortWith([R.ascend(R.prop("date"))]),
   R.groupBy(R.prop("monthName")),
   R.mapObjIndexed(R.groupBy(R.prop("dayGroup")))
