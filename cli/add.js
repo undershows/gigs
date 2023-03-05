@@ -30,7 +30,8 @@ const answers = await inquirer.prompt([
   {
     name: 'city',
     type: 'input',
-    message: 'Cidade?'
+    message: 'Cidade?',
+    validate: (input) => !!input || 'Cidade é obrigatório.'
   },
   {
     name: 'date',
