@@ -1,5 +1,4 @@
 import meow from 'meow'
-import * as R from 'ramda'
 import { scrapeAndReplace } from './gig/scraper.js'
 
 const cli = meow(`
