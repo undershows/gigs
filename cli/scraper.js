@@ -1,5 +1,7 @@
 import meow from 'meow'
+import * as R from 'ramda'
 import { scrape } from './gig/scraper.js'
+import { replaceAll } from './gig/collection.js'
 
 const cli = meow(`
   Usage
@@ -12,4 +14,11 @@ const cli = meow(`
 })
 
 const [url] = cli.input
-console.log(await scrape(url))
+const gigsByState = R.pipe(
+  R.groupBy(R.prop('state')),
+  R.mapObjIndexed(R.map(R.dissoc('state')))
+)(await scrape(url))
+
+R.forEachObjIndexed(async (gigs, state) => {
+  await replaceAll(state, gigs)
+}, gigsByState)
