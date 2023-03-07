@@ -10,7 +10,8 @@
 		"astro": "astro",
 		"gig:scraper": "node cli/scraper.js",
 		"gig:add": "node cli/add.js",
-		"gig:remove-all": "node cli/removeAll.js"
+		"gig:remove-all": "node cli/removeAll.js",
+		"gig:remove-old": "node cli/removeOld.js"
 	},
 	"dependencies": {
 		"@astrojs/sitemap": "^1.1.0",
@@ -21,6 +22,7 @@
 	},
 	"devDependencies": {
 		"cheerio": "^1.0.0-rc.12",
+		"date-fns": "^2.29.3",
 		"got": "^12.5.3",
 		"gray-matter": "^4.0.3",
 		"inquirer": "^9.1.4",

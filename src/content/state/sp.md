@@ -2,9 +2,6 @@
 abbr: SP
 name: São Paulo
 gigs:
-  - city: São Paulo
-    date: '31/03/2023 00:00'
-    poster: aa2928b9-8092-42ac-bad6-7f1b8de400e9.jpeg
   - city: Americana
     date: '31/03/2023 00:00'
     poster: vibes_coffee_shop.jpeg
@@ -54,37 +51,37 @@ gigs:
     date: '30/03/2023 00:00'
     poster: 326228200_3050359675262548_3299674393958481916_n.jpeg
   - city: São Paulo
-    date: '31/04/2023 00:00'
+    date: '30/04/2023 00:00'
     poster: 333986654_211616958076072_434892530464583890_n.jpeg
   - city: São Paulo
-    date: '31/04/2023 00:00'
+    date: '30/04/2023 00:00'
     poster: undershows-a3-1.png
   - city: São Paulo
-    date: '31/04/2023 00:00'
+    date: '30/04/2023 00:00'
     poster: 323275580_913537186656348_8275181551067551151_n.jpeg
   - city: Peruíbe
-    date: '31/04/2023 00:00'
+    date: '30/04/2023 00:00'
     poster: 327214538_1784023418665353_7940527584269130469_n.jpeg
   - city: Pindamonhangaba
-    date: '31/04/2023 00:00'
+    date: '30/04/2023 00:00'
     poster: FB_IMG_1674092648486.jpg
   - city: São Paulo
-    date: '31/04/2023 00:00'
+    date: '30/04/2023 00:00'
     poster: 325997755_1249722765900294_9062675116475721787_n.jpeg
   - city: São José dos Campos
-    date: '31/04/2023 00:00'
+    date: '30/04/2023 00:00'
     poster: 326062982_1215939442353367_4883080995806394442_n.jpeg
   - city: Várzea Paulista
-    date: '31/04/2023 00:00'
+    date: '30/04/2023 00:00'
     poster: 325468817_677256944136144_6176565032222995739_n.jpeg
   - city: Várzea Paulista
-    date: '31/04/2023 00:00'
+    date: '30/04/2023 00:00'
     poster: 325368008_2981492532158598_3621159681171493074_n.jpeg
   - city: São Paulo
-    date: '31/04/2023 00:00'
+    date: '30/04/2023 00:00'
     poster: 334028104_205806822036122_3353948029014206170_n.jpeg
   - city: São Paulo
-    date: '31/09/2023 00:00'
+    date: '30/09/2023 00:00'
     poster: 7d61e8f3-1c15-4c4d-bbc2-d345ca81c75d.jpeg
 ---
 

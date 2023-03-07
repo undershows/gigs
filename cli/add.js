@@ -45,7 +45,7 @@ const answers = await inquirer.prompt([
     name: 'posterUrl',
     type: 'input',
     message: 'Qual a URL do cartaz?',
-    validate: (input) => !!input.match(/^https?:/) || 'URL inválida.'
+    validate: (input) => !!input.match(/^https?:\/\//) || 'URL inválida.'
   }
 ])
 

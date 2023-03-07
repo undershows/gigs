@@ -1,9 +1,15 @@
 import got from 'got'
-import dayjs from 'dayjs'
+import { format, parse, isBefore, startOfDay } from 'date-fns'
 import matter from 'gray-matter'
+import * as R from 'ramda'
 import path from 'path'
 import { access, constants, readFile, rm, writeFile } from 'node:fs/promises'
 import states from '../data/states.js'
+
+/**
+ * TODO
+ */
+const DATE_FORMAT = 'dd/MM/yyyy HH:mm'
 
 /**
  * TODO
@@ -70,7 +76,7 @@ const removeAllImages = async (gigs) => {
 export const add = async ({ state, city, date, posterUrl }) => {
   const poster = await fetchImage(posterUrl)
   const collection = await getCollection(state)
-  const gig = { poster, city, date: dayjs(date).format('DD/MM/YYYY HH:mm') }
+  const gig = { poster, city, date: format(date, DATE_FORMAT) }
   
   collection.data.gigs = collection.data.gigs
     ? [ ...collection.data.gigs, gig ]
@@ -106,6 +112,29 @@ export const removeAll = async () => {
     await removeAllImages(collection.data.gigs)
 
     collection.data.gigs = []
+    await saveCollection(state.abbr, collection)
+  })
+
+  await Promise.all(promises)
+}
+
+/**
+ * TODO
+ */
+export const removeOld = async () => {
+  const promises = states.map(async (state) => {
+    const collection = await getCollection(state.abbr)
+    const [removedGigs, remainingGigs] = R.pipe(
+      R.defaultTo([]),
+      R.partition((gig) => {
+        const date = parse(gig.date, DATE_FORMAT, Date.now())
+        return isBefore(date, startOfDay(Date.now()))
+      })
+    )(collection.data.gigs)
+
+    collection.data.gigs = remainingGigs
+
+    await removeAllImages(removedGigs)
     await saveCollection(state.abbr, collection)
   })
 
