@@ -1,5 +1,5 @@
 import meow from 'meow'
-import dayjs from 'dayjs'
+import { startOfDay } from 'date-fns'
 import inquirer from 'inquirer'
 import DatePrompt from 'inquirer-date-prompt'
 import AutoCompletePrompt from 'inquirer-autocomplete-prompt'
@@ -38,7 +38,7 @@ const answers = await inquirer.prompt([
     type: 'date',
     locale: 'pt-BR',
     format: { day: '2-digit', month: 'short' },
-    default: dayjs().startOf('day').toDate(),
+    default: startOfDay(Date.now()),
     message: 'Data e horário?'
   },
   {

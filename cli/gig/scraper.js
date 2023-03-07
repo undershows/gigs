@@ -1,7 +1,7 @@
 import got from 'got'
-import dayjs from 'dayjs'
 import * as R from 'ramda'
 import * as cheerio from 'cheerio'
+import { getYear, parse, format } from 'date-fns'
 import { replaceAll } from './collection.js'
 
 /**
@@ -17,13 +17,15 @@ const DEFAULT_GIGS_URL = 'https://undershows.com.br/'
  * @returns {format}
  */
 const getFormattedDate = (month, day) => {
-  const year = dayjs().year()
+  const year = getYear(Date.now())
   const hasSpecificDay = Number.isInteger(Number(day))
-  const format = hasSpecificDay
-    ? 'DD/MM/YYYY 00:00'
-    : '[xx]/MM/YYYY 00:00'
+  const date = parse(
+    `${year} ${month} ${hasSpecificDay ? day : ''}`,
+    `yyyy MMMM ${hasSpecificDay ? 'dd' : ''}`,
+    Date.now()
+  )
 
-  return dayjs(`${year} ${month} ${hasSpecificDay ? day : ''}`).format(format)
+  return format(date, hasSpecificDay ? 'dd/MM/yyyy 00:00' : `'--'/MM/yyyy 00:00`)
 }
 
 /**
