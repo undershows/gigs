@@ -1,17 +1,17 @@
 import got from 'got'
 import dayjs from 'dayjs'
 import matter from 'gray-matter'
-import { access, constants, readFile, rm, writeFile } from 'node:fs/promises'
 import path from 'path'
+import { access, constants, readFile, rm, writeFile } from 'node:fs/promises'
 
 /**
- * 
+ * TODO
  */
 const getFullPath = (state, dir = 'src/content/state') =>
   path.join(process.cwd(), dir, `${state.toLowerCase()}.md`)
 
 /**
- * 
+ * TODO
  */
 const getCollection = async (state) => {
   const contents = await readFile(getFullPath(state))  
@@ -19,7 +19,7 @@ const getCollection = async (state) => {
 }
 
 /**
- * 
+ * TODO
  */
 const saveCollection = async (state, collection) => {
   const data = matter.stringify(collection.content, collection.data)
@@ -27,13 +27,13 @@ const saveCollection = async (state, collection) => {
 }
 
 /**
- * 
+ * TODO
  */
 const getImageFullPath = (filename, dir = 'public/images/posters') =>
   path.join(process.cwd(), dir, filename)
 
 /**
- * 
+ * TODO
  */
 const fetchImage = async (imageUrl) => {
   const { rawBody, requestUrl } = await got(imageUrl)
@@ -53,7 +53,7 @@ const removeImage = async (imageFilename) => {
 }
 
 /**
- * 
+ * TODO
  */
 export const add = async ({ state, city, date, posterUrl }) => {
   const poster = await fetchImage(posterUrl)
@@ -68,7 +68,7 @@ export const add = async ({ state, city, date, posterUrl }) => {
 }
 
 /**
- * 
+ * TODO
  */
 export const replaceAll = async (state, gigs) => {
   const collection = await getCollection(state)

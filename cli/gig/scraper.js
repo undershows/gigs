@@ -1,6 +1,8 @@
 import got from 'got'
-import * as cheerio from 'cheerio'
 import dayjs from 'dayjs'
+import * as R from 'ramda'
+import * as cheerio from 'cheerio'
+import { replaceAll } from './collection.js'
 
 /**
  * Where to scrape gigs from.
@@ -86,4 +88,22 @@ export const scrape = async (initialUrl = DEFAULT_GIGS_URL) => {
   }
 
   return gigs
+}
+
+/**
+ * Scrape gigs from all pages and save them
+ * on the collection, replacing other gigs.
+ * 
+ * @param {string} url
+ * @returns {undefined}
+ */
+export const scrapeAndReplace = async (initialUrl = DEFAULT_GIGS_URL) => {
+  const gigsByState = R.pipe(
+    R.groupBy(R.prop('state')),
+    R.mapObjIndexed(R.map(R.dissoc('state')))
+  )(await scrape(initialUrl))
+  
+  R.forEachObjIndexed(async (gigs, state) => {
+    await replaceAll(state, gigs)
+  }, gigsByState)
 }
