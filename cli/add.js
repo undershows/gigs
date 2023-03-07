@@ -6,7 +6,7 @@ import AutoCompletePrompt from 'inquirer-autocomplete-prompt'
 import states from './data/states.js'
 import { add } from './gig/collection.js'
 
-const cli = meow(`
+meow(`
   Usage
     $ node ./add.js
 `, {

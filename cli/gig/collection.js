@@ -3,6 +3,7 @@ import dayjs from 'dayjs'
 import matter from 'gray-matter'
 import path from 'path'
 import { access, constants, readFile, rm, writeFile } from 'node:fs/promises'
+import states from '../data/states.js'
 
 /**
  * TODO
@@ -44,12 +45,23 @@ const fetchImage = async (imageUrl) => {
 }
 
 /**
- * 
+ * TODO
  */
 const removeImage = async (imageFilename) => {
   const imagePath = getImageFullPath(imageFilename)
   await access(imagePath, constants.W_OK)
   await rm(imagePath)
+}
+
+/**
+ * TODO
+ */
+const removeAllImages = async (gigs) => {
+  if (!gigs?.length) {
+    return
+  }
+
+  await Promise.all(gigs.map((gig) => removeImage(gig.poster)))
 }
 
 /**
@@ -72,12 +84,7 @@ export const add = async ({ state, city, date, posterUrl }) => {
  */
 export const replaceAll = async (state, gigs) => {
   const collection = await getCollection(state)
-
-  if (collection.data.gigs) {
-    await Promise.all(
-      collection.data.gigs.map((gig) => removeImage(gig.poster))
-    )
-  }
+  await removeAllImages(collection.data.gigs)
 
   const gigsWithImages = await Promise.all(
     gigs.map(async (gig) => ({
@@ -88,4 +95,19 @@ export const replaceAll = async (state, gigs) => {
 
   collection.data.gigs = gigsWithImages
   await saveCollection(state, collection)
+}
+
+/**
+ * TODO
+ */
+export const removeAll = async () => {
+  const promises = states.map(async (state) => {
+    const collection = await getCollection(state.abbr)
+    await removeAllImages(collection.data.gigs)
+
+    collection.data.gigs = []
+    await saveCollection(state.abbr, collection)
+  })
+
+  await Promise.all(promises)
 }

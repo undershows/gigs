@@ -9,7 +9,8 @@
 		"preview": "astro preview",
 		"astro": "astro",
 		"gig:scraper": "node cli/scraper.js",
-		"gig:add": "node cli/add.js"
+		"gig:add": "node cli/add.js",
+		"gig:remove-all": "node cli/removeAll.js"
 	},
 	"dependencies": {
 		"@astrojs/sitemap": "^1.1.0",
