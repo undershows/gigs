@@ -97,7 +97,6 @@ export const scrape = async (initialUrl = DEFAULT_GIGS_URL) => {
  * on the collection, replacing other gigs.
  * 
  * @param {string} url
- * @returns {undefined}
  */
 export const scrapeAndReplace = async (initialUrl = DEFAULT_GIGS_URL) => {
   const gigsByState = R.pipe(

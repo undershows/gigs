@@ -1,15 +1,18 @@
 ---
 import type { CollectionEntry } from "astro:content";
+import {
+  getDaysInMonth,
+  getDate,
+  parse,
+  format,
+  isAfter,
+  isEqual,
+  startOfDay,
+} from "date-fns";
 import * as R from "ramda";
-import dayjs, { Dayjs } from "dayjs";
-import isSameOrAfter from "dayjs/plugin/isSameOrAfter";
-import customParseFormat from "dayjs/plugin/customParseFormat";
 import { t } from "i18next";
 
 import Image from "@/components/core/Image.astro";
-
-dayjs.extend(isSameOrAfter);
-dayjs.extend(customParseFormat);
 
 interface Props {
   state: CollectionEntry<"state">;
@@ -22,31 +25,57 @@ type Gig = {
 };
 
 type ParsedGig = Gig & {
-  date: Dayjs;
-  monthName: string;
+  date: Date;
   dayGroup: string;
+  monthNumber: string;
 };
+
+type GigsByDayGroup = [string, ParsedGig[]];
+type GigsByMonth = [string, GigsByDayGroup[]];
 
 const { state } = Astro.props;
 
 /**
+ * Check if the first date is after or equal the second one.
+ *
+ * @param {Date} date
+ * @param {Date} dateToCompare
+ * @returns {boolean}
+ */
+const isAfterOrEqual = (date: Date, dateToCompare: Date) =>
+  isAfter(date, dateToCompare) || isEqual(date, dateToCompare);
+
+/**
  * Returns a days group from a date.
  *
- * @param Dayjs date
- * @return string
+ * @param {Date} date
+ * @returns {string}
  */
-const dayGroupFromDate = (date: Dayjs) => {
+const dayGroupFromDate = (date: Date) => {
   const dayGroups = Array.from(
-    { length: date.daysInMonth() },
+    { length: getDaysInMonth(date) },
     (_, x: number) => x + 1
   );
 
   return R.pipe(
     R.splitEvery(5),
-    R.find((days: number[]) => R.includes(date.date(), days)),
+    R.find((days: number[]) => R.includes(getDate(date), days)),
     R.map((day: number) => R.toString(day).padStart(2, "0")),
     R.join("/")
   )(dayGroups);
+};
+
+/**
+ * Get formatted month name.
+ *
+ * @param {string} monthNumber
+ * @return {string}
+ */
+const getFormattedMonthName = (monthNumber: string) => {
+  const month = parse(monthNumber, "M", Date.now());
+  const monthName = format(month, "MMMM");
+
+  return R.toUpper(`${t(`month.${monthName}`)}/${monthName}`);
 };
 
 /**
@@ -55,30 +84,39 @@ const dayGroupFromDate = (date: Dayjs) => {
 const gigsByMonth = R.pipe(
   R.defaultTo([]),
   R.map((gig: Gig) => {
-    const date = dayjs(gig.date, "DD/MM/YYYY HH:mm");
-    const dayGroup = dayGroupFromDate(date);
-    const month = date.format("MMMM");
-    const monthName = R.toUpper(`${t(`month.${month}`)}/${month}`);
-
-    return { ...gig, date, dayGroup, monthName };
+    const date = parse(gig.date, "dd/MM/yyyy HH:mm", Date.now());
+    return {
+      ...gig,
+      date,
+      dayGroup: dayGroupFromDate(date),
+      monthNumber: format(date, "M"),
+    };
   }),
-  R.filter((gig: ParsedGig) => gig.date.isSameOrAfter(dayjs().startOf("day"))),
-  R.sortWith([R.ascend(R.prop("date"))]),
-  R.groupBy(R.prop("monthName")),
-  R.mapObjIndexed(R.groupBy(R.prop("dayGroup")))
+  R.filter((gig: ParsedGig) =>
+    isAfterOrEqual(gig.date, startOfDay(Date.now()))
+  ),
+  R.sortBy(R.prop("date")),
+  R.groupBy(R.prop("monthNumber")),
+  R.toPairs,
+  R.map(([monthNumber, gigs]: [number, ParsedGig[]]) => [
+    monthNumber,
+    R.pipe(R.groupBy(R.prop("dayGroup")), R.toPairs, R.sortBy(R.prop(0)))(gigs),
+  ])
 )(state.data.gigs);
 ---
 
 {
-  R.keys(gigsByMonth).map((monthName: string) => (
+  gigsByMonth.map(([monthNumber, gigsByDayGroup]: GigsByMonth) => (
     <>
-      <p style="font-size:30px; text-align:center;">{monthName}</p>
-      {R.keys(gigsByMonth[monthName]).map((dayGroup: string) => (
+      <p style="font-size:30px; text-align:center;">
+        {getFormattedMonthName(monthNumber)}
+      </p>
+      {gigsByDayGroup.map(([dayGroup, gigs]: GigsByDayGroup) => (
         <>
           <p style="font-size:20px; text-align:center;">
             <b>{dayGroup}</b>
           </p>
-          {gigsByMonth[monthName][dayGroup].map((gig: ParsedGig) => (
+          {gigs.map((gig: ParsedGig) => (
             <>
               <p style="font-size:20px; text-align:center;">
                 <b>
