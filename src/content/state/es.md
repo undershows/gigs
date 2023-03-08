@@ -3,7 +3,7 @@ abbr: ES
 name: Espírito Santo
 gigs:
   - city: Vila Velha
-    date: '31/03/2023 00:00'
+    date: '30/03/2023 00:00'
     poster: 329780916_1316080112512830_8494685496452544154_n.jpeg
   - city: Serra
     date: '30/04/2023 00:00'

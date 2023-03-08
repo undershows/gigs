@@ -3,7 +3,7 @@ abbr: SC
 name: Santa Catarina
 gigs:
   - city: Otacílio Costa
-    date: '31/03/2023 00:00'
+    date: '30/03/2023 00:00'
     poster: 325849523_5724931060955225_466186494382674145_n.jpeg
   - city: Florianópolis
     date: '30/04/2023 00:00'
