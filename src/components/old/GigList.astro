@@ -21,17 +21,17 @@ interface Props {
 type Gig = {
   poster: string;
   date: string;
-  city?: string;
+  city: string;
+  daysGroup?: string;
 };
 
 type ParsedGig = Gig & {
   date: Date;
-  dayGroup: string;
   monthNumber: string;
 };
 
-type GigsByDayGroup = [string, ParsedGig[]];
-type GigsByMonth = [string, GigsByDayGroup[]];
+type GigsByDaysGroup = [string, ParsedGig[]];
+type GigsByMonth = [string, GigsByDaysGroup[]];
 
 const { state } = Astro.props;
 
@@ -51,18 +51,18 @@ const isAfterOrEqual = (date: Date, dateToCompare: Date) =>
  * @param {Date} date
  * @returns {string}
  */
-const dayGroupFromDate = (date: Date) => {
-  const dayGroups = Array.from(
+const daysGroupFromDate = (date: Date) => {
+  const daysGroups = Array.from(
     { length: getDaysInMonth(date) },
     (_, x: number) => x + 1
   );
 
   return R.pipe(
-    R.splitEvery(5),
+    R.splitEvery(4),
     R.find((days: number[]) => R.includes(getDate(date), days)),
     R.map((day: number) => R.toString(day).padStart(2, "0")),
     R.join("/")
-  )(dayGroups);
+  )(daysGroups);
 };
 
 /**
@@ -88,7 +88,7 @@ const gigsByMonth = R.pipe(
     return {
       ...gig,
       date,
-      dayGroup: dayGroupFromDate(date),
+      daysGroup: gig.daysGroup ?? daysGroupFromDate(date),
       monthNumber: format(date, "M"),
     };
   }),
@@ -100,21 +100,25 @@ const gigsByMonth = R.pipe(
   R.toPairs,
   R.map(([monthNumber, gigs]: [number, ParsedGig[]]) => [
     monthNumber,
-    R.pipe(R.groupBy(R.prop("dayGroup")), R.toPairs, R.sortBy(R.prop(0)))(gigs),
+    R.pipe(
+      R.groupBy(R.prop("daysGroup")),
+      R.toPairs,
+      R.sortBy(R.prop(0))
+    )(gigs),
   ])
 )(state.data.gigs);
 ---
 
 {
-  gigsByMonth.map(([monthNumber, gigsByDayGroup]: GigsByMonth) => (
+  gigsByMonth.map(([monthNumber, GigsByDaysGroup]: GigsByMonth) => (
     <>
       <p style="font-size:30px; text-align:center;">
         {getFormattedMonthName(monthNumber)}
       </p>
-      {gigsByDayGroup.map(([dayGroup, gigs]: GigsByDayGroup) => (
+      {GigsByDaysGroup.map(([daysGroup, gigs]: GigsByDaysGroup) => (
         <>
           <p style="font-size:20px; text-align:center;">
-            <b>{dayGroup}</b>
+            <b>{daysGroup}</b>
           </p>
           {gigs.map((gig: ParsedGig) => (
             <>

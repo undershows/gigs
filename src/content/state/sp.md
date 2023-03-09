@@ -3,8 +3,9 @@ abbr: SP
 name: São Paulo
 gigs:
   - city: São Paulo
-    date: '30/03/2023 00:00'
+    date: '07/03/2023 00:00'
     poster: aa2928b9-8092-42ac-bad6-7f1b8de400e9.jpeg
+    daysGroup: '28/29/30'
   - city: Americana
     date: '30/03/2023 00:00'
     poster: vibes_coffee_shop.jpeg

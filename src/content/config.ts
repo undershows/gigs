@@ -10,7 +10,11 @@ const stateCollection = defineCollection({
         /^(0[1-9]|[1-2][0-9]|3[0-1])\/(0[1-9]|1[0-2])\/([0-9]{4,})\s([0-1][0-9]|2[0-3]):([0-5][0-9])$/,
         { message: 'Invalid date. Use the following format: DD/MM/YYYY HH:mm' }
       ),
-      city: z.string().optional()
+      city: z.string(),
+      daysGroup: z.string().regex(
+        /^(0[1-9]|[1-2][0-9]|3[0-1])(\/(0[1-9]|[1-2][0-9]|3[0-1]))*$/,
+        { message: 'Invalid days group. Example: 09/10/11' }
+      ).optional()
     })).optional()
   })
 });
