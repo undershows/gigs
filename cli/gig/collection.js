@@ -3,8 +3,28 @@ import { format, parse, isBefore, startOfDay } from 'date-fns'
 import matter from 'gray-matter'
 import * as R from 'ramda'
 import path from 'path'
-import { access, constants, readFile, rm, writeFile } from 'node:fs/promises'
+import { access, constants, readFile, rename, writeFile, mkdir } from 'node:fs/promises'
 import states from '../data/states.js'
+
+/**
+ * Where the gigs are.
+ */
+const GIGS_DIR = 'src/content/state'
+
+/**
+ * Where the posters are.
+ */
+const IMAGES_DIR = 'public/images/posters'
+
+/**
+ * Where legacy gigs goes to.
+ */
+const LEGACY_GIGS_DIR = 'src/content/state/legacy'
+
+/**
+ * Where removed posters goes to.
+ */
+const LEGACY_IMAGES_DIR = 'public/images/posters/legacy'
 
 /**
  * TODO
@@ -14,29 +34,44 @@ const DATE_FORMAT = 'dd/MM/yyyy HH:mm'
 /**
  * TODO
  */
-const getFullPath = (state, dir = 'src/content/state') =>
+const getFullPath = (state, dir = GIGS_DIR) =>
   path.join(process.cwd(), dir, `${state.toLowerCase()}.md`)
 
 /**
  * TODO
  */
-const getCollection = async (state) => {
-  const contents = await readFile(getFullPath(state))  
+const getCollection = async (state, dir = GIGS_DIR) => {
+  const contents = await readFile(getFullPath(state, dir))
   return matter(contents)
 }
 
 /**
  * TODO
  */
-const saveCollection = async (state, collection) => {
-  const data = matter.stringify(collection.content, collection.data)
-  await writeFile(getFullPath(state), data)
+const findOrCreateCollection = async (state, dir = GIGS_DIR) => {
+  const collectionPath = getFullPath(state, dir)
+
+  try {
+    await access(collectionPath, constants.R_OK)
+  } catch (err) {
+    await writeFile(collectionPath, '---\n---')
+  } finally {
+    return await getCollection(state, dir)
+  }
 }
 
 /**
  * TODO
  */
-const getImageFullPath = (filename, dir = 'public/images/posters') =>
+const saveCollection = async (state, collection, dir = GIGS_DIR) => {
+  const data = matter.stringify(collection.content, collection.data)
+  await writeFile(getFullPath(state, dir), data)
+}
+
+/**
+ * TODO
+ */
+const getImageFullPath = (filename, dir = IMAGES_DIR) =>
   path.join(process.cwd(), dir, filename)
 
 /**
@@ -53,21 +88,41 @@ const fetchImage = async (imageUrl) => {
 /**
  * TODO
  */
-const removeImage = async (imageFilename) => {
+const moveImageToLegacy = async (imageFilename) => {
+  await mkdir(LEGACY_IMAGES_DIR, { recursive: true })
+
   const imagePath = getImageFullPath(imageFilename)
   await access(imagePath, constants.W_OK)
-  await rm(imagePath)
+
+  const legacyPath = getImageFullPath(imageFilename, LEGACY_IMAGES_DIR)
+  await rename(imagePath, legacyPath)
 }
 
 /**
  * TODO
  */
-const removeAllImages = async (gigs) => {
+const moveImagesToLegacy = async (gigs) => {
   if (!gigs?.length) {
     return
   }
 
-  await Promise.all(gigs.map((gig) => removeImage(gig.poster)))
+  await Promise.all(gigs.map((gig) => moveImageToLegacy(gig.poster)))
+}
+
+/**
+ * TODO
+ */
+const saveLegacy = async (state, gigs) => {
+  await mkdir(LEGACY_GIGS_DIR, { recursive: true })
+
+  const legacyCollection = await findOrCreateCollection(state, LEGACY_GIGS_DIR)
+  await moveImagesToLegacy(gigs)
+
+  legacyCollection.data.gigs = legacyCollection.data.gigs
+    ? [ ...legacyCollection.data.gigs, ...gigs ]
+    : [ ...gigs ]
+
+  await saveCollection(state, legacyCollection, LEGACY_GIGS_DIR)
 }
 
 /**
@@ -86,7 +141,7 @@ export const add = async ({ state, city, date, posterUrl }) => {
 }
 
 /**
- * TODO
+ * TODO: Fix removeAllImages from replaceAll
  */
 export const replaceAll = async (state, gigs) => {
   const collection = await getCollection(state)
@@ -106,21 +161,6 @@ export const replaceAll = async (state, gigs) => {
 /**
  * TODO
  */
-export const removeAll = async () => {
-  const promises = states.map(async (state) => {
-    const collection = await getCollection(state.abbr)
-    await removeAllImages(collection.data.gigs)
-
-    collection.data.gigs = []
-    await saveCollection(state.abbr, collection)
-  })
-
-  await Promise.all(promises)
-}
-
-/**
- * TODO
- */
 export const removeOld = async () => {
   const promises = states.map(async (state) => {
     const collection = await getCollection(state.abbr)
@@ -132,9 +172,13 @@ export const removeOld = async () => {
       })
     )(collection.data.gigs)
 
+    if (!removedGigs.length) {
+      return
+    }
+
     collection.data.gigs = remainingGigs
 
-    await removeAllImages(removedGigs)
+    await saveLegacy(state.abbr, removedGigs)
     await saveCollection(state.abbr, collection)
   })
 

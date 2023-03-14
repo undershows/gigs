@@ -10,7 +10,6 @@
 		"astro": "astro",
 		"gig:scraper": "node cli/scraper.js",
 		"gig:add": "node cli/add.js",
-		"gig:remove-all": "node cli/removeAll.js",
 		"gig:remove-old": "node cli/removeOld.js"
 	},
 	"dependencies": {
