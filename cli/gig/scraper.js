@@ -13,19 +13,19 @@ const DEFAULT_GIGS_URL = 'https://undershows.com.br/'
  * Returns a formatted date according to the day and month passed.
  * 
  * @param {string} month 
- * @param {string} day
+ * @param {string} daysGroup
  * @returns {format}
  */
-const getFormattedDate = (month, day) => {
+const getFormattedDate = (month, daysGroup) => {
   const year = getYear(Date.now())
-  const hasSpecificDay = Number.isInteger(Number(day))
+  const isSpecificDay = Number.isInteger(Number(daysGroup))
   const date = parse(
-    `${year} ${month} ${hasSpecificDay ? day : ''}`,
-    `yyyy MMMM ${hasSpecificDay ? 'dd' : ''}`,
+    `${year} ${month} ${isSpecificDay ? daysGroup : ''}`,
+    `yyyy MMMM ${isSpecificDay ? 'dd' : ''}`,
     Date.now()
   )
 
-  return format(date, hasSpecificDay ? 'dd/MM/yyyy 00:00' : `'--'/MM/yyyy 00:00`)
+  return format(date, isSpecificDay ? 'dd/MM/yyyy 00:00' : `'--'/MM/yyyy 00:00`)
 }
 
 /**
@@ -53,16 +53,16 @@ const scrapeGigs = async (state, url, initialUrl, response = null) => {
       .text()
       .trim()
       .split('/')
-    
-    const day = $gig
+
+    const daysGroup = $gig
       .prevAll('p[style^="font-size:20px"]:has(+ p > b)')
       .filter((_, el) => $(el).text().trim().match(/\/|^\d+$/))
       .eq(0)
       .text()
       .trim()
 
-    const date = getFormattedDate(month, day)
-    return { state, city, date, poster }
+    const date = getFormattedDate(month, daysGroup)
+    return { state, city, date, poster, daysGroup }
   }).toArray()
 }
 
