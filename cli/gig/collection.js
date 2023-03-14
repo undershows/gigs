@@ -3,7 +3,7 @@ import { format, parse, isBefore, startOfDay } from 'date-fns'
 import matter from 'gray-matter'
 import * as R from 'ramda'
 import path from 'path'
-import { access, constants, readFile, rename, writeFile, mkdir } from 'node:fs/promises'
+import { access, constants, readFile, rename, writeFile, mkdir, rm } from 'node:fs/promises'
 import states from '../data/states.js'
 
 /**
@@ -88,6 +88,15 @@ const fetchImage = async (imageUrl) => {
 /**
  * TODO
  */
+const removeImage = async (imageFilename) => {
+  const imagePath = getImageFullPath(imageFilename)
+  await access(imagePath, constants.W_OK)
+  await rm(imagePath)
+}
+
+/**
+ * TODO
+ */
 const moveImageToLegacy = async (imageFilename) => {
   await mkdir(LEGACY_IMAGES_DIR, { recursive: true })
 
@@ -107,6 +116,17 @@ const moveImagesToLegacy = async (gigs) => {
   }
 
   await Promise.all(gigs.map((gig) => moveImageToLegacy(gig.poster)))
+}
+
+/**
+ * TODO
+ */
+const removeImages = async (gigs) => {
+  if (!gigs?.length) {
+    return
+  }
+
+  await Promise.all(gigs.map((gig) => removeImage(gig.poster)))
 }
 
 /**
@@ -141,11 +161,11 @@ export const add = async ({ state, city, date, posterUrl }) => {
 }
 
 /**
- * TODO: Fix removeAllImages from replaceAll
+ * TODO
  */
 export const replaceAll = async (state, gigs) => {
   const collection = await getCollection(state)
-  await removeAllImages(collection.data.gigs)
+  await removeImages(collection.data.gigs)
 
   const gigsWithImages = await Promise.all(
     gigs.map(async (gig) => ({

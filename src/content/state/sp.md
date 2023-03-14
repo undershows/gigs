@@ -2,33 +2,6 @@
 abbr: SP
 name: São Paulo
 gigs:
-  - city: Americana
-    date: '30/03/2023 00:00'
-    poster: vibes_coffee_shop.jpeg
-  - city: Campinas
-    date: '30/03/2023 00:00'
-    poster: 334029648_499357942205305_2755704175716774157_n.jpeg
-  - city: São Paulo
-    date: '30/03/2023 00:00'
-    poster: 323008338_549415847090629_7430352559052567493_n.jpeg
-  - city: São Paulo
-    date: '30/03/2023 00:00'
-    poster: 331312713_750678309617974_1857814321994916155_n.jpeg
-  - city: Presidente Prudente
-    date: '30/03/2023 00:00'
-    poster: 334531206_3414716545418155_5142595988789798607_n.jpeg
-  - city: São Paulo
-    date: '30/03/2023 00:00'
-    poster: 334775578_488471359989412_6518348861844193181_n.jpeg
-  - city: São Paulo
-    date: '30/03/2023 00:00'
-    poster: 329264920_5645837598860527_4288852723438292338_n.jpeg
-  - city: São Paulo
-    date: '30/03/2023 00:00'
-    poster: f866e7f7-c8fc-4b4b-a44e-7c16dfc9f73b.jpeg
-  - city: São Paulo
-    date: '30/03/2023 00:00'
-    poster: 04a0a510-ed19-4d9b-b4f7-e6773228e2e5.jpeg
   - city: Ribeirão Preto
     date: '30/03/2023 00:00'
     poster: 334101526_191447473654701_8792329922813006337_n.jpeg
@@ -46,7 +19,13 @@ gigs:
     poster: 330469942_704236728153093_6978762507075056041_n.jpeg
   - city: São Paulo
     date: '30/03/2023 00:00'
+    poster: 335216649_1200477347267440_4159405517524443345_n.jpeg
+  - city: São Paulo
+    date: '30/03/2023 00:00'
     poster: 334006423_6844687068879659_1728182470963485130_n.jpeg
+  - city: São José dos Campos
+    date: '30/03/2023 00:00'
+    poster: 7bfe449e-8ab8-480b-b2ff-ad10bff8024a.jpeg
   - city: São Paulo
     date: '30/03/2023 00:00'
     poster: 326183766_1820156485014615_1037848437989942076_n.jpeg
@@ -66,6 +45,9 @@ gigs:
     date: '30/03/2023 00:00'
     poster: 326228200_3050359675262548_3299674393958481916_n.jpeg
   - city: São Paulo
+    date: '30/03/2023 00:00'
+    poster: 336081580_1599473880535070_8693570924723096535_n.jpeg
+  - city: São Paulo
     date: '30/04/2023 00:00'
     poster: 333986654_211616958076072_434892530464583890_n.jpeg
   - city: São Paulo
@@ -74,9 +56,6 @@ gigs:
   - city: São Paulo
     date: '30/04/2023 00:00'
     poster: 323275580_913537186656348_8275181551067551151_n.jpeg
-  - city: Peruíbe
-    date: '30/04/2023 00:00'
-    poster: 327214538_1784023418665353_7940527584269130469_n.jpeg
   - city: Pindamonhangaba
     date: '30/04/2023 00:00'
     poster: FB_IMG_1674092648486.jpg
@@ -92,12 +71,36 @@ gigs:
   - city: Várzea Paulista
     date: '30/04/2023 00:00'
     poster: 325368008_2981492532158598_3621159681171493074_n.jpeg
+  - city: Santo André
+    date: '30/04/2023 00:00'
+    poster: 9883b381-1707-474a-a354-0f44aac99dc4.jpeg
   - city: São Paulo
     date: '30/04/2023 00:00'
     poster: 334028104_205806822036122_3353948029014206170_n.jpeg
   - city: São Paulo
+    date: '30/04/2023 00:00'
+    poster: 330528715_934295887586865_6291129424539836001_n.jpeg
+  - city: São Paulo
+    date: '30/04/2023 00:00'
+    poster: 335674495_225788603169884_2005727818351911534_n.jpeg
+  - city: São Paulo
+    date: '30/04/2023 00:00'
+    poster: fenda.jpeg
+  - city: Americana
+    date: '30/04/2023 00:00'
+    poster: 0e017bd5-cbea-4354-977c-1d3e89984f2d.jpeg
+  - city: São Paulo
+    date: '30/04/2023 00:00'
+    poster: 334945520_233095932598295_6603062611754111630_n.jpeg
+  - city: São Paulo
+    date: '30/04/2023 00:00'
+    poster: 334958350_881595772899239_5115238027369091651_n.jpeg
+  - city: São Paulo
     date: '30/09/2023 00:00'
     poster: 7d61e8f3-1c15-4c4d-bbc2-d345ca81c75d.jpeg
+  - city: Peruíbe
+    date: '30/09/2023 00:00'
+    poster: 330610248_213669024571558_3707199831043223500_n.jpeg
 ---
 
 <br />

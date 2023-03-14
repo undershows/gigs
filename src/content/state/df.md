@@ -2,9 +2,9 @@
 abbr: DF
 name: Distrito Federal
 gigs:
-  - city: Taguatinga
-    date: '30/03/2023 00:00'
-    poster: 334122216_1339742546594479_5109040255955393301_n.jpeg
+  - city: Brasília
+    date: '14/03/2023 00:00'
+    poster: 334943895_873273760441365_7923927419805398899_n.jpeg
   - city: Taguatinga
     date: '30/03/2023 00:00'
     poster: 333962866_214997644351394_8885412553514851348_n.jpeg
@@ -14,5 +14,8 @@ gigs:
   - city: Ceilândia
     date: '30/04/2023 00:00'
     poster: 334087250_221055297003366_1575185784661333307_n.jpeg
+  - city: Brasília
+    date: '30/05/2023 00:00'
+    poster: 336147362_964435771603158_5924290026962087455_n.jpeg
 ---
 
