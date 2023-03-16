@@ -13,8 +13,9 @@
 		"gig:remove-old": "node cli/removeOld.js"
 	},
 	"dependencies": {
+		"@astrojs/image": "^0.16.1",
 		"@astrojs/sitemap": "^1.1.0",
-		"astro": "^2.0.13",
+		"astro": "^2.1.3",
 		"astro-i18next": "^1.0.0-beta.17",
 		"date-fns": "^2.29.3",
 		"ramda": "^0.28.0"

@@ -12,8 +12,7 @@ import {
 import locale from "date-fns/locale/pt-BR/index.js";
 import * as R from "ramda";
 import { t } from "i18next";
-
-import Image from "@/components/core/Image.astro";
+import { Image } from "@astrojs/image/components";
 
 interface Props {
   state: CollectionEntry<"state">;
@@ -83,7 +82,9 @@ const getFormattedMonthName = (monthNumber: string) => {
  * Get image alt.
  */
 const getImageAlt = (gig: ParsedGig) =>
-  `${gig.city}, ${format(gig.date, "PPP 'às' HH:mm", { locale })}`;
+  `Cartaz de show em ${gig.city}, ${format(gig.date, "PPP 'às' HH:mm", {
+    locale,
+  })}`;
 
 /**
  * Gigs grouped by months and day groups.
@@ -135,8 +136,11 @@ const gigsByMonth = R.pipe(
                 </b>
               </p>
               <Image
-                path={`images/posters/${gig.poster}`}
+                src={`/images/posters/${gig.poster}`}
                 alt={getImageAlt(gig)}
+                width={600}
+                height={800}
+                format="webp"
               />
             </>
           ))}
