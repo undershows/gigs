@@ -9,7 +9,7 @@ const env = loadEnv(import.meta.env.MODE, process.cwd(), 'APP_');
 
 // https://astro.build/config
 export default defineConfig({
-  base: import.meta.env.DEV ? '' : '/gigs',
+  base: '',
   site: env.APP_OLD_SITE_URL,
   integrations: [
     astroI18next(),
