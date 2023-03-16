@@ -154,7 +154,10 @@ gigs:
     date: '19/05/2023 19:00'
     poster: c5f877fc-a5e9-45f1-920a-a50d8c3d4e38.jpeg
     daysGroup: 19/20/21
-
+  - poster: 331973195_922882605519295_7886895477039484154_n.webp
+    city: São Paulo
+    date: '25/03/2023 15:00'
+    daysGroup: 24/25/26
 ---
 
 <br />
