@@ -9,6 +9,7 @@ import {
   isEqual,
   startOfDay,
 } from "date-fns";
+import locale from "date-fns/locale/pt-BR";
 import * as R from "ramda";
 import { t } from "i18next";
 
@@ -79,6 +80,12 @@ const getFormattedMonthName = (monthNumber: string) => {
 };
 
 /**
+ * Get image alt.
+ */
+const getImageAlt = (gig: ParsedGig) =>
+  `${gig.city}, ${format(gig.date, "PPP 'às' HH:mm", { locale })}`;
+
+/**
  * Gigs grouped by months and day groups.
  */
 const gigsByMonth = R.pipe(
@@ -127,7 +134,10 @@ const gigsByMonth = R.pipe(
                   {gig.city}/{state.data.abbr} ↓↓↓
                 </b>
               </p>
-              <Image path={`images/posters/${gig.poster}`} />
+              <Image
+                path={`images/posters/${gig.poster}`}
+                alt={getImageAlt(gig)}
+              />
             </>
           ))}
         </>
