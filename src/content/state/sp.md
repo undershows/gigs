@@ -26,6 +26,10 @@ gigs:
     date: '30/03/2023 00:00'
     poster: 335216649_1200477347267440_4159405517524443345_n.jpeg
     daysGroup: 16/17/18/19
+  - city: Sorocaba
+    date: '30/03/2023 00:00'
+    poster: 336179446_186659654082004_1315657216272298650_n.jpeg
+    daysGroup: 16/17/18/19
   - city: São Paulo
     date: '30/03/2023 00:00'
     poster: 334006423_6844687068879659_1728182470963485130_n.jpeg
@@ -33,6 +37,10 @@ gigs:
   - city: São José dos Campos
     date: '30/03/2023 00:00'
     poster: 7bfe449e-8ab8-480b-b2ff-ad10bff8024a.jpeg
+    daysGroup: 16/17/18/19
+  - city: São Paulo
+    date: '30/03/2023 00:00'
+    poster: 336179250_1289450338451186_5745790679003629077_n.jpeg
     daysGroup: 16/17/18/19
   - city: São Paulo
     date: '30/03/2023 00:00'
@@ -45,6 +53,10 @@ gigs:
   - city: Rio Claro
     date: '30/03/2023 00:00'
     poster: FB_IMG_1677727783495.jpg
+    daysGroup: 24/25/26
+  - city: São Paulo
+    date: '30/03/2023 00:00'
+    poster: 333461899_23853309970710400_6425264802328058289_n.jpeg
     daysGroup: 24/25/26
   - city: São Paulo
     date: '30/03/2023 00:00'
@@ -121,6 +133,10 @@ gigs:
   - city: São Paulo
     date: '30/04/2023 00:00'
     poster: 334945520_233095932598295_6603062611754111630_n.jpeg
+    daysGroup: 20/21/22/23/24
+  - city: São Paulo
+    date: '30/04/2023 00:00'
+    poster: 336223456_882886859682540_4253518658369385278_n.jpeg
     daysGroup: 20/21/22/23/24
   - city: São Paulo
     date: '30/04/2023 00:00'
