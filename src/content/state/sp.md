@@ -150,6 +150,11 @@ gigs:
     date: '30/09/2023 00:00'
     poster: 330610248_213669024571558_3707199831043223500_n.jpeg
     daysGroup: 08/09/10
+  - city: São Paulo
+    date: '19/05/2023 19:00'
+    poster: c5f877fc-a5e9-45f1-920a-a50d8c3d4e38.jpeg
+    daysGroup: 19/20/21
+
 ---
 
 <br />
