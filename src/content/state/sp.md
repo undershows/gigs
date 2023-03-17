@@ -182,6 +182,10 @@ gigs:
     date: '18/03/2023 20:00'
     poster: 331309224_156534770580788_7053323699805313901_n.jpeg
     daysGroup: 16/17/18/19
+  - city: São Carlos
+    date: '24/03/2023 20:00'
+    poster: modern_decay.jpeg
+    daysGroup: 24/25/26
 ---
 
 <br />
