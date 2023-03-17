@@ -165,7 +165,7 @@ gigs:
   - city: São José dos Campos
     date: '07/04/2023 16:00'
     poster: 335427789_1279752776291406_6242537543690493930_n.jpeg
-    daysGroup: 07/08/09
+    daysGroup: 06/07/08/09
   - city: São Paulo
     date: '01/04/2023 18:30'
     poster: 336168912_617138256895769_4054465752849984239_n.jpeg
@@ -186,6 +186,10 @@ gigs:
     date: '24/03/2023 20:00'
     poster: modern_decay.jpeg
     daysGroup: 24/25/26
+  - city: São Paulo
+    date: '08/04/2023 19:00'
+    poster: 336239216_200435586026738_1205885113385452238_n.jpeg
+    daysGroup: 06/07/08/09
 ---
 
 <br />
