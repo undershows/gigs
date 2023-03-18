@@ -42,5 +42,9 @@ gigs:
     date: '29/04/2023 17:00'
     poster: 336657862_948598262988066_7794550861174705484_n.jpeg
     daysGroup: '28/29/30'
+  - city: Paranaguá
+    date: '18/03/2023 15:00'
+    poster: FB_IMG_1679097364213.jpg
+    daysGroup: '17/18/19/20'
 ---
 

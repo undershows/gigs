@@ -18,5 +18,9 @@ gigs:
     date: '04/05/2023 19:00'
     poster: 336147362_964435771603158_5924290026962087455_n.jpeg
     daysGroup: 04/05/06/07
+  - city: Brasília
+    date: '25/03/2023 23:00'
+    poster: FB_IMG_1679135918514.jpg
+    daysGroup: 24/25/26
 ---
 

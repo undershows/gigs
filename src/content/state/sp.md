@@ -186,6 +186,10 @@ gigs:
     date: '24/03/2023 20:00'
     poster: modern_decay.jpeg
     daysGroup: 24/25/26
+  - city: Santo André
+    date: '19/03/2023 17:00'
+    poster: FB_IMG_1679135213144.jpg
+    daysGroup: 16/17/18/19
 ---
 
 <br />
