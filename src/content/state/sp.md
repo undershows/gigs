@@ -186,10 +186,6 @@ gigs:
     date: '24/03/2023 20:00'
     poster: modern_decay.jpeg
     daysGroup: 24/25/26
-  - city: São Paulo
-    date: '08/04/2023 19:00'
-    poster: 336239216_200435586026738_1205885113385452238_n.jpeg
-    daysGroup: 06/07/08/09
 ---
 
 <br />
