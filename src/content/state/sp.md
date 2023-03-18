@@ -190,6 +190,10 @@ gigs:
     date: '19/03/2023 17:00'
     poster: FB_IMG_1679135213144.jpg
     daysGroup: 16/17/18/19
+  - city: Atibaia
+    date: '07/04/2023 13:00'
+    poster: FB_IMG_1679138770101.jpg
+    daysGroup: 06/07/08/09
 ---
 
 <br />

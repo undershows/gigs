@@ -46,5 +46,9 @@ gigs:
     date: '18/03/2023 15:00'
     poster: FB_IMG_1679097364213.jpg
     daysGroup: '17/18/19/20'
+  - city: Curitiba
+    date: '19/03/2023 18:00'
+    poster: 333719189_774767476918414_6610305408433978832_n.jpeg
+    daysGroup: 17/18/19/20
 ---
 
