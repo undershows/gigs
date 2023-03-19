@@ -22,5 +22,9 @@ gigs:
     date: '25/03/2023 23:00'
     poster: FB_IMG_1679135918514.jpg
     daysGroup: 24/25/26
+  - city: Taguatinga
+    date: '15/04/2023 17:00'
+    poster: 337151780_235051252252513_7464237110502979033_n.jpeg
+    daysGroup: 14/15/16
 ---
 
