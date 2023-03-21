@@ -54,5 +54,9 @@ gigs:
     date: '23/07/2023 19:00'
     poster: 336687571_727450062503139_176852382565951644_n.jpeg
     daysGroup: 21/22/23
+  - city: Maringá
+    date: '25/03/2023 00:00'
+    poster: IMG-20230320-WA0025.jpg
+    daysGroup: 24/25/26
 ---
 
