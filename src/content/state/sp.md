@@ -206,6 +206,10 @@ gigs:
     date: '05/04/2023 18:00'
     poster: FB_IMG_1679361087236.jpg
     daysGroup: 05/06/07/08/09
+  - city: São Paulo
+    date: '16/04/2023 11:00'
+    poster: FB_IMG_1679399289603.jpg
+    daysGroup: 14/15/16
 ---
 
 <br />
