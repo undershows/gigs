@@ -13,7 +13,7 @@ gigs:
   - city: Ceilândia
     date: '30/04/2023 16:00'
     poster: 334087250_221055297003366_1575185784661333307_n.jpeg
-    daysGroup: 28/29/30
+    daysGroup: 26/27/28/29/30
   - city: Brasília
     date: '04/05/2023 19:00'
     poster: 336147362_964435771603158_5924290026962087455_n.jpeg
@@ -29,6 +29,6 @@ gigs:
   - city: Brasília
     date: '26/04/2023 20:00'
     poster: FB_IMG_1679356282228.jpg
-    daysGroup: 26
+    daysGroup: 26/27/28/29/30
 ---
 
