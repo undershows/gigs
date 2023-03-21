@@ -85,27 +85,27 @@ gigs:
   - city: São Paulo
     date: '06/04/2023 20:00'
     poster: 323275580_913537186656348_8275181551067551151_n.jpeg
-    daysGroup: 06/07/08/09
+    daysGroup: 05/06/07/08/09
   - city: Pindamonhangaba
     date: '07/04/2023 19:00'
     poster: FB_IMG_1674092648486.jpg
-    daysGroup: 06/07/08/09
+    daysGroup: 05/06/07/08/09
   - city: São Paulo
     date: '08/04/2023 17:00'
     poster: 325997755_1249722765900294_9062675116475721787_n.jpeg
-    daysGroup: 06/07/08/09
+    daysGroup: 05/06/07/08/09
   - city: São José dos Campos
     date: '08/04/2023 22:00'
     poster: 326062982_1215939442353367_4883080995806394442_n.jpeg
-    daysGroup: 06/07/08/09
+    daysGroup: 05/06/07/08/09
   - city: Várzea Paulista
     date: '07/04/2023 16:00'
     poster: 325468817_677256944136144_6176565032222995739_n.jpeg
-    daysGroup: 06/07/08/09
+    daysGroup: 05/06/07/08/09
   - city: Várzea Paulista
     date: '08/04/2023 00:00'
     poster: 325368008_2981492532158598_3621159681171493074_n.jpeg
-    daysGroup: 06/07/08/09
+    daysGroup: 05/06/07/08/09
   - city: Santo André
     date: '14/04/2023 20:00'
     poster: 9883b381-1707-474a-a354-0f44aac99dc4.jpeg
@@ -165,7 +165,7 @@ gigs:
   - city: São José dos Campos
     date: '07/04/2023 16:00'
     poster: 335427789_1279752776291406_6242537543690493930_n.jpeg
-    daysGroup: 06/07/08/09
+    daysGroup: 05/06/07/08/09
   - city: São Paulo
     date: '01/04/2023 18:30'
     poster: 336168912_617138256895769_4054465752849984239_n.jpeg
@@ -193,7 +193,7 @@ gigs:
   - city: Atibaia
     date: '07/04/2023 13:00'
     poster: FB_IMG_1679138770101.jpg
-    daysGroup: 06/07/08/09
+    daysGroup: 05/06/07/08/09
   - city: São Paulo
     date: '26/03/2023 14:00'
     poster: FB_IMG_1679350838175.jpg
@@ -202,6 +202,10 @@ gigs:
     date: '23/03/2023 21:30'
     poster: FB_IMG_1679355377442.jpg
     daysGroup: 23/24/25/26
+  - city: São Paulo
+    date: '05/04/2023 18:00'
+    poster: FB_IMG_1679361087236.jpg
+    daysGroup: 05/06/07/08/09
 ---
 
 <br />
