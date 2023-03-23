@@ -2,46 +2,6 @@
 abbr: SP
 name: São Paulo
 gigs:
-  - city: Ribeirão Preto
-    date: '16/03/2023 19:00'
-    poster: 334101526_191447473654701_8792329922813006337_n.jpeg
-    daysGroup: 16/17/18/19
-  - city: São Carlos
-    date: '17/03/2023 20:00'
-    poster: 333998001_1512817192574234_3261264329303367765_n.jpeg
-    daysGroup: 16/17/18/19
-  - city: São Paulo
-    date: '18/03/2023 19:00'
-    poster: 327469040_552093189989573_1955085381008516574_n.jpeg
-    daysGroup: 16/17/18/19
-  - city: São Paulo
-    date: '18/03/2023 19:00'
-    poster: 334096208_232579799212524_6994000779423312168_n.jpeg
-    daysGroup: 16/17/18/19
-  - city: São Paulo
-    date: '18/03/2023 17:00'
-    poster: 330469942_704236728153093_6978762507075056041_n.jpeg
-    daysGroup: 16/17/18/19
-  - city: São Paulo
-    date: '18/03/2023 19:00'
-    poster: 335216649_1200477347267440_4159405517524443345_n.jpeg
-    daysGroup: 16/17/18/19
-  - city: Sorocaba
-    date: '18/03/2023 17:00'
-    poster: 336179446_186659654082004_1315657216272298650_n.jpeg
-    daysGroup: 16/17/18/19
-  - city: São Paulo
-    date: '19/03/2023 15:00'
-    poster: 334006423_6844687068879659_1728182470963485130_n.jpeg
-    daysGroup: 16/17/18/19
-  - city: São José dos Campos
-    date: '19/03/2023 17:00'
-    poster: 7bfe449e-8ab8-480b-b2ff-ad10bff8024a.jpeg
-    daysGroup: 16/17/18/19
-  - city: São Paulo
-    date: '19/03/2023 14:00'
-    poster: 336179250_1289450338451186_5745790679003629077_n.jpeg
-    daysGroup: 16/17/18/19
   - city: São Paulo
     date: '24/03/2023 19:00'
     poster: 326183766_1820156485014615_1037848437989942076_n.jpeg
@@ -178,18 +138,10 @@ gigs:
     date: '31/03/2023 20:00'
     poster: 335441897_600004611986335_7523941932106916317_n.jpeg
     daysGroup: 30/31
-  - city: São Paulo
-    date: '18/03/2023 20:00'
-    poster: 331309224_156534770580788_7053323699805313901_n.jpeg
-    daysGroup: 16/17/18/19
   - city: São Carlos
     date: '24/03/2023 20:00'
     poster: modern_decay.jpeg
     daysGroup: 23/24/25/26
-  - city: Santo André
-    date: '19/03/2023 17:00'
-    poster: FB_IMG_1679135213144.jpg
-    daysGroup: 16/17/18/19
   - city: Atibaia
     date: '07/04/2023 13:00'
     poster: FB_IMG_1679138770101.jpg
@@ -210,6 +162,10 @@ gigs:
     date: '16/04/2023 11:00'
     poster: FB_IMG_1679399289603.jpg
     daysGroup: 14/15/16
+  - city: Agudos
+    date: '01/04/2023 14:00'
+    poster: 337521388_2231962180316943_8423993486411763204_n.jpeg
+    daysGroup: 01/02
 ---
 
 <br />

@@ -2,18 +2,6 @@
 abbr: PR
 name: Paraná
 gigs:
-  - city: Cascavel
-    date: '18/03/2023 22:00'
-    poster: 325690980_890783701956370_4719259275326170366_n.jpeg
-    daysGroup: 17/18/19/20
-  - city: Maringá
-    date: '18/03/2023 20:00'
-    poster: 334528985_723772319244900_989514753318610476_n.jpeg
-    daysGroup: 17/18/19/20
-  - city: Curitiba
-    date: '20/03/2023 19:00'
-    poster: 334311538_728004355516141_3935751818247082736_n.jpeg
-    daysGroup: 17/18/19/20
   - city: Ponta Grossa
     date: '25/03/2023 19:00'
     poster: 335054230_610434037567763_6439179798305411074_n.jpeg
@@ -41,15 +29,7 @@ gigs:
   - city: Curitiba
     date: '29/04/2023 17:00'
     poster: 336657862_948598262988066_7794550861174705484_n.jpeg
-    daysGroup: '28/29/30'
-  - city: Paranaguá
-    date: '18/03/2023 15:00'
-    poster: FB_IMG_1679097364213.jpg
-    daysGroup: '17/18/19/20'
-  - city: Curitiba
-    date: '19/03/2023 18:00'
-    poster: 333719189_774767476918414_6610305408433978832_n.jpeg
-    daysGroup: 17/18/19/20
+    daysGroup: 28/29/30
   - city: Curitiba
     date: '23/07/2023 19:00'
     poster: 336687571_727450062503139_176852382565951644_n.jpeg
