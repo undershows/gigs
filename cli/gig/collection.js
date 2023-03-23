@@ -19,7 +19,7 @@ const IMAGES_DIR = 'public/images/posters'
 /**
  * Where legacy gigs goes to.
  */
-const LEGACY_GIGS_DIR = 'src/content/state/legacy'
+const LEGACY_GIGS_DIR = 'src/content/legacy'
 
 /**
  * Where removed posters goes to.
