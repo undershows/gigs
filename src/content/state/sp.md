@@ -178,6 +178,10 @@ gigs:
     date: '29/04/2023 16:00'
     poster: 336159606_945024126519313_6362908212198567361_n.jpeg
     daysGroup: 28/29/30
+  - city: Sorocaba
+    date: '22/04/2023 14:00'
+    poster: FB_IMG_1679539070824.jpg
+    daysGroup: 21/22/23
 ---
 
 <br />
