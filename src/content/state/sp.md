@@ -182,6 +182,10 @@ gigs:
     date: '22/04/2023 14:00'
     poster: FB_IMG_1679539070824.jpg
     daysGroup: 21/22/23
+  - city: São Carlos
+    date: '14/04/2023 20:00'
+    poster: 336557824_600411525304508_6537690947751240158_n.jpeg
+    daysGroup: 14/15/16
 ---
 
 <br />
