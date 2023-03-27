@@ -194,6 +194,42 @@ gigs:
     date: '08/04/2023 14:00'
     poster: FB_IMG_1679890203819.jpg
     daysGroup: 05/06/07/08/09
+  - city: Mauá
+    date: '01/04/2023 18:00'
+    poster: FB_IMG_1679892221868.jpg
+    daysGroup: 01/02
+  - city: Ribeirão Pires
+    date: '18/06/2023 18:00'
+    poster: FB_IMG_1679892118954.jpg
+    daysGroup: 16/17/18
+  - city: São Paulo
+    date: '08/06/2023 18:00'
+    poster: FB_IMG_1679892014779.jpg
+    daysGroup: 08/09/10/11
+  - city: Mogi Guaçu
+    date: '13/04/2023 20:00'
+    poster: FB_IMG_1679891916248.jpg
+    daysGroup: 14/15/16
+  - city: 
+    date: '13/04/2023 20:00'
+    poster: 
+    daysGroup: 14/15/16
+  - city: São Carlos
+    date: '14/04/2023 20:00'
+    poster: FB_IMG_1679891761765.jpg
+    daysGroup: 14/15/16
+  - city: Osasco
+    date: '20/04/2023 20:00'
+    poster: FB_IMG_1679891737958.jpg
+    daysGroup: 20/21/22/23/24
+  - city: Sorocaba
+    date: '08/04/2023 15:00'
+    poster: FB_IMG_1679744560846.jpg
+    daysGroup: 05/06/07/08/09
+  - city: Sorocaba
+    date: '22/04/2023 14:00'
+    poster: FB_IMG_1679539070824.jpg
+    daysGroup: 20/21/22/23/24
 ---
 
 <br />
