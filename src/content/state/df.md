@@ -10,7 +10,7 @@ gigs:
     date: '26/03/2023 19:00'
     poster: 331633136_108873455400026_4419892937134615636_n.jpeg
     daysGroup: 24/25/26
-  - city: Ceilândia
+  - city: Taguatinga
     date: '30/04/2023 16:00'
     poster: 334087250_221055297003366_1575185784661333307_n.jpeg
     daysGroup: 26/27/28/29/30

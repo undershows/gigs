@@ -30,7 +30,7 @@ gigs:
     date: '30/03/2023 20:00'
     poster: 326228200_3050359675262548_3299674393958481916_n.jpeg
     daysGroup: 30/31
-  - city: São Paulo
+  - city: Osasco
     date: '31/03/2023 20:00'
     poster: 336081580_1599473880535070_8693570924723096535_n.jpeg
     daysGroup: 30/31
@@ -134,7 +134,7 @@ gigs:
     date: '26/03/2023 16:00'
     poster: 336155871_921380318995266_5574056861334758033_n.jpeg
     daysGroup: 23/24/25/26
-  - city: São Paulo
+  - city: Praia Grande
     date: '31/03/2023 20:00'
     poster: 335441897_600004611986335_7523941932106916317_n.jpeg
     daysGroup: 30/31
@@ -206,10 +206,11 @@ gigs:
     date: '08/06/2023 18:00'
     poster: FB_IMG_1679892014779.jpg
     daysGroup: 08/09/10/11
-  - city: Mogi Guaçu
+  - city: Sorocaba
     date: '13/04/2023 20:00'
     poster: FB_IMG_1679891916248.jpg
     daysGroup: 14/15/16
+  - city: São Carlos
     date: '14/04/2023 20:00'
     poster: FB_IMG_1679891761765.jpg
     daysGroup: 14/15/16
