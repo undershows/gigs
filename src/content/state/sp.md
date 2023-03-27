@@ -226,6 +226,10 @@ gigs:
     date: '22/04/2023 14:00'
     poster: FB_IMG_1679539070824.jpg
     daysGroup: 20/21/22/23/24
+  - city: Americana
+    date: '01/04/2023 19:00'
+    poster: 337148135_541103654799156_7401843318202380380_n.jpeg
+    daysGroup: 01/02
 ---
 
 <br />
