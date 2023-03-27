@@ -14,7 +14,4 @@ gigs:
     date: '08/04/2023 17:00'
     poster: FB_IMG_1679891818056.jpg
     daysGroup: 06/07/08
-
-
 ---
-

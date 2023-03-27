@@ -11,4 +11,3 @@ gigs:
     poster: FB_IMG_1679891794995.jpg
     daysGroup: 06/07/08
 ---
-
