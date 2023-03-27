@@ -30,5 +30,9 @@ gigs:
     date: '26/04/2023 20:00'
     poster: FB_IMG_1679356282228.jpg
     daysGroup: 26/27/28/29/30
+  - city: Gama
+    date: '22/04/2023 14:00'
+    poster: FB_IMG_1679890858086.jpg
+    daysGroup: 21/22/23
 ---
 
