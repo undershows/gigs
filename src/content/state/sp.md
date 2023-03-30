@@ -3,34 +3,10 @@ abbr: SP
 name: São Paulo
 gigs:
   - city: São Paulo
-    date: '24/03/2023 19:00'
-    poster: 326183766_1820156485014615_1037848437989942076_n.jpeg
-    daysGroup: 23/24/25/26
-  - city: São Paulo
-    date: '25/03/2023 20:00'
-    poster: 334502130_1314275739134374_3306019369410121683_n.jpeg
-    daysGroup: 23/24/25/26
-  - city: Rio Claro
-    date: '25/03/2023 15:00'
-    poster: FB_IMG_1677727783495.jpg
-    daysGroup: 23/24/25/26
-  - city: São Paulo
-    date: '25/03/2023 17:30'
-    poster: 333461899_23853309970710400_6425264802328058289_n.jpeg
-    daysGroup: 23/24/25/26
-  - city: São Paulo
-    date: '26/03/2023 15:00'
-    poster: FB_IMG_1673837682879.jpg
-    daysGroup: 23/24/25/26
-  - city: São Bernando do Campo
-    date: '26/03/2023 12:00'
-    poster: 334663303_5985421661495115_2201018410028609817_n.jpeg
-    daysGroup: 23/24/25/26
-  - city: São Paulo
     date: '30/03/2023 20:00'
     poster: 326228200_3050359675262548_3299674393958481916_n.jpeg
     daysGroup: 30/31
-  - city: São Paulo
+  - city: Osasco
     date: '31/03/2023 20:00'
     poster: 336081580_1599473880535070_8693570924723096535_n.jpeg
     daysGroup: 30/31
@@ -115,10 +91,6 @@ gigs:
     poster: c5f877fc-a5e9-45f1-920a-a50d8c3d4e38.jpeg
     daysGroup: 19/20/21
   - city: São Paulo
-    date: '25/03/2023 15:00'
-    poster: 331973195_922882605519295_7886895477039484154_n.webp
-    daysGroup: 23/24/25/26
-  - city: São Paulo
     date: '30/03/2023 18:00'
     poster: 335453392_595647952170655_5452182110472644856_n.jpeg
     daysGroup: 30/31
@@ -130,30 +102,14 @@ gigs:
     date: '01/04/2023 18:30'
     poster: 336168912_617138256895769_4054465752849984239_n.jpeg
     daysGroup: 01/02
-  - city: São Paulo
-    date: '26/03/2023 16:00'
-    poster: 336155871_921380318995266_5574056861334758033_n.jpeg
-    daysGroup: 23/24/25/26
-  - city: São Paulo
+  - city: Praia Grande
     date: '31/03/2023 20:00'
     poster: 335441897_600004611986335_7523941932106916317_n.jpeg
     daysGroup: 30/31
-  - city: São Carlos
-    date: '24/03/2023 20:00'
-    poster: modern_decay.jpeg
-    daysGroup: 23/24/25/26
   - city: Atibaia
     date: '07/04/2023 13:00'
     poster: FB_IMG_1679138770101.jpg
     daysGroup: 05/06/07/08/09
-  - city: São Paulo
-    date: '26/03/2023 14:00'
-    poster: FB_IMG_1679350838175.jpg
-    daysGroup: 23/24/25/26
-  - city: São Paulo
-    date: '23/03/2023 21:30'
-    poster: FB_IMG_1679355377442.jpg
-    daysGroup: 23/24/25/26
   - city: São Paulo
     date: '05/04/2023 18:00'
     poster: FB_IMG_1679361087236.jpg
@@ -186,6 +142,58 @@ gigs:
     date: '14/04/2023 20:00'
     poster: 336557824_600411525304508_6537690947751240158_n.jpeg
     daysGroup: 14/15/16
+  - city: São Paulo
+    date: '14/04/2023 20:00'
+    poster: FB_IMG_1679890237336.jpg
+    daysGroup: 14/15/16
+  - city: São Paulo
+    date: '08/04/2023 14:00'
+    poster: FB_IMG_1679890203819.jpg
+    daysGroup: 05/06/07/08/09
+  - city: Mauá
+    date: '01/04/2023 18:00'
+    poster: FB_IMG_1679892221868.jpg
+    daysGroup: 01/02
+  - city: Ribeirão Pires
+    date: '18/06/2023 18:00'
+    poster: FB_IMG_1679892118954.jpg
+    daysGroup: 16/17/18
+  - city: São Paulo
+    date: '08/06/2023 18:00'
+    poster: FB_IMG_1679892014779.jpg
+    daysGroup: 08/09/10/11
+  - city: Sorocaba
+    date: '13/04/2023 20:00'
+    poster: FB_IMG_1679891916248.jpg
+    daysGroup: 14/15/16
+  - city: São Carlos
+    date: '14/04/2023 20:00'
+    poster: FB_IMG_1679891761765.jpg
+    daysGroup: 14/15/16
+  - city: Osasco
+    date: '20/04/2023 20:00'
+    poster: FB_IMG_1679891737958.jpg
+    daysGroup: 20/21/22/23/24
+  - city: Sorocaba
+    date: '08/04/2023 15:00'
+    poster: FB_IMG_1679744560846.jpg
+    daysGroup: 05/06/07/08/09
+  - city: Sorocaba
+    date: '22/04/2023 14:00'
+    poster: FB_IMG_1679539070824.jpg
+    daysGroup: 20/21/22/23/24
+  - city: Americana
+    date: '01/04/2023 19:00'
+    poster: 337148135_541103654799156_7401843318202380380_n.jpeg
+    daysGroup: 01/02
+  - city: Ribeirão Pires
+    date: '15/04/2023 17:00'
+    poster: 337756316_1017045496387463_1549815573545011120_n.jpeg
+    daysGroup: 14/15/16
+  - city: Ribeirão Pires
+    date: '07/05/2023 16:00'
+    poster: 337682496_538875368359345_7749689152282447264_n.jpeg
+    daysGroup: 05/06/07
 ---
 
 <br />

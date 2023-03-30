@@ -2,14 +2,6 @@
 abbr: PR
 name: Paraná
 gigs:
-  - city: Ponta Grossa
-    date: '25/03/2023 19:00'
-    poster: 335054230_610434037567763_6439179798305411074_n.jpeg
-    daysGroup: 24/25/26/29
-  - city: Curitiba
-    date: '26/03/2023 15:00'
-    poster: 332466109_952234452470297_2663281461288724882_n.jpeg
-    daysGroup: 24/25/26/29
   - city: Curitiba
     date: '01/04/2023 19:00'
     poster: 334542858_720233029587200_6432210248824964178_n.jpeg
@@ -35,12 +27,12 @@ gigs:
     poster: 336687571_727450062503139_176852382565951644_n.jpeg
     daysGroup: 21/22/23
   - city: Maringá
-    date: '25/03/2023 00:00'
-    poster: IMG-20230320-WA0025.jpg
-    daysGroup: 24/25/26/29
-  - city: Maringá
     date: '29/03/2023 18:00'
     poster: 336910061_603383168314197_930646499329652054_n.jpeg
-    daysGroup: 24/25/26/29
+    daysGroup: 24/25/26/29/30
+  - city: Londrina
+    date: '30/03/2023 20:00'
+    poster: 338377433_568030741965717_6042917345617769895_n.jpeg
+    daysGroup: 24/25/26/29/30
 ---
 
