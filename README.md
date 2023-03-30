@@ -17,7 +17,7 @@ Inicie a aplicação com o comando abaixo:
 npm run dev
 ```
 
-A aplicação deve estar respondendo no endereço [http://localhost:3000]().
+A aplicação deve estar respondendo no endereço [http://localhost:3000](http://localhost:3000).
 
 ## :raised_hand: Contribuindo
 Para contribuir com pôsters de shows e festivais, existem duas formas.
@@ -36,7 +36,7 @@ Para contribuir com pôsters de shows e festivais, existem duas formas.
 4. Faça o commit das suas alterações e abra um pull request pra gente. ;)
 
 ### Mande um e-mail pra gente!
-Caso você não esteja familiarizado(a) com o GitHub, não tem problema, você pode nos mandar seu rolê pelo e-mail [undershowsbr@gmail.com]().
+Caso você não esteja familiarizado(a) com o GitHub, não tem problema, você pode nos mandar seu rolê pelo e-mail [undershowsbr@gmail.com](mailto:undershowsbr@gmail.com).
 
 Não esqueça de anexar seu pôster no corpo do e-mail e mandar as seguintes informações:
 ```
