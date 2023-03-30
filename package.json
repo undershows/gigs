@@ -2,6 +2,10 @@
 	"name": "gigs",
 	"type": "module",
 	"version": "1.0.0",
+	"engines": {
+		"npm": ">= 9.3.0",
+		"node": ">= 18.14.0"
+	},
 	"scripts": {
 		"dev": "astro dev",
 		"start": "astro dev",

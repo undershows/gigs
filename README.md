@@ -1,54 +1,47 @@
-# Astro Starter Kit: Basics
+# [undershows.com.br](https://undershows.com.br)
+Projeto para divulgar shows e festivais underground no Brasil.
 
-```
-npm create astro@latest -- --template basics
-```
-
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/basics)
-
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
-
-![basics](https://user-images.githubusercontent.com/4677417/186188965-73453154-fdec-4d6b-9c34-cb35c248ae5b.png)
-
-
-## 🚀 Project Structure
-
-Inside of your Astro project, you'll see the following folders and files:
-
-```
-/
-├── public/
-│   └── favicon.svg
-├── src/
-│   ├── components/
-│   │   └── Card.astro
-│   ├── layouts/
-│   │   └── Layout.astro
-│   └── pages/
-│       └── index.astro
-└── package.json
+## :wrench: Instalação
+```bash
+npm install
 ```
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+## :woman_technologist: Rodando o projeto localmente
+Dentro da pasta do projeto, crie o arquivo `.env` se ainda não o tiver:
+```bash
+cp .env.example .env
+```
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
+Inicie a aplicação com o comando abaixo:
+```bash
+npm run dev
+```
 
-Any static assets, like images, can be placed in the `public/` directory.
+A aplicação deve estar respondendo no endereço [http://localhost:3000](http://localhost:3000).
 
-## 🧞 Commands
+## :raised_hand: Contribuindo
+Para contribuir com pôsters de shows e festivais, existem duas formas.
 
-All commands are run from the root of the project, from a terminal:
+### Abrindo um pull request no GitHub
 
-| Command                | Action                                           |
-| :--------------------- | :----------------------------------------------- |
-| `npm install`          | Installs dependencies                            |
-| `npm run dev`          | Starts local dev server at `localhost:3000`      |
-| `npm run build`        | Build your production site to `./dist/`          |
-| `npm run preview`      | Preview your build locally, before deploying     |
-| `npm run astro ...`    | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro --help` | Get help using the Astro CLI                     |
+1. Dê um fork no projeto;
+2. Adicione a imagem do pôster à pasta `public/images/posters`;
+3. Adicione as informações do show/festival ao arquivo do estado onde vai acontecer. Por exemplo, para adicionar um show da cidade de Belém, editamos o arquivo `src/content/state/pa.md`, que é onde ficam os shows do estado do Pará, e adicionamos ao final do arquivo (antes de `---`) as seguintes informações:
+```yml
+  - city: Belém
+    date: '30/03/2023 19:00'
+    poster: NOME_DO_POSTER_QUE_ACABOU_DE_ADICIONAR.jpg
+```
 
-## 👀 Want to learn more?
+4. Faça o commit das suas alterações e abra um pull request pra gente. ;)
 
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+### Mande um e-mail pra gente!
+Caso você não esteja familiarizado(a) com o GitHub, não tem problema, você pode nos mandar seu rolê pelo e-mail [undershowsbr@gmail.com](mailto:undershowsbr@gmail.com).
+
+Não esqueça de anexar seu pôster no corpo do e-mail e mandar as seguintes informações:
+```
+Cidade e estado de onde vai acontecer o rolê:
+Data/horário:
+```
+
+_Ps:_ É recomendado que as imagens dos pôsters tenham as dimensões de **600px** de largura e **800px** de altura.
