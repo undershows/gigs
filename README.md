@@ -17,7 +17,7 @@ Inicie a aplicação com o comando abaixo:
 npm run dev
 ```
 
-A aplicação deve estar respondendo no endereço [http://localhost:3000](http://localhost:3000).
+A aplicação deve responder no endereço [http://localhost:3000](http://localhost:3000).
 
 ## :raised_hand: Contribuindo
 Para contribuir com pôsters de shows e festivais, existem duas formas.
