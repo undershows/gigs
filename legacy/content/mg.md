@@ -1,6 +1,4 @@
 ---
-abbr: ES
-name: Espírito Santo
 gigs:
   - city: Formosa
     date: '03/03/2023 19:00'
@@ -22,13 +20,5 @@ gigs:
     date: '11/03/2023 16:00'
     poster: 9ff3037a-f75c-4e65-a75b-60382251425a.jpeg
     daysGroup: 10/11/12
-  - city: São Paulo
-    date: '11/03/2023 00:00'
-    poster: 328834354_1379268502875872_9094801671616735860_n.jpeg
-    daysGroup: 11/12/13
-  - city: Vila Velha
-    date: '18/02/2023 21:00'
-    poster: 329780916_1316080112512830_8494685496452544154_n.jpeg
-    daysGroup: 17/18/19
 ---
 
