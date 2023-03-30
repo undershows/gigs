@@ -1,6 +1,4 @@
 ---
-abbr: SC
-name: Santa Catarina
 gigs:
   - city: Brasília
     date: '14/03/2023 00:00'

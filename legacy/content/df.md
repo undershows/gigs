@@ -1,6 +1,4 @@
 ---
-abbr: DF
-name: Distrito Federal
 gigs:
   - city: Brasília
     date: '14/03/2023 00:00'

@@ -1,6 +1,4 @@
 ---
-abbr: PI
-name: Piauí
 gigs:
   - city: Formosa
     date: '03/03/2023 19:00'
