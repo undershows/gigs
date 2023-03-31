@@ -2,10 +2,6 @@
 abbr: SP
 name: São Paulo
 gigs:
-  - city: São Paulo
-    date: '30/03/2023 20:00'
-    poster: 326228200_3050359675262548_3299674393958481916_n.jpeg
-    daysGroup: 30/31
   - city: Osasco
     date: '31/03/2023 20:00'
     poster: 336081580_1599473880535070_8693570924723096535_n.jpeg
@@ -77,7 +73,7 @@ gigs:
   - city: São Paulo
     date: '30/04/2023 15:00'
     poster: 334958350_881595772899239_5115238027369091651_n.jpeg
-    daysGroup: 28/29/30
+    daysGroup: 27/28/29/30
   - city: São Paulo
     date: '10/09/2023 00:00'
     poster: 7d61e8f3-1c15-4c4d-bbc2-d345ca81c75d.jpeg
@@ -90,10 +86,6 @@ gigs:
     date: '19/05/2023 19:00'
     poster: c5f877fc-a5e9-45f1-920a-a50d8c3d4e38.jpeg
     daysGroup: 19/20/21
-  - city: São Paulo
-    date: '30/03/2023 18:00'
-    poster: 335453392_595647952170655_5452182110472644856_n.jpeg
-    daysGroup: 30/31
   - city: São José dos Campos
     date: '07/04/2023 16:00'
     poster: 335427789_1279752776291406_6242537543690493930_n.jpeg
@@ -133,7 +125,7 @@ gigs:
   - city: Paulínia
     date: '29/04/2023 16:00'
     poster: 336159606_945024126519313_6362908212198567361_n.jpeg
-    daysGroup: 28/29/30
+    daysGroup: 27/28/29/30
   - city: Sorocaba
     date: '22/04/2023 14:00'
     poster: FB_IMG_1679539070824.jpg
@@ -210,6 +202,18 @@ gigs:
     date: '01/04/2023 20:00'
     poster: 338748370_181867827534994_3592043299832118375_n.jpeg
     daysGroup: 01/02
+  - city: São Paulo
+    date: '01/04/2023 18:00'
+    poster: 338868041_948493676161832_1242364394122621611_n.jpeg
+    daysGroup: 01/02
+  - city: São José dos Campos
+    date: '27/04/2023 19:00'
+    poster: 329839924_1381833282639338_8260374180375233126_n.jpeg
+    daysGroup: 27/28/29/30
+  - city: São Paulo
+    date: '20/05/2023 20:00'
+    poster: 336374210_1370672663768832_3886067206003292897_n.jpeg
+    daysGroup: 19/20/21
 ---
 
 <br />
