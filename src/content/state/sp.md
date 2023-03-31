@@ -45,19 +45,19 @@ gigs:
   - city: Santo André
     date: '14/04/2023 20:00'
     poster: 9883b381-1707-474a-a354-0f44aac99dc4.jpeg
-    daysGroup: 14/15/16
+    daysGroup: 13/14/15/16
   - city: São Paulo
     date: '15/04/2023 15:00'
     poster: 334028104_205806822036122_3353948029014206170_n.jpeg
-    daysGroup: 14/15/16
+    daysGroup: 13/14/15/16
   - city: São Paulo
     date: '15/04/2023 17:00'
     poster: 330528715_934295887586865_6291129424539836001_n.jpeg
-    daysGroup: 14/15/16
+    daysGroup: 13/14/15/16
   - city: São Paulo
     date: '15/04/2023 19:00'
     poster: 335674495_225788603169884_2005727818351911534_n.jpeg
-    daysGroup: 14/15/16
+    daysGroup: 13/14/15/16
   - city: São Paulo
     date: '20/04/2023 19:00'
     poster: fenda.jpeg
@@ -117,7 +117,7 @@ gigs:
   - city: São Paulo
     date: '16/04/2023 11:00'
     poster: FB_IMG_1679399289603.jpg
-    daysGroup: 14/15/16
+    daysGroup: 13/14/15/16
   - city: Agudos
     date: '01/04/2023 14:00'
     poster: 337521388_2231962180316943_8423993486411763204_n.jpeg
@@ -129,7 +129,7 @@ gigs:
   - city: São José dos Campos
     date: '15/04/2023 17:00'
     poster: 336159663_751204836618975_620870725535136291_n.jpeg
-    daysGroup: 14/15/16
+    daysGroup: 13/14/15/16
   - city: Paulínia
     date: '29/04/2023 16:00'
     poster: 336159606_945024126519313_6362908212198567361_n.jpeg
@@ -137,15 +137,15 @@ gigs:
   - city: Sorocaba
     date: '22/04/2023 14:00'
     poster: FB_IMG_1679539070824.jpg
-    daysGroup: 21/22/23
+    daysGroup: 20/21/22/23/24
   - city: São Carlos
     date: '14/04/2023 20:00'
     poster: 336557824_600411525304508_6537690947751240158_n.jpeg
-    daysGroup: 14/15/16
+    daysGroup: 13/14/15/16
   - city: São Paulo
     date: '14/04/2023 20:00'
     poster: FB_IMG_1679890237336.jpg
-    daysGroup: 14/15/16
+    daysGroup: 13/14/15/16
   - city: São Paulo
     date: '08/04/2023 14:00'
     poster: FB_IMG_1679890203819.jpg
@@ -165,11 +165,11 @@ gigs:
   - city: Sorocaba
     date: '13/04/2023 20:00'
     poster: FB_IMG_1679891916248.jpg
-    daysGroup: 14/15/16
+    daysGroup: 13/14/15/16
   - city: São Carlos
     date: '14/04/2023 20:00'
     poster: FB_IMG_1679891761765.jpg
-    daysGroup: 14/15/16
+    daysGroup: 13/14/15/16
   - city: Osasco
     date: '20/04/2023 20:00'
     poster: FB_IMG_1679891737958.jpg
@@ -178,10 +178,6 @@ gigs:
     date: '08/04/2023 15:00'
     poster: FB_IMG_1679744560846.jpg
     daysGroup: 05/06/07/08/09
-  - city: Sorocaba
-    date: '22/04/2023 14:00'
-    poster: FB_IMG_1679539070824.jpg
-    daysGroup: 20/21/22/23/24
   - city: Americana
     date: '01/04/2023 19:00'
     poster: 337148135_541103654799156_7401843318202380380_n.jpeg
@@ -189,11 +185,31 @@ gigs:
   - city: Ribeirão Pires
     date: '15/04/2023 17:00'
     poster: 337756316_1017045496387463_1549815573545011120_n.jpeg
-    daysGroup: 14/15/16
+    daysGroup: 13/14/15/16
   - city: Ribeirão Pires
     date: '07/05/2023 16:00'
     poster: 337682496_538875368359345_7749689152282447264_n.jpeg
     daysGroup: 05/06/07
+  - city: Piracicaba
+    date: '07/04/2023 19:00'
+    poster: 339135735_1181446832520739_4538693855072972286_n.jpeg
+    daysGroup: 05/06/07/08/09
+  - city: Americana
+    date: '08/04/2023 20:00'
+    poster: 339095099_220968350512466_2608738684267860968_n.jpeg
+    daysGroup: 05/06/07/08/09
+  - city: Mairinque
+    date: '13/04/2023 19:00'
+    poster: 339118596_785010019640719_587583448552626304_n.jpeg
+    daysGroup: 13/14/15/16
+  - city: São Paulo
+    date: '02/04/2023 15:00'
+    poster: 339134082_1933609183660272_1947384006505673219_n.jpeg
+    daysGroup: 01/02
+  - city: Americana
+    date: '01/04/2023 20:00'
+    poster: 338748370_181867827534994_3592043299832118375_n.jpeg
+    daysGroup: 01/02
 ---
 
 <br />
