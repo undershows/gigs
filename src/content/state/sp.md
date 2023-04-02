@@ -2,14 +2,6 @@
 abbr: SP
 name: São Paulo
 gigs:
-  - city: Osasco
-    date: '31/03/2023 20:00'
-    poster: 336081580_1599473880535070_8693570924723096535_n.jpeg
-    daysGroup: 30/31
-  - city: São Paulo
-    date: '01/04/2023 19:00'
-    poster: 333986654_211616958076072_434892530464583890_n.jpeg
-    daysGroup: 01/02
   - city: São Paulo
     date: '02/04/2023 16:00'
     poster: undershows-a3-1.png
@@ -90,14 +82,6 @@ gigs:
     date: '07/04/2023 16:00'
     poster: 335427789_1279752776291406_6242537543690493930_n.jpeg
     daysGroup: 05/06/07/08/09
-  - city: São Paulo
-    date: '01/04/2023 18:30'
-    poster: 336168912_617138256895769_4054465752849984239_n.jpeg
-    daysGroup: 01/02
-  - city: Praia Grande
-    date: '31/03/2023 20:00'
-    poster: 335441897_600004611986335_7523941932106916317_n.jpeg
-    daysGroup: 30/31
   - city: Atibaia
     date: '07/04/2023 13:00'
     poster: FB_IMG_1679138770101.jpg
@@ -110,10 +94,6 @@ gigs:
     date: '16/04/2023 11:00'
     poster: FB_IMG_1679399289603.jpg
     daysGroup: 13/14/15/16
-  - city: Agudos
-    date: '01/04/2023 14:00'
-    poster: 337521388_2231962180316943_8423993486411763204_n.jpeg
-    daysGroup: 01/02
   - city: Mogi das Cruzes
     date: '22/04/2023 23:00'
     poster: 337016670_180273938104672_2856567390421010610_n.jpeg
@@ -142,10 +122,6 @@ gigs:
     date: '08/04/2023 14:00'
     poster: FB_IMG_1679890203819.jpg
     daysGroup: 05/06/07/08/09
-  - city: Mauá
-    date: '01/04/2023 18:00'
-    poster: FB_IMG_1679892221868.jpg
-    daysGroup: 01/02
   - city: Ribeirão Pires
     date: '18/06/2023 18:00'
     poster: FB_IMG_1679892118954.jpg
@@ -170,10 +146,6 @@ gigs:
     date: '08/04/2023 15:00'
     poster: FB_IMG_1679744560846.jpg
     daysGroup: 05/06/07/08/09
-  - city: Americana
-    date: '01/04/2023 19:00'
-    poster: 337148135_541103654799156_7401843318202380380_n.jpeg
-    daysGroup: 01/02
   - city: Ribeirão Pires
     date: '15/04/2023 17:00'
     poster: 337756316_1017045496387463_1549815573545011120_n.jpeg
@@ -198,14 +170,6 @@ gigs:
     date: '02/04/2023 15:00'
     poster: 339134082_1933609183660272_1947384006505673219_n.jpeg
     daysGroup: 01/02
-  - city: Americana
-    date: '01/04/2023 20:00'
-    poster: 338748370_181867827534994_3592043299832118375_n.jpeg
-    daysGroup: 01/02
-  - city: São Paulo
-    date: '01/04/2023 18:00'
-    poster: 338868041_948493676161832_1242364394122621611_n.jpeg
-    daysGroup: 01/02
   - city: São José dos Campos
     date: '27/04/2023 19:00'
     poster: 329839924_1381833282639338_8260374180375233126_n.jpeg
@@ -220,7 +184,7 @@ gigs:
     daysGroup: 01/02
   - city: São Paulo
     date: '28/05/2023 16:00'
-    poster:FB_IMG_1680441793175.jpg
+    poster: FB_IMG_1680441793175.jpg
     daysGroup: 26/27/28
 ---
 

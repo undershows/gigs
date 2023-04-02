@@ -2,10 +2,6 @@
 abbr: PR
 name: Paraná
 gigs:
-  - city: Curitiba
-    date: '01/04/2023 19:00'
-    poster: 334542858_720233029587200_6432210248824964178_n.jpeg
-    daysGroup: 01/02
   - city: Cascavel
     date: '20/04/2023 20:00'
     poster: 325736140_493551386263098_7630208859884924152_n.jpeg

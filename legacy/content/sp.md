@@ -124,5 +124,41 @@ gigs:
     date: '30/03/2023 18:00'
     poster: 335453392_595647952170655_5452182110472644856_n.jpeg
     daysGroup: 30/31
+  - city: Osasco
+    date: '31/03/2023 20:00'
+    poster: 336081580_1599473880535070_8693570924723096535_n.jpeg
+    daysGroup: 30/31
+  - city: São Paulo
+    date: '01/04/2023 19:00'
+    poster: 333986654_211616958076072_434892530464583890_n.jpeg
+    daysGroup: 01/02
+  - city: São Paulo
+    date: '01/04/2023 18:30'
+    poster: 336168912_617138256895769_4054465752849984239_n.jpeg
+    daysGroup: 01/02
+  - city: Praia Grande
+    date: '31/03/2023 20:00'
+    poster: 335441897_600004611986335_7523941932106916317_n.jpeg
+    daysGroup: 30/31
+  - city: Agudos
+    date: '01/04/2023 14:00'
+    poster: 337521388_2231962180316943_8423993486411763204_n.jpeg
+    daysGroup: 01/02
+  - city: Mauá
+    date: '01/04/2023 18:00'
+    poster: FB_IMG_1679892221868.jpg
+    daysGroup: 01/02
+  - city: Americana
+    date: '01/04/2023 19:00'
+    poster: 337148135_541103654799156_7401843318202380380_n.jpeg
+    daysGroup: 01/02
+  - city: Americana
+    date: '01/04/2023 20:00'
+    poster: 338748370_181867827534994_3592043299832118375_n.jpeg
+    daysGroup: 01/02
+  - city: São Paulo
+    date: '01/04/2023 18:00'
+    poster: 338868041_948493676161832_1242364394122621611_n.jpeg
+    daysGroup: 01/02
 ---
 
