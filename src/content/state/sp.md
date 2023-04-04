@@ -191,11 +191,3 @@ gigs:
     poster: FB_IMG_1680580732749.jpg
     daysGroup: 20/21/22/23/24
 ---
-
-<br />
-<a href="javascript:void(null)" class="class1"
-  >02/04/2023 (ABRIL) @ JAI CLUB - 1º FESTIVAL UNDERSHOWS</a
->
-<a href="javascript:void(null)" class="class1"
-  >04/02/2023 (APRIL) @ JAI CLUB - UNDERSHOWS 1 YEAR FESTIVAL</a
->
