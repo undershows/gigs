@@ -186,6 +186,10 @@ gigs:
     date: '28/05/2023 16:00'
     poster: FB_IMG_1680441793175.jpg
     daysGroup: 26/27/28
+  - city: Itu
+    date: '23/04/2023 15:00'
+    poster: FB_IMG_1680580732749.jpg
+    daysGroup: 20/21/22/23/24
 ---
 
 <br />
