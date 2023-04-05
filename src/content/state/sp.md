@@ -190,4 +190,12 @@ gigs:
     date: '23/04/2023 15:00'
     poster: FB_IMG_1680580732749.jpg
     daysGroup: 20/21/22/23/24
+  - city: São Paulo
+    date: '07/04/2023 18:00'
+    poster: siamese.jpeg
+    daysGroup: 07/08/09
+  - city: São Paulo
+    date: '08/04/2023 19:00'
+    poster: lotico.jpeg
+    daysGroup: 07/08/09
 ---
