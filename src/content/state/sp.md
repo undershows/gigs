@@ -3,10 +3,6 @@ abbr: SP
 name: São Paulo
 gigs:
   - city: São Paulo
-    date: '02/04/2023 16:00'
-    poster: undershows-a3-1.png
-    daysGroup: 01/02
-  - city: São Paulo
     date: '06/04/2023 20:00'
     poster: 323275580_913537186656348_8275181551067551151_n.jpeg
     daysGroup: 05/06/07/08/09
@@ -166,10 +162,6 @@ gigs:
     date: '13/04/2023 19:00'
     poster: 339118596_785010019640719_587583448552626304_n.jpeg
     daysGroup: 13/14/15/16
-  - city: São Paulo
-    date: '02/04/2023 15:00'
-    poster: 339134082_1933609183660272_1947384006505673219_n.jpeg
-    daysGroup: 01/02
   - city: São José dos Campos
     date: '27/04/2023 19:00'
     poster: 329839924_1381833282639338_8260374180375233126_n.jpeg
@@ -178,10 +170,6 @@ gigs:
     date: '20/05/2023 20:00'
     poster: 336374210_1370672663768832_3886067206003292897_n.jpeg
     daysGroup: 19/20/21
-  - city: São Paulo
-    date: '02/04/2023 16:00'
-    poster: FB_IMG_1680441769077.jpg
-    daysGroup: 01/02
   - city: São Paulo
     date: '28/05/2023 16:00'
     poster: FB_IMG_1680441793175.jpg
@@ -198,4 +186,16 @@ gigs:
     date: '08/04/2023 19:00'
     poster: lotico.jpeg
     daysGroup: 07/08/09
+  - city: Osasco
+    date: '29/04/2023 18:00'
+    poster: 339623135_243099898078388_3187623359079288424_n.jpeg
+    daysGroup: 27/28/29/30
+  - city: São Paulo
+    date: '09/06/2023 18:00'
+    poster: 339623135_243099898078388_3187623359079288424_n.jpeg
+    daysGroup: 09/10/11
+  - city: Diadema
+    date: '21/04/2023 18:00'
+    poster: 336157764_528348586170003_2102885066328811203_n.jpeg
+    daysGroup: 20/21/22/23/24
 ---

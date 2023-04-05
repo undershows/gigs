@@ -160,5 +160,17 @@ gigs:
     date: '01/04/2023 18:00'
     poster: 338868041_948493676161832_1242364394122621611_n.jpeg
     daysGroup: 01/02
+  - city: São Paulo
+    date: '02/04/2023 16:00'
+    poster: undershows-a3-1.png
+    daysGroup: 01/02
+  - city: São Paulo
+    date: '02/04/2023 15:00'
+    poster: 339134082_1933609183660272_1947384006505673219_n.jpeg
+    daysGroup: 01/02
+  - city: São Paulo
+    date: '02/04/2023 16:00'
+    poster: FB_IMG_1680441769077.jpg
+    daysGroup: 01/02
 ---
 
