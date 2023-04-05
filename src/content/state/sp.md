@@ -181,11 +181,11 @@ gigs:
   - city: São Paulo
     date: '07/04/2023 18:00'
     poster: siamese.jpeg
-    daysGroup: 07/08/09
+    daysGroup: 05/06/07/08/09
   - city: São Paulo
     date: '08/04/2023 19:00'
     poster: lotico.jpeg
-    daysGroup: 07/08/09
+    daysGroup: 05/06/07/08/09
   - city: Osasco
     date: '29/04/2023 18:00'
     poster: 339623135_243099898078388_3187623359079288424_n.jpeg
@@ -198,4 +198,44 @@ gigs:
     date: '21/04/2023 18:00'
     poster: 336157764_528348586170003_2102885066328811203_n.jpeg
     daysGroup: 20/21/22/23/24
+  - city: São Paulo
+    date: '21/04/2023 18:00'
+    poster: 339130917_930102784778807_699704135303108568_n.jpeg
+    daysGroup: 20/21/22/23/24
+  - city: São Paulo
+    date: '07/04/2023 18:00'
+    poster: 339281245_1429640101116348_3121037471393007278_n.jpeg
+    daysGroup: 05/06/07/08/09
+  - city: Leme
+    date: '08/04/2023 18:00'
+    poster: 339803462_1564881440603134_8329409061793628021_n.jpeg
+    daysGroup: 05/06/07/08/09
+  - city: Agudos
+    date: '08/04/2023 19:30'
+    poster: cine_valhalla.jpeg
+    daysGroup: 05/06/07/08/09
+  - city: Bauru
+    date: '09/04/2023 17:00'
+    poster: acao_underground.jpeg
+    daysGroup: 05/06/07/08/09
+  - city: Bauru
+    date: '16/04/2023 17:00'
+    poster: work-tatoo-convencao.jpeg
+    daysGroup: 13/14/15/16
+  - city: Bauru
+    date: '21/04/2023 17:00'
+    poster: 340072154_594337006081193_5525189555435780613_n.jpeg
+    daysGroup: 20/21/22/23/24
+  - city: Itu
+    date: '09/04/2023 17:00'
+    poster: 337684264_716160243565295_8028783572926611471_n.png
+    daysGroup: 05/06/07/08/09
+  - city: Santo André
+    date: '15/04/2023 17:00'
+    poster: 337668750_3346650622331342_5319178170505228861_n.jpeg
+    daysGroup: 13/14/15/16
+  - city: Suzano
+    date: '16/04/2023 13:00'
+    poster: 337562395_241633334890846_4165096494834674579_n.jpeg
+    daysGroup: 13/14/15/16
 ---
