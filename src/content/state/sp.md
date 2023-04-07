@@ -2,10 +2,6 @@
 abbr: SP
 name: São Paulo
 gigs:
-  - city: São Paulo
-    date: '06/04/2023 20:00'
-    poster: 323275580_913537186656348_8275181551067551151_n.jpeg
-    daysGroup: 05/06/07/08/09
   - city: Pindamonhangaba
     date: '07/04/2023 19:00'
     poster: FB_IMG_1674092648486.jpg
@@ -81,10 +77,6 @@ gigs:
   - city: Atibaia
     date: '07/04/2023 13:00'
     poster: FB_IMG_1679138770101.jpg
-    daysGroup: 05/06/07/08/09
-  - city: São Paulo
-    date: '05/04/2023 18:00'
-    poster: FB_IMG_1679361087236.jpg
     daysGroup: 05/06/07/08/09
   - city: São Paulo
     date: '16/04/2023 11:00'
@@ -242,4 +234,9 @@ gigs:
     city: São Paulo
     date: '22/04/2023 19:00'
     daysGroup: 20/21/22/23/24
+  - poster: 340136058_173478905554994_4170209256973663291_n.jpeg
+    city: Mogi das Cruzes
+    date: '20/08/2023 16:00'
+    daysGroup: 18/19/20
 ---
+
