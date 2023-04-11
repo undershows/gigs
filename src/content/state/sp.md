@@ -190,5 +190,13 @@ gigs:
     city: São Paulo
     date: '15/04/2023 19:00'
     daysGroup: 13/14/15/16
+  - poster: 340758109_1189740035062035_7093800470030532783_n.jpeg
+    city: Limeira
+    date: '15/04/2023 19:00'
+    daysGroup: 13/14/15/16
+  - poster: 340689318_551888000415366_4471711221498500650_n.webp
+    city: São Paulo
+    date: '30/04/2023 19:00'
+    daysGroup: 27/28/29/30
 ---
 
