@@ -24,5 +24,9 @@ gigs:
     date: '11/03/2023 00:00'
     poster: 328834354_1379268502875872_9094801671616735860_n.jpeg
     daysGroup: 11/12/13
+  - city: Campo Grande
+    date: '08/04/2023 20:00'
+    poster: criancas_sem_futuro.png
+    daysGroup: 07/08/09
 ---
 

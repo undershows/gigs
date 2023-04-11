@@ -180,5 +180,77 @@ gigs:
     date: '05/04/2023 18:00'
     poster: FB_IMG_1679361087236.jpg
     daysGroup: 05/06/07/08/09
+  - city: Pindamonhangaba
+    date: '07/04/2023 19:00'
+    poster: FB_IMG_1674092648486.jpg
+    daysGroup: 05/06/07/08/09
+  - city: São Paulo
+    date: '08/04/2023 17:00'
+    poster: 325997755_1249722765900294_9062675116475721787_n.jpeg
+    daysGroup: 05/06/07/08/09
+  - city: São José dos Campos
+    date: '08/04/2023 22:00'
+    poster: 326062982_1215939442353367_4883080995806394442_n.jpeg
+    daysGroup: 05/06/07/08/09
+  - city: Várzea Paulista
+    date: '07/04/2023 16:00'
+    poster: 325468817_677256944136144_6176565032222995739_n.jpeg
+    daysGroup: 05/06/07/08/09
+  - city: Várzea Paulista
+    date: '08/04/2023 00:00'
+    poster: 325368008_2981492532158598_3621159681171493074_n.jpeg
+    daysGroup: 05/06/07/08/09
+  - city: São José dos Campos
+    date: '07/04/2023 16:00'
+    poster: 335427789_1279752776291406_6242537543690493930_n.jpeg
+    daysGroup: 05/06/07/08/09
+  - city: Atibaia
+    date: '07/04/2023 13:00'
+    poster: FB_IMG_1679138770101.jpg
+    daysGroup: 05/06/07/08/09
+  - city: São Paulo
+    date: '08/04/2023 14:00'
+    poster: FB_IMG_1679890203819.jpg
+    daysGroup: 05/06/07/08/09
+  - city: Sorocaba
+    date: '08/04/2023 15:00'
+    poster: FB_IMG_1679744560846.jpg
+    daysGroup: 05/06/07/08/09
+  - city: Piracicaba
+    date: '07/04/2023 19:00'
+    poster: 339135735_1181446832520739_4538693855072972286_n.jpeg
+    daysGroup: 05/06/07/08/09
+  - city: Americana
+    date: '08/04/2023 20:00'
+    poster: 339095099_220968350512466_2608738684267860968_n.jpeg
+    daysGroup: 05/06/07/08/09
+  - city: São Paulo
+    date: '07/04/2023 18:00'
+    poster: siamese.jpeg
+    daysGroup: 05/06/07/08/09
+  - city: São Paulo
+    date: '08/04/2023 19:00'
+    poster: lotico.jpeg
+    daysGroup: 05/06/07/08/09
+  - city: São Paulo
+    date: '07/04/2023 18:00'
+    poster: 339281245_1429640101116348_3121037471393007278_n.jpeg
+    daysGroup: 05/06/07/08/09
+  - city: Leme
+    date: '08/04/2023 18:00'
+    poster: 339803462_1564881440603134_8329409061793628021_n.jpeg
+    daysGroup: 05/06/07/08/09
+  - city: Agudos
+    date: '08/04/2023 19:30'
+    poster: cine_valhalla.jpeg
+    daysGroup: 05/06/07/08/09
+  - city: Bauru
+    date: '09/04/2023 17:00'
+    poster: acao_underground.jpeg
+    daysGroup: 05/06/07/08/09
+  - city: Itu
+    date: '09/04/2023 17:00'
+    poster: 337684264_716160243565295_8028783572926611471_n.png
+    daysGroup: 05/06/07/08/09
 ---
 
