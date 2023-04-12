@@ -205,7 +205,7 @@ gigs:
   - poster: FB_IMG_1681269403957.jpg
     city: Ribeirão Pires
     date: '30/04/2023 16:20'
-    daysGroup: 28/29/30
+    daysGroup: 27/28/29/30
   - poster: FB_IMG_1681269385545.jpg
     city: São Paulo
     date: '20/05/2023 18:00'
