@@ -238,5 +238,9 @@ gigs:
     city: Sorocaba
     date: '24/06/2023 17:00'
     daysGroup: 23/24/25
+  - poster: 341166121_185481664340706_7896008300640686409_n.jpeg
+    city: São Paulo
+    date: '03/06/2023 19:00'
+    daysGroup: 02/03/04
 ---
 
