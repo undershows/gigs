@@ -130,10 +130,6 @@ gigs:
     date: '29/04/2023 18:00'
     poster: 339623135_243099898078388_3187623359079288424_n.jpeg
     daysGroup: 27/28/29/30
-  - city: São Paulo
-    date: '09/06/2023 18:00'
-    poster: 339623135_243099898078388_3187623359079288424_n.jpeg
-    daysGroup: 09/10/11
   - city: Diadema
     date: '21/04/2023 18:00'
     poster: 336157764_528348586170003_2102885066328811203_n.jpeg
@@ -214,5 +210,33 @@ gigs:
     city: Araras
     date: '15/04/2023 18:00'
     daysGroup: 13/14/15/16
+  - poster: 341088516_985991996115943_647279539368816362_n.jpeg
+    city: São Paulo
+    date: '06/05/2023 19:00'
+    daysGroup: 05/06/07
+  - poster: 341088383_242994544888177_3197362052550382839_n.jpeg
+    city: Ribeirão Pires
+    date: '13/05/2023 18:00'
+    daysGroup: 12/13/14
+  - poster: 340504157_1280678739195964_8348582716198811051_n.jpeg
+    city: Praia Grande
+    date: '22/04/2023 21:00'
+    daysGroup: 20/21/22/23/24
+  - poster: 330322145_593910926118650_3647234491799170484_n.jpeg
+    city: São Bernardo do Campo
+    date: '29/04/2023 14:00'
+    daysGroup: 27/28/29/30
+  - poster: 341103394_1260106124593828_3813629737078466628_n.jpeg
+    city: Sorocaba
+    date: '10/06/2023 14:00'
+    daysGroup: 08/09/10/11
+  - poster: 337264955_532566522339296_1763334731061381733_n.jpeg
+    city: Mairinque
+    date: '20/05/2023 17:00'
+    daysGroup: 19/20/21
+  - poster: 340302074_667432971814871_7490303623640742903_n.jpeg
+    city: Sorocaba
+    date: '24/06/2023 17:00'
+    daysGroup: 23/24/25
 ---
 
