@@ -242,5 +242,9 @@ gigs:
     city: São Paulo
     date: '03/06/2023 19:00'
     daysGroup: 02/03/04
+  - poster: 330054624_3723899037840118_8547620116988658778_n.jpeg
+    city: São Paulo
+    date: '15/04/2023 22:00'
+    daysGroup: 13/14/15/16
 ---
 
