@@ -218,5 +218,9 @@ gigs:
     city: São Paulo
     date: '15/04/2023 22:00'
     daysGroup: 13/14/15/16
+  - poster: 2b1a00bd-ec68-45b7-8e64-e340eeaffa4f.jpeg
+    city: Osasco
+    date: '24/06/2023 20:00'
+    daysGroup: 23/24/25    
 ---
 
