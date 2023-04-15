@@ -252,5 +252,33 @@ gigs:
     date: '09/04/2023 17:00'
     poster: 337684264_716160243565295_8028783572926611471_n.png
     daysGroup: 05/06/07/08/09
+  - city: Santo André
+    date: '14/04/2023 20:00'
+    poster: 9883b381-1707-474a-a354-0f44aac99dc4.jpeg
+    daysGroup: 13/14/15/16
+  - city: São Carlos
+    date: '14/04/2023 20:00'
+    poster: 336557824_600411525304508_6537690947751240158_n.jpeg
+    daysGroup: 13/14/15/16
+  - city: São Paulo
+    date: '14/04/2023 20:00'
+    poster: FB_IMG_1679890237336.jpg
+    daysGroup: 13/14/15/16
+  - city: Sorocaba
+    date: '13/04/2023 20:00'
+    poster: FB_IMG_1679891916248.jpg
+    daysGroup: 13/14/15/16
+  - city: São Carlos
+    date: '14/04/2023 20:00'
+    poster: FB_IMG_1679891761765.jpg
+    daysGroup: 13/14/15/16
+  - city: Mairinque
+    date: '13/04/2023 19:00'
+    poster: 339118596_785010019640719_587583448552626304_n.jpeg
+    daysGroup: 13/14/15/16
+  - poster: 338378592_701630258410376_29750722513063585_n.jpg
+    city: São Paulo
+    date: '13/04/2023 18:00'
+    daysGroup: 13/14/15/16
 ---
 

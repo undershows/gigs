@@ -2,10 +2,6 @@
 abbr: SP
 name: São Paulo
 gigs:
-  - city: Santo André
-    date: '14/04/2023 20:00'
-    poster: 9883b381-1707-474a-a354-0f44aac99dc4.jpeg
-    daysGroup: 13/14/15/16
   - city: São Paulo
     date: '15/04/2023 15:00'
     poster: 334028104_205806822036122_3353948029014206170_n.jpeg
@@ -70,14 +66,6 @@ gigs:
     date: '22/04/2023 14:00'
     poster: FB_IMG_1679539070824.jpg
     daysGroup: 20/21/22/23/24
-  - city: São Carlos
-    date: '14/04/2023 20:00'
-    poster: 336557824_600411525304508_6537690947751240158_n.jpeg
-    daysGroup: 13/14/15/16
-  - city: São Paulo
-    date: '14/04/2023 20:00'
-    poster: FB_IMG_1679890237336.jpg
-    daysGroup: 13/14/15/16
   - city: Ribeirão Pires
     date: '18/06/2023 18:00'
     poster: FB_IMG_1679892118954.jpg
@@ -86,14 +74,6 @@ gigs:
     date: '08/06/2023 18:00'
     poster: FB_IMG_1679892014779.jpg
     daysGroup: 08/09/10/11
-  - city: Sorocaba
-    date: '13/04/2023 20:00'
-    poster: FB_IMG_1679891916248.jpg
-    daysGroup: 13/14/15/16
-  - city: São Carlos
-    date: '14/04/2023 20:00'
-    poster: FB_IMG_1679891761765.jpg
-    daysGroup: 13/14/15/16
   - city: Osasco
     date: '20/04/2023 20:00'
     poster: FB_IMG_1679891737958.jpg
@@ -106,10 +86,6 @@ gigs:
     date: '07/05/2023 16:00'
     poster: 337682496_538875368359345_7749689152282447264_n.jpeg
     daysGroup: 05/06/07
-  - city: Mairinque
-    date: '13/04/2023 19:00'
-    poster: 339118596_785010019640719_587583448552626304_n.jpeg
-    daysGroup: 13/14/15/16
   - city: São José dos Campos
     date: '27/04/2023 19:00'
     poster: 329839924_1381833282639338_8260374180375233126_n.jpeg
@@ -194,10 +170,6 @@ gigs:
     city: São Paulo
     date: '30/04/2023 19:00'
     daysGroup: 27/28/29/30
-  - poster: 338378592_701630258410376_29750722513063585_n.jpg
-    city: São Paulo
-    date: '13/04/2023 18:00'
-    daysGroup: 13/14/15/16
   - poster: FB_IMG_1681269403957.jpg
     city: Ribeirão Pires
     date: '30/04/2023 16:20'
