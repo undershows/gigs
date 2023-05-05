@@ -150,4 +150,12 @@ gigs:
     city: Jacareí
     date: '17/06/2023 18:00'
     daysGroup: 16/17/18
+  - poster: 344382080_1646880675796526_8521375463570649998_n.jpeg
+    city: Guarulhos
+    date: '07/05/2023 14:00'
+    daysGroup: 05/06/07
+  - poster: 344446343_751228123134263_4716513514651105704_n.jpeg
+    city: Salto
+    date: '29/07/2023 13:00'
+    daysGroup: 28/29/30
 ---
