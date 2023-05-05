@@ -54,7 +54,7 @@ gigs:
     city: Sorocaba
     date: '10/06/2023 14:00'
     daysGroup: 08/09/10/11
-  - poster: 337264955_532566522339296_1763334731061381733_n.jpeg
+  - poster: 341300853_1411942172891755_5565820532006393724_n.jpeg
     city: Mairinque
     date: '20/05/2023 17:00'
     daysGroup: 19/20/21
@@ -86,4 +86,32 @@ gigs:
     city: Bauru
     date: '12/05/2023 20:00'
     daysGroup: 12/13/14
+  - poster: 343996771_206334508853417_5950859503782879284_n.jpeg
+    city: Santo André
+    date: '06/05/2023 21:30'
+    daysGroup: 05/06/07
+  - poster: 343926381_683979323533000_144852449885803405_n.jpeg
+    city: São Carlos
+    date: '13/05/2023 20:00'
+    daysGroup: 12/13/14
+  - poster: 343642724_188706827399833_2436452422567828369_n.jpeg
+    city: Campinas
+    date: '10/06/2023 00:00'
+    daysGroup: 08/09/10/11
+  - poster: 344364588_1539099806615614_7102193728456709237_n.jpeg
+    city: São Paulo
+    date: '06/05/2023 19:00'
+    daysGroup: 05/06/07
+  - poster: 344233572_900342001024520_4729215403928887216_n.jpeg
+    city: Diadema
+    date: '06/05/2023 19:00'
+    daysGroup: 05/06/07
+  - poster: 343620465_1313993229180087_8890165383218879025_n.jpeg
+    city: São Paulo
+    date: '18/05/2023 20:00'
+    daysGroup: 19/20/21
+  - poster: 344858962_766102378564390_4752027157189018969_n.jpeg
+    city: São Bernardo do Campo
+    date: '06/05/2023 18:00'
+    daysGroup: 05/06/07  
 ---
