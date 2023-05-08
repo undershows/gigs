@@ -158,4 +158,8 @@ gigs:
     city: Salto
     date: '29/07/2023 13:00'
     daysGroup: 28/29/30
+  - poster: FB_IMG_1683588042435.jpg
+    city: São Paulo
+    date: '20/05/2023 18:00'
+    daysGroup: 19/20/21
 ---
