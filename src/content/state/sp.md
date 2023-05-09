@@ -162,4 +162,8 @@ gigs:
     city: São Paulo
     date: '20/05/2023 18:00'
     daysGroup: 19/20/21
+  - poster: Flyer-CardealPub.jpg
+    city: São Paulo
+    date: '09/06/2023 20:00'
+    daysGroup: 08/09/10/11
 ---
