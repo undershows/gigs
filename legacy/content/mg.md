@@ -32,5 +32,9 @@ gigs:
     date: '21/04/2023 16:00'
     poster: 0ed1043c-c69e-47bd-82ed-4e3094666892.jpeg
     daysGroup: 21/22/23
+  - poster: 344751623_1200234910655321_3938738215121551810_n.jpeg
+    city: Belo Horizonte
+    date: '05/05/2023 18:00'
+    daysGroup: 05/06/07
 ---
 

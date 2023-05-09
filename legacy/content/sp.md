@@ -432,4 +432,53 @@ gigs:
     city: São Paulo
     date: '15/04/2023 22:00'
     daysGroup: 13/14/15/16
+  - city: Ribeirão Pires
+    date: '07/05/2023 16:00'
+    poster: 337682496_538875368359345_7749689152282447264_n.jpeg
+    daysGroup: 05/06/07
+  - poster: 341088516_985991996115943_647279539368816362_n.jpeg
+    city: São Paulo
+    date: '06/05/2023 19:00'
+    daysGroup: 05/06/07
+  - poster: 342706627_252386683865070_1389232543520138344_n.jpeg
+    city: Agudos
+    date: '06/05/2023 18:00'
+    daysGroup: 05/06/07
+  - poster: 342130307_814319260118889_1010021577287499577_n.jpeg
+    city: Agudos
+    date: '07/05/2023 16:00'
+    daysGroup: 05/06/07
+  - poster: 343996771_206334508853417_5950859503782879284_n.jpeg
+    city: Santo André
+    date: '06/05/2023 21:30'
+    daysGroup: 05/06/07
+  - poster: 344233572_900342001024520_4729215403928887216_n.jpeg
+    city: Diadema
+    date: '06/05/2023 19:00'
+    daysGroup: 05/06/07
+  - poster: 344858962_766102378564390_4752027157189018969_n.jpeg
+    city: São Bernardo do Campo
+    date: '06/05/2023 18:00'
+    daysGroup: 05/06/07
+  - poster: 344252030_197547869803009_5667824081771892274_n.jpeg
+    city: São Paulo
+    date: '05/05/2023 19:00'
+    daysGroup: 05/06/07
+  - poster: 344813389_966752187657583_8436533142986045052_n.jpeg
+    city: São Paulo
+    date: '06/05/2023 19:00'
+    daysGroup: 05/06/07
+  - poster: 344753184_1609432819556780_8664231689109749156_n.jpeg
+    city: Sorocaba
+    date: '06/05/2023 17:00'
+    daysGroup: 05/06/07
+  - poster: 344576494_807012374376664_9034815334234422183_n.jpeg
+    city: Sorocaba
+    date: '06/05/2023 20:00'
+    daysGroup: 05/06/07
+  - poster: 344382080_1646880675796526_8521375463570649998_n.jpeg
+    city: Guarulhos
+    date: '07/05/2023 14:00'
+    daysGroup: 05/06/07
 ---
+
