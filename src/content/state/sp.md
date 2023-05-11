@@ -118,5 +118,8 @@ gigs:
     city: São Paulo
     date: '09/06/2023 20:00'
     daysGroup: 08/09/10/11
+  - poster: querida-14-05.jpeg
+    city: São Paulo
+    date: '14/05/2023 17:00'
+    daysGroup: 11/12/13/14
 ---
-
