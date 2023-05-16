@@ -26,5 +26,9 @@ gigs:
     city: Rio de Janeiro
     date: '21/07/2023 19:00'
     daysGroup: 21/22/23
+  - poster: 346276861_928180828406724_1554073635262588434_n.jpg
+    city: Rio de Janeiro
+    date: '08/07/2023 18:00'
+    daysGroup: 06/07/08
 ---
 
