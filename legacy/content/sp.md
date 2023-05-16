@@ -480,5 +480,33 @@ gigs:
     city: Guarulhos
     date: '07/05/2023 14:00'
     daysGroup: 05/06/07
+  - poster: 341088383_242994544888177_3197362052550382839_n.jpeg
+    city: Ribeirão Pires
+    date: '13/05/2023 18:00'
+    daysGroup: 11/12/13/14
+  - poster: 343618297_1230976550935471_5466011112605588026_n.jpeg
+    city: Birigui
+    date: '13/05/2023 16:00'
+    daysGroup: 11/12/13/14
+  - poster: 341975705_6122973754476888_8589166758080742785_n.jpeg
+    city: Bauru
+    date: '12/05/2023 20:00'
+    daysGroup: 11/12/13/14
+  - poster: 343926381_683979323533000_144852449885803405_n.jpeg
+    city: São Carlos
+    date: '13/05/2023 20:00'
+    daysGroup: 11/12/13/14
+  - poster: 329380254_23854065714590400_3177826816950062415_n.jpeg
+    city: São Paulo
+    date: '14/05/2023 00:00'
+    daysGroup: 11/12/13/14
+  - poster: 342798663_1569476010201879_6598325220086839010_n.jpeg
+    city: São Paulo
+    date: '11/05/2023 18:00'
+    daysGroup: 11/12/13/14
+  - poster: querida-14-05.jpeg
+    city: São Paulo
+    date: '14/05/2023 17:00'
+    daysGroup: 11/12/13/14
 ---
 
