@@ -122,4 +122,8 @@ gigs:
     city: São Paulo
     date: '17/06/2023 14:00'
     daysGroup: 16/17/18
+  - poster: 346883313_272319481893237_3880858673380357415_n.jpg
+    city: Bauru
+    date: '16/06/2023 21:00'
+    daysGroup: 16/17/18
 ---
