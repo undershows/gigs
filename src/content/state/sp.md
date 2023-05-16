@@ -13,7 +13,7 @@ gigs:
   - city: São Paulo
     date: '19/05/2023 19:00'
     poster: c5f877fc-a5e9-45f1-920a-a50d8c3d4e38.jpeg
-    daysGroup: 18/19/20/21
+    daysGroup: 17/18/19/20/21
   - city: Ribeirão Pires
     date: '18/06/2023 18:00'
     poster: FB_IMG_1679892118954.jpg
@@ -25,7 +25,7 @@ gigs:
   - city: São Paulo
     date: '20/05/2023 20:00'
     poster: 336374210_1370672663768832_3886067206003292897_n.jpeg
-    daysGroup: 18/19/20/21
+    daysGroup: 17/18/19/20/21
   - city: São Paulo
     date: '28/05/2023 16:00'
     poster: FB_IMG_1680441793175.jpg
@@ -37,7 +37,7 @@ gigs:
   - poster: FB_IMG_1681269385545.jpg
     city: São Paulo
     date: '20/05/2023 18:00'
-    daysGroup: 18/19/20/21
+    daysGroup: 17/18/19/20/21
   - poster: 341103394_1260106124593828_3813629737078466628_n.jpeg
     city: Sorocaba
     date: '10/06/2023 14:00'
@@ -45,7 +45,7 @@ gigs:
   - poster: 341300853_1411942172891755_5565820532006393724_n.jpeg
     city: Mairinque
     date: '20/05/2023 17:00'
-    daysGroup: 18/19/20/21
+    daysGroup: 17/18/19/20/21
   - poster: 340302074_667432971814871_7490303623640742903_n.jpeg
     city: Sorocaba
     date: '24/06/2023 17:00'
@@ -65,7 +65,7 @@ gigs:
   - poster: 343620465_1313993229180087_8890165383218879025_n.jpeg
     city: São Paulo
     date: '18/05/2023 20:00'
-    daysGroup: 18/19/20/21
+    daysGroup: 17/18/19/20/21
   - poster: 344810575_775434177591657_7457528496298241876_n.jpeg
     city: São Paulo
     date: '07/09/2023 15:00'
@@ -89,10 +89,18 @@ gigs:
   - poster: FB_IMG_1683588042435.jpg
     city: São Paulo
     date: '20/05/2023 18:00'
-    daysGroup: 18/19/20/21
+    daysGroup: 17/18/19/20/21
   - poster: Flyer-CardealPub.jpg
     city: São Paulo
     date: '09/06/2023 20:00'
     daysGroup: 08/09/10/11
+  - poster: 347265416_262803909585789_6340834604613004984_n.jpg
+    city: São Paulo
+    date: '17/05/2023 19:00'
+    daysGroup: 17/18/19/20/21
+  - poster: 346279078_994831328177270_2546616556204286879_n.jpg
+    city: São Paulo
+    date: '16/06/2023 18:00'
+    daysGroup: 16/17/18
 ---
 

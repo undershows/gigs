@@ -6,5 +6,9 @@ gigs:
     city: Belém
     date: '27/05/2023 19:00'
     daysGroup: 26/27/28
+  - poster: 347621595_931393098187076_7951212189402717513_n.jpg
+    city: Belém
+    date: '21/05/2023 18:00'
+    daysGroup: 19/20/21
 ---
 
