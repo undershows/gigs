@@ -10,10 +10,6 @@ gigs:
     date: '09/09/2023 00:00'
     poster: 330610248_213669024571558_3707199831043223500_n.jpeg
     daysGroup: 07/08/09/10
-  - city: São Paulo
-    date: '19/05/2023 19:00'
-    poster: c5f877fc-a5e9-45f1-920a-a50d8c3d4e38.jpeg
-    daysGroup: 17/18/19/20/21
   - city: Ribeirão Pires
     date: '18/06/2023 18:00'
     poster: FB_IMG_1679892118954.jpg
@@ -62,10 +58,6 @@ gigs:
     city: Campinas
     date: '10/06/2023 00:00'
     daysGroup: 08/09/10/11
-  - poster: 343620465_1313993229180087_8890165383218879025_n.jpeg
-    city: São Paulo
-    date: '18/05/2023 20:00'
-    daysGroup: 17/18/19/20/21
   - poster: 344810575_775434177591657_7457528496298241876_n.jpeg
     city: São Paulo
     date: '07/09/2023 15:00'
@@ -94,10 +86,6 @@ gigs:
     city: São Paulo
     date: '09/06/2023 20:00'
     daysGroup: 08/09/10/11
-  - poster: 347265416_262803909585789_6340834604613004984_n.jpg
-    city: São Paulo
-    date: '17/05/2023 19:00'
-    daysGroup: 17/18/19/20/21
   - poster: 346279078_994831328177270_2546616556204286879_n.jpg
     city: São Paulo
     date: '16/06/2023 18:00'
@@ -127,3 +115,4 @@ gigs:
     date: '16/06/2023 21:00'
     daysGroup: 16/17/18
 ---
+

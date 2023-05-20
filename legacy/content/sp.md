@@ -508,5 +508,17 @@ gigs:
     city: São Paulo
     date: '14/05/2023 17:00'
     daysGroup: 11/12/13/14
+  - city: São Paulo
+    date: '19/05/2023 19:00'
+    poster: c5f877fc-a5e9-45f1-920a-a50d8c3d4e38.jpeg
+    daysGroup: 17/18/19/20/21
+  - poster: 343620465_1313993229180087_8890165383218879025_n.jpeg
+    city: São Paulo
+    date: '18/05/2023 20:00'
+    daysGroup: 17/18/19/20/21
+  - poster: 347265416_262803909585789_6340834604613004984_n.jpg
+    city: São Paulo
+    date: '17/05/2023 19:00'
+    daysGroup: 17/18/19/20/21
 ---
 
