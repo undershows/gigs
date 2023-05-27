@@ -117,5 +117,17 @@ gigs:
   - poster: FB_IMG_1685198738062.jpg
     city: São Paulo
     date: '27/05/2023 18:00'
-    daysGroup: 26/27/28
+    daysGroup: 25/26/27/28
+  - poster: FB_IMG_1685199552462.jpg
+    city: São Paulo
+    date: '27/05/2023 18:00'
+    daysGroup: 25/26/27/28
+  - poster: FB_IMG_1685199562690.jpg
+    city: São Paulo
+    date: '27/05/2023 20:00'
+    daysGroup: 25/26/27/28
+  - poster: FB_IMG_1685199571250.jpg
+    city: São Paulo
+    date: '27/05/2023 15:00'
+    daysGroup: 25/26/27/28
 ---
