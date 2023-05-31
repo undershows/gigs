@@ -74,5 +74,20 @@ gigs:
     city: Bauru
     date: '16/06/2023 21:00'
     daysGroup: 16/17/18
+  - poster: 349084261_208835515358536_6115155508530308315_n.jpg
+    city: São José dos Campos
+    date: '04/06/2023 17:00'
+    daysGroup: 02/03/04
+  - poster: 350847865_3462979530631843_4480969342010328302_n.jpg
+    city: São Paulo
+    date: '03/06/2023 10:00'
+    daysGroup: 02/03/04
+  - poster: 350262980_721817859632652_5142555323659176976_n.jpg
+    city: Birigui
+    date: '08/07/2023 16:00'
+    daysGroup: 07/08/09
+  - poster: 350864997_788105006061480_5151004999688929568_n.jpg
+    city: São Paulo
+    date: '03/06/2023 17:00'
+    daysGroup: 02/03/04
 ---
-
