@@ -520,5 +520,61 @@ gigs:
     city: São Paulo
     date: '17/05/2023 19:00'
     daysGroup: 17/18/19/20/21
+  - city: São Paulo
+    date: '20/05/2023 20:00'
+    poster: 336374210_1370672663768832_3886067206003292897_n.jpeg
+    daysGroup: 17/18/19/20/21
+  - city: São Paulo
+    date: '28/05/2023 16:00'
+    poster: FB_IMG_1680441793175.jpg
+    daysGroup: 25/26/27/28
+  - poster: FB_IMG_1681269385545.jpg
+    city: São Paulo
+    date: '20/05/2023 18:00'
+    daysGroup: 17/18/19/20/21
+  - poster: 341300853_1411942172891755_5565820532006393724_n.jpeg
+    city: Mairinque
+    date: '20/05/2023 17:00'
+    daysGroup: 17/18/19/20/21
+  - poster: 344896127_1549119742279764_4617301844972072360_n.jpeg
+    city: São Paulo
+    date: '25/05/2023 19:00'
+    daysGroup: 25/26/27/28
+  - poster: 344567138_918511822705807_1761486923403503881_n.jpeg
+    city: Sorocaba
+    date: '28/05/2023 14:00'
+    daysGroup: 25/26/27/28
+  - poster: FB_IMG_1683588042435.jpg
+    city: São Paulo
+    date: '20/05/2023 18:00'
+    daysGroup: 17/18/19/20/21
+  - poster: 346473599_6338551056233719_9103103138854928371_n.jpg
+    city: São Paulo
+    date: '21/05/2023 15:00'
+    daysGroup: 17/18/19/20/21
+  - poster: 346268749_1060825024882598_8976888737926233920_n.jpg
+    city: São Paulo
+    date: '21/05/2023 15:00'
+    daysGroup: 17/18/19/20/21
+  - poster: 346862071_550437680617277_5271480334077368230_n.jpg
+    city: São Paulo
+    date: '20/05/2023 19:00'
+    daysGroup: 17/18/19/20/21
+  - poster: FB_IMG_1685198738062.jpg
+    city: São Paulo
+    date: '27/05/2023 18:00'
+    daysGroup: 25/26/27/28
+  - poster: FB_IMG_1685199552462.jpg
+    city: São Paulo
+    date: '27/05/2023 18:00'
+    daysGroup: 25/26/27/28
+  - poster: FB_IMG_1685199562690.jpg
+    city: São Paulo
+    date: '27/05/2023 20:00'
+    daysGroup: 25/26/27/28
+  - poster: FB_IMG_1685199571250.jpg
+    city: São Paulo
+    date: '27/05/2023 15:00'
+    daysGroup: 25/26/27/28
 ---
 
