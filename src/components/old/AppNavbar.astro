@@ -17,6 +17,9 @@ const { Content } = await currentState.render();
 const isLink = (state: CollectionEntry<"state">) =>
   (state.slug !== mainState && state.slug !== currentState.slug) ||
   (state.slug === mainState && currentState.slug !== mainState);
+
+const getStateLink = (state: CollectionEntry<"state">) =>
+  `old/${state.slug === mainState ? "" : state.slug}`;
 ---
 
 <p class="normal">
@@ -26,7 +29,7 @@ const isLink = (state: CollectionEntry<"state">) =>
       <>
         {index !== 0 ? " - " : ""}
         {isLink(state) ? (
-          <Link to={state.slug === mainState ? "" : state.slug} class="class1">
+          <Link to={getStateLink(state)} class="class1">
             {state.data.abbr}
           </Link>
         ) : (

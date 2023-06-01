@@ -2,48 +2,45 @@
 import type { CollectionEntry } from "astro:content";
 import { getCollection, getEntryBySlug } from "astro:content";
 
-import Layout from "@/layouts/old/Layout.astro";
-import AppNavbar from "@/components/old/AppNavbar.astro";
-import GigList from "@/components/old/GigList.astro";
+import Layout from "@/layouts/Layout.astro";
 
 export type Props = {
-	states: CollectionEntry<"state">[];
-	currentState: CollectionEntry<"state">;
+  states: CollectionEntry<"state">[];
+  currentState: CollectionEntry<"state">;
 };
 
 export async function getStaticPaths() {
-	const states = await getCollection("state");
-	const mainState = await getEntryBySlug(
-		"state",
-		import.meta.env.APP_MAIN_STATE
-	);
-	const filteredStates = states.filter(
-		(state) => state.slug !== import.meta.env.APP_MAIN_STATE
-	);
+  const states = await getCollection("state");
+  const filteredStates = states.filter(
+    (state) => state.slug !== import.meta.env.APP_MAIN_STATE
+  );
 
-	return [
-		{
-			params: { state: undefined },
-			props: { states, currentState: mainState },
-		},
-		...filteredStates.map((state) => ({
-			params: { state: state.slug },
-			props: { states, currentState: state },
-		})),
-	];
+  const mainState = await getEntryBySlug(
+    "state",
+    import.meta.env.APP_MAIN_STATE
+  );
+
+  return [
+    {
+      params: { state: undefined },
+      props: { states, currentState: mainState },
+    },
+    ...filteredStates.map((state) => ({
+      params: { state: state.slug },
+      props: { states, currentState: state },
+    })),
+  ];
 }
 
 const { states, currentState } = Astro.props;
+const title = `${import.meta.env.APP_SITE_TITLE} | ${currentState.data.name}`;
 ---
 
-<Layout title={import.meta.env.APP_OLD_SITE_TITLE}>
-	<AppNavbar
-		states={states}
-		currentState={currentState}
-		mainState={import.meta.env.APP_MAIN_STATE}
-		githubUrl={import.meta.env.APP_GITHUB_URL}
-		posterMail={import.meta.env.APP_POSTER_MAIL}
-	/>
+<Layout title={title} description={import.meta.env.APP_SITE_DESCRIPTION} />
 
-	<GigList state={currentState} />
-</Layout>
+<style lang="postcss">
+  body {
+    background-image: url("/images/bg/2.jpg");
+    background-size: cover;
+  }
+</style>

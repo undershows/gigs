@@ -1,0 +1,55 @@
+---
+import "@/styles/old.css";
+
+import type { CollectionEntry } from "astro:content";
+import { getCollection, getEntryBySlug } from "astro:content";
+
+import Layout from "@/layouts/Layout.astro";
+import AppNavbar from "@/components/old/AppNavbar.astro";
+import GigList from "@/components/old/GigList.astro";
+
+export type Props = {
+	states: CollectionEntry<"state">[];
+	currentState: CollectionEntry<"state">;
+};
+
+export async function getStaticPaths() {
+	const states = await getCollection("state");
+	const filteredStates = states.filter(
+		(state) => state.slug !== import.meta.env.APP_MAIN_STATE
+	);
+
+	const mainState = await getEntryBySlug(
+		"state",
+		import.meta.env.APP_MAIN_STATE
+	);
+
+	return [
+		{
+			params: { state: undefined },
+			props: { states, currentState: mainState },
+		},
+		...filteredStates.map((state) => ({
+			params: { state: state.slug },
+			props: { states, currentState: state },
+		})),
+	];
+}
+
+const { states, currentState } = Astro.props;
+---
+
+<Layout
+	title={import.meta.env.APP_OLD_SITE_TITLE}
+	description={import.meta.env.APP_OLD_SITE_DESCRIPTION}
+>
+	<AppNavbar
+		states={states}
+		currentState={currentState}
+		mainState={import.meta.env.APP_MAIN_STATE}
+		githubUrl={import.meta.env.APP_GITHUB_URL}
+		posterMail={import.meta.env.APP_POSTER_MAIL}
+	/>
+
+	<GigList state={currentState} />
+</Layout>
