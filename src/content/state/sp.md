@@ -98,4 +98,20 @@ gigs:
     city: Campinas
     date: '10/06/2023 22:00'
     daysGroup: 08/09/10/11
+  - poster: 350331748_770229197922319_7794890702552681735_n.jpg
+    city: Ribeirão Pires
+    date: '04/06/2023 16:00'
+    daysGroup: 02/03/04
+  - poster: 350107734_573482984814557_7292738201183944223_n.jpg
+    city: Ribeirão Pires
+    date: '11/06/2023 16:00'
+    daysGroup: 08/09/10/11
+  - poster: 350122580_834972464614477_3954455816451209400_n.jpg
+    city: São Paulo
+    date: '03/06/2023 19:00'
+    daysGroup: 02/03/04
+  - poster: 350289897_246335277990684_4582077416452943323_n.jpg
+    city: Sumaré
+    date: '05/08/2023 17:00'
+    daysGroup: 04/05/06
 ---
