@@ -114,4 +114,48 @@ gigs:
     city: Sumaré
     date: '05/08/2023 17:00'
     daysGroup: 04/05/06
+  - poster: 350305501_682705437199542_6584451291800339401_n.jpg
+    city: Ribeirão Pires
+    date: '03/06/2023 17:30'
+    daysGroup: 02/03/04
+  - poster: cenario_de_guerra.jpeg
+    city: Santos
+    date: '03/06/2023 21:00'
+    daysGroup: 02/03/04
+  - poster: casca_live_sessions.jpeg
+    city: Bauru
+    date: '10/06/2023 15:00'
+    daysGroup: 08/09/10/11
+  - poster: expo_de_zines.jpg
+    city: Agudos
+    date: '10/06/2023 16:00'
+    daysGroup: 08/09/10/11
+  - poster: engrena_fest.jpg
+    city: Bauru
+    date: '09/06/2023 21:00'
+    daysGroup: 08/09/10/11
+  - poster: sacodepoeira.jpg
+    city: Bauru
+    date: '11/06/2023 15:00'
+    daysGroup: 08/09/10/11
+  - poster: hellfast.jpeg
+    city: Araraquara
+    date: '17/06/2023 17:00'
+    daysGroup: 16/17/18
+  - poster: viver_para_lutar.jpg
+    city: Agudos
+    date: '10/06/2023 16:00'
+    daysGroup: 08/09/10/11
+  - poster: fun_house.jpeg
+    city: Ribeirão Pires
+    date: '24/06/2023 18:00'
+    daysGroup: 23/24/25
+  - poster: luna_junta_tribos.jpeg
+    city: Agudos
+    date: '18/06/2023 14:00'
+    daysGroup: 16/17/18
+  - poster: extreme_sonic_fest.jpeg
+    city: Agudos
+    date: '24/06/2023 20:30'
+    daysGroup: 23/24/25
 ---
