@@ -158,4 +158,8 @@ gigs:
     city: Agudos
     date: '24/06/2023 20:30'
     daysGroup: 23/24/25
+  - poster: 350535552_713950820532764_8120810360559193379_n.jpg
+    city: Agudos
+    date: '18/06/2023 16:00'
+    daysGroup: 16/17/18
 ---
