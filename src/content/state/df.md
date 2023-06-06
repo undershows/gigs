@@ -18,12 +18,9 @@ gigs:
     city: Paranoá
     date: '10/06/2023 17:00'
     daysGroup: 09/10/11
-  - poster: 341714302_965159228017429_6263355602459745804_n.jpg
-    city: Ceilândia Norte
-    date: '03/06/2023 19:00'
-    daysGroup: 02/03/04
   - poster: 350813146_766129558545706_2812728274859241325_n.jpg
     city: Brazlândia
     date: '24/06/2023 19:00'
     daysGroup: 23/24/25
 ---
+

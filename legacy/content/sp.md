@@ -576,5 +576,37 @@ gigs:
     city: São Paulo
     date: '27/05/2023 15:00'
     daysGroup: 25/26/27/28
+  - poster: 341166121_185481664340706_7896008300640686409_n.jpeg
+    city: São Paulo
+    date: '03/06/2023 19:00'
+    daysGroup: 02/03/04
+  - poster: 349084261_208835515358536_6115155508530308315_n.jpg
+    city: São José dos Campos
+    date: '04/06/2023 17:00'
+    daysGroup: 02/03/04
+  - poster: 350847865_3462979530631843_4480969342010328302_n.jpg
+    city: São Paulo
+    date: '03/06/2023 10:00'
+    daysGroup: 02/03/04
+  - poster: 350864997_788105006061480_5151004999688929568_n.jpg
+    city: São Paulo
+    date: '03/06/2023 17:00'
+    daysGroup: 02/03/04
+  - poster: 350331748_770229197922319_7794890702552681735_n.jpg
+    city: Ribeirão Pires
+    date: '04/06/2023 16:00'
+    daysGroup: 02/03/04
+  - poster: 350122580_834972464614477_3954455816451209400_n.jpg
+    city: São Paulo
+    date: '03/06/2023 19:00'
+    daysGroup: 02/03/04
+  - poster: 350305501_682705437199542_6584451291800339401_n.jpg
+    city: Ribeirão Pires
+    date: '03/06/2023 17:30'
+    daysGroup: 02/03/04
+  - poster: cenario_de_guerra.jpeg
+    city: Santos
+    date: '03/06/2023 21:00'
+    daysGroup: 02/03/04
 ---
 

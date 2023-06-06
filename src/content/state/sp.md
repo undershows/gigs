@@ -30,10 +30,6 @@ gigs:
     city: Sorocaba
     date: '24/06/2023 17:00'
     daysGroup: 23/24/25
-  - poster: 341166121_185481664340706_7896008300640686409_n.jpeg
-    city: São Paulo
-    date: '03/06/2023 19:00'
-    daysGroup: 02/03/04
   - poster: 2b1a00bd-ec68-45b7-8e64-e340eeaffa4f.jpeg
     city: Osasco
     date: '24/06/2023 20:00'
@@ -74,22 +70,10 @@ gigs:
     city: Bauru
     date: '16/06/2023 21:00'
     daysGroup: 16/17/18
-  - poster: 349084261_208835515358536_6115155508530308315_n.jpg
-    city: São José dos Campos
-    date: '04/06/2023 17:00'
-    daysGroup: 02/03/04
-  - poster: 350847865_3462979530631843_4480969342010328302_n.jpg
-    city: São Paulo
-    date: '03/06/2023 10:00'
-    daysGroup: 02/03/04
   - poster: 350262980_721817859632652_5142555323659176976_n.jpg
     city: Birigui
     date: '08/07/2023 16:00'
     daysGroup: 07/08/09
-  - poster: 350864997_788105006061480_5151004999688929568_n.jpg
-    city: São Paulo
-    date: '03/06/2023 17:00'
-    daysGroup: 02/03/04
   - poster: 350492962_791028479346151_5097889557565060111_n.jpg
     city: São Paulo
     date: '09/07/2023 00:00'
@@ -98,30 +82,14 @@ gigs:
     city: Campinas
     date: '10/06/2023 22:00'
     daysGroup: 08/09/10/11
-  - poster: 350331748_770229197922319_7794890702552681735_n.jpg
-    city: Ribeirão Pires
-    date: '04/06/2023 16:00'
-    daysGroup: 02/03/04
   - poster: 350107734_573482984814557_7292738201183944223_n.jpg
     city: Ribeirão Pires
     date: '11/06/2023 16:00'
     daysGroup: 08/09/10/11
-  - poster: 350122580_834972464614477_3954455816451209400_n.jpg
-    city: São Paulo
-    date: '03/06/2023 19:00'
-    daysGroup: 02/03/04
   - poster: 350289897_246335277990684_4582077416452943323_n.jpg
     city: Sumaré
     date: '05/08/2023 17:00'
     daysGroup: 04/05/06
-  - poster: 350305501_682705437199542_6584451291800339401_n.jpg
-    city: Ribeirão Pires
-    date: '03/06/2023 17:30'
-    daysGroup: 02/03/04
-  - poster: cenario_de_guerra.jpeg
-    city: Santos
-    date: '03/06/2023 21:00'
-    daysGroup: 02/03/04
   - poster: casca_live_sessions.jpeg
     city: Bauru
     date: '10/06/2023 15:00'
@@ -163,3 +131,4 @@ gigs:
     date: '18/06/2023 16:00'
     daysGroup: 16/17/18
 ---
+

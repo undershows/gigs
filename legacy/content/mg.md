@@ -36,5 +36,9 @@ gigs:
     city: Belo Horizonte
     date: '05/05/2023 18:00'
     daysGroup: 05/06/07
+  - poster: 350812798_576865641285258_3403061996775048769_n.jpg
+    city: Belo Horizonte
+    date: '04/06/2023 19:00'
+    daysGroup: 02/03/04
 ---
 
