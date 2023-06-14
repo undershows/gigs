@@ -13,7 +13,7 @@ gigs:
   - city: Ribeirão Pires
     date: '18/06/2023 18:00'
     poster: FB_IMG_1679892118954.jpg
-    daysGroup: 16/17/18
+    daysGroup: 14/15/16/17/18
   - poster: 340136058_173478905554994_4170209256973663291_n.jpeg
     city: Mogi das Cruzes
     date: '20/08/2023 16:00'
@@ -33,7 +33,7 @@ gigs:
   - poster: 344819010_5852298751545848_60120692865349240_n.jpeg
     city: Jacareí
     date: '17/06/2023 18:00'
-    daysGroup: 16/17/18
+    daysGroup: 14/15/16/17/18
   - poster: 344446343_751228123134263_4716513514651105704_n.jpeg
     city: Salto
     date: '29/07/2023 13:00'
@@ -41,7 +41,7 @@ gigs:
   - poster: 346279078_994831328177270_2546616556204286879_n.jpg
     city: São Paulo
     date: '16/06/2023 18:00'
-    daysGroup: 16/17/18
+    daysGroup: 14/15/16/17/18
   - poster: 346970560_650388963555484_6084724739055243668_n.jpg
     city: São Paulo
     date: '08/07/2023 19:00'
@@ -49,11 +49,11 @@ gigs:
   - poster: 346860744_558649936187796_1951929805744047501_n.jpg
     city: São Paulo
     date: '17/06/2023 14:00'
-    daysGroup: 16/17/18
+    daysGroup: 14/15/16/17/18
   - poster: 346883313_272319481893237_3880858673380357415_n.jpg
     city: Bauru
     date: '16/06/2023 21:00'
-    daysGroup: 16/17/18
+    daysGroup: 14/15/16/17/18
   - poster: 350262980_721817859632652_5142555323659176976_n.jpg
     city: Birigui
     date: '08/07/2023 16:00'
@@ -69,7 +69,7 @@ gigs:
   - poster: hellfast.jpeg
     city: Araraquara
     date: '17/06/2023 17:00'
-    daysGroup: 16/17/18
+    daysGroup: 14/15/16/17/18
   - poster: fun_house.jpeg
     city: Ribeirão Pires
     date: '24/06/2023 18:00'
@@ -77,7 +77,7 @@ gigs:
   - poster: luna_junta_tribos.jpeg
     city: Agudos
     date: '18/06/2023 14:00'
-    daysGroup: 16/17/18
+    daysGroup: 14/15/16/17/18
   - poster: extreme_sonic_fest.jpeg
     city: Diadema
     date: '24/06/2023 20:30'
@@ -85,6 +85,18 @@ gigs:
   - poster: 350535552_713950820532764_8120810360559193379_n.jpg
     city: Sorocaba
     date: '18/06/2023 16:00'
-    daysGroup: 16/17/18
+    daysGroup: 14/15/16/17/18
+  - poster: 353654422_6693690930663263_6679709677860118932_n.jpg
+    city: Ribeirão Pires
+    date: '14/06/2023 18:00'
+    daysGroup: 14/15/16/17/18
+  - poster: 353809851_6693691407329882_1226385043451197080_n.jpg
+    city: Ribeirão Pires
+    date: '17/06/2023 18:00'
+    daysGroup: 14/15/16/17/18
+  - poster: 353848710_6693693997329623_225856570899986118_n.jpg
+    city: Ribeirão Pires
+    date: '18/06/2023 15:00'
+    daysGroup: 14/15/16/17/18
 ---
 

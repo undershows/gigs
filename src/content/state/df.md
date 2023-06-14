@@ -18,5 +18,9 @@ gigs:
     city: Brazlândia
     date: '24/06/2023 19:00'
     daysGroup: 23/24/25
+  - poster: 353655224_6393453610714861_1507287481778823727_n.jpg
+    city: Brasília
+    date: '24/06/2023 23:00'
+    daysGroup: 23/24/25
 ---
 
