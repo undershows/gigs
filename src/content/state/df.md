@@ -22,5 +22,9 @@ gigs:
     city: Brasília
     date: '24/06/2023 23:00'
     daysGroup: 23/24/25
+  - poster: 354025479_837455678381647_7363798189767108113_n.jpg
+    city: Brasília
+    date: '24/06/2023 21:00'
+    daysGroup: 23/24/25
 ---
 
