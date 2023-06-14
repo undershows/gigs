@@ -106,5 +106,13 @@ gigs:
     city: Sorocaba
     date: '19/06/2023 19:00'
     daysGroup: 14/15/16/17/18/19
+  - poster: 353818920_10223009282006508_5472769276028750345_n.jpg
+    city: São Paulo
+    date: '01/07/2023 18:00'
+    daysGroup: 01/02
+  - poster: 353812900_10223009283246539_8621016191489700899_n.jpg
+    city: São Paulo
+    date: '30/06/2023 20:00'
+    daysGroup: 29/30/31
 ---
 
