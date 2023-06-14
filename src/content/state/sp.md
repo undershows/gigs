@@ -14,18 +14,10 @@ gigs:
     date: '18/06/2023 18:00'
     poster: FB_IMG_1679892118954.jpg
     daysGroup: 16/17/18
-  - city: São Paulo
-    date: '08/06/2023 18:00'
-    poster: FB_IMG_1679892014779.jpg
-    daysGroup: 08/09/10/11
   - poster: 340136058_173478905554994_4170209256973663291_n.jpeg
     city: Mogi das Cruzes
     date: '20/08/2023 16:00'
     daysGroup: 18/19/20
-  - poster: 341103394_1260106124593828_3813629737078466628_n.jpeg
-    city: Sorocaba
-    date: '10/06/2023 14:00'
-    daysGroup: 08/09/10/11
   - poster: 340302074_667432971814871_7490303623640742903_n.jpeg
     city: Sorocaba
     date: '24/06/2023 17:00'
@@ -34,10 +26,6 @@ gigs:
     city: Osasco
     date: '24/06/2023 20:00'
     daysGroup: 23/24/25
-  - poster: 343642724_188706827399833_2436452422567828369_n.jpeg
-    city: Campinas
-    date: '10/06/2023 00:00'
-    daysGroup: 08/09/10/11
   - poster: 344810575_775434177591657_7457528496298241876_n.jpeg
     city: São Paulo
     date: '07/09/2023 15:00'
@@ -50,10 +38,6 @@ gigs:
     city: Salto
     date: '29/07/2023 13:00'
     daysGroup: 28/29/30
-  - poster: Flyer-CardealPub.jpg
-    city: São Paulo
-    date: '09/06/2023 20:00'
-    daysGroup: 08/09/10/11
   - poster: 346279078_994831328177270_2546616556204286879_n.jpg
     city: São Paulo
     date: '16/06/2023 18:00'
@@ -78,42 +62,14 @@ gigs:
     city: São Paulo
     date: '09/07/2023 00:00'
     daysGroup: 07/08/09
-  - poster: 348964228_3499456650290785_1918393049186035285_n.jpg
-    city: Campinas
-    date: '10/06/2023 22:00'
-    daysGroup: 08/09/10/11
-  - poster: 350107734_573482984814557_7292738201183944223_n.jpg
-    city: Ribeirão Pires
-    date: '11/06/2023 16:00'
-    daysGroup: 08/09/10/11
   - poster: 350289897_246335277990684_4582077416452943323_n.jpg
     city: Sumaré
     date: '05/08/2023 17:00'
     daysGroup: 04/05/06
-  - poster: casca_live_sessions.jpeg
-    city: Bauru
-    date: '10/06/2023 15:00'
-    daysGroup: 08/09/10/11
-  - poster: expo_de_zines.jpg
-    city: Agudos
-    date: '10/06/2023 16:00'
-    daysGroup: 08/09/10/11
-  - poster: engrena_fest.jpg
-    city: Bauru
-    date: '09/06/2023 21:00'
-    daysGroup: 08/09/10/11
-  - poster: sacodepoeira.jpg
-    city: Bauru
-    date: '11/06/2023 15:00'
-    daysGroup: 08/09/10/11
   - poster: hellfast.jpeg
     city: Araraquara
     date: '17/06/2023 17:00'
     daysGroup: 16/17/18
-  - poster: viver_para_lutar.jpg
-    city: Agudos
-    date: '10/06/2023 16:00'
-    daysGroup: 08/09/10/11
   - poster: fun_house.jpeg
     city: Ribeirão Pires
     date: '24/06/2023 18:00'

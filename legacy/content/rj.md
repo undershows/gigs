@@ -20,5 +20,9 @@ gigs:
     date: '19/05/2023 19:00'
     poster: FB_IMG_1679104117847.jpg
     daysGroup: 19/20/21
+  - city: Rio de Janeiro
+    date: '10/06/2023 19:00'
+    poster: 340955788_2311023502413552_8838214304972172164_n.jpeg
+    daysGroup: 09/10/11
 ---
 

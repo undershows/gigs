@@ -608,5 +608,49 @@ gigs:
     city: Santos
     date: '03/06/2023 21:00'
     daysGroup: 02/03/04
+  - city: São Paulo
+    date: '08/06/2023 18:00'
+    poster: FB_IMG_1679892014779.jpg
+    daysGroup: 08/09/10/11
+  - poster: 341103394_1260106124593828_3813629737078466628_n.jpeg
+    city: Sorocaba
+    date: '10/06/2023 14:00'
+    daysGroup: 08/09/10/11
+  - poster: 343642724_188706827399833_2436452422567828369_n.jpeg
+    city: Campinas
+    date: '10/06/2023 00:00'
+    daysGroup: 08/09/10/11
+  - poster: Flyer-CardealPub.jpg
+    city: São Paulo
+    date: '09/06/2023 20:00'
+    daysGroup: 08/09/10/11
+  - poster: 348964228_3499456650290785_1918393049186035285_n.jpg
+    city: Campinas
+    date: '10/06/2023 22:00'
+    daysGroup: 08/09/10/11
+  - poster: 350107734_573482984814557_7292738201183944223_n.jpg
+    city: Ribeirão Pires
+    date: '11/06/2023 16:00'
+    daysGroup: 08/09/10/11
+  - poster: casca_live_sessions.jpeg
+    city: Bauru
+    date: '10/06/2023 15:00'
+    daysGroup: 08/09/10/11
+  - poster: expo_de_zines.jpg
+    city: Agudos
+    date: '10/06/2023 16:00'
+    daysGroup: 08/09/10/11
+  - poster: engrena_fest.jpg
+    city: Bauru
+    date: '09/06/2023 21:00'
+    daysGroup: 08/09/10/11
+  - poster: sacodepoeira.jpg
+    city: Bauru
+    date: '11/06/2023 15:00'
+    daysGroup: 08/09/10/11
+  - poster: viver_para_lutar.jpg
+    city: Agudos
+    date: '10/06/2023 16:00'
+    daysGroup: 08/09/10/11
 ---
 

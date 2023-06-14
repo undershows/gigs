@@ -40,5 +40,9 @@ gigs:
     city: Ceilândia Norte
     date: '03/06/2023 19:00'
     daysGroup: 02/03/04
+  - poster: 350092470_236760399086914_4858683945561349276_n.jpg
+    city: Paranoá
+    date: '10/06/2023 17:00'
+    daysGroup: 09/10/11
 ---
 
