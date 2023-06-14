@@ -122,5 +122,13 @@ gigs:
     city: São José dos Campos
     date: '24/06/2023 16:00'
     daysGroup: 23/24/25
+  - poster: 353662652_10218597393766369_5157909569949374321_n.jpg
+    city: São José dos Campos
+    date: '22/07/2023 15:00'
+    daysGroup: 21/22/23
+  - poster: 350135084_776493524139039_434986256609385300_n.jpg
+    city: São Paulo
+    date: '01/07/2023 17:00'
+    daysGroup: 01/02
 ---
 
