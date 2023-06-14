@@ -114,5 +114,13 @@ gigs:
     city: São Paulo
     date: '30/06/2023 20:00'
     daysGroup: 29/30/31
+  - poster: 347263000_555203946688421_1095554324713667799_n.jpg
+    city: São Paulo
+    date: '18/06/2023 15:00'
+    daysGroup: 14/15/16/17/18/19
+  - poster: 354061414_10223009336487870_6162965368392790332_n.jpg
+    city: São José dos Campos
+    date: '24/06/2023 16:00'
+    daysGroup: 23/24/25
 ---
 
