@@ -652,5 +652,21 @@ gigs:
     city: Agudos
     date: '10/06/2023 16:00'
     daysGroup: 08/09/10/11
+  - poster: 346279078_994831328177270_2546616556204286879_n.jpg
+    city: São Paulo
+    date: '16/06/2023 18:00'
+    daysGroup: 14/15/16/17/18/19
+  - poster: 346883313_272319481893237_3880858673380357415_n.jpg
+    city: Bauru
+    date: '16/06/2023 21:00'
+    daysGroup: 14/15/16/17/18/19
+  - poster: 353654422_6693690930663263_6679709677860118932_n.jpg
+    city: Ribeirão Pires
+    date: '14/06/2023 18:00'
+    daysGroup: 14/15/16/17/18/19
+  - poster: 55267314-0ff0-4b22-a0b6-9726a588c6e3.jpeg
+    city: Marília
+    date: '16/06/2023 22:00'
+    daysGroup: 14/15/16/17/18/19
 ---
 

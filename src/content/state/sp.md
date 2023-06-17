@@ -13,7 +13,7 @@ gigs:
   - city: Ribeirão Pires
     date: '18/06/2023 18:00'
     poster: FB_IMG_1679892118954.jpg
-    daysGroup: 14/15/16/17/18/19
+    daysGroup: 17/18/19
   - poster: 340136058_173478905554994_4170209256973663291_n.jpeg
     city: Mogi das Cruzes
     date: '20/08/2023 16:00'
@@ -33,23 +33,15 @@ gigs:
   - poster: 344819010_5852298751545848_60120692865349240_n.jpeg
     city: Jacareí
     date: '17/06/2023 18:00'
-    daysGroup: 14/15/16/17/18/19
+    daysGroup: 17/18/19
   - poster: 344446343_751228123134263_4716513514651105704_n.jpeg
     city: Salto
     date: '29/07/2023 13:00'
     daysGroup: 28/29/30
-  - poster: 346279078_994831328177270_2546616556204286879_n.jpg
-    city: São Paulo
-    date: '16/06/2023 18:00'
-    daysGroup: 14/15/16/17/18/19
   - poster: 346970560_650388963555484_6084724739055243668_n.jpg
     city: São Paulo
     date: '08/07/2023 19:00'
     daysGroup: 07/08/09
-  - poster: 346883313_272319481893237_3880858673380357415_n.jpg
-    city: Bauru
-    date: '16/06/2023 21:00'
-    daysGroup: 14/15/16/17/18/19
   - poster: 350262980_721817859632652_5142555323659176976_n.jpg
     city: Birigui
     date: '08/07/2023 16:00'
@@ -65,7 +57,7 @@ gigs:
   - poster: hellfast.jpeg
     city: Araraquara
     date: '17/06/2023 17:00'
-    daysGroup: 14/15/16/17/18/19
+    daysGroup: 17/18/19
   - poster: fun_house.jpeg
     city: Ribeirão Pires
     date: '24/06/2023 18:00'
@@ -73,7 +65,7 @@ gigs:
   - poster: luna_junta_tribos.jpeg
     city: Agudos
     date: '18/06/2023 14:00'
-    daysGroup: 14/15/16/17/18/19
+    daysGroup: 17/18/19
   - poster: extreme_sonic_fest.jpeg
     city: Diadema
     date: '24/06/2023 20:30'
@@ -81,23 +73,15 @@ gigs:
   - poster: 350535552_713950820532764_8120810360559193379_n.jpg
     city: Sorocaba
     date: '18/06/2023 16:00'
-    daysGroup: 14/15/16/17/18/19
-  - poster: 353654422_6693690930663263_6679709677860118932_n.jpg
-    city: Ribeirão Pires
-    date: '14/06/2023 18:00'
-    daysGroup: 14/15/16/17/18/19
+    daysGroup: 17/18/19
   - poster: 353809851_6693691407329882_1226385043451197080_n.jpg
     city: Ribeirão Pires
     date: '17/06/2023 18:00'
-    daysGroup: 14/15/16/17/18/19
+    daysGroup: 17/18/19
   - poster: 353848710_6693693997329623_225856570899986118_n.jpg
     city: Ribeirão Pires
     date: '18/06/2023 15:00'
-    daysGroup: 14/15/16/17/18/19
-  - poster: 55267314-0ff0-4b22-a0b6-9726a588c6e3.jpeg
-    city: Marília
-    date: '16/06/2023 22:00'
-    daysGroup: 14/15/16/17/18/19
+    daysGroup: 17/18/19
   - poster: 4df9eba1-0e12-464c-9497-8f48fecc44c1.jpeg
     city: São Paulo
     date: '29/06/2023 18:00'
@@ -105,7 +89,7 @@ gigs:
   - poster: cabbfc79-4370-4c61-bd62-36c1c15c7bf2.jpeg
     city: Sorocaba
     date: '19/06/2023 19:00'
-    daysGroup: 14/15/16/17/18/19
+    daysGroup: 17/18/19
   - poster: 353818920_10223009282006508_5472769276028750345_n.jpg
     city: São Paulo
     date: '01/07/2023 18:00'
@@ -117,7 +101,7 @@ gigs:
   - poster: 347263000_555203946688421_1095554324713667799_n.jpg
     city: São Paulo
     date: '18/06/2023 15:00'
-    daysGroup: 14/15/16/17/18/19
+    daysGroup: 17/18/19
   - poster: 354061414_10223009336487870_6162965368392790332_n.jpg
     city: São José dos Campos
     date: '24/06/2023 16:00'
@@ -130,5 +114,29 @@ gigs:
     city: São Paulo
     date: '01/07/2023 17:00'
     daysGroup: 01/02
+  - poster: 353858353_24143887128543373_1050878020598265741_n.jpg
+    city: São Paulo
+    date: '08/07/2023 19:00'
+    daysGroup: 07/08/09
+  - poster: 354229683_2503786133107227_8760310764697531395_n.jpg
+    city: São Paulo
+    date: '30/07/2023 16:00'
+    daysGroup: 28/29/30
+  - poster: 353768449_2503785969773910_5374944131116171325_n.jpg
+    city: São José dos Campos
+    date: '23/07/2023 17:00'
+    daysGroup: 21/22/23
+  - poster: 346453000_965198954932253_6456548413254451240_n.jpg
+    city: Piracicaba
+    date: '17/06/2023 17:00'
+    daysGroup: 17/18/19
+  - poster: 354050543_7185579138123816_3956396998576874291_n.jpg
+    city: Sumaré
+    date: '05/08/2023 17:00'
+    daysGroup: 04/05/06
+  - poster: 346892663_6563946710294258_7268608824754003862_n.jpg
+    city: Sorocaba
+    date: '12/08/2023 14:00'
+    daysGroup: 11/12/13
 ---
 
