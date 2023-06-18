@@ -30,10 +30,6 @@ gigs:
     city: São Paulo
     date: '07/09/2023 15:00'
     daysGroup: 07/08/09/10
-  - poster: 344819010_5852298751545848_60120692865349240_n.jpeg
-    city: Jacareí
-    date: '17/06/2023 18:00'
-    daysGroup: 17/18/19
   - poster: 344446343_751228123134263_4716513514651105704_n.jpeg
     city: Salto
     date: '29/07/2023 13:00'
@@ -54,10 +50,6 @@ gigs:
     city: Sumaré
     date: '05/08/2023 17:00'
     daysGroup: 04/05/06
-  - poster: hellfast.jpeg
-    city: Araraquara
-    date: '17/06/2023 17:00'
-    daysGroup: 17/18/19
   - poster: fun_house.jpeg
     city: Ribeirão Pires
     date: '24/06/2023 18:00'
@@ -73,10 +65,6 @@ gigs:
   - poster: 350535552_713950820532764_8120810360559193379_n.jpg
     city: Sorocaba
     date: '18/06/2023 16:00'
-    daysGroup: 17/18/19
-  - poster: 353809851_6693691407329882_1226385043451197080_n.jpg
-    city: Ribeirão Pires
-    date: '17/06/2023 18:00'
     daysGroup: 17/18/19
   - poster: 353848710_6693693997329623_225856570899986118_n.jpg
     city: Ribeirão Pires
@@ -126,10 +114,6 @@ gigs:
     city: São José dos Campos
     date: '23/07/2023 17:00'
     daysGroup: 21/22/23
-  - poster: 346453000_965198954932253_6456548413254451240_n.jpg
-    city: Piracicaba
-    date: '17/06/2023 17:00'
-    daysGroup: 17/18/19
   - poster: 354050543_7185579138123816_3956396998576874291_n.jpg
     city: Sumaré
     date: '05/08/2023 17:00'
@@ -138,13 +122,9 @@ gigs:
     city: Sorocaba
     date: '12/08/2023 14:00'
     daysGroup: 11/12/13
-  - poster: 354428716_3547807245539318_2797834164256445411_n.jpg
+  - poster: 354570360_10230793072993757_1105631916543679990_n.jpg
     city: São Paulo
-    date: '17/06/2023 13:00'
-    daysGroup: 17/18/19
-  - poster: 354052451_3547807282205981_7520934647483939373_n.jpg
-    city: São Paulo
-    date: '17/06/2023 17:00'
-    daysGroup: 17/18/19
+    date: '24/06/2023 19:00'
+    daysGroup: 23/24/25
 ---
 

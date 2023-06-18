@@ -668,5 +668,29 @@ gigs:
     city: Marília
     date: '16/06/2023 22:00'
     daysGroup: 14/15/16/17/18/19
+  - poster: 344819010_5852298751545848_60120692865349240_n.jpeg
+    city: Jacareí
+    date: '17/06/2023 18:00'
+    daysGroup: 17/18/19
+  - poster: hellfast.jpeg
+    city: Araraquara
+    date: '17/06/2023 17:00'
+    daysGroup: 17/18/19
+  - poster: 353809851_6693691407329882_1226385043451197080_n.jpg
+    city: Ribeirão Pires
+    date: '17/06/2023 18:00'
+    daysGroup: 17/18/19
+  - poster: 346453000_965198954932253_6456548413254451240_n.jpg
+    city: Piracicaba
+    date: '17/06/2023 17:00'
+    daysGroup: 17/18/19
+  - poster: 354428716_3547807245539318_2797834164256445411_n.jpg
+    city: São Paulo
+    date: '17/06/2023 13:00'
+    daysGroup: 17/18/19
+  - poster: 354052451_3547807282205981_7520934647483939373_n.jpg
+    city: São Paulo
+    date: '17/06/2023 17:00'
+    daysGroup: 17/18/19
 ---
 

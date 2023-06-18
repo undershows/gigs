@@ -44,5 +44,9 @@ gigs:
     city: Paranoá
     date: '10/06/2023 17:00'
     daysGroup: 09/10/11
+  - poster: 350711449_1312831499309598_7929498892665757680_n.jpg
+    city: Paranoá
+    date: '17/06/2023 18:00'
+    daysGroup: 16/17/18
 ---
 

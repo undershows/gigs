@@ -3,10 +3,6 @@ abbr: RJ
 name: Rio de Janeiro
 gigs:
   - city: Rio de Janeiro
-    date: '17/06/2023 20:00'
-    poster: FB_IMG_1679332769322.jpg
-    daysGroup: 16/17/18
-  - city: Rio de Janeiro
     date: '08/07/2023 22:00'
     poster: FB_IMG_1679891784359.jpg
     daysGroup: 06/07/08
