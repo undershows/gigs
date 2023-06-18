@@ -10,10 +10,6 @@ gigs:
     date: '09/09/2023 00:00'
     poster: 330610248_213669024571558_3707199831043223500_n.jpeg
     daysGroup: 07/08/09/10
-  - city: Ribeirão Pires
-    date: '18/06/2023 18:00'
-    poster: FB_IMG_1679892118954.jpg
-    daysGroup: 17/18/19
   - poster: 340136058_173478905554994_4170209256973663291_n.jpeg
     city: Mogi das Cruzes
     date: '20/08/2023 16:00'
