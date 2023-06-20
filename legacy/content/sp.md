@@ -692,5 +692,25 @@ gigs:
     city: São Paulo
     date: '17/06/2023 17:00'
     daysGroup: 17/18/19
+  - poster: luna_junta_tribos.jpeg
+    city: Agudos
+    date: '18/06/2023 14:00'
+    daysGroup: 17/18/19
+  - poster: 350535552_713950820532764_8120810360559193379_n.jpg
+    city: Sorocaba
+    date: '18/06/2023 16:00'
+    daysGroup: 17/18/19
+  - poster: 353848710_6693693997329623_225856570899986118_n.jpg
+    city: Ribeirão Pires
+    date: '18/06/2023 15:00'
+    daysGroup: 17/18/19
+  - poster: cabbfc79-4370-4c61-bd62-36c1c15c7bf2.jpeg
+    city: Sorocaba
+    date: '19/06/2023 19:00'
+    daysGroup: 17/18/19
+  - poster: 347263000_555203946688421_1095554324713667799_n.jpg
+    city: São Paulo
+    date: '18/06/2023 15:00'
+    daysGroup: 17/18/19
 ---
 

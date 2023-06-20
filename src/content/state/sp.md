@@ -50,30 +50,14 @@ gigs:
     city: Ribeirão Pires
     date: '24/06/2023 18:00'
     daysGroup: 23/24/25
-  - poster: luna_junta_tribos.jpeg
-    city: Agudos
-    date: '18/06/2023 14:00'
-    daysGroup: 17/18/19
   - poster: extreme_sonic_fest.jpeg
     city: Diadema
     date: '24/06/2023 20:30'
     daysGroup: 23/24/25
-  - poster: 350535552_713950820532764_8120810360559193379_n.jpg
-    city: Sorocaba
-    date: '18/06/2023 16:00'
-    daysGroup: 17/18/19
-  - poster: 353848710_6693693997329623_225856570899986118_n.jpg
-    city: Ribeirão Pires
-    date: '18/06/2023 15:00'
-    daysGroup: 17/18/19
   - poster: 4df9eba1-0e12-464c-9497-8f48fecc44c1.jpeg
     city: São Paulo
     date: '29/06/2023 18:00'
     daysGroup: 29/30/31
-  - poster: cabbfc79-4370-4c61-bd62-36c1c15c7bf2.jpeg
-    city: Sorocaba
-    date: '19/06/2023 19:00'
-    daysGroup: 17/18/19
   - poster: 353818920_10223009282006508_5472769276028750345_n.jpg
     city: São Paulo
     date: '01/07/2023 18:00'
@@ -82,10 +66,6 @@ gigs:
     city: São Paulo
     date: '30/06/2023 20:00'
     daysGroup: 29/30/31
-  - poster: 347263000_555203946688421_1095554324713667799_n.jpg
-    city: São Paulo
-    date: '18/06/2023 15:00'
-    daysGroup: 17/18/19
   - poster: 354061414_10223009336487870_6162965368392790332_n.jpg
     city: São José dos Campos
     date: '24/06/2023 16:00'
