@@ -10,7 +10,7 @@ gigs:
     date: '09/09/2023 00:00'
     poster: 330610248_213669024571558_3707199831043223500_n.jpeg
     daysGroup: 07/08/09/10
-  - poster: 340136058_173478905554994_4170209256973663291_n.jpeg
+  - poster: FB_IMG_1687312348395.jpg
     city: Mogi das Cruzes
     date: '20/08/2023 16:00'
     daysGroup: 18/19/20
@@ -42,10 +42,6 @@ gigs:
     city: São Paulo
     date: '09/07/2023 00:00'
     daysGroup: 07/08/09
-  - poster: 350289897_246335277990684_4582077416452943323_n.jpg
-    city: Sumaré
-    date: '05/08/2023 17:00'
-    daysGroup: 04/05/06
   - poster: fun_house.jpeg
     city: Ribeirão Pires
     date: '24/06/2023 18:00'
@@ -101,6 +97,22 @@ gigs:
   - poster: 354570360_10230793072993757_1105631916543679990_n.jpg
     city: São Paulo
     date: '24/06/2023 19:00'
+    daysGroup: 23/24/25
+  - poster: FB_IMG_1687312333353.jpg
+    city: São Paulo
+    date: '05/08/2023 14:00'
+    daysGroup: 04/05/06
+  - poster: FB_IMG_1687312291767.jpg
+    city: São Paulo
+    date: '25/06/2023 16:00'
+    daysGroup: 23/24/25
+  - poster: FB_IMG_1687312339522.jpg
+    city: Mogi das Cruzes
+    date: '24/06/2023 23:00'
+    daysGroup: 23/24/25
+  - poster: FB_IMG_1687313007049.jpg
+    city: Diadema
+    date: '25/06/2023 15:00'
     daysGroup: 23/24/25
 ---
 
