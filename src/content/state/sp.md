@@ -114,5 +114,7 @@ gigs:
     city: Diadema
     date: '25/06/2023 15:00'
     daysGroup: 23/24/25
+  - poster: lotico-15-07.jpg
+    city: São Paulo
+    date: '15/07/2023 18:00'
 ---
-
