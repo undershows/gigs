@@ -65,9 +65,18 @@ gigs:
   - poster: lotico-15-07.jpg
     city: São Paulo
     date: '15/07/2023 18:00'
+    daysGroup: 14/15/16
   - poster: 358080261_6635638926503292_8952954942464022350_n.jpg
     city: São Paulo
     date: '08/07/2023 17:00'
     daysGroup: 07/08/09
+  - poster: 358081147_6466685353391686_2519296040733213862_n.jpg
+    city: São Paulo
+    date: '15/07/2023 18:00'
+    daysGroup: 14/15/16
+  - poster: 357434186_6340635016001461_5155909824173254317_n.jpg
+    city: São Paulo
+    date: '30/07/2023 18:00'
+    daysGroup: 28/29/30
 ---
 
