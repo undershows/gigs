@@ -712,5 +712,57 @@ gigs:
     city: São Paulo
     date: '18/06/2023 15:00'
     daysGroup: 17/18/19
+  - poster: 340302074_667432971814871_7490303623640742903_n.jpeg
+    city: Sorocaba
+    date: '24/06/2023 17:00'
+    daysGroup: 23/24/25
+  - poster: 2b1a00bd-ec68-45b7-8e64-e340eeaffa4f.jpeg
+    city: Osasco
+    date: '24/06/2023 20:00'
+    daysGroup: 23/24/25
+  - poster: fun_house.jpeg
+    city: Ribeirão Pires
+    date: '24/06/2023 18:00'
+    daysGroup: 23/24/25
+  - poster: extreme_sonic_fest.jpeg
+    city: Diadema
+    date: '24/06/2023 20:30'
+    daysGroup: 23/24/25
+  - poster: 4df9eba1-0e12-464c-9497-8f48fecc44c1.jpeg
+    city: São Paulo
+    date: '29/06/2023 18:00'
+    daysGroup: 29/30/31
+  - poster: 353818920_10223009282006508_5472769276028750345_n.jpg
+    city: São Paulo
+    date: '01/07/2023 18:00'
+    daysGroup: 01/02
+  - poster: 353812900_10223009283246539_8621016191489700899_n.jpg
+    city: São Paulo
+    date: '30/06/2023 20:00'
+    daysGroup: 29/30/31
+  - poster: 354061414_10223009336487870_6162965368392790332_n.jpg
+    city: São José dos Campos
+    date: '24/06/2023 16:00'
+    daysGroup: 23/24/25
+  - poster: 350135084_776493524139039_434986256609385300_n.jpg
+    city: São Paulo
+    date: '01/07/2023 17:00'
+    daysGroup: 01/02
+  - poster: 354570360_10230793072993757_1105631916543679990_n.jpg
+    city: São Paulo
+    date: '24/06/2023 19:00'
+    daysGroup: 23/24/25
+  - poster: FB_IMG_1687312291767.jpg
+    city: São Paulo
+    date: '25/06/2023 16:00'
+    daysGroup: 23/24/25
+  - poster: FB_IMG_1687312339522.jpg
+    city: Mogi das Cruzes
+    date: '24/06/2023 23:00'
+    daysGroup: 23/24/25
+  - poster: FB_IMG_1687313007049.jpg
+    city: Diadema
+    date: '25/06/2023 15:00'
+    daysGroup: 23/24/25
 ---
 
