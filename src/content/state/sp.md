@@ -138,5 +138,9 @@ gigs:
     city: Sumaré
     date: '29/07/2023 16:00'
     daysGroup: 28/29/30
+  - poster: 358151605_738997314896470_5923616776363512675_n.jpg
+    city: Jundiaí
+    date: '09/07/2023 18:00'
+    daysGroup: 06/07/08/09
 ---
 
