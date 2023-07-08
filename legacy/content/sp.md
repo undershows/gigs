@@ -764,5 +764,9 @@ gigs:
     city: Diadema
     date: '25/06/2023 15:00'
     daysGroup: 23/24/25
+  - poster: 358140181_6334886216618769_6844442714030086885_n.jpg
+    city: São Paulo
+    date: '06/07/2023 21:00'
+    daysGroup: 06/07/08/09
 ---
 
