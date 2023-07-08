@@ -138,7 +138,5 @@ gigs:
     city: Sumaré
     date: '29/07/2023 16:00'
     daysGroup: 28/29/30
-
-    
 ---
 
