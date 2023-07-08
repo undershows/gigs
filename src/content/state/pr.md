@@ -18,5 +18,13 @@ gigs:
     city: Curitiba
     date: '21/07/2023 18:00'
     daysGroup: 21/22/23
+  - poster: 357580525_2158722474327594_549934397468163254_n.jpg
+    city: Ponta Grossa
+    date: '14/07/2023 20:00'
+    daysGroup: 14/15/16
+  - poster: 353836149_725054959626907_3101635685486014117_n.jpg
+    city: Curitiba
+    date: '15/07/2023 20:00'
+    daysGroup: 14/15/16
 ---
 
