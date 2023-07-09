@@ -14,7 +14,7 @@ gigs:
     city: Uberlândia
     date: '22/07/2023 18:00'
     daysGroup: 21/22/23
-  - poster:FB_IMG_1688865287083.jpg
+  - poster: FB_IMG_1688865287083.jpg
     city: Uberaba
     date: '23/07/2023 17:00'
     daysGroup: 21/22/23
