@@ -94,5 +94,25 @@ gigs:
     city: Osasco
     date: '26/08/2023 19:00'
     daysGroup: 25/26/27
+  - poster: 351769322_2298488693898894_7182825963499957741_n.jpg
+    city: São Paulo
+    date: '12/08/2023 18:00'
+    daysGroup: 12/12/13
+  - poster: 358431360_10225639050708449_976895014449052687_n.jpg
+    city: São Paulo
+    date: '27/10/2023 19:00'
+    daysGroup: 27/28/29
+  - poster: 359196800_6345741385503027_7157228899864461359_n.jpg
+    city: São Paulo
+    date: '16/09/2023 13:00'
+    daysGroup: 15/16/17
+  - poster: 359464016_10161233709627652_6092770956279979287_n.jpg
+    city: Santo André
+    date: '15/07/2023 19:00'
+    daysGroup: 14/15/16
+  - poster: 358391263_775075024405759_4034568623908094891_n.jpg
+    city: São Paulo
+    date: '29/10/2023 18:30'
+    daysGroup: 27/28/29 
 ---
 
