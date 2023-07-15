@@ -58,10 +58,6 @@ gigs:
     city: São Paulo
     date: '30/07/2023 18:00'
     daysGroup: 28/29/30
-  - poster: 357716288_6343446672416001_2430719538874992326_n.jpg
-    city: Santa Fé do Sul
-    date: '15/07/2023 18:00'
-    daysGroup: 14/15/16
   - poster: 357516361_6395610627185871_5174919592520165321_n.jpg
     city: São Paulo
     date: '23/07/2023 18:00'
@@ -94,5 +90,9 @@ gigs:
     city: São Paulo
     date: '22/07/2023 19:00'
     daysGroup: 21/22/23
+  - poster: 359404123_616013653963038_6415346835332655301_n.jpg
+    city: Osasco
+    date: '26/08/2023 19:00'
+    daysGroup: 25/26/27
 ---
 
