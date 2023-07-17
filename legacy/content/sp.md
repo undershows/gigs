@@ -828,5 +828,17 @@ gigs:
     city: São Paulo
     date: '09/07/2023 14:00'
     daysGroup: 06/07/08/09
+  - poster: lotico-15-07.jpg
+    city: São Paulo
+    date: '15/07/2023 18:00'
+    daysGroup: 14/15/16
+  - poster: 358081147_6466685353391686_2519296040733213862_n.jpg
+    city: São Paulo
+    date: '15/07/2023 18:00'
+    daysGroup: 14/15/16
+  - poster: 359464016_10161233709627652_6092770956279979287_n.jpg
+    city: Santo André
+    date: '15/07/2023 19:00'
+    daysGroup: 14/15/16
 ---
 

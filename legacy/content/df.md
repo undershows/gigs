@@ -72,5 +72,9 @@ gigs:
     city: Brasília
     date: '08/07/2023 20:00'
     daysGroup: 07/08/09
+  - poster: 357419348_10230193774525071_2419751524678888704_n.jpg
+    city: Brasília
+    date: '16/07/2023 16:00'
+    daysGroup: 14/15/16
 ---
 
