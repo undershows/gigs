@@ -128,6 +128,11 @@ gigs:
     date: '28/07/2023 16:00'
     daysGroup: '28/29/30'
     ticketsUrl: https://www.instagram.com/p/CuzX8acutUD/
+  - poster: 358563250_850666129606278_680824603252407716_n.webp.jpg
+    city: São Paulo
+    date: '21/07/2023 21:00'
+    daysGroup: '21/22/23'
+    ticketsUrl: https://www.clubedoingresso.com/evento/rogerioskylab-sp
 ---
 
 
