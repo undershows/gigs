@@ -93,11 +93,9 @@
               </p><div class="gig-container">
                 <img alt="Cartaz de show em João Pessoa, 28 de julho de 2023 às 20:00" class="gig-poster" width="600" height="800" src="/_astro/fae2028b-db19-4de3-b324-c26d109bd804_Z13t8Hw.webp" loading="lazy" decoding="async">
 
-                {gig.ticketsUrl && (
-                  <a class="tickets-btn" target="_blank">
-                    <img src="/images/icons/ticket.svg" class="tickets-btn__icon" alt="Ícone de ingresso">
-                    <span class="tickets-btn__text">Comprar ingressos</span>
-                  </a>
-                )}
+                {gig.ticketsUrl && <a class="tickets-btn" target="_blank">
+                  <img src="/images/icons/ticket.svg" class="tickets-btn__icon" alt="Ícone de ingresso">
+                  <span class="tickets-btn__text">Comprar ingressos</span>
+                </a>}
               </div>
   </body></html>
