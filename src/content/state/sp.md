@@ -6,10 +6,12 @@ gigs:
     date: '08/09/2023 00:00'
     poster: 7d61e8f3-1c15-4c4d-bbc2-d345ca81c75d.jpeg
     daysGroup: 07/08/09/10
+    ticketsUrl: https://www.clubedoingresso.com/evento/setembronegro
   - city: Peruíbe
     date: '09/09/2023 00:00'
     poster: 330610248_213669024571558_3707199831043223500_n.jpeg
     daysGroup: 07/08/09/10
+    ticketsUrl: https://literaturaselvagem.com.br/
   - poster: FB_IMG_1687312348395.jpg
     city: Mogi das Cruzes
     date: '20/08/2023 16:00'
@@ -18,6 +20,7 @@ gigs:
     city: São Paulo
     date: '07/09/2023 15:00'
     daysGroup: 07/08/09/10
+    ticketsUrl: https://www.clubedoingresso.com/evento/setembronegro-07-09-prefesta
   - poster: 344446343_751228123134263_4716513514651105704_n.jpeg
     city: Salto
     date: '29/07/2023 13:00'
@@ -58,10 +61,12 @@ gigs:
     city: São Paulo
     date: '27/08/2023 19:00'
     daysGroup: 25/26/27
+    ticketsUrl: https://pixelticket.com.br/eventos/grupo/14548/oxigenio-festival-2023
   - poster: 358741469_3452480181633658_4598742526632027655_n.jpg
     city: São Paulo
     date: '21/07/2023 19:30'
     daysGroup: 21/22/23
+    ticketsUrl: https://www.sescsp.org.br/programacao/deafkids/
   - poster: 357705865_6368171399934810_1333150315476702676_n.jpg
     city: São Paulo
     date: '22/07/2023 20:00'
@@ -89,11 +94,13 @@ gigs:
   - poster: 351769322_2298488693898894_7182825963499957741_n.jpg
     city: São Paulo
     date: '12/08/2023 18:00'
-    daysGroup: 12/12/13
+    daysGroup: 11/12/13
+    ticketsUrl: https://pixelticket.com.br/eventos/14167/smashpit-fest-no-hangar-110
   - poster: 358431360_10225639050708449_976895014449052687_n.jpg
     city: São Paulo
     date: '27/10/2023 19:00'
     daysGroup: 27/28/29
+    ticketsUrl: https://www.clubedoingresso.com/evento/blackflag-saopaulo
   - poster: 359196800_6345741385503027_7157228899864461359_n.jpg
     city: São Paulo
     date: '16/09/2023 13:00'
@@ -102,6 +109,7 @@ gigs:
     city: São Paulo
     date: '29/10/2023 18:30'
     daysGroup: 27/28/29
+    ticketsUrl: https://www.clubedoingresso.com/evento/obscura-sp
   - poster: 361641387_3456520821274765_5000235162969444519_n.jpg
     city: São Paulo
     date: '19/11/2023 10:00'
@@ -121,4 +129,5 @@ gigs:
     daysGroup: '28/29/30'
     ticketsUrl: https://www.instagram.com/p/CuzX8acutUD/
 ---
+
 
