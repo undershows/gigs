@@ -114,6 +114,11 @@ gigs:
   - poster: 359823884_10225088537062082_2193828646863251394_n.jpg
     city: São Paulo
     date: '22/07/2023 19:30'
-    daysGroup: 21/22/23 
+    daysGroup: 21/22/23
+  - poster: feiragato-28-07.jpeg
+    city: São Paulo
+    date: '28/07/2023 16:00'
+    daysGroup: '28/29/30'
+    ticketsUrl: https://www.instagram.com/p/CuzX8acutUD/
 ---
 
