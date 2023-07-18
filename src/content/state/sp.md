@@ -106,6 +106,7 @@ gigs:
     city: São Paulo
     date: '19/11/2023 10:00'
     daysGroup: 17/18/19
+    ticketsUrl: https://www.sympla.com.br/festival-sp-punk__2075633
   - poster: 361619831_10226773094010916_8105994785979573332_n.jpg
     city: São Paulo
     date: '23/07/2023 10:00'

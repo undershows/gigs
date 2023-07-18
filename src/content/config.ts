@@ -14,7 +14,8 @@ const stateCollection = defineCollection({
       daysGroup: z.string().regex(
         /^(0[1-9]|[1-2][0-9]|3[0-1])(\/(0[1-9]|[1-2][0-9]|3[0-1]))*$/,
         { message: 'Invalid days group. Example: 09/10/11' }
-      ).optional()
+      ).optional(),
+      ticketsUrl: z.string().url().optional()
     })).optional()
   })
 });

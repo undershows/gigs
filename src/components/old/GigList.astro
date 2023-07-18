@@ -23,6 +23,7 @@ type Gig = {
   date: string;
   city: string;
   daysGroup?: string;
+  ticketsUrl?: string;
 };
 
 type ParsedGig = Gig & {
@@ -135,13 +136,23 @@ const gigsByMonth = R.pipe(
                   {gig.city}/{state.data.abbr} ↓↓↓
                 </b>
               </p>
-              <Image
-                src={`/images/posters/${gig.poster}`}
-                alt={getImageAlt(gig)}
-                width={600}
-                height={800}
-                format="webp"
-              />
+              <div class="gig-container">
+                <Image
+                  src={`/images/posters/${gig.poster}`}
+                  alt={getImageAlt(gig)}
+                  width={600}
+                  height={800}
+                  format="webp"
+                  class="gig-poster"
+                />
+
+                {gig.ticketsUrl && (
+                  <a href={gig.ticketsUrl} class="tickets-btn" target="_blank">
+                    <img src="/images/icons/ticket.svg" class="tickets-btn__icon" alt="Ícone de ingresso" />
+                    <span class="tickets-btn__text">Comprar ingressos</span>
+                  </a>
+                )}
+              </div>
             </>
           ))}
         </>
