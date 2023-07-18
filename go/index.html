@@ -17,7 +17,7 @@
     <meta name="generator" content="Astro v2.1.3">
     <meta name="description" content="Catálogo de shows underground no Brasil">
     <title>:: UnderShows ::</title>
-  <link rel="stylesheet" href="/_astro/_...state_.5b0340c3.css" /></head>
+  <link rel="stylesheet" href="/_astro/_...state_.10b346b5.css" /></head>
   <body>
     <p class="normal">
   ESTADOS/STATES<br>
@@ -90,5 +90,14 @@
                 <b>
                   Goiânia/GO ↓↓↓
                 </b>
-              </p><img alt="Cartaz de show em Goiânia, 20 de julho de 2023 às 20:30" width="600" height="800" src="/_astro/FB_IMG_1688865307326_ZIofXs.webp" loading="lazy" decoding="async">
+              </p><div class="gig-container">
+                <img alt="Cartaz de show em Goiânia, 20 de julho de 2023 às 20:30" class="gig-poster" width="600" height="800" src="/_astro/FB_IMG_1688865307326_n8lBK.webp" loading="lazy" decoding="async">
+
+                {gig.ticketsUrl && (
+                  <a class="tickets-btn" target="_blank">
+                    <img src="/images/icons/ticket.svg" class="tickets-btn__icon" alt="Ícone de ingresso">
+                    <span class="tickets-btn__text">Comprar ingressos</span>
+                  </a>
+                )}
+              </div>
   </body></html>
