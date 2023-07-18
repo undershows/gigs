@@ -145,10 +145,14 @@ const gigsByMonth = R.pipe(
                   format="webp"
                   class="gig-poster"
                 />
-                {gig.ticketsUrl && <a href={gig.ticketsUrl} class="tickets-btn" target="_blank">
-                  <img src="/images/icons/ticket.svg" class="tickets-btn__icon" alt="Ícone de ingresso" />
-                  <span class="tickets-btn__text">Comprar ingressos</span>
-                </a>}
+                <>
+                  {gig.ticketsUrl && (
+                    <a href={gig.ticketsUrl} class="tickets-btn" target="_blank">
+                      <img src="/images/icons/ticket.svg" class="tickets-btn__icon" alt="Ícone de ingresso" />
+                      <span class="tickets-btn__text">Comprar ingressos</span>
+                    </a>
+                  )}
+                </>
               </div>
             </>
           ))}
