@@ -83,6 +83,7 @@ gigs:
     city: São Paulo
     date: '22/07/2023 16:00'
     daysGroup: 21/22/23
+    ticketsUrl: https://www.instagram.com/p/Ctrvab8ANtF/
   - poster: 355995883_794115688755760_8112934326217046102_n.jpg
     city: São Paulo
     date: '22/07/2023 19:00'
@@ -133,6 +134,15 @@ gigs:
     date: '21/07/2023 21:00'
     daysGroup: '21/22/23'
     ticketsUrl: https://www.clubedoingresso.com/evento/rogerioskylab-sp
+  - poster: 361104060_7050110858349512_3588622872850445889_n.jpg
+    city: São Paulo
+    date: '20/10/2023 18:00'
+    daysGroup: '20/21/22'
+    ticketsUrl: https://www.bilheto.com.br/evento/1214/AMENRA__HEXIS
+  - poster: 361897778_6359984417412057_3483261611986291312_n.jpg
+    city: Ribeirão Pires
+    date: '28/07/2023 18:00'
+    daysGroup: '28/29/30'
 ---
 
 

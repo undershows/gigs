@@ -26,5 +26,9 @@ gigs:
     city: Curitiba
     date: '23/07/2023 17:00'
     daysGroup: 20/21/22/23
+  - poster: 361941985_6359977570746075_5555717021176483871_n.jpg
+    city: Curitiba
+    date: '04/08/2023 19:00'
+    daysGroup: '04/05/06'
 ---
 
