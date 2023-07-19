@@ -147,6 +147,14 @@ gigs:
     city: São Paulo
     date: '19/08/2023 13:00'
     daysGroup: '18/19/20'
+  - poster: 361918520_6287258991327611_8419545135686974548_n.jpg
+    city: São Paulo
+    date: '23/07/2023 18:00'
+    daysGroup: '21/22/23'
+  - poster: 361962754_10231611526930023_3094692034462062719_n.jpg
+    city: São Carlos
+    date: '22/07/2023 20:00'
+    daysGroup: '21/22/23'
 ---
 
 
