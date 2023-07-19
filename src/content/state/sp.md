@@ -140,9 +140,9 @@ gigs:
     daysGroup: '20/21/22'
     ticketsUrl: https://www.bilheto.com.br/evento/1214/AMENRA__HEXIS
   - poster: 361897778_6359984417412057_3483261611986291312_n.jpg
-    city: Ribeirão Pires
-    date: '28/07/2023 18:00'
-    daysGroup: '28/29/30'
+    city: São Paulo
+    date: '19/08/2023 13:00'
+    daysGroup: '18/19/20'
 ---
 
 
