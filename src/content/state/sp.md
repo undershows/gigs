@@ -155,6 +155,42 @@ gigs:
     city: São Carlos
     date: '22/07/2023 20:00'
     daysGroup: '21/22/23'
+  - poster: FB_IMG_1690030973144.jpg
+    city: Ribeirão Pires
+    date: '22/07/2023 18:00'
+    daysGroup: '21/22/23'
+  - poster: FB_IMG_1690030871148.jpg
+    city: São Paulo
+    date: '22/07/2023 14:00'
+    daysGroup: '21/22/23'
+  - poster: FB_IMG_1690030823939.jpg
+    city: São Paulo
+    date: '22/07/2023 19:00'
+    daysGroup: '21/22/23'
+  - poster: FB_IMG_1690030732246.jpg
+    city: São Paulo
+    date: '23/07/2023 15:00'
+    daysGroup: '21/22/23'
+  - poster: FB_IMG_1690030487067.jpg
+    city: São Paulo
+    date: '22/07/2023 15:00'
+    daysGroup: '21/22/23'
+  - poster: FB_IMG_1690030473352.jpg
+    city: São Paulo
+    date: '22/07/2023 19:00'
+    daysGroup: '21/22/23'
+  - poster: FB_IMG_1690030428389.jpg
+    city: São Paulo
+    date: '30/07/2023 18:00'
+    daysGroup: '28/29/30'
+  - poster: FB_IMG_1690030424176.jpg
+    city: São Paulo
+    date: '29/07/2023 18:00'
+    daysGroup: '28/29/30'
+  - poster: FB_IMG_1690030414157.jpg
+    city: São Paulo
+    date: '22/07/2023 16:00'
+    daysGroup: '21/22/23'
 ---
 
 
