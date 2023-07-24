@@ -840,5 +840,84 @@ gigs:
     city: Santo André
     date: '15/07/2023 19:00'
     daysGroup: 14/15/16
+  - poster: 353662652_10218597393766369_5157909569949374321_n.jpg
+    city: São José dos Campos
+    date: '22/07/2023 15:00'
+    daysGroup: 21/22/23
+  - poster: 353768449_2503785969773910_5374944131116171325_n.jpg
+    city: São José dos Campos
+    date: '23/07/2023 17:00'
+    daysGroup: 21/22/23
+  - poster: 357516361_6395610627185871_5174919592520165321_n.jpg
+    city: São Paulo
+    date: '23/07/2023 18:00'
+    daysGroup: 21/22/23
+  - poster: 358741469_3452480181633658_4598742526632027655_n.jpg
+    city: São Paulo
+    date: '21/07/2023 19:30'
+    daysGroup: 21/22/23
+    ticketsUrl: 'https://www.sescsp.org.br/programacao/deafkids/'
+  - poster: 357705865_6368171399934810_1333150315476702676_n.jpg
+    city: São Paulo
+    date: '22/07/2023 20:00'
+    daysGroup: 21/22/23
+  - poster: 347412225_1742687602827960_5865648859054729441_n.jpg
+    city: São Paulo
+    date: '22/07/2023 16:00'
+    daysGroup: 21/22/23
+    ticketsUrl: 'https://www.instagram.com/p/Ctrvab8ANtF/'
+  - poster: 355995883_794115688755760_8112934326217046102_n.jpg
+    city: São Paulo
+    date: '22/07/2023 19:00'
+    daysGroup: 21/22/23
+  - poster: 361619831_10226773094010916_8105994785979573332_n.jpg
+    city: São Paulo
+    date: '23/07/2023 10:00'
+    daysGroup: 21/22/23
+  - poster: 359823884_10225088537062082_2193828646863251394_n.jpg
+    city: São Paulo
+    date: '22/07/2023 19:30'
+    daysGroup: 21/22/23
+  - poster: 358563250_850666129606278_680824603252407716_n.webp.jpg
+    city: São Paulo
+    date: '21/07/2023 21:00'
+    daysGroup: 21/22/23
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/rogerioskylab-sp'
+  - poster: 361918520_6287258991327611_8419545135686974548_n.jpg
+    city: São Paulo
+    date: '23/07/2023 18:00'
+    daysGroup: 21/22/23
+  - poster: 361962754_10231611526930023_3094692034462062719_n.jpg
+    city: São Carlos
+    date: '22/07/2023 20:00'
+    daysGroup: 21/22/23
+  - poster: FB_IMG_1690030973144.jpg
+    city: Ribeirão Pires
+    date: '22/07/2023 18:00'
+    daysGroup: 21/22/23
+  - poster: FB_IMG_1690030871148.jpg
+    city: São Paulo
+    date: '22/07/2023 14:00'
+    daysGroup: 21/22/23
+  - poster: FB_IMG_1690030823939.jpg
+    city: São Paulo
+    date: '22/07/2023 19:00'
+    daysGroup: 21/22/23
+  - poster: FB_IMG_1690030732246.jpg
+    city: São Paulo
+    date: '23/07/2023 15:00'
+    daysGroup: 21/22/23
+  - poster: FB_IMG_1690030487067.jpg
+    city: São Paulo
+    date: '22/07/2023 15:00'
+    daysGroup: 21/22/23
+  - poster: FB_IMG_1690030473352.jpg
+    city: São Paulo
+    date: '22/07/2023 19:00'
+    daysGroup: 21/22/23
+  - poster: FB_IMG_1690030414157.jpg
+    city: São Paulo
+    date: '22/07/2023 16:00'
+    daysGroup: 21/22/23
 ---
 
