@@ -112,6 +112,10 @@ gigs:
     city: São Paulo
     date: '29/07/2023 18:00'
     daysGroup: 28/29/30
+  - poster: 361561929_1011776736631697_1360892510344008408_n.jpg
+    city: Jacareí
+    date: '24/09/2023 15:00'
+    daysGroup: 22/23/24
 ---
 
 
