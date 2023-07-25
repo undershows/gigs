@@ -116,6 +116,26 @@ gigs:
     city: Jacareí
     date: '24/09/2023 15:00'
     daysGroup: 22/23/24
+  - poster: 363357272_6421088491311044_8501808786269970831_n.jpg
+    city: Varzea Paulista
+    date: '05/08/2023 17:00'
+    daysGroup: 04/05/06
+  - poster: 363352152_6421088744644352_5923367556269618864_n.jpg
+    city: Jundiaí
+    date: '06/08/2023 16:00'
+    daysGroup: 04/05/06
+  - poster: 363383832_7209383589078933_296866805286357168_n.jpg
+    city: Salto
+    date: '30/09/2023 14:00'
+    daysGroup: 29/30
+  - poster: 361608524_10222756310162423_1154849216568106522_n.jpg
+    city: Jacareí
+    date: '29/07/2023 19:00'
+    daysGroup: 28/29/30
+  - poster: 362911085_1784562045353118_6677954446614431208_n.jpg
+    city: Bauru
+    date: '04/08/2023 21:00'
+    daysGroup: 04/05/06
 ---
 
 
