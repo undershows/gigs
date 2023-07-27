@@ -14,5 +14,10 @@ gigs:
     city: Curitiba
     date: '04/08/2023 19:00'
     daysGroup: 04/05/06
+  - poster: FB_IMG_1690418500525.jpg
+    city: Curitiba
+    date: '15/09/2023 19:00'
+    daysGroup: 15/16/17
+    ticketsUrl: 'https://www.bilheto.com.br/evento/1340/The_Toy_Dolls_-_Tour_40_anos'
 ---
 

@@ -136,6 +136,11 @@ gigs:
     city: Bauru
     date: '04/08/2023 21:00'
     daysGroup: 04/05/06
+  - poster: FB_IMG_1690418503005.jpg
+    city: São Paulo
+    date: '16/09/2023 18:00'
+    daysGroup: 15/16/17
+    ticketsUrl: 'https://pixelticket.com.br/eventos/13218/toy-dolls-em-sao-paulo/ingressos'
 ---
 
 
