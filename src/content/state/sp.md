@@ -141,6 +141,10 @@ gigs:
     date: '16/09/2023 18:00'
     daysGroup: 15/16/17
     ticketsUrl: 'https://pixelticket.com.br/eventos/13218/toy-dolls-em-sao-paulo/ingressos'
+  - poster: 364007257_10159742401781172_4616635708979004038_n.jpg
+    city: Piracicaba
+    date: '05/08/2023 18:00'
+    daysGroup: 04/05/06
 ---
 
 

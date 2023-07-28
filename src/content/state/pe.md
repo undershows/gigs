@@ -7,5 +7,9 @@ gigs:
     date: '29/10/2023 18:00'
     daysGroup: '27/28/29'
     ticketsUrl: 'https://www.sympla.com.br/evento/hellcife-extreme-festival-28-e-29-outubro-2023-recife-pe/2013632'
+  - poster: 3041b4e7-4fc5-4fb0-a100-555f5f065142.jpeg
+    city: Recife
+    date: '16/09/2023 22:00'
+    daysGroup: '15/16/17'
 ---
 
