@@ -145,6 +145,11 @@ gigs:
     city: Piracicaba
     date: '05/08/2023 18:00'
     daysGroup: 04/05/06
+  - poster: FB_IMG_1690806151275.jpg
+    city: São José dos Campos
+    date: '27/08/2023 17:00'
+    daysGroup: 25/26/27
+    ticketsUrl: 'https://www.sympla.com.br/colera-em-sao-jose-dos-campos---hocus-pocus__2044650'
 ---
 
 
