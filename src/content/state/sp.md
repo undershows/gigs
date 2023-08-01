@@ -117,7 +117,7 @@ gigs:
   - poster: 364037940_6415330201893835_763414793095626713_n.jpg
     city: São Paulo
     date: '06/09/2023 18:00'
-    daysGroup: 06/06/07/08/09/10
+    daysGroup: 06/07/08/09/10
     ticketsUrl: 'https://www.sympla.com.br/evento/odio-social-e-convidados/2091893'
 ---
 
