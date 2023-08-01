@@ -919,5 +919,42 @@ gigs:
     city: São Paulo
     date: '22/07/2023 16:00'
     daysGroup: 21/22/23
+  - poster: 344446343_751228123134263_4716513514651105704_n.jpeg
+    city: Salto
+    date: '29/07/2023 13:00'
+    daysGroup: 28/29/30
+  - poster: 354229683_2503786133107227_8760310764697531395_n.jpg
+    city: São Paulo
+    date: '30/07/2023 16:00'
+    daysGroup: 28/29/30
+  - poster: 357434186_6340635016001461_5155909824173254317_n.jpg
+    city: São Paulo
+    date: '30/07/2023 18:00'
+    daysGroup: 28/29/30
+  - poster: 355903582_853931359710260_9172643812690614174_n.jpg
+    city: Sumaré
+    date: '29/07/2023 16:00'
+    daysGroup: 28/29/30
+  - poster: feiragato-28-07.jpeg
+    city: São Paulo
+    date: '28/07/2023 16:00'
+    daysGroup: 28/29/30
+    ticketsUrl: 'https://www.instagram.com/p/CuzX8acutUD/'
+  - poster: 361897778_6359984417412057_3483261611986291312_n.jpg
+    city: Ribeirão Pires
+    date: '28/07/2023 18:00'
+    daysGroup: 28/29/30
+  - poster: FB_IMG_1690030428389.jpg
+    city: São Paulo
+    date: '30/07/2023 18:00'
+    daysGroup: 28/29/30
+  - poster: FB_IMG_1690030424176.jpg
+    city: São Paulo
+    date: '29/07/2023 18:00'
+    daysGroup: 28/29/30
+  - poster: 361608524_10222756310162423_1154849216568106522_n.jpg
+    city: Jacareí
+    date: '29/07/2023 19:00'
+    daysGroup: 28/29/30
 ---
 
