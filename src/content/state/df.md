@@ -10,7 +10,7 @@ gigs:
     city: Brasília
     date: '10/08/2023 19:30'
     daysGroup: 10/11/12/13
-  - poster:received_187698074300273.jpeg
+  - poster: received_187698074300273.jpeg
     city: Guara
     date: '12/08/2023 17:00'
     daysGroup: 10/11/12/13
