@@ -14,5 +14,13 @@ gigs:
     city: Guara
     date: '12/08/2023 17:00'
     daysGroup: 10/11/12/13
+  - poster: 364809447_247720034743019_2408397335877044523_n.jpg
+    city: Brasília
+    date: '19/08/2023 19:00'
+    daysGroup: 18/19/20
+  - poster: 364780936_805392277789297_1971278603651475386_n.jpg
+    city: Taguatinga
+    date: '23/09/2023 17:00'
+    daysGroup: 22/23/24
 ---
 

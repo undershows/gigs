@@ -119,6 +119,22 @@ gigs:
     date: '06/09/2023 18:00'
     daysGroup: 06/07/08/09/10
     ticketsUrl: 'https://www.sympla.com.br/evento/odio-social-e-convidados/2091893'
+  - poster: 364811788_10233266982515844_1894896970254266579_n.jpg
+    city: São Paulo
+    date: '26/08/2023 20:00'
+    daysGroup: 25/26/27
+  - poster: 363428301_765165945609654_5609336583640678544_n.jpg
+    city: Diadema
+    date: '06/08/2023 14:00'
+    daysGroup: 04/05/06
+  - poster: 364079574_7102875253073072_1636609106856406007_n.jpg
+    city: São Paulo
+    date: '04/11/2023 20:00'
+    daysGroup: 03/04/05
+  - poster: 362276511_6675761219122287_1542197025535765793_n.jpg
+    city: Praia Grande
+    date: '04/08/2023 20:00'
+    daysGroup: 04/05/06
 ---
 
 
