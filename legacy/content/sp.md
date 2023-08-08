@@ -956,5 +956,37 @@ gigs:
     city: Jacareí
     date: '29/07/2023 19:00'
     daysGroup: 28/29/30
+  - poster: 354050543_7185579138123816_3956396998576874291_n.jpg
+    city: Sumaré
+    date: '05/08/2023 17:00'
+    daysGroup: 04/05/06
+  - poster: FB_IMG_1687312333353.jpg
+    city: São Paulo
+    date: '05/08/2023 14:00'
+    daysGroup: 04/05/06
+  - poster: 363357272_6421088491311044_8501808786269970831_n.jpg
+    city: Varzea Paulista
+    date: '05/08/2023 17:00'
+    daysGroup: 04/05/06
+  - poster: 363352152_6421088744644352_5923367556269618864_n.jpg
+    city: Jundiaí
+    date: '06/08/2023 16:00'
+    daysGroup: 04/05/06
+  - poster: 362911085_1784562045353118_6677954446614431208_n.jpg
+    city: Bauru
+    date: '04/08/2023 21:00'
+    daysGroup: 04/05/06
+  - poster: 364007257_10159742401781172_4616635708979004038_n.jpg
+    city: Piracicaba
+    date: '05/08/2023 18:00'
+    daysGroup: 04/05/06
+  - poster: 363428301_765165945609654_5609336583640678544_n.jpg
+    city: Diadema
+    date: '06/08/2023 14:00'
+    daysGroup: 04/05/06
+  - poster: 362276511_6675761219122287_1542197025535765793_n.jpg
+    city: Praia Grande
+    date: '04/08/2023 20:00'
+    daysGroup: 04/05/06
 ---
 

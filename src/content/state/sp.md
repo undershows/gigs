@@ -21,18 +21,10 @@ gigs:
     date: '07/09/2023 15:00'
     daysGroup: 06/07/08/09/10
     ticketsUrl: 'https://www.clubedoingresso.com/evento/setembronegro-07-09-prefesta'
-  - poster: 354050543_7185579138123816_3956396998576874291_n.jpg
-    city: Sumaré
-    date: '05/08/2023 17:00'
-    daysGroup: 04/05/06
   - poster: 346892663_6563946710294258_7268608824754003862_n.jpg
     city: Sorocaba
     date: '12/08/2023 14:00'
     daysGroup: 11/12/13
-  - poster: FB_IMG_1687312333353.jpg
-    city: São Paulo
-    date: '05/08/2023 14:00'
-    daysGroup: 04/05/06
   - poster: 357468347_10225604720810223_26492865214942217_n.jpg
     city: São Paulo
     date: '27/08/2023 19:00'
@@ -83,31 +75,15 @@ gigs:
     city: Jacareí
     date: '24/09/2023 15:00'
     daysGroup: 22/23/24
-  - poster: 363357272_6421088491311044_8501808786269970831_n.jpg
-    city: Varzea Paulista
-    date: '05/08/2023 17:00'
-    daysGroup: 04/05/06
-  - poster: 363352152_6421088744644352_5923367556269618864_n.jpg
-    city: Jundiaí
-    date: '06/08/2023 16:00'
-    daysGroup: 04/05/06
   - poster: 363383832_7209383589078933_296866805286357168_n.jpg
     city: Salto
     date: '30/09/2023 14:00'
     daysGroup: 29/30
-  - poster: 362911085_1784562045353118_6677954446614431208_n.jpg
-    city: Bauru
-    date: '04/08/2023 21:00'
-    daysGroup: 04/05/06
   - poster: FB_IMG_1690418503005.jpg
     city: São Paulo
     date: '16/09/2023 18:00'
     daysGroup: 15/16/17
     ticketsUrl: 'https://pixelticket.com.br/eventos/13218/toy-dolls-em-sao-paulo/ingressos'
-  - poster: 364007257_10159742401781172_4616635708979004038_n.jpg
-    city: Piracicaba
-    date: '05/08/2023 18:00'
-    daysGroup: 04/05/06
   - poster: FB_IMG_1690806151275.jpg
     city: São José dos Campos
     date: '27/08/2023 17:00'
@@ -123,18 +99,10 @@ gigs:
     city: São Paulo
     date: '26/08/2023 20:00'
     daysGroup: 25/26/27
-  - poster: 363428301_765165945609654_5609336583640678544_n.jpg
-    city: Diadema
-    date: '06/08/2023 14:00'
-    daysGroup: 04/05/06
   - poster: 364079574_7102875253073072_1636609106856406007_n.jpg
     city: São Paulo
     date: '04/11/2023 20:00'
     daysGroup: 03/04/05
-  - poster: 362276511_6675761219122287_1542197025535765793_n.jpg
-    city: Praia Grande
-    date: '04/08/2023 20:00'
-    daysGroup: 04/05/06
 ---
 
 

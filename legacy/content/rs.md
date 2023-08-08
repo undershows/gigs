@@ -28,5 +28,9 @@ gigs:
     city: Porto Alegre
     date: '04/06/2023 15:00'
     daysGroup: 02/03/04
+  - city: Porto Alegre
+    date: '06/08/2023 18:00'
+    poster: 337053667_1162517191101708_1818024009707842909_n.jpeg
+    daysGroup: 04/05/06
 ---
 
