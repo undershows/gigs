@@ -115,6 +115,30 @@ gigs:
     city: São Paulo
     date: '19/08/2023 14:00'
     daysGroup: 18/19/20
+  - poster: 367430250_6527701070643492_2484963831191860185_n.jpg
+    city: Indaiatuba
+    date: '26/08/2023 20:00'
+    daysGroup: 25/26/27
+  - poster: 366746349_10226952751702246_7599482580261470968_n.jpg
+    city: São Paulo
+    date: '19/08/2023 19:00'
+    daysGroup: 18/19/20
+  - poster: 366745288_7278714985479126_7885417722521051565_n.jpg
+    city: Jundiaí
+    date: '20/08/2023 18:00'
+    daysGroup: 18/19/20
+  - poster: 366735674_7278717955478829_1504306052541276308_n.jpg
+    city: Amparo
+    date: '23/09/2023 15:00'
+    daysGroup: 22/23/24
+  - poster: 367743322_1775045326258854_3358254029774054535_n.jpg
+    city: Osasco
+    date: '20/08/2023 18:00'
+    daysGroup: 18/19/20
+  - poster: 366730693_6489261224493770_1649275822296366187_n.jpg
+    city: Indaiatuba
+    date: '17/09/2023 15:00'
+    daysGroup: 15/16/17
 ---
 
 
