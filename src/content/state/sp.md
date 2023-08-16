@@ -140,7 +140,7 @@ gigs:
     date: '17/09/2023 15:00'
     daysGroup: 15/16/17
   - poster: 366662035_7278714392145852_4357408195007769033_n.jpg
-    city: Indaiatuba
+    city: Sorocaba
     date: '08/10/2023 14:00'
     daysGroup: 06/07/08
 ---
