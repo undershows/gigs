@@ -67,8 +67,7 @@ gigs:
     city: São José dos Campos
     date: '27/08/2023 17:00'
     daysGroup: 25/26/27
-    ticketsUrl: >-
-      https://www.sympla.com.br/colera-em-sao-jose-dos-campos---hocus-pocus__2044650
+    ticketsUrl: 'https://www.sympla.com.br/colera-em-sao-jose-dos-campos---hocus-pocus__2044650'
   - poster: 364037940_6415330201893835_763414793095626713_n.jpg
     city: São Paulo
     date: '06/09/2023 18:00'
@@ -98,6 +97,23 @@ gigs:
     city: Sorocaba
     date: '08/10/2023 14:00'
     daysGroup: 06/07/08
+  - poster: 369936929_6472918406118657_8892757643787146333_n.jpg
+    city: Várzea Paulista
+    date: '09/09/2023 18:00'
+    daysGroup: 08/09/10
+  - poster: 369939048_6472918839451947_5984335481433218722_n.jpg
+    city: Guarulhos
+    date: '29/10/2023 13:00'
+    daysGroup: 27/28/29
+    ticketsUrl: 'https://www.sympla.com.br/evento/ratos-de-porao-brecs-apresenta/2117421'
+  - poster: 370035204_6472919146118583_3793235309658195974_n.jpg
+    city: Osasco
+    date: '23/09/2023 19:00'
+    daysGroup: 22/23/24
+  - poster: 368379101_6628866457173574_151878576830352061_n.jpg
+    city: São Paulo
+    date: '15/09/2023 19:00'
+    daysGroup: 15/16/17
 ---
 
 
