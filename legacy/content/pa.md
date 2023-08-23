@@ -32,5 +32,9 @@ gigs:
     city: Portel
     date: '15/07/2023 20:00'
     daysGroup: 14/15/16
+  - poster: 365840773_6462939783782265_1055721871084825780_n.jpg
+    city: Belém
+    date: '19/08/2023 19:00'
+    daysGroup: 18/19/20
 ---
 

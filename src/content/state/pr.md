@@ -15,11 +15,6 @@ gigs:
     city: Cascavel
     date: '26/08/2023 22:00'
     daysGroup: 25/26/27
-  - poster: 52853073342_0217bd0a44_w.jpg
-    city: Curitiba
-    date: '19/08/2023 20:00'
-    daysGroup: 15/16/17
-    ticketsUrl: 'https://www.bilheto.com.br/evento/1414/Brujeria_-_Repdiyo_-_Necrotrio'
   - poster: 366737025_7256463971068216_4166781555336502343_n.jpg
     city: Curitiba
     date: '30/09/2023 19:00'

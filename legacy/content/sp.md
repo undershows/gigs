@@ -988,5 +988,50 @@ gigs:
     city: Praia Grande
     date: '04/08/2023 20:00'
     daysGroup: 04/05/06
+  - poster: FB_IMG_1687312348395.jpg
+    city: Mogi das Cruzes
+    date: '20/08/2023 16:00'
+    daysGroup: 18/19/20
+  - poster: 346892663_6563946710294258_7268608824754003862_n.jpg
+    city: Sorocaba
+    date: '12/08/2023 14:00'
+    daysGroup: 10/11/12/13
+  - poster: 359195247_6368171889934761_9170151097350359945_n.jpg
+    city: São Paulo
+    date: '12/08/2023 14:00'
+    daysGroup: 10/11/12/13
+  - poster: 351769322_2298488693898894_7182825963499957741_n.jpg
+    city: São Paulo
+    date: '12/08/2023 18:00'
+    daysGroup: 10/11/12/13
+    ticketsUrl: 'https://pixelticket.com.br/eventos/14167/smashpit-fest-no-hangar-110'
+  - poster: 361929812_1333013620892049_7362823950875718443_n.jpg
+    city: São Paulo
+    date: '19/08/2023 13:00'
+    daysGroup: 18/19/20
+  - poster: 366193540_10223355316777161_4347882262771393347_n.jpg
+    city: São Paulo
+    date: '10/08/2023 18:00'
+    daysGroup: 10/11/12/13
+  - poster: FB_IMG_1691966794929.jpg
+    city: São Paulo
+    date: '19/08/2023 14:00'
+    daysGroup: 18/19/20
+  - poster: FB_IMG_1691966790768.jpg
+    city: São Paulo
+    date: '19/08/2023 14:00'
+    daysGroup: 18/19/20
+  - poster: 366746349_10226952751702246_7599482580261470968_n.jpg
+    city: São Paulo
+    date: '19/08/2023 19:00'
+    daysGroup: 18/19/20
+  - poster: 366745288_7278714985479126_7885417722521051565_n.jpg
+    city: Jundiaí
+    date: '20/08/2023 18:00'
+    daysGroup: 18/19/20
+  - poster: 367743322_1775045326258854_3358254029774054535_n.jpg
+    city: Osasco
+    date: '20/08/2023 18:00'
+    daysGroup: 18/19/20
 ---
 

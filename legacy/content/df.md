@@ -80,5 +80,21 @@ gigs:
     city: Brasília
     date: '21/07/2023 18:00'
     daysGroup: 21/22/23
+  - poster: received_833883268047226.jpeg
+    city: Brasília
+    date: '10/08/2023 19:30'
+    daysGroup: 10/11/12/13
+  - poster: received_187698074300273.jpeg
+    city: Guara
+    date: '12/08/2023 17:00'
+    daysGroup: 10/11/12/13
+  - poster: 364809447_247720034743019_2408397335877044523_n.jpg
+    city: Brasília
+    date: '19/08/2023 19:00'
+    daysGroup: 18/19/20
+  - poster: 365033000_944406549987221_824671469198978223_n.jpg
+    city: Taguatinga
+    date: '20/08/2023 14:00'
+    daysGroup: 18/19/20
 ---
 
