@@ -78,7 +78,7 @@ gigs:
   - poster: 369936929_6472918406118657_8892757643787146333_n.jpg
     city: Várzea Paulista
     date: '09/09/2023 18:00'
-    daysGroup: 08/09/10
+    daysGroup: 06/07/08/09/10
   - poster: 369939048_6472918839451947_5984335481433218722_n.jpg
     city: Guarulhos
     date: '29/10/2023 13:00'
@@ -96,6 +96,66 @@ gigs:
     city: São Paulo
     date: '03/09/2023 17:00'
     daysGroup: 01/02/03
+  - poster: 370168141_6505304349553186_4625944161199686007_n.jpg
+    city: São Paulo
+    date: '02/09/2023 17:00'
+    daysGroup: 01/02/03
+  - poster: 373043201_7399447473405052_2147112772048696705_n.jpg
+    city: Campinas
+    date: '06/09/2023 22:00'
+    daysGroup: 06/07/08/09/10
+  - poster: 367696242_780443094083489_3145757418128286216_n.jpg
+    city: São Paulo
+    date: '23/09/2023 21:00'
+    daysGroup: 22/23/24
+  - poster: andralls_bauru.jpg
+    city: Bauru
+    date: '07/09/2023 18:00'
+    daysGroup: 06/07/08/09/10
+  - poster: andralls_botucatu.jpg
+    city: Botucatu
+    date: '08/09/2023 17:00'
+    daysGroup: 06/07/08/09/10
+  - poster: andralls_presidente_prudente.jpg
+    city: Presidente Prudente
+    date: '09/09/2023 21:00'
+    daysGroup: 06/07/08/09/10
+  - poster: sao_carlos_infierno.jpg
+    city: São Carlos
+    date: '09/09/2023 20:00'
+    daysGroup: 06/07/08/09/10
+  - poster: andralls_marilia.jpg
+    city: Marília
+    date: '10/09/2023 17:00'
+    daysGroup: 06/07/08/09/10
+  - poster: acao_direita_bauru.jpg
+    city: Bauru
+    date: '22/09/2023 20:00'
+    daysGroup: 22/23/24
+  - poster: depoisdocaos_jau.jpg
+    city: São Paulo
+    date: '23/09/2023 21:00'
+    daysGroup: 22/23/24
+  - poster: acao_direita_presidente_prudente.jpg
+    city: Presidente Prudente
+    date: '30/09/2023 16:00'
+    daysGroup: 06/07/08/09/10
+  - poster: going_strong_bauru.jpg
+    city: Bauru
+    date: '08/10/2023 17:00'
+    daysGroup: 06/07/08
+  - poster: sao_caos_festival.jpg
+    city: São Carlos
+    date: '11/11/2023 12:00'
+    daysGroup: 10/11/12
+  - poster: festa_estranha.jpg
+    city: São José do Rio Preto
+    date: '23/09/2023 18:00'
+    daysGroup: 22/23/24
+  - poster: lucky_friends.jpg 
+    city: Sorocaba
+    date: '22/10/2023 12:00'
+    daysGroup: 20/21/22
 ---
 
 
