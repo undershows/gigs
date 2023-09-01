@@ -40,5 +40,17 @@ gigs:
     city: Rio de Janeiro
     date: '21/07/2023 19:00'
     daysGroup: 21/22/23
+  - poster: 344815122_101708899591648_7206055014700478684_n.jpeg
+    city: Rio de Janeiro
+    date: '25/08/2023 19:00'
+    daysGroup: 25/26/27
+  - poster: 352944738_587068860081914_5335772174223154988_n.jpg
+    city: Rio de Janeiro
+    date: '25/08/2023 19:00'
+    daysGroup: 25/26/27
+  - poster: Art-Hellfiresinferninhofeed-fina.png
+    city: Campos dos Goytacazes
+    date: '26/08/2023 16:00'
+    daysGroup: 25/26/27
 ---
 

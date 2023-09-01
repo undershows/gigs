@@ -11,10 +11,6 @@ gigs:
     date: '15/09/2023 19:00'
     daysGroup: 15/16/17
     ticketsUrl: 'https://www.bilheto.com.br/evento/1340/The_Toy_Dolls_-_Tour_40_anos'
-  - poster: 363382225_6423073797762275_9216835691661567406_n.jpg
-    city: Cascavel
-    date: '26/08/2023 22:00'
-    daysGroup: 25/26/27
   - poster: 366737025_7256463971068216_4166781555336502343_n.jpg
     city: Curitiba
     date: '30/09/2023 19:00'

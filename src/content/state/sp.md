@@ -17,15 +17,6 @@ gigs:
     date: '07/09/2023 15:00'
     daysGroup: 06/07/08/09/10
     ticketsUrl: 'https://www.clubedoingresso.com/evento/setembronegro-07-09-prefesta'
-  - poster: 357468347_10225604720810223_26492865214942217_n.jpg
-    city: São Paulo
-    date: '27/08/2023 19:00'
-    daysGroup: 25/26/27
-    ticketsUrl: 'https://pixelticket.com.br/eventos/grupo/14548/oxigenio-festival-2023'
-  - poster: 359404123_616013653963038_6415346835332655301_n.jpg
-    city: Osasco
-    date: '26/08/2023 19:00'
-    daysGroup: 25/26/27
   - poster: 358431360_10225639050708449_976895014449052687_n.jpg
     city: São Paulo
     date: '27/10/2023 19:00'
@@ -63,28 +54,15 @@ gigs:
     date: '16/09/2023 18:00'
     daysGroup: 15/16/17
     ticketsUrl: 'https://pixelticket.com.br/eventos/13218/toy-dolls-em-sao-paulo/ingressos'
-  - poster: FB_IMG_1690806151275.jpg
-    city: São José dos Campos
-    date: '27/08/2023 17:00'
-    daysGroup: 25/26/27
-    ticketsUrl: 'https://www.sympla.com.br/colera-em-sao-jose-dos-campos---hocus-pocus__2044650'
   - poster: 364037940_6415330201893835_763414793095626713_n.jpg
     city: São Paulo
     date: '06/09/2023 18:00'
     daysGroup: 06/07/08/09/10
     ticketsUrl: 'https://www.sympla.com.br/evento/odio-social-e-convidados/2091893'
-  - poster: 364811788_10233266982515844_1894896970254266579_n.jpg
-    city: São Paulo
-    date: '26/08/2023 20:00'
-    daysGroup: 25/26/27
   - poster: 364079574_7102875253073072_1636609106856406007_n.jpg
     city: São Paulo
     date: '04/11/2023 20:00'
     daysGroup: 03/04/05
-  - poster: 367430250_6527701070643492_2484963831191860185_n.jpg
-    city: Indaiatuba
-    date: '26/08/2023 20:00'
-    daysGroup: 25/26/27
   - poster: 366735674_7278717955478829_1504306052541276308_n.jpg
     city: Amparo
     date: '23/09/2023 15:00'
@@ -114,6 +92,10 @@ gigs:
     city: São Paulo
     date: '15/09/2023 19:00'
     daysGroup: 15/16/17
+  - poster: 371773126_122095925912032195_6034560645087751763_n.jpg
+    city: São Paulo
+    date: '03/09/2023 17:00'
+    daysGroup: 01/02/03
 ---
 
 
