@@ -1056,5 +1056,13 @@ gigs:
     city: Indaiatuba
     date: '26/08/2023 20:00'
     daysGroup: 25/26/27
+  - poster: 371773126_122095925912032195_6034560645087751763_n.jpg
+    city: São Paulo
+    date: '03/09/2023 17:00'
+    daysGroup: 01/02/03
+  - poster: 370168141_6505304349553186_4625944161199686007_n.jpg
+    city: São Paulo
+    date: '02/09/2023 17:00'
+    daysGroup: 01/02/03
 ---
 

@@ -92,14 +92,6 @@ gigs:
     city: São Paulo
     date: '15/09/2023 19:00'
     daysGroup: 15/16/17
-  - poster: 371773126_122095925912032195_6034560645087751763_n.jpg
-    city: São Paulo
-    date: '03/09/2023 17:00'
-    daysGroup: 01/02/03
-  - poster: 370168141_6505304349553186_4625944161199686007_n.jpg
-    city: São Paulo
-    date: '02/09/2023 17:00'
-    daysGroup: 01/02/03
   - poster: 373043201_7399447473405052_2147112772048696705_n.jpg
     city: Campinas
     date: '06/09/2023 22:00'
@@ -152,7 +144,7 @@ gigs:
     city: São José do Rio Preto
     date: '23/09/2023 18:00'
     daysGroup: 22/23/24
-  - poster: lucky_friends.jpg 
+  - poster: lucky_friends.jpg
     city: Sorocaba
     date: '22/10/2023 12:00'
     daysGroup: 20/21/22
