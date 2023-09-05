@@ -160,6 +160,14 @@ gigs:
     city: Birigui
     date: '23/09/2023 13:00'
     daysGroup: 22/23/24
+  - poster: 373059978_204014999350946_843299558962440950_n.jpg
+    city: Diadema
+    date: '17/09/2023 16:00'
+    daysGroup: 15/16/17
+  - poster: 374528212_6139050852865345_2425586714643793615_n.jpg
+    city: São Paulo
+    date: '04/11/2023 20:00'
+    daysGroup: 03/04/05
 ---
 
 
