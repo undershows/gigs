@@ -148,6 +148,18 @@ gigs:
     city: Sorocaba
     date: '22/10/2023 12:00'
     daysGroup: 20/21/22
+  - poster: 374623258_1812085272600795_8491789238377394072_n.jpg
+    city: Bauru
+    date: '24/09/2023 16:00'
+    daysGroup: 22/23/24
+  - poster: 374371245_1812086249267364_1458427914209733321_n.jpg
+    city: São Paulo
+    date: '23/09/2023 15:00'
+    daysGroup: 22/23/24
+  - poster: 370371887_1812086405934015_5874322892175334894_n.jpg
+    city: Birigui
+    date: '23/09/2023 13:00'
+    daysGroup: 22/23/24
 ---
 
 
