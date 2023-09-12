@@ -83,7 +83,7 @@ gigs:
   - poster: acao_direita_presidente_prudente.jpg
     city: Presidente Prudente
     date: '30/09/2023 16:00'
-    daysGroup: 06/07/08/09/10
+    daysGroup: 29/30
   - poster: going_strong_bauru.jpg
     city: Bauru
     date: '08/10/2023 17:00'
