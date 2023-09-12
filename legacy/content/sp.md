@@ -1064,5 +1064,53 @@ gigs:
     city: São Paulo
     date: '02/09/2023 17:00'
     daysGroup: 01/02/03
+  - city: São Paulo
+    date: '08/09/2023 00:00'
+    poster: 7d61e8f3-1c15-4c4d-bbc2-d345ca81c75d.jpeg
+    daysGroup: 06/07/08/09/10
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/setembronegro'
+  - city: Peruíbe
+    date: '09/09/2023 00:00'
+    poster: 330610248_213669024571558_3707199831043223500_n.jpeg
+    daysGroup: 06/07/08/09/10
+    ticketsUrl: 'https://literaturaselvagem.com.br/'
+  - poster: 344810575_775434177591657_7457528496298241876_n.jpeg
+    city: São Paulo
+    date: '07/09/2023 15:00'
+    daysGroup: 06/07/08/09/10
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/setembronegro-07-09-prefesta'
+  - poster: 364037940_6415330201893835_763414793095626713_n.jpg
+    city: São Paulo
+    date: '06/09/2023 18:00'
+    daysGroup: 06/07/08/09/10
+    ticketsUrl: 'https://www.sympla.com.br/evento/odio-social-e-convidados/2091893'
+  - poster: 369936929_6472918406118657_8892757643787146333_n.jpg
+    city: Várzea Paulista
+    date: '09/09/2023 18:00'
+    daysGroup: 06/07/08/09/10
+  - poster: 373043201_7399447473405052_2147112772048696705_n.jpg
+    city: Campinas
+    date: '06/09/2023 22:00'
+    daysGroup: 06/07/08/09/10
+  - poster: andralls_bauru.jpg
+    city: Bauru
+    date: '07/09/2023 18:00'
+    daysGroup: 06/07/08/09/10
+  - poster: andralls_botucatu.jpg
+    city: Botucatu
+    date: '08/09/2023 17:00'
+    daysGroup: 06/07/08/09/10
+  - poster: andralls_presidente_prudente.jpg
+    city: Presidente Prudente
+    date: '09/09/2023 21:00'
+    daysGroup: 06/07/08/09/10
+  - poster: sao_carlos_infierno.jpg
+    city: São Carlos
+    date: '09/09/2023 20:00'
+    daysGroup: 06/07/08/09/10
+  - poster: andralls_marilia.jpg
+    city: Marília
+    date: '10/09/2023 17:00'
+    daysGroup: 06/07/08/09/10
 ---
 
