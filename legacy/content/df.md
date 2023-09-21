@@ -96,5 +96,9 @@ gigs:
     city: Taguatinga
     date: '20/08/2023 14:00'
     daysGroup: 18/19/20
+  - poster: received_575298554803165.jpeg
+    city: Ceilândia
+    date: '16/09/2023 20:00'
+    daysGroup: 15/16/17
 ---
 

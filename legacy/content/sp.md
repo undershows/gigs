@@ -1112,5 +1112,26 @@ gigs:
     city: Marília
     date: '10/09/2023 17:00'
     daysGroup: 06/07/08/09/10
+  - poster: 359196800_6345741385503027_7157228899864461359_n.jpg
+    city: São Paulo
+    date: '16/09/2023 13:00'
+    daysGroup: 15/16/17
+  - poster: FB_IMG_1690418503005.jpg
+    city: São Paulo
+    date: '16/09/2023 18:00'
+    daysGroup: 15/16/17
+    ticketsUrl: 'https://pixelticket.com.br/eventos/13218/toy-dolls-em-sao-paulo/ingressos'
+  - poster: 366730693_6489261224493770_1649275822296366187_n.jpg
+    city: Indaiatuba
+    date: '17/09/2023 15:00'
+    daysGroup: 15/16/17
+  - poster: 368379101_6628866457173574_151878576830352061_n.jpg
+    city: São Paulo
+    date: '15/09/2023 19:00'
+    daysGroup: 15/16/17
+  - poster: 373059978_204014999350946_843299558962440950_n.jpg
+    city: Diadema
+    date: '17/09/2023 16:00'
+    daysGroup: 15/16/17
 ---
 

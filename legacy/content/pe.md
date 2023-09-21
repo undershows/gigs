@@ -28,5 +28,9 @@ gigs:
     city: Recife
     date: '04/06/2023 16:00'
     daysGroup: 02/03/04
+  - poster: 3041b4e7-4fc5-4fb0-a100-555f5f065142.jpeg
+    city: Recife
+    date: '16/09/2023 22:00'
+    daysGroup: 15/16/17
 ---
 

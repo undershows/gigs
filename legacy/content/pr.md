@@ -121,5 +121,10 @@ gigs:
     city: Cascavel
     date: '26/08/2023 22:00'
     daysGroup: 25/26/27
+  - poster: FB_IMG_1690418500525.jpg
+    city: Curitiba
+    date: '15/09/2023 19:00'
+    daysGroup: 15/16/17
+    ticketsUrl: 'https://www.bilheto.com.br/evento/1340/The_Toy_Dolls_-_Tour_40_anos'
 ---
 

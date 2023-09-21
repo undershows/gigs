@@ -7,10 +7,6 @@ gigs:
     date: '27/10/2023 19:00'
     daysGroup: 27/28/29
     ticketsUrl: 'https://www.clubedoingresso.com/evento/blackflag-saopaulo'
-  - poster: 359196800_6345741385503027_7157228899864461359_n.jpg
-    city: São Paulo
-    date: '16/09/2023 13:00'
-    daysGroup: 15/16/17
   - poster: 358391263_775075024405759_4034568623908094891_n.jpg
     city: São Paulo
     date: '29/10/2023 18:30'
@@ -34,11 +30,6 @@ gigs:
     city: Salto
     date: '30/09/2023 14:00'
     daysGroup: 29/30
-  - poster: FB_IMG_1690418503005.jpg
-    city: São Paulo
-    date: '16/09/2023 18:00'
-    daysGroup: 15/16/17
-    ticketsUrl: 'https://pixelticket.com.br/eventos/13218/toy-dolls-em-sao-paulo/ingressos'
   - poster: 364079574_7102875253073072_1636609106856406007_n.jpg
     city: São Paulo
     date: '04/11/2023 20:00'
@@ -47,10 +38,6 @@ gigs:
     city: Amparo
     date: '23/09/2023 15:00'
     daysGroup: 22/23/24
-  - poster: 366730693_6489261224493770_1649275822296366187_n.jpg
-    city: Indaiatuba
-    date: '17/09/2023 15:00'
-    daysGroup: 15/16/17
   - poster: 366662035_7278714392145852_4357408195007769033_n.jpg
     city: Sorocaba
     date: '08/10/2023 14:00'
@@ -64,10 +51,6 @@ gigs:
     city: Osasco
     date: '23/09/2023 19:00'
     daysGroup: 22/23/24
-  - poster: 368379101_6628866457173574_151878576830352061_n.jpg
-    city: São Paulo
-    date: '15/09/2023 19:00'
-    daysGroup: 15/16/17
   - poster: 367696242_780443094083489_3145757418128286216_n.jpg
     city: São Paulo
     date: '23/09/2023 21:00'
@@ -112,10 +95,6 @@ gigs:
     city: Birigui
     date: '23/09/2023 13:00'
     daysGroup: 22/23/24
-  - poster: 373059978_204014999350946_843299558962440950_n.jpg
-    city: Diadema
-    date: '17/09/2023 16:00'
-    daysGroup: 15/16/17
   - poster: 374528212_6139050852865345_2425586714643793615_n.jpg
     city: São Paulo
     date: '04/11/2023 20:00'

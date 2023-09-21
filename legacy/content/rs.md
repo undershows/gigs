@@ -32,5 +32,11 @@ gigs:
     date: '06/08/2023 18:00'
     poster: 337053667_1162517191101708_1818024009707842909_n.jpeg
     daysGroup: 04/05/06
+  - poster: The-Toy-Dolls-POA-2023.jpg
+    city: Porto Alegre
+    date: '13/09/2023 19:00'
+    daysGroup: 13/14
+    ticketsUrl: >-
+      https://bileto.sympla.com.br/event/81720?utm_source=pwa-symplabiletoandroid-production&utm_medium=webapp_share&utm_campaign=webapp_share_event_81720
 ---
 

@@ -2,10 +2,6 @@
 abbr: DF
 name: Distrito Federal
 gigs:
-  - poster: received_575298554803165.jpeg
-    city: Ceilândia
-    date: '16/09/2023 20:00'
-    daysGroup: 15/16/17
   - poster: 364780936_805392277789297_1971278603651475386_n.jpg
     city: Taguatinga
     date: '23/09/2023 17:00'

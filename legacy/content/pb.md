@@ -23,5 +23,9 @@ gigs:
     city: João Pessoa
     date: '28/07/2023 20:00'
     daysGroup: 28/29/30
+  - poster: 1e35c6e7-bef5-4ae7-b2cd-a8a374222403.jpeg
+    city: João Pessoa
+    date: '17/09/2023 17:00'
+    daysGroup: 15/16/17
 ---
 
