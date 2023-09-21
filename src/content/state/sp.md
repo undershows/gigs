@@ -99,6 +99,26 @@ gigs:
     city: São Paulo
     date: '04/11/2023 20:00'
     daysGroup: 03/04/05
+  - poster: 381633397_10226185505156381_932085308692973573_n.jpg
+    city: São Paulo
+    date: '23/09/2023 19:00'
+    daysGroup: 22/23/24
+  - poster: 380758409_7388008211247124_1023018896533137142_n.jpg
+    city: São Paulo
+    date: '23/09/2023 20:00'
+    daysGroup: 22/23/24
+  - poster: 380795233_7388005437914068_8241806870526449152_n.jpg
+    city: São Paulo
+    date: '29/09/2023 19:00'
+    daysGroup: 29/30
+  - poster: 3.1.jpg
+    city: Piracicaba
+    date: '19/10/2023 18:00'
+    daysGroup: 19/20/21/22
+  - poster: 3.2.jpg
+    city: Franca
+    date: '20/10/2023 19:00'
+    daysGroup: 19/20/21/22
 ---
 
 
