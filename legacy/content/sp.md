@@ -1133,5 +1133,53 @@ gigs:
     city: Diadema
     date: '17/09/2023 16:00'
     daysGroup: 15/16/17
+  - poster: 361561929_1011776736631697_1360892510344008408_n.jpg
+    city: Jacareí
+    date: '24/09/2023 15:00'
+    daysGroup: 22/23/24
+  - poster: 366735674_7278717955478829_1504306052541276308_n.jpg
+    city: Amparo
+    date: '23/09/2023 15:00'
+    daysGroup: 22/23/24
+  - poster: 370035204_6472919146118583_3793235309658195974_n.jpg
+    city: Osasco
+    date: '23/09/2023 19:00'
+    daysGroup: 22/23/24
+  - poster: 367696242_780443094083489_3145757418128286216_n.jpg
+    city: São Paulo
+    date: '23/09/2023 21:00'
+    daysGroup: 22/23/24
+  - poster: acao_direita_bauru.jpg
+    city: Bauru
+    date: '22/09/2023 20:00'
+    daysGroup: 22/23/24
+  - poster: depoisdocaos_jau.jpg
+    city: São Paulo
+    date: '23/09/2023 21:00'
+    daysGroup: 22/23/24
+  - poster: festa_estranha.jpg
+    city: São José do Rio Preto
+    date: '23/09/2023 18:00'
+    daysGroup: 22/23/24
+  - poster: 374623258_1812085272600795_8491789238377394072_n.jpg
+    city: Bauru
+    date: '24/09/2023 16:00'
+    daysGroup: 22/23/24
+  - poster: 374371245_1812086249267364_1458427914209733321_n.jpg
+    city: São Paulo
+    date: '23/09/2023 15:00'
+    daysGroup: 22/23/24
+  - poster: 370371887_1812086405934015_5874322892175334894_n.jpg
+    city: Birigui
+    date: '23/09/2023 13:00'
+    daysGroup: 22/23/24
+  - poster: 381633397_10226185505156381_932085308692973573_n.jpg
+    city: São Paulo
+    date: '23/09/2023 19:00'
+    daysGroup: 22/23/24
+  - poster: 380758409_7388008211247124_1023018896533137142_n.jpg
+    city: São Paulo
+    date: '23/09/2023 20:00'
+    daysGroup: 22/23/24
 ---
 

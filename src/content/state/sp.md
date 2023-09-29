@@ -22,10 +22,6 @@ gigs:
     date: '20/10/2023 18:00'
     daysGroup: 20/21/22
     ticketsUrl: 'https://www.bilheto.com.br/evento/1214/AMENRA__HEXIS'
-  - poster: 361561929_1011776736631697_1360892510344008408_n.jpg
-    city: Jacareí
-    date: '24/09/2023 15:00'
-    daysGroup: 22/23/24
   - poster: 363383832_7209383589078933_296866805286357168_n.jpg
     city: Salto
     date: '30/09/2023 14:00'
@@ -34,10 +30,6 @@ gigs:
     city: São Paulo
     date: '04/11/2023 20:00'
     daysGroup: 03/04/05
-  - poster: 366735674_7278717955478829_1504306052541276308_n.jpg
-    city: Amparo
-    date: '23/09/2023 15:00'
-    daysGroup: 22/23/24
   - poster: 366662035_7278714392145852_4357408195007769033_n.jpg
     city: Sorocaba
     date: '08/10/2023 14:00'
@@ -47,22 +39,6 @@ gigs:
     date: '29/10/2023 13:00'
     daysGroup: 27/28/29
     ticketsUrl: 'https://www.sympla.com.br/evento/ratos-de-porao-brecs-apresenta/2117421'
-  - poster: 370035204_6472919146118583_3793235309658195974_n.jpg
-    city: Osasco
-    date: '23/09/2023 19:00'
-    daysGroup: 22/23/24
-  - poster: 367696242_780443094083489_3145757418128286216_n.jpg
-    city: São Paulo
-    date: '23/09/2023 21:00'
-    daysGroup: 22/23/24
-  - poster: acao_direita_bauru.jpg
-    city: Bauru
-    date: '22/09/2023 20:00'
-    daysGroup: 22/23/24
-  - poster: depoisdocaos_jau.jpg
-    city: São Paulo
-    date: '23/09/2023 21:00'
-    daysGroup: 22/23/24
   - poster: acao_direita_presidente_prudente.jpg
     city: Presidente Prudente
     date: '30/09/2023 16:00'
@@ -75,38 +51,14 @@ gigs:
     city: São Carlos
     date: '11/11/2023 12:00'
     daysGroup: 10/11/12
-  - poster: festa_estranha.jpg
-    city: São José do Rio Preto
-    date: '23/09/2023 18:00'
-    daysGroup: 22/23/24
   - poster: lucky_friends.jpg
     city: Sorocaba
     date: '22/10/2023 12:00'
     daysGroup: 20/21/22
-  - poster: 374623258_1812085272600795_8491789238377394072_n.jpg
-    city: Bauru
-    date: '24/09/2023 16:00'
-    daysGroup: 22/23/24
-  - poster: 374371245_1812086249267364_1458427914209733321_n.jpg
-    city: São Paulo
-    date: '23/09/2023 15:00'
-    daysGroup: 22/23/24
-  - poster: 370371887_1812086405934015_5874322892175334894_n.jpg
-    city: Birigui
-    date: '23/09/2023 13:00'
-    daysGroup: 22/23/24
   - poster: 374528212_6139050852865345_2425586714643793615_n.jpg
     city: São Paulo
     date: '04/11/2023 20:00'
     daysGroup: 03/04/05
-  - poster: 381633397_10226185505156381_932085308692973573_n.jpg
-    city: São Paulo
-    date: '23/09/2023 19:00'
-    daysGroup: 22/23/24
-  - poster: 380758409_7388008211247124_1023018896533137142_n.jpg
-    city: São Paulo
-    date: '23/09/2023 20:00'
-    daysGroup: 22/23/24
   - poster: 380795233_7388005437914068_8241806870526449152_n.jpg
     city: São Paulo
     date: '29/09/2023 19:00'
