@@ -73,7 +73,7 @@ const daysGroupFromDate = (date: Date) => {
  * @return {string}
  */
 const getFormattedMonthName = (monthNumber: string) => {
-  const month = parse(monthNumber, "M", Date.now());
+  const month = parse(monthNumber, "M-yyyy", Date.now());
   const monthName = format(month, "MMMM");
 
   return R.toUpper(`${t(`month.${monthName}`)}/${monthName}`);
@@ -98,7 +98,7 @@ const gigsByMonth = R.pipe(
       ...gig,
       date,
       daysGroup: gig.daysGroup ?? daysGroupFromDate(date),
-      monthNumber: format(date, "M"),
+      monthNumber: format(date, "M-yyyy"),
     };
   }),
   R.filter((gig: ParsedGig) =>
