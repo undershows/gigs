@@ -22,31 +22,15 @@ gigs:
     date: '20/10/2023 18:00'
     daysGroup: 20/21/22
     ticketsUrl: 'https://www.bilheto.com.br/evento/1214/AMENRA__HEXIS'
-  - poster: 363383832_7209383589078933_296866805286357168_n.jpg
-    city: Salto
-    date: '30/09/2023 14:00'
-    daysGroup: 29/30
   - poster: 364079574_7102875253073072_1636609106856406007_n.jpg
     city: São Paulo
     date: '04/11/2023 20:00'
-    daysGroup: 03/04/05
-  - poster: 366662035_7278714392145852_4357408195007769033_n.jpg
-    city: Sorocaba
-    date: '08/10/2023 14:00'
-    daysGroup: 06/07/08
+    daysGroup: 03/04/05/06
   - poster: 369939048_6472918839451947_5984335481433218722_n.jpg
     city: Guarulhos
     date: '29/10/2023 13:00'
     daysGroup: 27/28/29
     ticketsUrl: 'https://www.sympla.com.br/evento/ratos-de-porao-brecs-apresenta/2117421'
-  - poster: acao_direita_presidente_prudente.jpg
-    city: Presidente Prudente
-    date: '30/09/2023 16:00'
-    daysGroup: 29/30
-  - poster: going_strong_bauru.jpg
-    city: Bauru
-    date: '08/10/2023 17:00'
-    daysGroup: 06/07/08
   - poster: sao_caos_festival.jpg
     city: São Carlos
     date: '11/11/2023 12:00'
@@ -58,11 +42,7 @@ gigs:
   - poster: 374528212_6139050852865345_2425586714643793615_n.jpg
     city: São Paulo
     date: '04/11/2023 20:00'
-    daysGroup: 03/04/05
-  - poster: 380795233_7388005437914068_8241806870526449152_n.jpg
-    city: São Paulo
-    date: '29/09/2023 19:00'
-    daysGroup: 29/30
+    daysGroup: 03/04/05/06
   - poster: 3.1.jpg
     city: Piracicaba
     date: '19/10/2023 18:00'
@@ -71,6 +51,14 @@ gigs:
     city: Franca
     date: '20/10/2023 19:00'
     daysGroup: 19/20/21/22
+  - poster: 370228504_700122915327801_1790246076198600315_n.jpg
+    city: São Paulo
+    date: '28/10/2023 16:00'
+    daysGroup: 27/28/29
+  - poster: 3.17.jpg
+    city: São Paulo
+    date: '06/11/2023 16:00'
+    daysGroup: 03/04/05/06
 ---
 
 

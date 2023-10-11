@@ -30,5 +30,9 @@ gigs:
     daysGroup: 28/29/30
     ticketsUrl: >-
       https://www.sympla.com.br/casamarela-apresenta-never-look-back-df-galinha-preta-df-teia-gyn-e-dergo-gyn__2059430
+  - poster: 369022769_208253541965930_8439882999408530038_n.jpg
+    city: Anápolis
+    date: '07/10/2023 14:00'
+    daysGroup: 06/07/08
 ---
 

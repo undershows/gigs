@@ -1181,5 +1181,25 @@ gigs:
     city: São Paulo
     date: '23/09/2023 20:00'
     daysGroup: 22/23/24
+  - poster: 363383832_7209383589078933_296866805286357168_n.jpg
+    city: Salto
+    date: '30/09/2023 14:00'
+    daysGroup: 29/30
+  - poster: 366662035_7278714392145852_4357408195007769033_n.jpg
+    city: Sorocaba
+    date: '08/10/2023 14:00'
+    daysGroup: 06/07/08
+  - poster: acao_direita_presidente_prudente.jpg
+    city: Presidente Prudente
+    date: '30/09/2023 16:00'
+    daysGroup: 29/30
+  - poster: going_strong_bauru.jpg
+    city: Bauru
+    date: '08/10/2023 17:00'
+    daysGroup: 06/07/08
+  - poster: 380795233_7388005437914068_8241806870526449152_n.jpg
+    city: São Paulo
+    date: '29/09/2023 19:00'
+    daysGroup: 29/30
 ---
 
