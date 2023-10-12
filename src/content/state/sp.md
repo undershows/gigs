@@ -79,23 +79,23 @@ gigs:
     city: Indaiatuba
     date: '17/12/2023 15:00'
     daysGroup: 15/16/17
- - poster: FB_IMG_1697129084147.jpg
+  - poster: FB_IMG_1697129084147.jpg
     city: Praia Grande
     date: '14/10/2023 20:00'
     daysGroup: 12/13/14/15
- - poster: FB_IMG_1697129078711.jpg
+  - poster: FB_IMG_1697129078711.jpg
     city: Osasco
     date: '13/10/2023 19:00'
     daysGroup: 12/13/14/15
- - poster: FB_IMG_1697129062977.jpg
+  - poster: FB_IMG_1697129062977.jpg
     city: Diadema
     date: '15/10/2023 16:00'
     daysGroup: 12/13/14/15
- - poster: FB_IMG_1697129055418.jpg
+  - poster: FB_IMG_1697129055418.jpg
     city: Ribeirão Pires
     date: '14/10/2023 18:00'
     daysGroup: 12/13/14/15
- - poster: FB_IMG_1697129136505.jpg
+  - poster: FB_IMG_1697129136505.jpg
     city: Diadema
     date: '03/10/2023 13:00'
     daysGroup: 01/02/03
