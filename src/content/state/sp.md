@@ -20,7 +20,7 @@ gigs:
   - poster: 361104060_7050110858349512_3588622872850445889_n.jpg
     city: São Paulo
     date: '20/10/2023 18:00'
-    daysGroup: 20/21/22
+    daysGroup: 18/19/20/21/22
     ticketsUrl: 'https://www.bilheto.com.br/evento/1214/AMENRA__HEXIS'
   - poster: 364079574_7102875253073072_1636609106856406007_n.jpg
     city: São Paulo
@@ -38,7 +38,7 @@ gigs:
   - poster: lucky_friends.jpg
     city: Sorocaba
     date: '22/10/2023 12:00'
-    daysGroup: 20/21/22
+    daysGroup: 18/19/20/21/22
   - poster: 374528212_6139050852865345_2425586714643793615_n.jpg
     city: São Paulo
     date: '04/11/2023 20:00'
@@ -46,11 +46,11 @@ gigs:
   - poster: 3.1.jpg
     city: Piracicaba
     date: '19/10/2023 18:00'
-    daysGroup: 19/20/21/22
+    daysGroup: 18/19/20/21/22
   - poster: 3.2.jpg
     city: Franca
     date: '20/10/2023 19:00'
-    daysGroup: 19/20/21/22
+    daysGroup: 18/19/20/21/22
   - poster: 370228504_700122915327801_1790246076198600315_n.jpg
     city: São Paulo
     date: '28/10/2023 16:00'
@@ -62,7 +62,7 @@ gigs:
   - poster: received_984134979543188.jpeg
     city: São Paulo
     date: '21/10/2023 20:30'
-    daysGroup: 20/21/22
+    daysGroup: 18/19/20/21/22
   - poster: FB_IMG_1697128212261.jpg
     city: São Paulo
     date: '25/11/2023 20:30'
@@ -74,7 +74,7 @@ gigs:
   - poster: FB_IMG_1697129173332.jpg
     city: Praia Grande
     date: '21/10/2023 18:00'
-    daysGroup: 20/21/22
+    daysGroup: 18/19/20/21/22
   - poster: FB_IMG_1697129123144.jpg
     city: Indaiatuba
     date: '17/12/2023 15:00'
@@ -95,10 +95,14 @@ gigs:
     city: Ribeirão Pires
     date: '14/10/2023 18:00'
     daysGroup: 12/13/14/15
-  - poster: FB_IMG_1697129136505.jpg
-    city: Diadema
-    date: '03/10/2023 13:00'
-    daysGroup: 01/02/03
+  - poster: 387076955_7201080146622380_4101665350962834155_n.jpg
+    city: Campo Limpo Paulista
+    date: '25/11/2023 18:30'
+    daysGroup: 24/25/26
+  - poster: 8bdddfc6-c8d8-4b6f-9465-d285be5ea838.jpeg
+    city: São Paulo
+    date: '18/10/2023 18:00'
+    daysGroup: 18/19/20/21/22
 ---
 
 

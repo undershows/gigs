@@ -1201,5 +1201,9 @@ gigs:
     city: São Paulo
     date: '29/09/2023 19:00'
     daysGroup: 29/30
+  - poster: FB_IMG_1697129136505.jpg
+    city: Diadema
+    date: '03/10/2023 13:00'
+    daysGroup: 01/02/03
 ---
 
