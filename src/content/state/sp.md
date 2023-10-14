@@ -103,6 +103,14 @@ gigs:
     city: São Paulo
     date: '18/10/2023 18:00'
     daysGroup: 18/19/20/21/22
+  - poster: 391618324_7179981328713947_442913782058253772_n.jpg
+    city: Ribeirão Pires
+    date: '15/10/2023 15:00'
+    daysGroup: 12/13/14/15
+  - poster: 391625055_7179982325380514_5195425052324313650_n.jpg
+    city: São Paulo
+    date: '03/11/2023 19:00'
+    daysGroup: 03/04/05/06    
 ---
 
 
