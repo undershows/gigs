@@ -1205,5 +1205,17 @@ gigs:
     city: Diadema
     date: '03/10/2023 13:00'
     daysGroup: 01/02/03
+  - poster: FB_IMG_1697129084147.jpg
+    city: Praia Grande
+    date: '14/10/2023 20:00'
+    daysGroup: 12/13/14/15
+  - poster: FB_IMG_1697129078711.jpg
+    city: Osasco
+    date: '13/10/2023 19:00'
+    daysGroup: 12/13/14/15
+  - poster: FB_IMG_1697129055418.jpg
+    city: Ribeirão Pires
+    date: '14/10/2023 18:00'
+    daysGroup: 12/13/14/15
 ---
 

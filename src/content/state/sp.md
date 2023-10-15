@@ -79,21 +79,9 @@ gigs:
     city: Indaiatuba
     date: '17/12/2023 15:00'
     daysGroup: 15/16/17
-  - poster: FB_IMG_1697129084147.jpg
-    city: Praia Grande
-    date: '14/10/2023 20:00'
-    daysGroup: 12/13/14/15
-  - poster: FB_IMG_1697129078711.jpg
-    city: Osasco
-    date: '13/10/2023 19:00'
-    daysGroup: 12/13/14/15
   - poster: FB_IMG_1697129062977.jpg
     city: Diadema
     date: '15/10/2023 16:00'
-    daysGroup: 12/13/14/15
-  - poster: FB_IMG_1697129055418.jpg
-    city: Ribeirão Pires
-    date: '14/10/2023 18:00'
     daysGroup: 12/13/14/15
   - poster: 387076955_7201080146622380_4101665350962834155_n.jpg
     city: Campo Limpo Paulista
@@ -110,7 +98,37 @@ gigs:
   - poster: 391625055_7179982325380514_5195425052324313650_n.jpg
     city: São Paulo
     date: '03/11/2023 19:00'
-    daysGroup: 03/04/05/06    
+    daysGroup: 03/04/05/06
+  - poster: 380382563_2292381637819390_1584426411446296073_n.jpg
+    city: São Paulo
+    date: '11/02/2024 19:00'
+    daysGroup: 09/10/11
+  - poster: 380081205_698203041836638_5554457261820035769_n.jpg
+    city: São Paulo
+    date: '28/10/2023 15:00'
+    daysGroup: 27/28/29
+  - poster: 380287431_856330459117531_1425130666131417762_n.jpg
+    city: São Paulo
+    date: '04/11/2023 18:00'
+    daysGroup: 03/04/05/06
+  - poster: 380943298_834717884846867_4541519935481020300_n.jpg
+    city: Itapevi
+    date: '17/12/2023 13:00'
+    daysGroup: 15/16/17
+  - poster: 385512200_18392680519009270_4529340641938767870_n.jpg
+    city: São Paulo
+    date: '17/11/2023 20:00'
+    daysGroup: 17/18/19
+    ticketsUrl: 'https://www.sympla.com.br/evento/mukeka-di-rato-water-rats-budang-punho-de-mahin-em-sao-paulo/2165312'
+  - poster: 391527524_350282584018510_7987105611349790889_n.jpg
+    city: São Paulo
+    date: '21/10/2023 18:00'
+    daysGroup: 18/19/20/21/22
+  - poster: 367471053_758007869666523_5066301823433850732_n.jpg
+    city: São Paulo
+    date: '20/10/2023 19:00'
+    daysGroup: 18/19/20/21/22
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/l7-sp'
 ---
 
 
