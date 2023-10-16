@@ -129,6 +129,15 @@ gigs:
     date: '20/10/2023 19:00'
     daysGroup: 18/19/20/21/22
     ticketsUrl: 'https://www.clubedoingresso.com/evento/l7-sp'
+  - poster: FB_IMG_1697494578382.jpg
+    city: São Paulo
+    date: '09/12/2023 17:00'
+    daysGroup: 08/09/10
+    ticketsUrl: 'https://www.sympla.com.br/violator-em-sao-paulo--city-lights-music-hall--0912__2208975'
+  - poster: FB_IMG_1697485330457.jpg
+    city: São Paulo
+    date: '29/10/2023 15:00'
+    daysGroup: 27/28/29
 ---
 
 
