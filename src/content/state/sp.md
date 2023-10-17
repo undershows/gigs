@@ -103,6 +103,7 @@ gigs:
     city: São Paulo
     date: '11/02/2024 19:00'
     daysGroup: 09/10/11
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/koolmetalfest-violence'
   - poster: 380081205_698203041836638_5554457261820035769_n.jpg
     city: São Paulo
     date: '28/10/2023 15:00'
