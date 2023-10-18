@@ -15,7 +15,7 @@ gigs:
   - poster: 361641387_3456520821274765_5000235162969444519_n.jpg
     city: São Paulo
     date: '19/11/2023 10:00'
-    daysGroup: 17/18/19
+    daysGroup: 17/18/19/20
     ticketsUrl: 'https://www.sympla.com.br/festival-sp-punk__2075633'
   - poster: 361104060_7050110858349512_3588622872850445889_n.jpg
     city: São Paulo
@@ -66,7 +66,7 @@ gigs:
   - poster: FB_IMG_1697128212261.jpg
     city: São Paulo
     date: '25/11/2023 20:30'
-    daysGroup: 24/25/26
+    daysGroup: 22/23/24/25/26
   - poster: FB_IMG_1697128207523.jpg
     city: Sorocaba
     date: '14/11/2023 15:00'
@@ -86,7 +86,7 @@ gigs:
   - poster: 387076955_7201080146622380_4101665350962834155_n.jpg
     city: Campo Limpo Paulista
     date: '25/11/2023 18:30'
-    daysGroup: 24/25/26
+    daysGroup: 22/23/24/25/26
   - poster: 8bdddfc6-c8d8-4b6f-9465-d285be5ea838.jpeg
     city: São Paulo
     date: '18/10/2023 18:00'
@@ -119,7 +119,7 @@ gigs:
   - poster: 385512200_18392680519009270_4529340641938767870_n.jpg
     city: São Paulo
     date: '17/11/2023 20:00'
-    daysGroup: 17/18/19
+    daysGroup: 17/18/19/20
     ticketsUrl: 'https://www.sympla.com.br/evento/mukeka-di-rato-water-rats-budang-punho-de-mahin-em-sao-paulo/2165312'
   - poster: 391527524_350282584018510_7987105611349790889_n.jpg
     city: São Paulo
@@ -139,6 +139,18 @@ gigs:
     city: São Paulo
     date: '29/10/2023 15:00'
     daysGroup: 27/28/29
+  - poster: 0e5f3576-7252-4dbd-8156-10bfe61e78f0.jpeg
+    city: São Paulo
+    date: '20/11/2023 17:00'
+    daysGroup: 17/18/19/20
+  - poster: 393852418_1111819276791886_8422845143342434413_n.jpg
+    city: São José dos Campos
+    date: '22/11/2023 18:00'
+    daysGroup: 22/23/24/25/26
+  - poster: 6b8828b7-487e-4d10-bf1a-fd2d6d3d8dd1.jpeg
+    city: São Paulo
+    date: '21/10/2023 20:00'
+    daysGroup: 18/19/20/21/22
 ---
 
 
