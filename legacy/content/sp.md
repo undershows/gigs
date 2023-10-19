@@ -1229,5 +1229,9 @@ gigs:
     city: Ribeirão Pires
     date: '15/10/2023 15:00'
     daysGroup: 12/13/14/15
+  - poster: FB_IMG_1697128207523.jpg
+    city: Sorocaba
+    date: '14/10/2023 15:00'
+    daysGroup: 12/13/14/15
 ---
 

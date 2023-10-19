@@ -34,7 +34,7 @@ gigs:
   - poster: sao_caos_festival.jpg
     city: São Carlos
     date: '11/11/2023 12:00'
-    daysGroup: 10/11/12
+    daysGroup: 10/11/12/13/14
   - poster: lucky_friends.jpg
     city: Sorocaba
     date: '22/10/2023 12:00'
@@ -67,10 +67,6 @@ gigs:
     city: São Paulo
     date: '25/11/2023 20:30'
     daysGroup: 22/23/24/25/26
-  - poster: FB_IMG_1697128207523.jpg
-    city: Sorocaba
-    date: '14/11/2023 15:00'
-    daysGroup: 12/13/14/15
   - poster: FB_IMG_1697129173332.jpg
     city: Praia Grande
     date: '21/10/2023 18:00'
@@ -108,7 +104,8 @@ gigs:
     city: São Paulo
     date: '17/11/2023 20:00'
     daysGroup: 17/18/19/20
-    ticketsUrl: 'https://www.sympla.com.br/evento/mukeka-di-rato-water-rats-budang-punho-de-mahin-em-sao-paulo/2165312'
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/mukeka-di-rato-water-rats-budang-punho-de-mahin-em-sao-paulo/2165312
   - poster: 391527524_350282584018510_7987105611349790889_n.jpg
     city: São Paulo
     date: '21/10/2023 18:00'
@@ -122,7 +119,8 @@ gigs:
     city: São Paulo
     date: '09/12/2023 17:00'
     daysGroup: 08/09/10
-    ticketsUrl: 'https://www.sympla.com.br/violator-em-sao-paulo--city-lights-music-hall--0912__2208975'
+    ticketsUrl: >-
+      https://www.sympla.com.br/violator-em-sao-paulo--city-lights-music-hall--0912__2208975
   - poster: FB_IMG_1697485330457.jpg
     city: São Paulo
     date: '29/10/2023 15:00'
@@ -159,23 +157,23 @@ gigs:
   - poster: 393828088_2108270502844901_4987241482811528950_n.jpg
     city: São Paulo
     date: '21/10/2023 19:00'
-    daysGroup: 19/20/21/22   
+    daysGroup: 19/20/21/22
   - poster: 393602358_2108270539511564_6533444389778899315_n.jpg
     city: São Paulo
     date: '22/10/2023 16:00'
-    daysGroup: 19/20/21/22    
+    daysGroup: 19/20/21/22
   - poster: 393742637_2108270596178225_2009599344563823116_n.jpg
     city: Santo André
     date: '22/10/2023 17:00'
-    daysGroup: 19/20/21/22   
+    daysGroup: 19/20/21/22
   - poster: 393659992_2108270646178220_6154684330022988887_n.jpg
     city: Mairinque
     date: '22/10/2023 14:00'
-    daysGroup: 19/20/21/22      
+    daysGroup: 19/20/21/22
   - poster: 393718238_2108270672844884_7281758154061111535_n.jpg
     city: Mogi Guaçu
     date: '22/10/2023 16:00'
-    daysGroup: 19/20/21/22    
+    daysGroup: 19/20/21/22
   - poster: 393804289_2108382079500410_8371393335560232997_n.jpg
     city: São Paulo
     date: '20/10/2023 22:00'
@@ -184,6 +182,10 @@ gigs:
     city: São José dos Campos
     date: '21/10/2023 16:00'
     daysGroup: 19/20/21/22
+  - poster: 394511339_6769104463170801_8779699094598351005_n.jpg
+    city: São Paulo
+    date: '14/11/2023 19:00'
+    daysGroup: 10/11/12/13/14
 ---
 
 
