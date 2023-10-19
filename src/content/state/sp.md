@@ -104,8 +104,7 @@ gigs:
     city: São Paulo
     date: '17/11/2023 20:00'
     daysGroup: 17/18/19/20
-    ticketsUrl: >-
-      https://www.sympla.com.br/evento/mukeka-di-rato-water-rats-budang-punho-de-mahin-em-sao-paulo/2165312
+    ticketsUrl: 'https://www.sympla.com.br/evento/mukeka-di-rato-water-rats-budang-punho-de-mahin-em-sao-paulo/2165312'
   - poster: 391527524_350282584018510_7987105611349790889_n.jpg
     city: São Paulo
     date: '21/10/2023 18:00'
@@ -186,6 +185,14 @@ gigs:
     city: São Paulo
     date: '14/11/2023 19:00'
     daysGroup: 10/11/12/13/14
+  - poster: FB_IMG_1697734163804.jpg
+    city: São Paulo
+    date: '19/10/2023 19:00'
+    daysGroup: 19/20/21/22
+  - poster: FB_IMG_1697688789564.jpg
+    city: Itapevi
+    date: '16/12/2023 22:00'
+    daysGroup: 15/16/17
 ---
 
 
