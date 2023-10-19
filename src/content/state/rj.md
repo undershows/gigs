@@ -18,5 +18,10 @@ gigs:
     city: Rio de Janeiro
     date: '29/10/2023 18:00'
     daysGroup: 27/28/29
+  - poster: 392798871_6696459150436468_6243072547462764659_n.jpg
+    date: '03/11/2023 20:00'
+    city: Rio de Janeiro
+    daysGroup: 03/04/05
+    ticketsUrl: 'https://www.eventim.com.br/event/crypta-e-surra-no-circo-voador-circo-voador-17479401/'
 ---
 
