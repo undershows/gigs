@@ -210,6 +210,10 @@ gigs:
     city: São Paulo
     date: '28/10/2023 13:00'
     daysGroup: 27/28/29
+  - poster: FB_IMG_1697750107854.jpg
+    city: Bauru
+    date: '10/11/2023 20:00'
+    daysGroup: 10/11/12/13/14
 ---
 
 
