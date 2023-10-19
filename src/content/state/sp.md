@@ -79,22 +79,10 @@ gigs:
     city: Indaiatuba
     date: '17/12/2023 15:00'
     daysGroup: 15/16/17
-  - poster: FB_IMG_1697129062977.jpg
-    city: Diadema
-    date: '15/10/2023 16:00'
-    daysGroup: 12/13/14/15
   - poster: 387076955_7201080146622380_4101665350962834155_n.jpg
     city: Campo Limpo Paulista
     date: '25/11/2023 18:30'
     daysGroup: 22/23/24/25/26
-  - poster: 8bdddfc6-c8d8-4b6f-9465-d285be5ea838.jpeg
-    city: São Paulo
-    date: '18/10/2023 18:00'
-    daysGroup: 18/19/20/21/22
-  - poster: 391618324_7179981328713947_442913782058253772_n.jpg
-    city: Ribeirão Pires
-    date: '15/10/2023 15:00'
-    daysGroup: 12/13/14/15
   - poster: 391625055_7179982325380514_5195425052324313650_n.jpg
     city: São Paulo
     date: '03/11/2023 19:00'
@@ -120,7 +108,8 @@ gigs:
     city: São Paulo
     date: '17/11/2023 20:00'
     daysGroup: 17/18/19/20
-    ticketsUrl: 'https://www.sympla.com.br/evento/mukeka-di-rato-water-rats-budang-punho-de-mahin-em-sao-paulo/2165312'
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/mukeka-di-rato-water-rats-budang-punho-de-mahin-em-sao-paulo/2165312
   - poster: 391527524_350282584018510_7987105611349790889_n.jpg
     city: São Paulo
     date: '21/10/2023 18:00'
@@ -150,6 +139,15 @@ gigs:
   - poster: 6b8828b7-487e-4d10-bf1a-fd2d6d3d8dd1.jpeg
     city: São Paulo
     date: '21/10/2023 20:00'
+    daysGroup: 18/19/20/21/22
+  - poster: 391626489_1054427536008229_8897623449089028309_n.jpg
+    city: São Paulo
+    date: '22/10/2023 20:00'
+    daysGroup: 18/19/20/21/22
+    ticketsUrl: 'https://www.sympla.com.br/evento/dissonancia-fest-6-bandas/2204270'
+  - poster: 383228029_1005741197341796_7390909691515008520_n.jpg
+    city: Várzea Paulista
+    date: '21/10/2023 16:00'
     daysGroup: 18/19/20/21/22
 ---
 

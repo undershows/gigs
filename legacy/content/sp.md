@@ -1217,5 +1217,17 @@ gigs:
     city: Ribeirão Pires
     date: '14/10/2023 18:00'
     daysGroup: 12/13/14/15
+  - poster: FB_IMG_1697129062977.jpg
+    city: Diadema
+    date: '15/10/2023 16:00'
+    daysGroup: 12/13/14/15
+  - poster: 8bdddfc6-c8d8-4b6f-9465-d285be5ea838.jpeg
+    city: São Paulo
+    date: '18/10/2023 18:00'
+    daysGroup: 18/19/20/21/22
+  - poster: 391618324_7179981328713947_442913782058253772_n.jpg
+    city: Ribeirão Pires
+    date: '15/10/2023 15:00'
+    daysGroup: 12/13/14/15
 ---
 
