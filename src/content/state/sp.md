@@ -118,8 +118,7 @@ gigs:
     city: São Paulo
     date: '09/12/2023 17:00'
     daysGroup: 08/09/10
-    ticketsUrl: >-
-      https://www.sympla.com.br/violator-em-sao-paulo--city-lights-music-hall--0912__2208975
+    ticketsUrl: 'https://www.sympla.com.br/violator-em-sao-paulo--city-lights-music-hall--0912__2208975'
   - poster: FB_IMG_1697485330457.jpg
     city: São Paulo
     date: '29/10/2023 15:00'
@@ -190,9 +189,27 @@ gigs:
     date: '19/10/2023 19:00'
     daysGroup: 19/20/21/22
   - poster: FB_IMG_1697688789564.jpg
-    city: Itapevi
+    city: São Paulo
     date: '16/12/2023 22:00'
     daysGroup: 15/16/17
+  - poster: 393795146_10229839995841792_2100468349627464662_n.jpg
+    city: Osasco
+    date: '21/10/2023 20:00'
+    daysGroup: 19/20/21/22
+  - poster: 393693160_23933101546338035_8027508774869850548_n.jpg
+    city: Santo André
+    date: '04/11/2023 19:00'
+    daysGroup: 03/04/05/06
+    ticketsUrl: 'https://www.sympla.com.br/evento/garage-fuzz-riot-wolves-no-74club/2210945'
+  - poster: 387798574_865776375114985_1602749618180874228_n.jpg
+    city: Santos
+    date: '15/12/2023 20:00'
+    daysGroup: 15/16/17
+    ticketsUrl: 'https://www.sympla.com.br/evento/fuzz-fest-apresenta-garage-fuzz-paura-fistt-e-cannon-of-hate/2199332'
+  - poster: 394507466_6845298632197021_2284461335081323196_n.jpg
+    city: São Paulo
+    date: '28/10/2023 13:00'
+    daysGroup: 27/28/29
 ---
 
 
