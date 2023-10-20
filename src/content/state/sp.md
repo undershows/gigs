@@ -214,6 +214,14 @@ gigs:
     city: Bauru
     date: '10/11/2023 20:00'
     daysGroup: 10/11/12/13/14
+  - poster: FB_IMG_1697827970394.jpg
+    city: Osasco
+    date: '01/12/2023 19:00'
+    daysGroup: 01/02/03
+  - poster: FB_IMG_1697828363156.jpg
+    city: Diadema
+    date: '03/12/2023 13:00'
+    daysGroup: 01/02/03
 ---
 
 
