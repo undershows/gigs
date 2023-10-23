@@ -52,5 +52,9 @@ gigs:
     city: Campos dos Goytacazes
     date: '26/08/2023 16:00'
     daysGroup: 25/26/27
+  - poster: 358684391_581923937478152_7934581708363700332_n.jpg
+    city: Rio de Janeiro
+    date: '21/10/2023 21:00'
+    daysGroup: 20/21/22
 ---
 

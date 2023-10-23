@@ -5,23 +5,18 @@ gigs:
   - poster: 358431360_10225639050708449_976895014449052687_n.jpg
     city: São Paulo
     date: '27/10/2023 19:00'
-    daysGroup: 27/28/29
+    daysGroup: 26/27/28/29
     ticketsUrl: 'https://www.clubedoingresso.com/evento/blackflag-saopaulo'
   - poster: 358391263_775075024405759_4034568623908094891_n.jpg
     city: São Paulo
     date: '29/10/2023 18:30'
-    daysGroup: 27/28/29
+    daysGroup: 26/27/28/29
     ticketsUrl: 'https://www.clubedoingresso.com/evento/obscura-sp'
   - poster: 361641387_3456520821274765_5000235162969444519_n.jpg
     city: São Paulo
     date: '19/11/2023 10:00'
-    daysGroup: 17/18/19/20
+    daysGroup: 17/18/19/20/21
     ticketsUrl: 'https://www.sympla.com.br/festival-sp-punk__2075633'
-  - poster: 361104060_7050110858349512_3588622872850445889_n.jpg
-    city: São Paulo
-    date: '20/10/2023 18:00'
-    daysGroup: 19/20/21/22
-    ticketsUrl: 'https://www.bilheto.com.br/evento/1214/AMENRA__HEXIS'
   - poster: 364079574_7102875253073072_1636609106856406007_n.jpg
     city: São Paulo
     date: '04/11/2023 20:00'
@@ -29,48 +24,28 @@ gigs:
   - poster: 369939048_6472918839451947_5984335481433218722_n.jpg
     city: Guarulhos
     date: '29/10/2023 13:00'
-    daysGroup: 27/28/29
+    daysGroup: 26/27/28/29
     ticketsUrl: 'https://www.sympla.com.br/evento/ratos-de-porao-brecs-apresenta/2117421'
   - poster: sao_caos_festival.jpg
     city: São Carlos
     date: '11/11/2023 12:00'
     daysGroup: 10/11/12/13/14
-  - poster: lucky_friends.jpg
-    city: Sorocaba
-    date: '22/10/2023 12:00'
-    daysGroup: 19/20/21/22
   - poster: 374528212_6139050852865345_2425586714643793615_n.jpg
     city: São Paulo
     date: '04/11/2023 20:00'
     daysGroup: 03/04/05/06
-  - poster: 3.1.jpg
-    city: Piracicaba
-    date: '19/10/2023 18:00'
-    daysGroup: 19/20/21/22
-  - poster: 3.2.jpg
-    city: Franca
-    date: '20/10/2023 19:00'
-    daysGroup: 19/20/21/22
   - poster: 370228504_700122915327801_1790246076198600315_n.jpg
     city: São Paulo
     date: '28/10/2023 16:00'
-    daysGroup: 27/28/29
+    daysGroup: 26/27/28/29
   - poster: 3.17.jpg
     city: São Paulo
     date: '06/11/2023 16:00'
     daysGroup: 03/04/05/06
-  - poster: received_984134979543188.jpeg
-    city: São Paulo
-    date: '21/10/2023 20:30'
-    daysGroup: 19/20/21/22
   - poster: FB_IMG_1697128212261.jpg
     city: São Paulo
     date: '25/11/2023 20:30'
     daysGroup: 22/23/24/25/26
-  - poster: FB_IMG_1697129173332.jpg
-    city: Praia Grande
-    date: '21/10/2023 18:00'
-    daysGroup: 19/20/21/22
   - poster: FB_IMG_1697129123144.jpg
     city: Indaiatuba
     date: '17/12/2023 15:00'
@@ -91,7 +66,7 @@ gigs:
   - poster: 380081205_698203041836638_5554457261820035769_n.jpg
     city: São Paulo
     date: '28/10/2023 15:00'
-    daysGroup: 27/28/29
+    daysGroup: 26/27/28/29
   - poster: 380287431_856330459117531_1425130666131417762_n.jpg
     city: São Paulo
     date: '04/11/2023 18:00'
@@ -103,99 +78,35 @@ gigs:
   - poster: 385512200_18392680519009270_4529340641938767870_n.jpg
     city: São Paulo
     date: '17/11/2023 20:00'
-    daysGroup: 17/18/19/20
-    ticketsUrl: 'https://www.sympla.com.br/evento/mukeka-di-rato-water-rats-budang-punho-de-mahin-em-sao-paulo/2165312'
-  - poster: 391527524_350282584018510_7987105611349790889_n.jpg
-    city: São Paulo
-    date: '21/10/2023 18:00'
-    daysGroup: 19/20/21/22
-  - poster: 367471053_758007869666523_5066301823433850732_n.jpg
-    city: São Paulo
-    date: '20/10/2023 19:00'
-    daysGroup: 19/20/21/22
-    ticketsUrl: 'https://www.clubedoingresso.com/evento/l7-sp'
+    daysGroup: 17/18/19/20/21
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/mukeka-di-rato-water-rats-budang-punho-de-mahin-em-sao-paulo/2165312
   - poster: FB_IMG_1697494578382.jpg
     city: São Paulo
     date: '09/12/2023 17:00'
     daysGroup: 08/09/10
-    ticketsUrl: 'https://www.sympla.com.br/violator-em-sao-paulo--city-lights-music-hall--0912__2208975'
+    ticketsUrl: >-
+      https://www.sympla.com.br/violator-em-sao-paulo--city-lights-music-hall--0912__2208975
   - poster: FB_IMG_1697485330457.jpg
     city: São Paulo
     date: '29/10/2023 15:00'
-    daysGroup: 27/28/29
+    daysGroup: 26/27/28/29
   - poster: 0e5f3576-7252-4dbd-8156-10bfe61e78f0.jpeg
     city: São Paulo
     date: '20/11/2023 17:00'
-    daysGroup: 17/18/19/20
+    daysGroup: 17/18/19/20/21
   - poster: 393852418_1111819276791886_8422845143342434413_n.jpg
     city: São José dos Campos
     date: '22/11/2023 18:00'
     daysGroup: 22/23/24/25/26
-  - poster: 6b8828b7-487e-4d10-bf1a-fd2d6d3d8dd1.jpeg
-    city: São Paulo
-    date: '21/10/2023 20:00'
-    daysGroup: 19/20/21/22
-  - poster: 391626489_1054427536008229_8897623449089028309_n.jpg
-    city: São Paulo
-    date: '22/10/2023 20:00'
-    daysGroup: 19/20/21/22
-    ticketsUrl: 'https://www.sympla.com.br/evento/dissonancia-fest-6-bandas/2204270'
-  - poster: 383228029_1005741197341796_7390909691515008520_n.jpg
-    city: Várzea Paulista
-    date: '21/10/2023 16:00'
-    daysGroup: 19/20/21/22
-  - poster: 394194186_2108270389511579_5499159751662604944_n.jpg
-    city: Santo André
-    date: '21/10/2023 16:00'
-    daysGroup: 19/20/21/22
-  - poster: 393745285_2108270422844909_9136288091857719202_n.jpg
-    city: São Paulo
-    date: '22/10/2023 15:00'
-    daysGroup: 19/20/21/22
-  - poster: 393828088_2108270502844901_4987241482811528950_n.jpg
-    city: São Paulo
-    date: '21/10/2023 19:00'
-    daysGroup: 19/20/21/22
-  - poster: 393602358_2108270539511564_6533444389778899315_n.jpg
-    city: São Paulo
-    date: '22/10/2023 16:00'
-    daysGroup: 19/20/21/22
-  - poster: 393742637_2108270596178225_2009599344563823116_n.jpg
-    city: Santo André
-    date: '22/10/2023 17:00'
-    daysGroup: 19/20/21/22
-  - poster: 393659992_2108270646178220_6154684330022988887_n.jpg
-    city: Mairinque
-    date: '22/10/2023 14:00'
-    daysGroup: 19/20/21/22
-  - poster: 393718238_2108270672844884_7281758154061111535_n.jpg
-    city: Mogi Guaçu
-    date: '22/10/2023 16:00'
-    daysGroup: 19/20/21/22
-  - poster: 393804289_2108382079500410_8371393335560232997_n.jpg
-    city: São Paulo
-    date: '20/10/2023 22:00'
-    daysGroup: 19/20/21/22
-  - poster: 391615414_10219223643782228_2378624676193678358_n.jpg
-    city: São José dos Campos
-    date: '21/10/2023 16:00'
-    daysGroup: 19/20/21/22
   - poster: 394511339_6769104463170801_8779699094598351005_n.jpg
     city: São Paulo
     date: '14/11/2023 19:00'
     daysGroup: 10/11/12/13/14
-  - poster: FB_IMG_1697734163804.jpg
-    city: São Paulo
-    date: '19/10/2023 19:00'
-    daysGroup: 19/20/21/22
   - poster: FB_IMG_1697688789564.jpg
     city: São Paulo
     date: '16/12/2023 22:00'
     daysGroup: 15/16/17
-  - poster: 393795146_10229839995841792_2100468349627464662_n.jpg
-    city: Osasco
-    date: '21/10/2023 20:00'
-    daysGroup: 19/20/21/22
   - poster: 393693160_23933101546338035_8027508774869850548_n.jpg
     city: Santo André
     date: '04/11/2023 19:00'
@@ -205,11 +116,12 @@ gigs:
     city: Santos
     date: '15/12/2023 20:00'
     daysGroup: 15/16/17
-    ticketsUrl: 'https://www.sympla.com.br/evento/fuzz-fest-apresenta-garage-fuzz-paura-fistt-e-cannon-of-hate/2199332'
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/fuzz-fest-apresenta-garage-fuzz-paura-fistt-e-cannon-of-hate/2199332
   - poster: 394507466_6845298632197021_2284461335081323196_n.jpg
     city: São Paulo
     date: '28/10/2023 13:00'
-    daysGroup: 27/28/29
+    daysGroup: 26/27/28/29
   - poster: FB_IMG_1697750107854.jpg
     city: Bauru
     date: '10/11/2023 20:00'
@@ -222,6 +134,67 @@ gigs:
     city: Diadema
     date: '03/12/2023 13:00'
     daysGroup: 01/02/03
+  - poster: db83c02d-a289-4679-85e2-e6685045f9c4.jpeg
+    city: Sorocaba
+    date: '21/11/2023 19:00'
+    daysGroup: 17/18/19/20/21
+  - poster: bdbdfbe5-d513-4ef8-a7f4-ed8bc431e994.jpeg
+    city: São Paulo
+    date: '03/12/2023 20:00'
+    daysGroup: 01/02/03
+  - poster: 5d701c9c-bf8f-49b5-aab5-40eb25b24c6f.jpeg
+    city: São Paulo
+    date: '29/10/2023 18:00'
+    daysGroup: 26/27/28/29
+  - poster: 777c3872-b8dc-41a2-84ab-e6076f7b042d.jpeg
+    city: São Paulo
+    date: '03/04/2024 18:00'
+    daysGroup: 03/04/05/06/07
+  - poster: 818eb818-8998-4bea-a2ba-d9f8056e0f17.jpeg
+    city: São Paulo
+    date: '16/12/2023 18:00'
+    daysGroup: 15/16/17
+  - poster: 2cb2e2e5-d747-496d-8200-9a05717d4d20.jpeg
+    city: São Paulo
+    date: '29/02/2024 19:00'
+    daysGroup: 28/29
+  - poster: 2f2819b0-7ada-44fa-82ea-7afc0ab8abce.jpeg
+    city: São Paulo
+    date: '23/02/2024 19:00'
+    daysGroup: 28/29
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/petbrick-lightningbolt-sp'
+  - poster: cb345f99-129f-4c2a-94f3-208c847685fd.jpeg
+    city: São Paulo
+    date: '26/10/2023 20:00'
+    daysGroup: 26/27/28/29
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/septicflesh-sp'
+  - poster: 536c5597-b3ae-415c-8d95-0775cb824507.jpeg
+    city: São Paulo
+    date: '25/11/2023 19:00'
+    daysGroup: 22/23/24/25/26
+  - poster: 102f2543-6d3a-49b5-9c7d-fc43420ea21c.jpeg
+    city: São Paulo
+    date: '14/11/2023 19:00'
+    daysGroup: 10/11/12/13/14
+    ticketsUrl: >-
+      https://www.livepass.com.br/event/gojira-e-mastodon-espaco-unimed-17071425/
+  - poster: cf2a9c87-e714-4bd3-96b3-2eae5bd8b00d.jpeg
+    city: São Paulo
+    date: '28/10/2023 19:00'
+    daysGroup: 26/27/28/29
+    ticketsUrl: 'https://pixelticket.com.br/eventos/15707/halloween-2023'
+  - poster: 4c5bb8b9-701b-47a2-9066-af12dbf2560a.jpeg
+    city: São Paulo
+    date: '28/10/2023 19:00'
+    daysGroup: 26/27/28/29
+  - poster: 99d63a6f-7bba-4e6b-9f85-fa356c44d016.jpeg
+    city: São Paulo
+    date: '28/10/2023 13:00'
+    daysGroup: 26/27/28/29
+  - poster: 17958871-69b5-41c4-a689-5eea63112128.jpeg
+    city: São Paulo
+    date: '25/11/2023 16:00'
+    daysGroup: 22/23/24/25/26
 ---
 
 

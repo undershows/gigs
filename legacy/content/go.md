@@ -34,5 +34,9 @@ gigs:
     city: Anápolis
     date: '07/10/2023 14:00'
     daysGroup: 06/07/08
+  - poster: 393700957_2552774078218030_7243469693785008301_n.jpg
+    city: Goiania
+    date: '21/10/2023 16:00'
+    daysGroup: 20/21/22
 ---
 

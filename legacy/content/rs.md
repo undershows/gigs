@@ -38,5 +38,9 @@ gigs:
     daysGroup: 13/14
     ticketsUrl: >-
       https://bileto.sympla.com.br/event/81720?utm_source=pwa-symplabiletoandroid-production&utm_medium=webapp_share&utm_campaign=webapp_share_event_81720
+  - poster: 337891176_3450561095233086_5950510464756913467_n.jpeg
+    date: '22/10/2023 18:00'
+    city: Porto Alegre
+    daysGroup: 20/21/22
 ---
 
