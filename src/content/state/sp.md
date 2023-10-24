@@ -42,6 +42,7 @@ gigs:
     city: São Paulo
     date: '06/11/2023 16:00'
     daysGroup: 03/04/05/06
+    ticketsUrl: 'https://bilheto.com.br/comprar/1562/monday-extreme'
   - poster: FB_IMG_1697128212261.jpg
     city: São Paulo
     date: '25/11/2023 20:30'
@@ -95,10 +96,12 @@ gigs:
     city: São Paulo
     date: '20/11/2023 17:00'
     daysGroup: 17/18/19/20/21
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/birdflesh-saopaulo'
   - poster: 393852418_1111819276791886_8422845143342434413_n.jpg
     city: São José dos Campos
     date: '22/11/2023 18:00'
     daysGroup: 22/23/24/25/26
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/birdflesh-sjc'
   - poster: 394511339_6769104463170801_8779699094598351005_n.jpg
     city: São Paulo
     date: '14/11/2023 19:00'
@@ -140,8 +143,9 @@ gigs:
     daysGroup: 17/18/19/20/21
   - poster: bdbdfbe5-d513-4ef8-a7f4-ed8bc431e994.jpeg
     city: São Paulo
-    date: '03/12/2023 20:00'
+    date: '03/11/2023 19:00'
     daysGroup: 01/02/03
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/vader40anos-jaiclub'
   - poster: 5d701c9c-bf8f-49b5-aab5-40eb25b24c6f.jpeg
     city: São Paulo
     date: '29/10/2023 18:00'
@@ -154,10 +158,12 @@ gigs:
     city: São Paulo
     date: '16/12/2023 18:00'
     daysGroup: 15/16/17
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/nofunatall-ignite-sp'
   - poster: 2cb2e2e5-d747-496d-8200-9a05717d4d20.jpeg
     city: São Paulo
     date: '29/02/2024 19:00'
     daysGroup: 28/29
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/rottingchrist-saopaulo'
   - poster: 2f2819b0-7ada-44fa-82ea-7afc0ab8abce.jpeg
     city: São Paulo
     date: '23/02/2024 19:00'
@@ -172,6 +178,7 @@ gigs:
     city: São Paulo
     date: '25/11/2023 19:00'
     daysGroup: 22/23/24/25/26
+    ticketsUrl: 'https://pixelticket.com.br/eventos/16055/discharge-no-hangar110'
   - poster: 102f2543-6d3a-49b5-9c7d-fc43420ea21c.jpeg
     city: São Paulo
     date: '14/11/2023 19:00'
@@ -198,7 +205,12 @@ gigs:
   - poster: 2e809731-447d-403f-8423-6f384bfc675f.jpeg
     city: São Paulo
     date: '20/11/2023 19:00'
-    daysGroup: 17/18/19/20/21 
+    ticketsUrl: 'https://ingresse.com/ludovic-thuslove'
+    daysGroup: 17/18/19/20/21
+  - poster: c537d49c-6f34-4102-988b-a1dc0d062f64.jpeg
+    city: Osasco
+    date: '12/11/2023 19:00'
+    daysGroup: 10/11/12/13/14
 ---
 
 

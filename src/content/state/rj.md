@@ -14,6 +14,7 @@ gigs:
     city: Rio de Janeiro
     date: '29/10/2023 18:00'
     daysGroup: 27/28/29
+    ticketsUrl: 'https://showpass.com.br/evento/725/Black_Flag_e_L7'
   - poster: 392798871_6696459150436468_6243072547462764659_n.jpg
     date: '03/11/2023 20:00'
     city: Rio de Janeiro
@@ -24,5 +25,6 @@ gigs:
     city: Rio de Janeiro
     date: '23/10/2023 18:00'
     daysGroup: 23/24/25/26
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/birdflesh-riodejaneiro'
 ---
 
