@@ -211,6 +211,11 @@ gigs:
     city: Osasco
     date: '12/11/2023 19:00'
     daysGroup: 10/11/12/13/14
+  - poster: 394514153_6787968307962187_8221852984567352948_n.jpg
+    city: São Paulo
+    date: '29/10/2023 16:00'
+    daysGroup: 26/27/28/29
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/marduk-sp'
 ---
 
 
