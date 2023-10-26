@@ -216,6 +216,14 @@ gigs:
     date: '29/10/2023 16:00'
     daysGroup: 26/27/28/29
     ticketsUrl: 'https://www.clubedoingresso.com/evento/marduk-sp'
+  - poster: 393366648_740214144770188_5108611990087453530_n.jpg
+    city: São Paulo
+    date: '27/10/2023 18:00'
+    daysGroup: 26/27/28/29
+  - poster: 395303639_23967320769582779_4616575713729327744_n.jpg
+    city: São Paulo
+    date: '11/11/2023 18:00'
+    daysGroup: 10/11/12/13/14
 ---
 
 
