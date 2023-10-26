@@ -224,6 +224,10 @@ gigs:
     city: São Paulo
     date: '11/11/2023 18:00'
     daysGroup: 10/11/12/13/14
+  - poster: 396697501_23980314158283440_7982968121182861425_n.jpg
+    city: Santo André
+    date: '03/12/2023 10:00'
+    daysGroup: 01/02/03
 ---
 
 
