@@ -15,7 +15,7 @@ gigs:
   - poster: sao_caos_festival.jpg
     city: São Carlos
     date: '11/11/2023 12:00'
-    daysGroup: 10/11/12/13/14
+    daysGroup: 10/11/12/13/14/15
   - poster: 374528212_6139050852865345_2425586714643793615_n.jpg
     city: São Paulo
     date: '04/11/2023 20:00'
@@ -81,7 +81,7 @@ gigs:
   - poster: 394511339_6769104463170801_8779699094598351005_n.jpg
     city: São Paulo
     date: '14/11/2023 19:00'
-    daysGroup: 10/11/12/13/14
+    daysGroup: 10/11/12/13/14/15
   - poster: FB_IMG_1697688789564.jpg
     city: São Paulo
     date: '16/12/2023 22:00'
@@ -100,7 +100,7 @@ gigs:
   - poster: FB_IMG_1697750107854.jpg
     city: Bauru
     date: '10/11/2023 20:00'
-    daysGroup: 10/11/12/13/14
+    daysGroup: 10/11/12/13/14/15
   - poster: FB_IMG_1697827970394.jpg
     city: Osasco
     date: '01/12/2023 19:00'
@@ -146,7 +146,7 @@ gigs:
   - poster: 102f2543-6d3a-49b5-9c7d-fc43420ea21c.jpeg
     city: São Paulo
     date: '14/11/2023 19:00'
-    daysGroup: 10/11/12/13/14
+    daysGroup: 10/11/12/13/14/15
     ticketsUrl: >-
       https://www.livepass.com.br/event/gojira-e-mastodon-espaco-unimed-17071425/
   - poster: 17958871-69b5-41c4-a689-5eea63112128.jpeg
@@ -161,11 +161,11 @@ gigs:
   - poster: c537d49c-6f34-4102-988b-a1dc0d062f64.jpeg
     city: Osasco
     date: '12/11/2023 19:00'
-    daysGroup: 10/11/12/13/14
+    daysGroup: 10/11/12/13/14/15
   - poster: 395303639_23967320769582779_4616575713729327744_n.jpg
     city: São Paulo
     date: '11/11/2023 18:00'
-    daysGroup: 10/11/12/13/14
+    daysGroup: 10/11/12/13/14/15
   - poster: 396697501_23980314158283440_7982968121182861425_n.jpg
     city: Santo André
     date: '03/12/2023 10:00'
@@ -214,6 +214,14 @@ gigs:
     date: '18/11/2023 20:00'
     daysGroup: 17/18/19/20/21
     ticketsUrl: 'https://www.clubedoingresso.com/evento/statuesonfire'
+  - poster: 396880499_7016693161707387_6946046766543985647_n.jpg
+    city: São Paulo
+    date: '05/11/2023 15:00'
+    daysGroup: 01/02/03/04/05/06
+  - poster: 396710404_10234024868862529_748303959016273191_n.jpg
+    city: São Paulo
+    date: '15/11/2023 18:00'
+    daysGroup: 10/11/12/13/14/15
 ---
 
 
