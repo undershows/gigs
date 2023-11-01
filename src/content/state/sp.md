@@ -113,7 +113,7 @@ gigs:
   - poster: bdbdfbe5-d513-4ef8-a7f4-ed8bc431e994.jpeg
     city: São Paulo
     date: '03/11/2023 19:00'
-    daysGroup: 01/02/03
+    daysGroup: 01/02/03/04/05/06/07
     ticketsUrl: 'https://www.clubedoingresso.com/evento/vader40anos-jaiclub'
   - poster: 777c3872-b8dc-41a2-84ab-e6076f7b042d.jpeg
     city: São Paulo
@@ -165,7 +165,7 @@ gigs:
   - poster: 396697501_23980314158283440_7982968121182861425_n.jpg
     city: Santo André
     date: '03/12/2023 10:00'
-    daysGroup: 01/02/03/04/05/06
+    daysGroup: 01/02/03
   - poster: 397442084_6748350971938956_1296228937279834672_n.jpg
     city: São Paulo
     date: '01/11/2023 19:00'
