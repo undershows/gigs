@@ -217,6 +217,13 @@ gigs:
     date: '18/11/2023 20:00'
     daysGroup: 17/18/19/20/21
     ticketsUrl: 'https://www.clubedoingresso.com/evento/statuesonfire'
+  - poster: 396880499_7016693161707387_6946046766543985647_n.jpg
+    city: São Paulo
+    date: '05/11/2023 15:00'
+    daysGroup: 01/02/03/04/05/06
+  - poster: 396710404_10234024868862529_748303959016273191_n.jpg
+    city: São Paulo
+    date: '15/11/2023 18:00'
 ---
 
 
