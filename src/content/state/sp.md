@@ -2,16 +2,6 @@
 abbr: SP
 name: São Paulo
 gigs:
-  - poster: 358431360_10225639050708449_976895014449052687_n.jpg
-    city: São Paulo
-    date: '27/10/2023 19:00'
-    daysGroup: 26/27/28/29
-    ticketsUrl: 'https://www.clubedoingresso.com/evento/blackflag-saopaulo'
-  - poster: 358391263_775075024405759_4034568623908094891_n.jpg
-    city: São Paulo
-    date: '29/10/2023 18:30'
-    daysGroup: 26/27/28/29
-    ticketsUrl: 'https://www.clubedoingresso.com/evento/obscura-sp'
   - poster: 361641387_3456520821274765_5000235162969444519_n.jpg
     city: São Paulo
     date: '19/11/2023 10:00'
@@ -20,12 +10,7 @@ gigs:
   - poster: 364079574_7102875253073072_1636609106856406007_n.jpg
     city: São Paulo
     date: '04/11/2023 20:00'
-    daysGroup: 03/04/05/06
-  - poster: 369939048_6472918839451947_5984335481433218722_n.jpg
-    city: Guarulhos
-    date: '29/10/2023 13:00'
-    daysGroup: 26/27/28/29
-    ticketsUrl: 'https://www.sympla.com.br/evento/ratos-de-porao-brecs-apresenta/2117421'
+    daysGroup: 01/02/03/04/05/06
   - poster: sao_caos_festival.jpg
     city: São Carlos
     date: '11/11/2023 12:00'
@@ -33,15 +18,11 @@ gigs:
   - poster: 374528212_6139050852865345_2425586714643793615_n.jpg
     city: São Paulo
     date: '04/11/2023 20:00'
-    daysGroup: 03/04/05/06
-  - poster: 370228504_700122915327801_1790246076198600315_n.jpg
-    city: São Paulo
-    date: '28/10/2023 16:00'
-    daysGroup: 26/27/28/29
+    daysGroup: 01/02/03/04/05/06
   - poster: 3.17.jpg
     city: São Paulo
     date: '06/11/2023 16:00'
-    daysGroup: 03/04/05/06
+    daysGroup: 01/02/03/04/05/06
     ticketsUrl: 'https://bilheto.com.br/comprar/1562/monday-extreme'
   - poster: FB_IMG_1697128212261.jpg
     city: São Paulo
@@ -58,20 +39,16 @@ gigs:
   - poster: 391625055_7179982325380514_5195425052324313650_n.jpg
     city: São Paulo
     date: '03/11/2023 19:00'
-    daysGroup: 03/04/05/06
+    daysGroup: 01/02/03/04/05/06
   - poster: 380382563_2292381637819390_1584426411446296073_n.jpg
     city: São Paulo
     date: '11/02/2024 19:00'
     daysGroup: 09/10/11
     ticketsUrl: 'https://www.clubedoingresso.com/evento/koolmetalfest-violence'
-  - poster: 380081205_698203041836638_5554457261820035769_n.jpg
-    city: São Paulo
-    date: '28/10/2023 15:00'
-    daysGroup: 26/27/28/29
   - poster: 380287431_856330459117531_1425130666131417762_n.jpg
     city: São Paulo
     date: '04/11/2023 18:00'
-    daysGroup: 03/04/05/06
+    daysGroup: 01/02/03/04/05/06
   - poster: 385512200_18392680519009270_4529340641938767870_n.jpg
     city: Jandira
     date: '17/12/2023 13:00'
@@ -88,10 +65,6 @@ gigs:
     daysGroup: 08/09/10
     ticketsUrl: >-
       https://www.sympla.com.br/violator-em-sao-paulo--city-lights-music-hall--0912__2208975
-  - poster: FB_IMG_1697485330457.jpg
-    city: São Paulo
-    date: '29/10/2023 15:00'
-    daysGroup: 26/27/28/29
   - poster: 0e5f3576-7252-4dbd-8156-10bfe61e78f0.jpeg
     city: São Paulo
     date: '20/11/2023 17:00'
@@ -113,7 +86,7 @@ gigs:
   - poster: 393693160_23933101546338035_8027508774869850548_n.jpg
     city: Santo André
     date: '04/11/2023 19:00'
-    daysGroup: 03/04/05/06
+    daysGroup: 01/02/03/04/05/06
     ticketsUrl: 'https://www.sympla.com.br/evento/garage-fuzz-riot-wolves-no-74club/2210945'
   - poster: 387798574_865776375114985_1602749618180874228_n.jpg
     city: Santos
@@ -121,10 +94,6 @@ gigs:
     daysGroup: 15/16/17
     ticketsUrl: >-
       https://www.sympla.com.br/evento/fuzz-fest-apresenta-garage-fuzz-paura-fistt-e-cannon-of-hate/2199332
-  - poster: 394507466_6845298632197021_2284461335081323196_n.jpg
-    city: São Paulo
-    date: '28/10/2023 13:00'
-    daysGroup: 26/27/28/29
   - poster: FB_IMG_1697750107854.jpg
     city: Bauru
     date: '10/11/2023 20:00'
@@ -146,14 +115,10 @@ gigs:
     date: '03/11/2023 19:00'
     daysGroup: 01/02/03
     ticketsUrl: 'https://www.clubedoingresso.com/evento/vader40anos-jaiclub'
-  - poster: 5d701c9c-bf8f-49b5-aab5-40eb25b24c6f.jpeg
-    city: São Paulo
-    date: '29/10/2023 18:00'
-    daysGroup: 26/27/28/29
   - poster: 777c3872-b8dc-41a2-84ab-e6076f7b042d.jpeg
     city: São Paulo
     date: '03/04/2024 18:00'
-    daysGroup: 03/04/05/06/07
+    daysGroup: 01/02/03/04/05/06/07
   - poster: 818eb818-8998-4bea-a2ba-d9f8056e0f17.jpeg
     city: São Paulo
     date: '16/12/2023 18:00'
@@ -169,11 +134,6 @@ gigs:
     date: '23/02/2024 19:00'
     daysGroup: 28/29
     ticketsUrl: 'https://www.clubedoingresso.com/evento/petbrick-lightningbolt-sp'
-  - poster: cb345f99-129f-4c2a-94f3-208c847685fd.jpeg
-    city: São Paulo
-    date: '26/10/2023 20:00'
-    daysGroup: 26/27/28/29
-    ticketsUrl: 'https://www.clubedoingresso.com/evento/septicflesh-sp'
   - poster: 536c5597-b3ae-415c-8d95-0775cb824507.jpeg
     city: São Paulo
     date: '25/11/2023 19:00'
@@ -185,19 +145,6 @@ gigs:
     daysGroup: 10/11/12/13/14
     ticketsUrl: >-
       https://www.livepass.com.br/event/gojira-e-mastodon-espaco-unimed-17071425/
-  - poster: cf2a9c87-e714-4bd3-96b3-2eae5bd8b00d.jpeg
-    city: São Paulo
-    date: '28/10/2023 19:00'
-    daysGroup: 26/27/28/29
-    ticketsUrl: 'https://pixelticket.com.br/eventos/15707/halloween-2023'
-  - poster: 4c5bb8b9-701b-47a2-9066-af12dbf2560a.jpeg
-    city: São Paulo
-    date: '28/10/2023 19:00'
-    daysGroup: 26/27/28/29
-  - poster: 99d63a6f-7bba-4e6b-9f85-fa356c44d016.jpeg
-    city: São Paulo
-    date: '28/10/2023 13:00'
-    daysGroup: 26/27/28/29
   - poster: 17958871-69b5-41c4-a689-5eea63112128.jpeg
     city: São Paulo
     date: '25/11/2023 16:00'
@@ -211,15 +158,6 @@ gigs:
     city: Osasco
     date: '12/11/2023 19:00'
     daysGroup: 10/11/12/13/14
-  - poster: 394514153_6787968307962187_8221852984567352948_n.jpg
-    city: São Paulo
-    date: '29/10/2023 16:00'
-    daysGroup: 26/27/28/29
-    ticketsUrl: 'https://www.clubedoingresso.com/evento/marduk-sp'
-  - poster: 393366648_740214144770188_5108611990087453530_n.jpg
-    city: São Paulo
-    date: '27/10/2023 18:00'
-    daysGroup: 26/27/28/29
   - poster: 395303639_23967320769582779_4616575713729327744_n.jpg
     city: São Paulo
     date: '11/11/2023 18:00'
@@ -228,6 +166,22 @@ gigs:
     city: Santo André
     date: '03/12/2023 10:00'
     daysGroup: 01/02/03
+  - poster: 397442084_6748350971938956_1296228937279834672_n.jpg
+    city: São Paulo
+    date: '01/11/2023 19:00'
+    daysGroup: 01/02/03/04/05/06
+  - poster: 396709297_7249581708420575_4000755075263338348_n.jpg
+    city: Ribeirão Pires
+    date: '01/11/2023 18:00'
+    daysGroup: 01/02/03/04/05/06
+  - poster: 396957216_7249582021753877_8679166591730513672_n.jpg
+    city: Ribeirão Pires
+    date: '04/11/2023 18:00'
+    daysGroup: 01/02/03/04/05/06
+  - poster: 397069399_7249582335087179_669915381177590947_n.jpg
+    city: Ribeirão Pires
+    date: '05/11/2023 15:00'
+    daysGroup: 01/02/03/04/05/06
 ---
 
 

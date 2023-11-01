@@ -1324,5 +1324,67 @@ gigs:
     city: Osasco
     date: '21/10/2023 20:00'
     daysGroup: 19/20/21/22
+  - poster: 358431360_10225639050708449_976895014449052687_n.jpg
+    city: São Paulo
+    date: '27/10/2023 19:00'
+    daysGroup: 26/27/28/29
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/blackflag-saopaulo'
+  - poster: 358391263_775075024405759_4034568623908094891_n.jpg
+    city: São Paulo
+    date: '29/10/2023 18:30'
+    daysGroup: 26/27/28/29
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/obscura-sp'
+  - poster: 369939048_6472918839451947_5984335481433218722_n.jpg
+    city: Guarulhos
+    date: '29/10/2023 13:00'
+    daysGroup: 26/27/28/29
+    ticketsUrl: 'https://www.sympla.com.br/evento/ratos-de-porao-brecs-apresenta/2117421'
+  - poster: 370228504_700122915327801_1790246076198600315_n.jpg
+    city: São Paulo
+    date: '28/10/2023 16:00'
+    daysGroup: 26/27/28/29
+  - poster: 380081205_698203041836638_5554457261820035769_n.jpg
+    city: São Paulo
+    date: '28/10/2023 15:00'
+    daysGroup: 26/27/28/29
+  - poster: FB_IMG_1697485330457.jpg
+    city: São Paulo
+    date: '29/10/2023 15:00'
+    daysGroup: 26/27/28/29
+  - poster: 394507466_6845298632197021_2284461335081323196_n.jpg
+    city: São Paulo
+    date: '28/10/2023 13:00'
+    daysGroup: 26/27/28/29
+  - poster: 5d701c9c-bf8f-49b5-aab5-40eb25b24c6f.jpeg
+    city: São Paulo
+    date: '29/10/2023 18:00'
+    daysGroup: 26/27/28/29
+  - poster: cb345f99-129f-4c2a-94f3-208c847685fd.jpeg
+    city: São Paulo
+    date: '26/10/2023 20:00'
+    daysGroup: 26/27/28/29
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/septicflesh-sp'
+  - poster: cf2a9c87-e714-4bd3-96b3-2eae5bd8b00d.jpeg
+    city: São Paulo
+    date: '28/10/2023 19:00'
+    daysGroup: 26/27/28/29
+    ticketsUrl: 'https://pixelticket.com.br/eventos/15707/halloween-2023'
+  - poster: 4c5bb8b9-701b-47a2-9066-af12dbf2560a.jpeg
+    city: São Paulo
+    date: '28/10/2023 19:00'
+    daysGroup: 26/27/28/29
+  - poster: 99d63a6f-7bba-4e6b-9f85-fa356c44d016.jpeg
+    city: São Paulo
+    date: '28/10/2023 13:00'
+    daysGroup: 26/27/28/29
+  - poster: 394514153_6787968307962187_8221852984567352948_n.jpg
+    city: São Paulo
+    date: '29/10/2023 16:00'
+    daysGroup: 26/27/28/29
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/marduk-sp'
+  - poster: 393366648_740214144770188_5108611990087453530_n.jpg
+    city: São Paulo
+    date: '27/10/2023 18:00'
+    daysGroup: 26/27/28/29
 ---
 

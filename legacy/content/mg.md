@@ -64,5 +64,9 @@ gigs:
     city: Itabira
     date: '12/08/2023 17:00'
     daysGroup: 11/12/12
+  - poster: image_6483441.JPG
+    city: Belo Horizonte
+    date: '26/10/2023 19:00'
+    daysGroup: 26/27/28/29
 ---
 
