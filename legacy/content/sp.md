@@ -1386,5 +1386,13 @@ gigs:
     city: São Paulo
     date: '27/10/2023 18:00'
     daysGroup: 26/27/28/29
+  - poster: 396880499_7016693161707387_6946046766543985647_n.jpg
+    city: São Paulo
+    date: '27/10/2023 15:00'
+    daysGroup: 27/28/29
+  - poster: 396710404_10234024868862529_748303959016273191_n.jpg
+    city: São Paulo
+    date: '28/10/2023 18:00'
+    daysGroup: 27/28/29
 ---
 

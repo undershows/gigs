@@ -20,7 +20,8 @@ gigs:
     city: São Paulo
     date: '04/11/2023 20:00'
     daysGroup: 01/02/03/04/05/06
-    ticketsUrl: 'https://www.clubedoingresso.com/evento/macakongsprestophrenesy-laiglesiaborratxeria'
+    ticketsUrl: >-
+      https://www.clubedoingresso.com/evento/macakongsprestophrenesy-laiglesiaborratxeria
   - poster: 3.17.jpg
     city: São Paulo
     date: '06/11/2023 16:00'
@@ -42,7 +43,8 @@ gigs:
     city: São Paulo
     date: '03/11/2023 19:00'
     daysGroup: 01/02/03/04/05/06
-    ticketsUrl: 'https://www.sympla.com.br/evento/redstar-apresenta-desacato-civil-renegades-of-punk-punho-de-mahin/2202575'
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/redstar-apresenta-desacato-civil-renegades-of-punk-punho-de-mahin/2202575
   - poster: 380382563_2292381637819390_1584426411446296073_n.jpg
     city: São Paulo
     date: '11/02/2024 19:00'
@@ -194,7 +196,8 @@ gigs:
     city: São Paulo
     date: '03/11/2023 19:00'
     daysGroup: 01/02/03/04/05/06
-    ticketsUrl: 'https://pixelticket.com.br/eventos/15417/rise-of-the-northstar-em-sao-paulo'
+    ticketsUrl: >-
+      https://pixelticket.com.br/eventos/15417/rise-of-the-northstar-em-sao-paulo
   - poster: 396707012_10226381779596207_3773299723680597783_n.jpg
     city: Piracicaba
     date: '04/11/2023 17:00'
@@ -214,14 +217,6 @@ gigs:
     date: '18/11/2023 20:00'
     daysGroup: 17/18/19/20/21
     ticketsUrl: 'https://www.clubedoingresso.com/evento/statuesonfire'
-  - poster: 396880499_7016693161707387_6946046766543985647_n.jpg
-    city: São Paulo
-    date: '27/10/2023 15:00'
-    daysGroup: 27/28/29
-  - poster: 396710404_10234024868862529_748303959016273191_n.jpg
-    city: São Paulo
-    date: '28/10/2023 18:00'
-    daysGroup: 27/28/29
 ---
 
 
