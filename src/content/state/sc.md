@@ -14,10 +14,6 @@ gigs:
     date: '04/11/2023 16:00'
     city: Joinville
     daysGroup: 01/02/03/04/05
-  - poster: 3.12.jpg
-    date: '01/11/2023 20:00'
-    city: Rio Do Sul
-    daysGroup: 01/02/03/04/05
   - poster: 392805831_6696459143769802_7167126297311927046_n.jpg
     date: '18/11/2023 15:00'
     city: Joinville
@@ -30,6 +26,6 @@ gigs:
   - poster: 395224462_6712646068828912_3833302778381272637_n.jpg
     date: '03/11/2023 20:00'
     city: Blumenau
-    daysGroup: 01/02/03/04/05 
+    daysGroup: 01/02/03/04/05
 ---
 

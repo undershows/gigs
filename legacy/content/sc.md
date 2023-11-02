@@ -48,5 +48,9 @@ gigs:
     city: Campo Alegre
     date: '05/08/2023 17:00'
     daysGroup: 04/05/06
+  - poster: 3.12.jpg
+    date: '01/11/2023 20:00'
+    city: Rio Do Sul
+    daysGroup: 01/02/03/04/05
 ---
 

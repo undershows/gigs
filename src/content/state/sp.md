@@ -172,14 +172,6 @@ gigs:
     city: Santo André
     date: '03/12/2023 10:00'
     daysGroup: 01/02/03
-  - poster: 397442084_6748350971938956_1296228937279834672_n.jpg
-    city: São Paulo
-    date: '01/11/2023 19:00'
-    daysGroup: 01/02/03/04/05/06
-  - poster: 396709297_7249581708420575_4000755075263338348_n.jpg
-    city: Ribeirão Pires
-    date: '01/11/2023 18:00'
-    daysGroup: 01/02/03/04/05/06
   - poster: 396957216_7249582021753877_8679166591730513672_n.jpg
     city: Ribeirão Pires
     date: '04/11/2023 18:00'
