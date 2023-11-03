@@ -34,7 +34,7 @@ gigs:
   - poster: FB_IMG_1697129123144.jpg
     city: Indaiatuba
     date: '17/12/2023 15:00'
-    daysGroup: 15/16/17
+    daysGroup: 14/15/16/17
   - poster: 387076955_7201080146622380_4101665350962834155_n.jpg
     city: Campo Limpo Paulista
     date: '25/11/2023 18:30'
@@ -57,7 +57,7 @@ gigs:
   - poster: 385512200_18392680519009270_4529340641938767870_n.jpg
     city: Jandira
     date: '17/12/2023 13:00'
-    daysGroup: 15/16/17
+    daysGroup: 14/15/16/17
   - poster: 380943298_834717884846867_4541519935481020300_n.jpg
     city: São Paulo
     date: '17/11/2023 20:00'
@@ -67,7 +67,7 @@ gigs:
   - poster: FB_IMG_1697494578382.jpg
     city: São Paulo
     date: '09/12/2023 17:00'
-    daysGroup: 08/09/10
+    daysGroup: 06/07/08/09/10
     ticketsUrl: >-
       https://www.sympla.com.br/violator-em-sao-paulo--city-lights-music-hall--0912__2208975
   - poster: 0e5f3576-7252-4dbd-8156-10bfe61e78f0.jpeg
@@ -87,7 +87,7 @@ gigs:
   - poster: FB_IMG_1697688789564.jpg
     city: São Paulo
     date: '16/12/2023 22:00'
-    daysGroup: 15/16/17
+    daysGroup: 14/15/16/17
   - poster: 393693160_23933101546338035_8027508774869850548_n.jpg
     city: Santo André
     date: '04/11/2023 19:00'
@@ -96,7 +96,7 @@ gigs:
   - poster: 387798574_865776375114985_1602749618180874228_n.jpg
     city: Santos
     date: '15/12/2023 20:00'
-    daysGroup: 15/16/17
+    daysGroup: 14/15/16/17
     ticketsUrl: >-
       https://www.sympla.com.br/evento/fuzz-fest-apresenta-garage-fuzz-paura-fistt-e-cannon-of-hate/2199332
   - poster: FB_IMG_1697750107854.jpg
@@ -128,7 +128,7 @@ gigs:
   - poster: 818eb818-8998-4bea-a2ba-d9f8056e0f17.jpeg
     city: São Paulo
     date: '16/12/2023 18:00'
-    daysGroup: 15/16/17
+    daysGroup: 14/15/16/17
     ticketsUrl: 'https://www.clubedoingresso.com/evento/nofunatall-ignite-sp'
   - poster: 2cb2e2e5-d747-496d-8200-9a05717d4d20.jpeg
     city: São Paulo
@@ -153,7 +153,7 @@ gigs:
       https://www.livepass.com.br/event/gojira-e-mastodon-espaco-unimed-17071425/
   - poster: 17958871-69b5-41c4-a689-5eea63112128.jpeg
     city: São Paulo
-    date: '25/11/2023 16:00'
+    date: '26/11/2023 16:00'
     daysGroup: 22/23/24/25/26
   - poster: 2e809731-447d-403f-8423-6f384bfc675f.jpeg
     city: São Paulo
@@ -229,6 +229,50 @@ gigs:
     city: São Paulo
     date: '04/11/2023 17:00'
     daysGroup: 01/02/03/04/05/06
+  - poster: existence_under_attack.jpg
+    city: Bauru
+    date: '14/11/2023 22:00'
+    daysGroup: 10/11/12/13/14/15
+  - poster: fun_house_dz9.jpg
+    city: Ribeirão Pires
+    date: '17/11/2023 18:00'
+    daysGroup: 17/18/19/20/21    
+  - poster: vida_ruim.jpg
+    city: Marília
+    date: '17/11/2023 18:00'
+    daysGroup: 17/18/19/20/21    
+  - poster: festival_musica_livre.jpg
+    city: Araraquara
+    date: '18/11/2023 16:00'
+    daysGroup: 17/18/19/20/21
+  - poster: myfriends.jpg
+    city: Bauru
+    date: '19/11/2023 20:00'
+    daysGroup: 17/18/19/20/21
+  - poster: the_return_of_evil.jpg
+    city: São Carlos
+    date: '25/11/2023 20:00'
+    daysGroup: 22/23/24/25/26
+  - poster: mulheres_punk_debate.jpg
+    city: São Paulo
+    date: '02/12/2023 16:00'
+    daysGroup: 01/02/03
+  - poster: mulheres_punk_gig.jpg
+    city: São Paulo
+    date: '02/12/2023 17:30'
+    daysGroup: 01/02/03
+  - poster: rebaellium_bauru.jpg
+    city: Bauru
+    date: '14/12/2023 18:00'
+    daysGroup: 14/15/16/17
+  - poster: living_metal.jpg
+    city: Bauru
+    date: '06/12/2023 19:00'
+    daysGroup: 06/07/08/09/10
+  - poster: ruidos_y_ideias_3.jpg
+    city: Bauru
+    date: '03/12/2023 14:00'
+    daysGroup: 01/02/03
 ---
 
 
