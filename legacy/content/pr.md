@@ -139,5 +139,9 @@ gigs:
     date: '24/10/2023 19:00'
     city: Guarapuava
     daysGroup: 20/21/22/23/24
+  - poster: 395274210_6717731271653725_4033148261624824374_n.jpg
+    date: '02/11/2023 19:00'
+    city: Curitiba
+    daysGroup: 02/03/04/05
 ---
 

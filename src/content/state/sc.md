@@ -2,10 +2,6 @@
 abbr: SC
 name: Santa Catarina
 gigs:
-  - poster: 3.13.jpg
-    date: '02/11/2023 18:00'
-    city: Jaraguá do Sul
-    daysGroup: 01/02/03/04/05
   - poster: 3.14.jpg
     date: '03/11/2023 19:00'
     city: Florianópolis
