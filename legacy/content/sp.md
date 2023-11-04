@@ -1402,5 +1402,26 @@ gigs:
     city: Ribeirão Pires
     date: '01/11/2023 18:00'
     daysGroup: 01/02/03/04/05/06
+  - poster: 391625055_7179982325380514_5195425052324313650_n.jpg
+    city: São Paulo
+    date: '03/11/2023 19:00'
+    daysGroup: 01/02/03/04/05/06
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/redstar-apresenta-desacato-civil-renegades-of-punk-punho-de-mahin/2202575
+  - poster: bdbdfbe5-d513-4ef8-a7f4-ed8bc431e994.jpeg
+    city: São Paulo
+    date: '03/11/2023 19:00'
+    daysGroup: 01/02/03/04/05/06
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/vader40anos-jaiclub'
+  - poster: 396916725_10224061399667798_1620071038595537593_n.jpg
+    city: São Paulo
+    date: '03/11/2023 20:00'
+    daysGroup: 01/02/03/04/05/06
+  - poster: 396835393_10226381780196222_3956121696543911160_n.jpg
+    city: São Paulo
+    date: '03/11/2023 19:00'
+    daysGroup: 01/02/03/04/05/06
+    ticketsUrl: >-
+      https://pixelticket.com.br/eventos/15417/rise-of-the-northstar-em-sao-paulo
 ---
 

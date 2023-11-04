@@ -56,5 +56,13 @@ gigs:
     date: '02/11/2023 18:00'
     city: Jaraguá do Sul
     daysGroup: 01/02/03/04/05
+  - poster: 3.14.jpg
+    date: '03/11/2023 19:00'
+    city: Florianópolis
+    daysGroup: 01/02/03/04/05
+  - poster: 395224462_6712646068828912_3833302778381272637_n.jpg
+    date: '03/11/2023 20:00'
+    city: Blumenau
+    daysGroup: 01/02/03/04/05
 ---
 
