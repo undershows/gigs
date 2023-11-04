@@ -279,6 +279,10 @@ gigs:
     city: Santo André
     date: '05/11/2023 10:00'
     daysGroup: 01/02/03/04/05/06
+  - poster: FB_IMG_1699128144867.jpg
+    city: Sorocaba
+    date: '25/11/2023 16:00'
+    daysGroup: 22/23/24/25/26
 ---
 
 
