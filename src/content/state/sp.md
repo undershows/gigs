@@ -105,6 +105,7 @@ gigs:
     city: Diadema
     date: '03/12/2023 13:00'
     daysGroup: 01/02/03
+    ticketsUrl: 'https://www.sympla.com.br/evento/masters-of-noise-2023/2222962'
   - poster: db83c02d-a289-4679-85e2-e6685045f9c4.jpeg
     city: Sorocaba
     date: '21/11/2023 19:00'
@@ -141,7 +142,7 @@ gigs:
     ticketsUrl: >-
       https://www.livepass.com.br/event/gojira-e-mastodon-espaco-unimed-17071425/
   - poster: 17958871-69b5-41c4-a689-5eea63112128.jpeg
-    city: São Paulo
+    city: Ribeirão Pires
     date: '26/11/2023 16:00'
     daysGroup: 22/23/24/25/26
   - poster: 2e809731-447d-403f-8423-6f384bfc675f.jpeg
@@ -204,6 +205,7 @@ gigs:
     city: Santo André
     date: '11/11/2023 18:00'
     daysGroup: 10/11/12/13/14/15
+    ticketsUrl: 'https://www.sympla.com.br/evento/grinders-batto-dente-canino/2220862'
   - poster: 396717827_860085476116715_1610714893238816321_n.jpg
     city: São Paulo
     date: '04/11/2023 17:00'
@@ -244,6 +246,7 @@ gigs:
     city: Bauru
     date: '14/12/2023 18:00'
     daysGroup: 14/15/16/17
+    ticketsUrl: 'https://www.jackpub.com.br/event-details/rebaelliun-ereborus-tour'
   - poster: living_metal.jpg
     city: Bauru
     date: '06/12/2023 19:00'
