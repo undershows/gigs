@@ -64,5 +64,13 @@ gigs:
     date: '03/11/2023 20:00'
     city: Blumenau
     daysGroup: 01/02/03/04/05
+  - poster: 3.15.jpg
+    date: '04/11/2023 16:00'
+    city: Joinville
+    daysGroup: 01/02/03/04/05
+  - poster: 395236317_6715903695169816_9067815208676610060_n.jpg
+    date: '04/11/2023 18:00'
+    city: Florianópolis
+    daysGroup: 01/02/03/04/05
 ---
 

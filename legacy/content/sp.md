@@ -1423,5 +1423,38 @@ gigs:
     daysGroup: 01/02/03/04/05/06
     ticketsUrl: >-
       https://pixelticket.com.br/eventos/15417/rise-of-the-northstar-em-sao-paulo
+  - poster: 364079574_7102875253073072_1636609106856406007_n.jpg
+    city: São Paulo
+    date: '04/11/2023 20:00'
+    daysGroup: 01/02/03/04/05/06
+    ticketsUrl: 'https://www.sympla.com.br/evento/vazio-falsa-luz-no-fffront/2207903'
+  - poster: 374528212_6139050852865345_2425586714643793615_n.jpg
+    city: São Paulo
+    date: '04/11/2023 20:00'
+    daysGroup: 01/02/03/04/05/06
+    ticketsUrl: >-
+      https://www.clubedoingresso.com/evento/macakongsprestophrenesy-laiglesiaborratxeria
+  - poster: 380287431_856330459117531_1425130666131417762_n.jpg
+    city: São Paulo
+    date: '04/11/2023 18:00'
+    daysGroup: 01/02/03/04/05/06
+  - poster: 393693160_23933101546338035_8027508774869850548_n.jpg
+    city: Santo André
+    date: '04/11/2023 19:00'
+    daysGroup: 01/02/03/04/05/06
+    ticketsUrl: 'https://www.sympla.com.br/evento/garage-fuzz-riot-wolves-no-74club/2210945'
+  - poster: 396957216_7249582021753877_8679166591730513672_n.jpg
+    city: Ribeirão Pires
+    date: '04/11/2023 18:00'
+    daysGroup: 01/02/03/04/05/06
+  - poster: 396707012_10226381779596207_3773299723680597783_n.jpg
+    city: Piracicaba
+    date: '04/11/2023 17:00'
+    daysGroup: 01/02/03/04/05/06
+    ticketsUrl: 'https://byma.com.br/event/64d3ed89e9177100083c58cd'
+  - poster: 396717827_860085476116715_1610714893238816321_n.jpg
+    city: São Paulo
+    date: '04/11/2023 17:00'
+    daysGroup: 01/02/03/04/05/06
 ---
 

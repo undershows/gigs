@@ -38,5 +38,9 @@ gigs:
     city: Goiania
     date: '21/10/2023 16:00'
     daysGroup: 20/21/22
+  - poster: 396723655_2560080887487349_8485258274146789461_n.jpg
+    city: Goiânia
+    date: '04/11/2023 19:00'
+    daysGroup: 03/04/05
 ---
 

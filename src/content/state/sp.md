@@ -7,21 +7,10 @@ gigs:
     date: '19/11/2023 10:00'
     daysGroup: 17/18/19/20/21
     ticketsUrl: 'https://www.sympla.com.br/festival-sp-punk__2075633'
-  - poster: 364079574_7102875253073072_1636609106856406007_n.jpg
-    city: São Paulo
-    date: '04/11/2023 20:00'
-    daysGroup: 01/02/03/04/05/06
-    ticketsUrl: 'https://www.sympla.com.br/evento/vazio-falsa-luz-no-fffront/2207903'
   - poster: sao_caos_festival.jpg
     city: São Carlos
     date: '11/11/2023 12:00'
     daysGroup: 10/11/12/13/14/15
-  - poster: 374528212_6139050852865345_2425586714643793615_n.jpg
-    city: São Paulo
-    date: '04/11/2023 20:00'
-    daysGroup: 01/02/03/04/05/06
-    ticketsUrl: >-
-      https://www.clubedoingresso.com/evento/macakongsprestophrenesy-laiglesiaborratxeria
   - poster: 3.17.jpg
     city: São Paulo
     date: '06/11/2023 16:00'
@@ -44,10 +33,6 @@ gigs:
     date: '11/02/2024 19:00'
     daysGroup: 09/10/11
     ticketsUrl: 'https://www.clubedoingresso.com/evento/koolmetalfest-violence'
-  - poster: 380287431_856330459117531_1425130666131417762_n.jpg
-    city: São Paulo
-    date: '04/11/2023 18:00'
-    daysGroup: 01/02/03/04/05/06
   - poster: 385512200_18392680519009270_4529340641938767870_n.jpg
     city: Jandira
     date: '17/12/2023 13:00'
@@ -82,11 +67,6 @@ gigs:
     city: São Paulo
     date: '16/12/2023 22:00'
     daysGroup: 14/15/16/17
-  - poster: 393693160_23933101546338035_8027508774869850548_n.jpg
-    city: Santo André
-    date: '04/11/2023 19:00'
-    daysGroup: 01/02/03/04/05/06
-    ticketsUrl: 'https://www.sympla.com.br/evento/garage-fuzz-riot-wolves-no-74club/2210945'
   - poster: 387798574_865776375114985_1602749618180874228_n.jpg
     city: Santos
     date: '15/12/2023 20:00'
@@ -162,19 +142,10 @@ gigs:
     city: Santo André
     date: '03/12/2023 10:00'
     daysGroup: 01/02/03
-  - poster: 396957216_7249582021753877_8679166591730513672_n.jpg
-    city: Ribeirão Pires
-    date: '04/11/2023 18:00'
-    daysGroup: 01/02/03/04/05/06
   - poster: 397069399_7249582335087179_669915381177590947_n.jpg
     city: Ribeirão Pires
     date: '05/11/2023 15:00'
     daysGroup: 01/02/03/04/05/06
-  - poster: 396707012_10226381779596207_3773299723680597783_n.jpg
-    city: Piracicaba
-    date: '04/11/2023 17:00'
-    daysGroup: 01/02/03/04/05/06
-    ticketsUrl: 'https://byma.com.br/event/64d3ed89e9177100083c58cd'
   - poster: 397984641_10226381779116195_3355174798621695075_n.jpg
     city: São Paulo
     date: '05/11/2023 18:00'
@@ -206,10 +177,6 @@ gigs:
     date: '11/11/2023 18:00'
     daysGroup: 10/11/12/13/14/15
     ticketsUrl: 'https://www.sympla.com.br/evento/grinders-batto-dente-canino/2220862'
-  - poster: 396717827_860085476116715_1610714893238816321_n.jpg
-    city: São Paulo
-    date: '04/11/2023 17:00'
-    daysGroup: 01/02/03/04/05/06
   - poster: existence_under_attack.jpg
     city: Bauru
     date: '14/11/2023 22:00'

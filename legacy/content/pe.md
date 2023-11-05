@@ -42,5 +42,9 @@ gigs:
     daysGroup: 27/28/29
     ticketsUrl: >-
       https://www.sympla.com.br/evento/hellcife-extreme-festival-28-e-29-outubro-2023-recife-pe/2013632
+  - poster: 397971409_1852568431885812_482824241597009704_n.jpg
+    city: Olinda
+    date: '04/11/2023 15:00'
+    daysGroup: 03/04/05
 ---
 
