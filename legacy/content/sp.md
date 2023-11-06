@@ -1456,5 +1456,26 @@ gigs:
     city: São Paulo
     date: '04/11/2023 17:00'
     daysGroup: 01/02/03/04/05/06
+  - poster: 397069399_7249582335087179_669915381177590947_n.jpg
+    city: Ribeirão Pires
+    date: '05/11/2023 15:00'
+    daysGroup: 01/02/03/04/05/06
+  - poster: 397984641_10226381779116195_3355174798621695075_n.jpg
+    city: São Paulo
+    date: '05/11/2023 18:00'
+    daysGroup: 01/02/03/04/05/06
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/agnosticfront-sp'
+  - poster: 396880499_7016693161707387_6946046766543985647_n.jpg
+    city: São Paulo
+    date: '05/11/2023 15:00'
+    daysGroup: 01/02/03/04/05/06
+  - poster: 398155869_1852570238552298_8119759453222122856_n.jpg
+    city: Bauru
+    date: '05/11/2023 10:00'
+    daysGroup: 01/02/03/04/05/06
+  - poster: 397072226_7545534352161175_5083475963920418221_n.jpg
+    city: Santo André
+    date: '05/11/2023 10:00'
+    daysGroup: 01/02/03/04/05/06
 ---
 

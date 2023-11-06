@@ -142,15 +142,6 @@ gigs:
     city: Santo André
     date: '03/12/2023 10:00'
     daysGroup: 01/02/03
-  - poster: 397069399_7249582335087179_669915381177590947_n.jpg
-    city: Ribeirão Pires
-    date: '05/11/2023 15:00'
-    daysGroup: 01/02/03/04/05/06
-  - poster: 397984641_10226381779116195_3355174798621695075_n.jpg
-    city: São Paulo
-    date: '05/11/2023 18:00'
-    daysGroup: 01/02/03/04/05/06
-    ticketsUrl: 'https://www.clubedoingresso.com/evento/agnosticfront-sp'
   - poster: 396732779_6749941781753812_522915413943509897_n.jpg
     city: São Paulo
     date: '25/11/2023 19:00'
@@ -160,10 +151,6 @@ gigs:
     date: '18/11/2023 20:00'
     daysGroup: 17/18/19/20/21
     ticketsUrl: 'https://www.clubedoingresso.com/evento/statuesonfire'
-  - poster: 396880499_7016693161707387_6946046766543985647_n.jpg
-    city: São Paulo
-    date: '05/11/2023 15:00'
-    daysGroup: 01/02/03/04/05/06
   - poster: 396710404_10234024868862529_748303959016273191_n.jpg
     city: São Paulo
     date: '15/11/2023 18:00'
@@ -222,10 +209,6 @@ gigs:
     city: Agudos
     date: '03/12/2023 14:00'
     daysGroup: 01/02/03
-  - poster: 398155869_1852570238552298_8119759453222122856_n.jpg
-    city: Bauru
-    date: '05/11/2023 10:00'
-    daysGroup: 01/02/03/04/05/06
   - poster: 397963674_1852567348552587_399212687637010438_n.jpg
     city: Americana
     date: '18/11/2023 20:00'
@@ -242,10 +225,6 @@ gigs:
     city: Bauru
     date: '11/11/2023 18:00'
     daysGroup: 10/11/12/13/14/15
-  - poster: 397072226_7545534352161175_5083475963920418221_n.jpg
-    city: Santo André
-    date: '05/11/2023 10:00'
-    daysGroup: 01/02/03/04/05/06
   - poster: FB_IMG_1699128144867.jpg
     city: Sorocaba
     date: '25/11/2023 16:00'
