@@ -11,11 +11,6 @@ gigs:
     city: São Carlos
     date: '11/11/2023 12:00'
     daysGroup: 10/11/12/13/14/15
-  - poster: 3.17.jpg
-    city: São Paulo
-    date: '06/11/2023 16:00'
-    daysGroup: 01/02/03/04/05/06
-    ticketsUrl: 'https://bilheto.com.br/comprar/1562/monday-extreme'
   - poster: FB_IMG_1697128212261.jpg
     city: São Paulo
     date: '25/11/2023 20:30'

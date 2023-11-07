@@ -1477,5 +1477,10 @@ gigs:
     city: Santo André
     date: '05/11/2023 10:00'
     daysGroup: 01/02/03/04/05/06
+  - poster: 3.17.jpg
+    city: São Paulo
+    date: '06/11/2023 16:00'
+    daysGroup: 01/02/03/04/05/06
+    ticketsUrl: 'https://bilheto.com.br/comprar/1562/monday-extreme'
 ---
 
