@@ -68,5 +68,9 @@ gigs:
     city: Belo Horizonte
     date: '26/10/2023 19:00'
     daysGroup: 26/27/28/29
+  - poster: 398512053_1852567875219201_8605278939827988635_n.jpeg
+    city: Belo Horizonte
+    date: '07/11/2023 19:00'
+    daysGroup: 03/04/05/06/07
 ---
 
