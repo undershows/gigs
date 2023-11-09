@@ -5,7 +5,7 @@ gigs:
   - poster: 361641387_3456520821274765_5000235162969444519_n.jpg
     city: São Paulo
     date: '19/11/2023 10:00'
-    daysGroup: 17/18/19/20/21
+    daysGroup: 16/17/18/19/20/21
     ticketsUrl: 'https://www.sympla.com.br/festival-sp-punk__2075633'
   - poster: sao_caos_festival.jpg
     city: São Carlos
@@ -35,7 +35,7 @@ gigs:
   - poster: 380943298_834717884846867_4541519935481020300_n.jpg
     city: São Paulo
     date: '17/11/2023 20:00'
-    daysGroup: 17/18/19/20/21
+    daysGroup: 16/17/18/19/20/21
     ticketsUrl: >-
       https://www.sympla.com.br/evento/mukeka-di-rato-water-rats-budang-punho-de-mahin-em-sao-paulo/2165312
   - poster: FB_IMG_1697494578382.jpg
@@ -47,7 +47,7 @@ gigs:
   - poster: 0e5f3576-7252-4dbd-8156-10bfe61e78f0.jpeg
     city: São Paulo
     date: '20/11/2023 17:00'
-    daysGroup: 17/18/19/20/21
+    daysGroup: 16/17/18/19/20/21
     ticketsUrl: 'https://www.clubedoingresso.com/evento/birdflesh-saopaulo'
   - poster: 393852418_1111819276791886_8422845143342434413_n.jpg
     city: São José dos Campos
@@ -124,7 +124,7 @@ gigs:
     city: São Paulo
     date: '20/11/2023 19:00'
     ticketsUrl: 'https://ingresse.com/ludovic-thuslove'
-    daysGroup: 17/18/19/20/21
+    daysGroup: 16/17/18/19/20/21
   - poster: c537d49c-6f34-4102-988b-a1dc0d062f64.jpeg
     city: Osasco
     date: '12/11/2023 19:00'
@@ -144,7 +144,7 @@ gigs:
   - poster: 396686056_10160979689580682_1181160462697213566_n.jpg
     city: São Paulo
     date: '18/11/2023 20:00'
-    daysGroup: 17/18/19/20/21
+    daysGroup: 16/17/18/19/20/21
     ticketsUrl: 'https://www.clubedoingresso.com/evento/statuesonfire'
   - poster: 396710404_10234024868862529_748303959016273191_n.jpg
     city: São Paulo
@@ -153,7 +153,7 @@ gigs:
   - poster: 396732795_3704070766579536_2483233168588130951_n.jpg
     city: Birigui
     date: '18/11/2023 16:00'
-    daysGroup: 17/18/19/20/21
+    daysGroup: 16/17/18/19/20/21
   - poster: 396698611_7152105218134554_5871334708802800321_n.jpg
     city: Santo André
     date: '11/11/2023 18:00'
@@ -166,19 +166,19 @@ gigs:
   - poster: fun_house_dz9.jpg
     city: Ribeirão Pires
     date: '17/11/2023 18:00'
-    daysGroup: 17/18/19/20/21
+    daysGroup: 16/17/18/19/20/21
   - poster: vida_ruim.jpg
     city: Marília
     date: '17/11/2023 18:00'
-    daysGroup: 17/18/19/20/21
+    daysGroup: 16/17/18/19/20/21
   - poster: festival_musica_livre.jpg
     city: Araraquara
     date: '18/11/2023 16:00'
-    daysGroup: 17/18/19/20/21
+    daysGroup: 16/17/18/19/20/21
   - poster: myfriends.jpg
     city: Bauru
     date: '19/11/2023 20:00'
-    daysGroup: 17/18/19/20/21
+    daysGroup: 16/17/18/19/20/21
   - poster: the_return_of_evil.jpg
     city: São Carlos
     date: '25/11/2023 20:00'
@@ -207,7 +207,7 @@ gigs:
   - poster: 397963674_1852567348552587_399212687637010438_n.jpg
     city: Americana
     date: '18/11/2023 20:00'
-    daysGroup: 17/18/19/20/21
+    daysGroup: 16/17/18/19/20/21
   - poster: 398192101_1852564885219500_8926244102250363293_n.jpg
     city: Mauá
     date: '11/11/2023 12:00'
@@ -223,6 +223,22 @@ gigs:
   - poster: FB_IMG_1699128144867.jpg
     city: Sorocaba
     date: '25/11/2023 16:00'
+    daysGroup: 22/23/24/25/26
+  - poster: FB_IMG_1699500188332.jpg
+    city: São Paulo
+    date: '16/11/2023 20:00'
+    daysGroup: 16/17/18/19/20/21
+  - poster: FB_IMG_1699500180968.jpg
+    city: São Paulo
+    date: '25/11/2023 14:00'
+    daysGroup: 22/23/24/25/26
+  - poster: FB_IMG_1699500169862.jpg
+    city: São Paulo
+    date: '11/11/2023 18:00'
+    daysGroup: 10/11/12/13/14/15
+  - poster: FB_IMG_1699500113966.jpg
+    city: Várzea Paulista
+    date: '25/11/2023 14:00'
     daysGroup: 22/23/24/25/26
 ---
 
