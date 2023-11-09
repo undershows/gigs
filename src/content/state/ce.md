@@ -18,9 +18,5 @@ gigs:
     city: Fortaleza
     date: '26/11/2023 17:00'
     daysGroup: 24/25/26
-  - poster: xi_alcoholic_vomit_fest.jpg
-    city: Fortaleza
-    date: '12/11/2023 18:00'
-    daysGroup: 10/11/12
 ---
 
