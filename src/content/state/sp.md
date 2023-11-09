@@ -240,6 +240,22 @@ gigs:
     city: Várzea Paulista
     date: '25/11/2023 14:00'
     daysGroup: 22/23/24/25/26
+  - poster: FB_IMG_1699502091682.jpg
+    city: Mogi das Cruzes
+    date: '02/12/2023 23:00'
+    daysGroup: 01/02/03
+  - poster: FB_IMG_1699502116596.jpg
+    city: São Paulo
+    date: '14/11/2023 22:00'
+    daysGroup: 10/11/12/13/14/15
+  - poster: FB_IMG_1699502839192.jpg
+    city: São Paulo
+    date: '10/11/2023 19:00'
+    daysGroup: 10/11/12/13/14/15
+  - poster: FB_IMG_1699503210839.jpg
+    city: São Paulo
+    date: '02/12/2023 18:00'
+    daysGroup: 01/02/03
 ---
 
 
