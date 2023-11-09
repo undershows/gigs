@@ -10,7 +10,7 @@ gigs:
   - poster: sao_caos_festival.jpg
     city: São Carlos
     date: '11/11/2023 12:00'
-    daysGroup: 10/11/12/13/14/15
+    daysGroup: 09/10/11/12/13/14/15
   - poster: FB_IMG_1697128212261.jpg
     city: São Paulo
     date: '25/11/2023 20:30'
@@ -57,7 +57,7 @@ gigs:
   - poster: 394511339_6769104463170801_8779699094598351005_n.jpg
     city: São Paulo
     date: '14/11/2023 19:00'
-    daysGroup: 10/11/12/13/14/15
+    daysGroup: 09/10/11/12/13/14/15
   - poster: FB_IMG_1697688789564.jpg
     city: São Paulo
     date: '16/12/2023 22:00'
@@ -71,7 +71,7 @@ gigs:
   - poster: FB_IMG_1697750107854.jpg
     city: Bauru
     date: '10/11/2023 20:00'
-    daysGroup: 10/11/12/13/14/15
+    daysGroup: 09/10/11/12/13/14/15
   - poster: FB_IMG_1697827970394.jpg
     city: Osasco
     date: '01/12/2023 19:00'
@@ -113,7 +113,7 @@ gigs:
   - poster: 102f2543-6d3a-49b5-9c7d-fc43420ea21c.jpeg
     city: São Paulo
     date: '14/11/2023 19:00'
-    daysGroup: 10/11/12/13/14/15
+    daysGroup: 09/10/11/12/13/14/15
     ticketsUrl: >-
       https://www.livepass.com.br/event/gojira-e-mastodon-espaco-unimed-17071425/
   - poster: 17958871-69b5-41c4-a689-5eea63112128.jpeg
@@ -128,11 +128,11 @@ gigs:
   - poster: c537d49c-6f34-4102-988b-a1dc0d062f64.jpeg
     city: Osasco
     date: '12/11/2023 19:00'
-    daysGroup: 10/11/12/13/14/15
+    daysGroup: 09/10/11/12/13/14/15
   - poster: 395303639_23967320769582779_4616575713729327744_n.jpg
     city: São Paulo
     date: '11/11/2023 18:00'
-    daysGroup: 10/11/12/13/14/15
+    daysGroup: 09/10/11/12/13/14/15
   - poster: 396697501_23980314158283440_7982968121182861425_n.jpg
     city: Santo André
     date: '03/12/2023 10:00'
@@ -149,7 +149,7 @@ gigs:
   - poster: 396710404_10234024868862529_748303959016273191_n.jpg
     city: São Paulo
     date: '15/11/2023 18:00'
-    daysGroup: 10/11/12/13/14/15
+    daysGroup: 09/10/11/12/13/14/15
   - poster: 396732795_3704070766579536_2483233168588130951_n.jpg
     city: Birigui
     date: '18/11/2023 16:00'
@@ -157,12 +157,12 @@ gigs:
   - poster: 396698611_7152105218134554_5871334708802800321_n.jpg
     city: Santo André
     date: '11/11/2023 18:00'
-    daysGroup: 10/11/12/13/14/15
+    daysGroup: 09/10/11/12/13/14/15
     ticketsUrl: 'https://www.sympla.com.br/evento/grinders-batto-dente-canino/2220862'
   - poster: existence_under_attack.jpg
     city: Bauru
     date: '14/11/2023 22:00'
-    daysGroup: 10/11/12/13/14/15
+    daysGroup: 09/10/11/12/13/14/15
   - poster: fun_house_dz9.jpg
     city: Ribeirão Pires
     date: '17/11/2023 18:00'
@@ -211,7 +211,7 @@ gigs:
   - poster: 398192101_1852564885219500_8926244102250363293_n.jpg
     city: Mauá
     date: '11/11/2023 12:00'
-    daysGroup: 10/11/12/13/14/15
+    daysGroup: 09/10/11/12/13/14/15
   - poster: 397982576_1852564585219530_9195429883328231892_n.jpg
     city: São Paulo
     date: '19/11/2023 14:00'
@@ -219,7 +219,7 @@ gigs:
   - poster: 398141524_1852563755219613_6685641289471075232_n.jpg
     city: Bauru
     date: '11/11/2023 18:00'
-    daysGroup: 10/11/12/13/14/15
+    daysGroup: 09/10/11/12/13/14/15
   - poster: FB_IMG_1699128144867.jpg
     city: Sorocaba
     date: '25/11/2023 16:00'
@@ -235,7 +235,7 @@ gigs:
   - poster: FB_IMG_1699500169862.jpg
     city: São Paulo
     date: '11/11/2023 18:00'
-    daysGroup: 10/11/12/13/14/15
+    daysGroup: 09/10/11/12/13/14/15
   - poster: FB_IMG_1699500113966.jpg
     city: Várzea Paulista
     date: '25/11/2023 14:00'
@@ -247,15 +247,20 @@ gigs:
   - poster: FB_IMG_1699502116596.jpg
     city: São Paulo
     date: '14/11/2023 22:00'
-    daysGroup: 10/11/12/13/14/15
+    daysGroup: 09/10/11/12/13/14/15
   - poster: FB_IMG_1699502839192.jpg
     city: São Paulo
     date: '10/11/2023 19:00'
-    daysGroup: 10/11/12/13/14/15
+    daysGroup: 09/10/11/12/13/14/15
   - poster: FB_IMG_1699503210839.jpg
     city: São Paulo
     date: '02/12/2023 18:00'
     daysGroup: 01/02/03
+  - poster: 399254759_833605935436839_287215479104086858_n.jpg
+    city: São Paulo
+    date: '09/11/2023 18:00'
+    daysGroup: 09/10/11/12/13/14/15
+    ticketsUrl: 'https://eventim.com.br/event/in-flames-south-america-2023-tokio-marine-hall-tokio-marine-hall-17510516/'
 ---
 
 
