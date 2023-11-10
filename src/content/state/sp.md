@@ -268,6 +268,20 @@ gigs:
     city: São Paulo
     date: '09/12/2023 19:00'
     daysGroup: 06/07/08/09/10
+  - poster: 385316700_18385132585063380_3233116704808657777_n.jpg
+    city: São Paulo
+    date: '10/11/2023 19:00'
+    daysGroup: 09/10/11/12/13/14/15
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/blindpigs'
+  - poster: 399988038_900370781662183_2369120351195841033_n.jpg
+    city: São Paulo
+    date: '11/11/2023 20:00'
+    daysGroup: 09/10/11/12/13/14/15
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/garagefuzz-laiglesiaborratxeria'
+  - poster: 397442614_897292695303325_7710744301095546635_n.jpg
+    city: Várzea Paulista
+    date: '10/12/2023 16:00'
+    daysGroup: 06/07/08/09/10
 ---
 
 
