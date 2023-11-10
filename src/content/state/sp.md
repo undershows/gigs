@@ -256,11 +256,6 @@ gigs:
     city: São Paulo
     date: '02/12/2023 18:00'
     daysGroup: 01/02/03
-  - poster: 399254759_833605935436839_287215479104086858_n.jpg
-    city: São Paulo
-    date: '09/11/2023 18:00'
-    daysGroup: 09/10/11/12/13/14/15
-    ticketsUrl: 'https://eventim.com.br/event/in-flames-south-america-2023-tokio-marine-hall-tokio-marine-hall-17510516/'
   - poster: 400015121_3673832089608051_8566237505986038768_n.jpg
     city: São Paulo
     date: '10/11/2023 18:00'

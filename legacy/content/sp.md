@@ -1482,5 +1482,11 @@ gigs:
     date: '06/11/2023 16:00'
     daysGroup: 01/02/03/04/05/06
     ticketsUrl: 'https://bilheto.com.br/comprar/1562/monday-extreme'
+  - poster: 399254759_833605935436839_287215479104086858_n.jpg
+    city: São Paulo
+    date: '09/11/2023 18:00'
+    daysGroup: 09/10/11/12/13/14/15
+    ticketsUrl: >-
+      https://eventim.com.br/event/in-flames-south-america-2023-tokio-marine-hall-tokio-marine-hall-17510516/
 ---
 
