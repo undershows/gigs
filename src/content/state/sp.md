@@ -264,6 +264,10 @@ gigs:
     city: São Paulo
     date: '19/11/2023 16:00'
     daysGroup: 16/17/18/19/20/21
+  - poster: FB_IMG_1699588355679.jpg
+    city: São Paulo
+    date: '09/12/2023 19:00'
+    daysGroup: 06/07/08/09/10
 ---
 
 
