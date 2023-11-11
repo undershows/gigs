@@ -265,6 +265,15 @@ gigs:
     city: Várzea Paulista
     date: '10/12/2023 16:00'
     daysGroup: 06/07/08/09/10
+  - poster: FB_IMG_1699744058785.jpg
+    city: Santo André
+    date: '01/12/2023 19:00'
+    daysGroup: 01/02/03
+  - poster: FB_IMG_1699664714486.jpg
+    city: São Paulo
+    date: '08/12/2023 21:00'
+    daysGroup: 06/07/08/09/10
+    ticketsUrl: 'https://www.sympla.com.br/evento/bufo-borealis-test/2198079'
 ---
 
 
