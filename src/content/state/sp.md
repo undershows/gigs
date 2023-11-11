@@ -68,10 +68,6 @@ gigs:
     daysGroup: 14/15/16/17
     ticketsUrl: >-
       https://www.sympla.com.br/evento/fuzz-fest-apresenta-garage-fuzz-paura-fistt-e-cannon-of-hate/2199332
-  - poster: FB_IMG_1697750107854.jpg
-    city: Bauru
-    date: '10/11/2023 20:00'
-    daysGroup: 09/10/11/12/13/14/15
   - poster: FB_IMG_1697827970394.jpg
     city: Osasco
     date: '01/12/2023 19:00'
@@ -248,18 +244,10 @@ gigs:
     city: São Paulo
     date: '14/11/2023 22:00'
     daysGroup: 09/10/11/12/13/14/15
-  - poster: FB_IMG_1699502839192.jpg
-    city: São Paulo
-    date: '10/11/2023 19:00'
-    daysGroup: 09/10/11/12/13/14/15
   - poster: FB_IMG_1699503210839.jpg
     city: São Paulo
     date: '02/12/2023 18:00'
     daysGroup: 01/02/03
-  - poster: 400015121_3673832089608051_8566237505986038768_n.jpg
-    city: São Paulo
-    date: '10/11/2023 18:00'
-    daysGroup: 09/10/11/12/13/14/15
   - poster: FB_IMG_1699569510910.jpg
     city: São Paulo
     date: '19/11/2023 16:00'
@@ -268,11 +256,6 @@ gigs:
     city: São Paulo
     date: '09/12/2023 19:00'
     daysGroup: 06/07/08/09/10
-  - poster: 385316700_18385132585063380_3233116704808657777_n.jpg
-    city: São Paulo
-    date: '10/11/2023 19:00'
-    daysGroup: 09/10/11/12/13/14/15
-    ticketsUrl: 'https://www.clubedoingresso.com/evento/blindpigs'
   - poster: 399988038_900370781662183_2369120351195841033_n.jpg
     city: São Paulo
     date: '11/11/2023 20:00'

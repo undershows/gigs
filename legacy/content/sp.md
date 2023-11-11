@@ -1488,5 +1488,22 @@ gigs:
     daysGroup: 09/10/11/12/13/14/15
     ticketsUrl: >-
       https://eventim.com.br/event/in-flames-south-america-2023-tokio-marine-hall-tokio-marine-hall-17510516/
+  - poster: FB_IMG_1697750107854.jpg
+    city: Bauru
+    date: '10/11/2023 20:00'
+    daysGroup: 09/10/11/12/13/14/15
+  - poster: FB_IMG_1699502839192.jpg
+    city: São Paulo
+    date: '10/11/2023 19:00'
+    daysGroup: 09/10/11/12/13/14/15
+  - poster: 400015121_3673832089608051_8566237505986038768_n.jpg
+    city: São Paulo
+    date: '10/11/2023 18:00'
+    daysGroup: 09/10/11/12/13/14/15
+  - poster: 385316700_18385132585063380_3233116704808657777_n.jpg
+    city: São Paulo
+    date: '10/11/2023 19:00'
+    daysGroup: 09/10/11/12/13/14/15
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/blindpigs'
 ---
 

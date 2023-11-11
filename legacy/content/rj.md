@@ -76,5 +76,9 @@ gigs:
     date: '09/11/2023 19:00'
     city: Rio de Janeiro
     daysGroup: 09/10/11/12
+  - poster: 350128192_1445570932953559_685295211489154453_n.jpg
+    city: Bangu
+    date: '10/11/2023 19:00'
+    daysGroup: 09/10/11/12
 ---
 
