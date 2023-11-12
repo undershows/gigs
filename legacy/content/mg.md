@@ -76,5 +76,9 @@ gigs:
     city: Uberlândia
     date: '09/11/2023 18:30'
     daysGroup: 09/10/11/12
+  - poster: FB_IMG_1699530538518.jpg
+    city: Belo Horizonte
+    date: '11/11/2023 18:00'
+    daysGroup: 09/10/11/12
 ---
 

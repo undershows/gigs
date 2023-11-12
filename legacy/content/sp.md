@@ -1505,5 +1505,35 @@ gigs:
     date: '10/11/2023 19:00'
     daysGroup: 09/10/11/12/13/14/15
     ticketsUrl: 'https://www.clubedoingresso.com/evento/blindpigs'
+  - poster: sao_caos_festival.jpg
+    city: São Carlos
+    date: '11/11/2023 12:00'
+    daysGroup: 09/10/11/12/13/14/15
+  - poster: 395303639_23967320769582779_4616575713729327744_n.jpg
+    city: São Paulo
+    date: '11/11/2023 18:00'
+    daysGroup: 09/10/11/12/13/14/15
+  - poster: 396698611_7152105218134554_5871334708802800321_n.jpg
+    city: Santo André
+    date: '11/11/2023 18:00'
+    daysGroup: 09/10/11/12/13/14/15
+    ticketsUrl: 'https://www.sympla.com.br/evento/grinders-batto-dente-canino/2220862'
+  - poster: 398192101_1852564885219500_8926244102250363293_n.jpg
+    city: Mauá
+    date: '11/11/2023 12:00'
+    daysGroup: 09/10/11/12/13/14/15
+  - poster: 398141524_1852563755219613_6685641289471075232_n.jpg
+    city: Bauru
+    date: '11/11/2023 18:00'
+    daysGroup: 09/10/11/12/13/14/15
+  - poster: FB_IMG_1699500169862.jpg
+    city: São Paulo
+    date: '11/11/2023 18:00'
+    daysGroup: 09/10/11/12/13/14/15
+  - poster: 399988038_900370781662183_2369120351195841033_n.jpg
+    city: São Paulo
+    date: '11/11/2023 20:00'
+    daysGroup: 09/10/11/12/13/14/15
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/garagefuzz-laiglesiaborratxeria'
 ---
 

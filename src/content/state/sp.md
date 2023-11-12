@@ -7,10 +7,6 @@ gigs:
     date: '19/11/2023 10:00'
     daysGroup: 16/17/18/19/20/21
     ticketsUrl: 'https://www.sympla.com.br/festival-sp-punk__2075633'
-  - poster: sao_caos_festival.jpg
-    city: São Carlos
-    date: '11/11/2023 12:00'
-    daysGroup: 09/10/11/12/13/14/15
   - poster: FB_IMG_1697128212261.jpg
     city: São Paulo
     date: '25/11/2023 20:30'
@@ -125,10 +121,6 @@ gigs:
     city: Osasco
     date: '12/11/2023 19:00'
     daysGroup: 09/10/11/12/13/14/15
-  - poster: 395303639_23967320769582779_4616575713729327744_n.jpg
-    city: São Paulo
-    date: '11/11/2023 18:00'
-    daysGroup: 09/10/11/12/13/14/15
   - poster: 396697501_23980314158283440_7982968121182861425_n.jpg
     city: Santo André
     date: '03/12/2023 10:00'
@@ -150,11 +142,6 @@ gigs:
     city: Birigui
     date: '18/11/2023 16:00'
     daysGroup: 16/17/18/19/20/21
-  - poster: 396698611_7152105218134554_5871334708802800321_n.jpg
-    city: Santo André
-    date: '11/11/2023 18:00'
-    daysGroup: 09/10/11/12/13/14/15
-    ticketsUrl: 'https://www.sympla.com.br/evento/grinders-batto-dente-canino/2220862'
   - poster: existence_under_attack.jpg
     city: Bauru
     date: '14/11/2023 22:00'
@@ -204,18 +191,10 @@ gigs:
     city: Americana
     date: '18/11/2023 20:00'
     daysGroup: 16/17/18/19/20/21
-  - poster: 398192101_1852564885219500_8926244102250363293_n.jpg
-    city: Mauá
-    date: '11/11/2023 12:00'
-    daysGroup: 09/10/11/12/13/14/15
   - poster: 397982576_1852564585219530_9195429883328231892_n.jpg
     city: São Paulo
     date: '19/11/2023 14:00'
     daysGroup: 17/18/19/20/21
-  - poster: 398141524_1852563755219613_6685641289471075232_n.jpg
-    city: Bauru
-    date: '11/11/2023 18:00'
-    daysGroup: 09/10/11/12/13/14/15
   - poster: FB_IMG_1699128144867.jpg
     city: Sorocaba
     date: '25/11/2023 16:00'
@@ -228,10 +207,6 @@ gigs:
     city: São Paulo
     date: '25/11/2023 14:00'
     daysGroup: 22/23/24/25/26
-  - poster: FB_IMG_1699500169862.jpg
-    city: São Paulo
-    date: '11/11/2023 18:00'
-    daysGroup: 09/10/11/12/13/14/15
   - poster: FB_IMG_1699500113966.jpg
     city: Várzea Paulista
     date: '25/11/2023 14:00'
@@ -256,11 +231,6 @@ gigs:
     city: São Paulo
     date: '09/12/2023 19:00'
     daysGroup: 06/07/08/09/10
-  - poster: 399988038_900370781662183_2369120351195841033_n.jpg
-    city: São Paulo
-    date: '11/11/2023 20:00'
-    daysGroup: 09/10/11/12/13/14/15
-    ticketsUrl: 'https://www.clubedoingresso.com/evento/garagefuzz-laiglesiaborratxeria'
   - poster: 397442614_897292695303325_7710744301095546635_n.jpg
     city: Várzea Paulista
     date: '10/12/2023 16:00'

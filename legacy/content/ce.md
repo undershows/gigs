@@ -16,5 +16,9 @@ gigs:
     city: Fortaleza
     date: '04/11/2023 18:00'
     daysGroup: 03/04/05
+  - poster: 398541921_1852568685219120_7203472481773669902_n.jpg
+    city: Maracanaú
+    date: '11/11/2023 18:00'
+    daysGroup: 10/11/12
 ---
 
