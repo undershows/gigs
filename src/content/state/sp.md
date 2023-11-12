@@ -76,7 +76,7 @@ gigs:
   - poster: db83c02d-a289-4679-85e2-e6685045f9c4.jpeg
     city: Sorocaba
     date: '21/11/2023 19:00'
-    daysGroup: 17/18/19/20/21
+    daysGroup: 16/17/18/19/20/21
     ticketsUrl: 'https://www.sympla.com.br/evento/birdflesh-em-sorocaba/2209430'
   - poster: 777c3872-b8dc-41a2-84ab-e6076f7b042d.jpeg
     city: São Paulo
@@ -192,9 +192,9 @@ gigs:
     date: '18/11/2023 20:00'
     daysGroup: 16/17/18/19/20/21
   - poster: 397982576_1852564585219530_9195429883328231892_n.jpg
-    city: São Paulo
+    city: Piracicaba
     date: '19/11/2023 14:00'
-    daysGroup: 17/18/19/20/21
+    daysGroup: 16/17/18/19/20/21
   - poster: FB_IMG_1699128144867.jpg
     city: Sorocaba
     date: '25/11/2023 16:00'
