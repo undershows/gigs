@@ -244,6 +244,11 @@ gigs:
     date: '08/12/2023 21:00'
     daysGroup: 06/07/08/09/10
     ticketsUrl: 'https://www.sympla.com.br/evento/bufo-borealis-test/2198079'
+  - poster: FB_IMG_1699795958467.jpg
+    city: Guarujá
+    date: '12/11/2023 17:00'
+    daysGroup: 09/10/11/12/13/14/15
+    ticketsUrl: 'https://articket.com.br/e/1341/coletivo-aurora-apresenta-2'
 ---
 
 
