@@ -1535,5 +1535,14 @@ gigs:
     date: '11/11/2023 20:00'
     daysGroup: 09/10/11/12/13/14/15
     ticketsUrl: 'https://www.clubedoingresso.com/evento/garagefuzz-laiglesiaborratxeria'
+  - poster: c537d49c-6f34-4102-988b-a1dc0d062f64.jpeg
+    city: Osasco
+    date: '12/11/2023 19:00'
+    daysGroup: 09/10/11/12/13/14/15
+  - poster: FB_IMG_1699795958467.jpg
+    city: Guarujá
+    date: '12/11/2023 17:00'
+    daysGroup: 09/10/11/12/13/14/15
+    ticketsUrl: 'https://articket.com.br/e/1341/coletivo-aurora-apresenta-2'
 ---
 

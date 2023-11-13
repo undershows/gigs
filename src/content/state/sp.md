@@ -117,10 +117,6 @@ gigs:
     date: '20/11/2023 19:00'
     ticketsUrl: 'https://ingresse.com/ludovic-thuslove'
     daysGroup: 16/17/18/19/20/21
-  - poster: c537d49c-6f34-4102-988b-a1dc0d062f64.jpeg
-    city: Osasco
-    date: '12/11/2023 19:00'
-    daysGroup: 09/10/11/12/13/14/15
   - poster: 396697501_23980314158283440_7982968121182861425_n.jpg
     city: Santo André
     date: '03/12/2023 10:00'
@@ -244,11 +240,6 @@ gigs:
     date: '08/12/2023 21:00'
     daysGroup: 06/07/08/09/10
     ticketsUrl: 'https://www.sympla.com.br/evento/bufo-borealis-test/2198079'
-  - poster: FB_IMG_1699795958467.jpg
-    city: Guarujá
-    date: '12/11/2023 17:00'
-    daysGroup: 09/10/11/12/13/14/15
-    ticketsUrl: 'https://articket.com.br/e/1341/coletivo-aurora-apresenta-2'
 ---
 
 
