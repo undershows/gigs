@@ -5,12 +5,13 @@ import Link from "@/components/core/Link.astro";
 interface Props {
   mainState: string;
   githubUrl: string;
+  bannerUrl: string;
   posterMail: string;
   states: CollectionEntry<"state">[];
   currentState: CollectionEntry<"state">;
 }
 
-const { states, mainState, githubUrl, posterMail, currentState } = Astro.props;
+const { states, mainState, githubUrl, bannerUrl, posterMail, currentState } = Astro.props;
 const sortedStates = [...states].sort((a) => (a.slug === mainState ? -1 : 1));
 const { Content } = await currentState.render();
 
@@ -37,8 +38,11 @@ const isLink = (state: CollectionEntry<"state">) =>
   }
 
   <br />
+  <br>
+  <b>CONSTRITO EM VINIL, UMA DAS BANDAS MAIS CLÁSSICAS DA HISTÓRIA DO HARDCORE/PUNK BR, BORA AJUDAR?</b>
+  <a href={bannerUrl} class="class2" target="_blank">{bannerUrl}</a><br>
   Mandem cartaz para
-  <a href={`mailto:${posterMail}`} class="class2">{posterMail}</a>
+  <a href={`mailto:${posterMail}`} class="class2">{posterMail}</a><br>
   ou se quiserem contribuir
   <a href={githubUrl} class="class2" target="_blank">{githubUrl}</a>
 
