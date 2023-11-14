@@ -9,6 +9,7 @@ on:
 env:
   APP_MAIN_STATE: ${{ vars.APP_MAIN_STATE }}
   APP_GITHUB_URL: ${{ vars.APP_GITHUB_URL }}
+  APP_BANNER_URL: ${{ vars.APP_BANNER_URL }}
   APP_POSTER_MAIL: ${{ vars.APP_POSTER_MAIL }}
   APP_OLD_SITE_URL: ${{ vars.APP_OLD_SITE_URL }}
   APP_OLD_SITE_TITLE: ${{ vars.APP_OLD_SITE_TITLE }}
