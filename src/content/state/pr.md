@@ -16,5 +16,9 @@ gigs:
     city: Sertanópolis
     date: '16/12/2023 14:00'
     daysGroup: 15/16/17
+  - poster: 399574797_829042442558720_147632359525711727_n.jpg
+    city: Londrina
+    date: '18/11/2023 20:00'
+    daysGroup: 17/18/19
 ---
 
