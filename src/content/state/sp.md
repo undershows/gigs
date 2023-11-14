@@ -219,6 +219,7 @@ gigs:
     city: São Paulo
     date: '02/12/2023 18:00'
     daysGroup: 01/02/03
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/carnifex-sp'
   - poster: FB_IMG_1699569510910.jpg
     city: São Paulo
     date: '19/11/2023 16:00'
@@ -235,11 +236,34 @@ gigs:
     city: Santo André
     date: '01/12/2023 19:00'
     daysGroup: 01/02/03
+    ticketsUrl: 'https://www.sympla.com.br/evento/merda-e-sentimento-carpete-no-74club/2240746'
   - poster: FB_IMG_1699664714486.jpg
     city: São Paulo
     date: '08/12/2023 21:00'
     daysGroup: 06/07/08/09/10
     ticketsUrl: 'https://www.sympla.com.br/evento/bufo-borealis-test/2198079'
+  - poster: 401763627_10231200710951352_4790843690590336663_n.jpg
+    city: São Paulo
+    date: '19/11/2023 15:00'
+    daysGroup: 16/17/18/19/20/21
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/spmusicexperience'
+  - poster: 400422666_7121203271235263_1699227769005218808_n.jpg
+    city: São Paulo
+    date: '08/12/2023 19:00'
+    daysGroup: 06/07/08/09/10
+  - poster: 401856135_6265029506930345_5716003558363356723_n.jpg
+    city: Jundiaí
+    date: '02/12/2023 17:00'
+    daysGroup: 01/02/03
+  - poster: 401776897_6265027833597179_9140951992002312989_n.jpg
+    city: São Paulo
+    date: '25/11/2023 20:00'
+    daysGroup: 22/23/24/25/26
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/pestaapnea-25-11'
+  - poster: 401773273_7754397824575275_1606004578882631150_n.jpg
+    city: Santo André
+    date: '02/12/2023 19:00'
+    daysGroup: 01/02/03    
 ---
 
 
