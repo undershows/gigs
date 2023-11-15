@@ -1544,5 +1544,23 @@ gigs:
     date: '12/11/2023 17:00'
     daysGroup: 09/10/11/12/13/14/15
     ticketsUrl: 'https://articket.com.br/e/1341/coletivo-aurora-apresenta-2'
+  - poster: 394511339_6769104463170801_8779699094598351005_n.jpg
+    city: São Paulo
+    date: '14/11/2023 19:00'
+    daysGroup: 09/10/11/12/13/14/15
+  - poster: 102f2543-6d3a-49b5-9c7d-fc43420ea21c.jpeg
+    city: São Paulo
+    date: '14/11/2023 19:00'
+    daysGroup: 09/10/11/12/13/14/15
+    ticketsUrl: >-
+      https://www.livepass.com.br/event/gojira-e-mastodon-espaco-unimed-17071425/
+  - poster: existence_under_attack.jpg
+    city: Bauru
+    date: '14/11/2023 22:00'
+    daysGroup: 09/10/11/12/13/14/15
+  - poster: FB_IMG_1699502116596.jpg
+    city: São Paulo
+    date: '14/11/2023 22:00'
+    daysGroup: 09/10/11/12/13/14/15
 ---
 

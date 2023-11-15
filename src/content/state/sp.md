@@ -50,10 +50,6 @@ gigs:
     date: '22/11/2023 18:00'
     daysGroup: 22/23/24/25/26
     ticketsUrl: 'https://www.clubedoingresso.com/evento/birdflesh-sjc'
-  - poster: 394511339_6769104463170801_8779699094598351005_n.jpg
-    city: São Paulo
-    date: '14/11/2023 19:00'
-    daysGroup: 09/10/11/12/13/14/15
   - poster: FB_IMG_1697688789564.jpg
     city: São Paulo
     date: '16/12/2023 22:00'
@@ -102,12 +98,6 @@ gigs:
     date: '25/11/2023 19:00'
     daysGroup: 22/23/24/25/26
     ticketsUrl: 'https://pixelticket.com.br/eventos/16055/discharge-no-hangar110'
-  - poster: 102f2543-6d3a-49b5-9c7d-fc43420ea21c.jpeg
-    city: São Paulo
-    date: '14/11/2023 19:00'
-    daysGroup: 09/10/11/12/13/14/15
-    ticketsUrl: >-
-      https://www.livepass.com.br/event/gojira-e-mastodon-espaco-unimed-17071425/
   - poster: 17958871-69b5-41c4-a689-5eea63112128.jpeg
     city: Ribeirão Pires
     date: '26/11/2023 16:00'
@@ -138,10 +128,6 @@ gigs:
     city: Birigui
     date: '18/11/2023 16:00'
     daysGroup: 16/17/18/19/20/21
-  - poster: existence_under_attack.jpg
-    city: Bauru
-    date: '14/11/2023 22:00'
-    daysGroup: 09/10/11/12/13/14/15
   - poster: fun_house_dz9.jpg
     city: Ribeirão Pires
     date: '17/11/2023 18:00'
@@ -211,10 +197,6 @@ gigs:
     city: Mogi das Cruzes
     date: '02/12/2023 23:00'
     daysGroup: 01/02/03
-  - poster: FB_IMG_1699502116596.jpg
-    city: São Paulo
-    date: '14/11/2023 22:00'
-    daysGroup: 09/10/11/12/13/14/15
   - poster: FB_IMG_1699503210839.jpg
     city: São Paulo
     date: '02/12/2023 18:00'
@@ -236,7 +218,8 @@ gigs:
     city: Santo André
     date: '01/12/2023 19:00'
     daysGroup: 01/02/03
-    ticketsUrl: 'https://www.sympla.com.br/evento/merda-e-sentimento-carpete-no-74club/2240746'
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/merda-e-sentimento-carpete-no-74club/2240746
   - poster: FB_IMG_1699664714486.jpg
     city: São Paulo
     date: '08/12/2023 21:00'
@@ -272,7 +255,6 @@ gigs:
     city: São Paulo
     date: '19/11/2023 17:00'
     daysGroup: 16/17/18/19/20/21
-     
 ---
 
 
