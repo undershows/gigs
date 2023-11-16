@@ -120,10 +120,6 @@ gigs:
     date: '18/11/2023 20:00'
     daysGroup: 16/17/18/19/20/21
     ticketsUrl: 'https://www.clubedoingresso.com/evento/statuesonfire'
-  - poster: 396710404_10234024868862529_748303959016273191_n.jpg
-    city: São Paulo
-    date: '15/11/2023 18:00'
-    daysGroup: 09/10/11/12/13/14/15
   - poster: 396732795_3704070766579536_2483233168588130951_n.jpg
     city: Birigui
     date: '18/11/2023 16:00'
@@ -270,7 +266,7 @@ gigs:
   - poster: 401836795_1859357217873600_3899588202999588847_n.jpg
     city: Praia Grande
     date: '18/11/2023 20:00'
-    daysGroup: 16/17/18/19/20/21    
+    daysGroup: 16/17/18/19/20/21
 ---
 
 
