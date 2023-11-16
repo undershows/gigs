@@ -267,6 +267,14 @@ gigs:
     city: Praia Grande
     date: '18/11/2023 20:00'
     daysGroup: 16/17/18/19/20/21
+  - poster: 401819868_10227574024913688_3528442330953320669_n.jpg
+    city: São Paulo
+    date: '26/11/2023 16:00'
+    daysGroup: 22/23/24/25/26
+  - poster: 399675735_3841002702811398_3491424057049684619_n.jpg
+    city: Várzea Paulista
+    date: '16/12/2023 16:00'
+    daysGroup: 14/15/16/17
 ---
 
 
