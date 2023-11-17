@@ -177,10 +177,6 @@ gigs:
     city: Sorocaba
     date: '25/11/2023 16:00'
     daysGroup: 22/23/24/25/26
-  - poster: FB_IMG_1699500188332.jpg
-    city: São Paulo
-    date: '16/11/2023 20:00'
-    daysGroup: 16/17/18/19/20/21
   - poster: FB_IMG_1699500180968.jpg
     city: São Paulo
     date: '25/11/2023 14:00'

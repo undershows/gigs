@@ -116,5 +116,9 @@ gigs:
     city: Ceilândia
     date: '21/10/2023 19:00'
     daysGroup: 20/21/22
+  - poster: 402090274_6409156772521417_3084983053420030243_n.jpg
+    city: Brasília
+    date: '16/11/2023 20:00'
+    daysGroup: 16/17/18/19
 ---
 

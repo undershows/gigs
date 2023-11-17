@@ -46,5 +46,9 @@ gigs:
     city: Olinda
     date: '04/11/2023 15:00'
     daysGroup: 03/04/05
+  - poster: 396695147_6666859333395316_7112237833598843456_n.jpg
+    city: Recife
+    date: '16/11/2023 18:00'
+    daysGroup: 16/17/18/19
 ---
 
