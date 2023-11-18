@@ -2,10 +2,6 @@
 abbr: RJ
 name: Rio de Janeiro
 gigs:
-  - poster: rj_02.jpg
-    city: Bangu
-    date: '17/11/2023 19:00'
-    daysGroup: 17/18/19
   - poster: iguana_x.jpg
     city: São João de Meriti
     date: '18/11/2023 19:00'

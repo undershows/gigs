@@ -80,5 +80,9 @@ gigs:
     city: Bangu
     date: '10/11/2023 19:00'
     daysGroup: 09/10/11/12
+  - poster: rj_02.jpg
+    city: Bangu
+    date: '17/11/2023 19:00'
+    daysGroup: 17/18/19
 ---
 

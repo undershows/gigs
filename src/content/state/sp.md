@@ -28,12 +28,6 @@ gigs:
     city: Jandira
     date: '17/12/2023 13:00'
     daysGroup: 14/15/16/17
-  - poster: 380943298_834717884846867_4541519935481020300_n.jpg
-    city: São Paulo
-    date: '17/11/2023 20:00'
-    daysGroup: 16/17/18/19/20/21
-    ticketsUrl: >-
-      https://www.sympla.com.br/evento/mukeka-di-rato-water-rats-budang-punho-de-mahin-em-sao-paulo/2165312
   - poster: FB_IMG_1697494578382.jpg
     city: São Paulo
     date: '09/12/2023 17:00'
@@ -123,14 +117,6 @@ gigs:
   - poster: 396732795_3704070766579536_2483233168588130951_n.jpg
     city: Birigui
     date: '18/11/2023 16:00'
-    daysGroup: 16/17/18/19/20/21
-  - poster: fun_house_dz9.jpg
-    city: Ribeirão Pires
-    date: '17/11/2023 18:00'
-    daysGroup: 16/17/18/19/20/21
-  - poster: vida_ruim.jpg
-    city: Marília
-    date: '17/11/2023 18:00'
     daysGroup: 16/17/18/19/20/21
   - poster: festival_musica_livre.jpg
     city: Araraquara

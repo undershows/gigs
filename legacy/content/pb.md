@@ -31,5 +31,9 @@ gigs:
     city: João Pessoa
     date: '06/10/2023 18:00'
     daysGroup: 06/07/08
+  - poster: a58dca4e-9ffa-4624-8c94-58422af30a78.jpeg
+    city: Campina Grande
+    date: '17/11/2023 19:00'
+    daysGroup: 17/18/19
 ---
 

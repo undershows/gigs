@@ -148,5 +148,10 @@ gigs:
     city: Curitiba
     daysGroup: 02/03/04/05
     ticketsUrl: 'https://bilheto.com.br/comprar/1561/mork-nervochaos-funeratus'
+  - poster: IMG-20231109-WA0001.jpg
+    city: Cascavel
+    date: '17/11/2023 21:00'
+    daysGroup: 17/18/19
+    ticketsUrl: 'https://www.sympla.com.br/evento/dead-fish-em-cascavel/2225822'
 ---
 
