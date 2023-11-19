@@ -1584,5 +1584,30 @@ gigs:
     city: Marília
     date: '17/11/2023 18:00'
     daysGroup: 16/17/18/19/20/21
+  - poster: 396686056_10160979689580682_1181160462697213566_n.jpg
+    city: São Paulo
+    date: '18/11/2023 20:00'
+    daysGroup: 16/17/18/19/20/21
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/statuesonfire'
+  - poster: 396732795_3704070766579536_2483233168588130951_n.jpg
+    city: Birigui
+    date: '18/11/2023 16:00'
+    daysGroup: 16/17/18/19/20/21
+  - poster: festival_musica_livre.jpg
+    city: Araraquara
+    date: '18/11/2023 16:00'
+    daysGroup: 16/17/18/19/20/21
+  - poster: 397963674_1852567348552587_399212687637010438_n.jpg
+    city: Americana
+    date: '18/11/2023 20:00'
+    daysGroup: 16/17/18/19/20/21
+  - poster: 400483339_6818057494930568_3079213136443853519_n.jpg
+    city: Campinas
+    date: '18/11/2023 18:00'
+    daysGroup: 16/17/18/19/20/21
+  - poster: 401836795_1859357217873600_3899588202999588847_n.jpg
+    city: Praia Grande
+    date: '18/11/2023 20:00'
+    daysGroup: 16/17/18/19/20/21
 ---
 

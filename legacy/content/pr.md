@@ -153,5 +153,14 @@ gigs:
     date: '17/11/2023 21:00'
     daysGroup: 17/18/19
     ticketsUrl: 'https://www.sympla.com.br/evento/dead-fish-em-cascavel/2225822'
+  - poster: 399333797_865692495228588_8345113921359452409_n.jpg
+    city: Curitiba
+    date: '18/11/2023 20:00'
+    daysGroup: 17/18/19
+    ticketsUrl: 'https://bilheto.com.br/comprar/1653/ratos-de-porao'
+  - poster: 399574797_829042442558720_147632359525711727_n.jpg
+    city: Londrina
+    date: '18/11/2023 20:00'
+    daysGroup: 17/18/19
 ---
 

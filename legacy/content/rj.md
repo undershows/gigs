@@ -84,5 +84,13 @@ gigs:
     city: Bangu
     date: '17/11/2023 19:00'
     daysGroup: 17/18/19
+  - poster: iguana_x.jpg
+    city: São João de Meriti
+    date: '18/11/2023 19:00'
+    daysGroup: 17/18/19
+  - poster: 401793771_7586130971434846_7797688884115855534_n.jpg
+    city: Rio de Janeiro
+    date: '18/11/2023 19:00'
+    daysGroup: 17/18/19
 ---
 

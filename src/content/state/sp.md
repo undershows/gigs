@@ -109,19 +109,6 @@ gigs:
     city: São Paulo
     date: '25/11/2023 19:00'
     daysGroup: 22/23/24/25/26
-  - poster: 396686056_10160979689580682_1181160462697213566_n.jpg
-    city: São Paulo
-    date: '18/11/2023 20:00'
-    daysGroup: 16/17/18/19/20/21
-    ticketsUrl: 'https://www.clubedoingresso.com/evento/statuesonfire'
-  - poster: 396732795_3704070766579536_2483233168588130951_n.jpg
-    city: Birigui
-    date: '18/11/2023 16:00'
-    daysGroup: 16/17/18/19/20/21
-  - poster: festival_musica_livre.jpg
-    city: Araraquara
-    date: '18/11/2023 16:00'
-    daysGroup: 16/17/18/19/20/21
   - poster: myfriends.jpg
     city: Bauru
     date: '19/11/2023 20:00'
@@ -151,10 +138,6 @@ gigs:
     city: Agudos
     date: '03/12/2023 14:00'
     daysGroup: 01/02/03
-  - poster: 397963674_1852567348552587_399212687637010438_n.jpg
-    city: Americana
-    date: '18/11/2023 20:00'
-    daysGroup: 16/17/18/19/20/21
   - poster: 397982576_1852564585219530_9195429883328231892_n.jpg
     city: Piracicaba
     date: '19/11/2023 14:00'
@@ -225,10 +208,6 @@ gigs:
     city: Santo André
     date: '02/12/2023 19:00'
     daysGroup: 01/02/03
-  - poster: 400483339_6818057494930568_3079213136443853519_n.jpg
-    city: Campinas
-    date: '18/11/2023 18:00'
-    daysGroup: 16/17/18/19/20/21
   - poster: 401755853_6826486594098892_782188307375489256_n.jpg
     city: São Paulo
     date: '19/11/2023 17:00'
@@ -245,10 +224,6 @@ gigs:
     city: Praia Grande
     date: '09/12/2023 20:00'
     daysGroup: 06/07/08/09/10
-  - poster: 401836795_1859357217873600_3899588202999588847_n.jpg
-    city: Praia Grande
-    date: '18/11/2023 20:00'
-    daysGroup: 16/17/18/19/20/21
   - poster: 401819868_10227574024913688_3528442330953320669_n.jpg
     city: São Paulo
     date: '26/11/2023 16:00'
