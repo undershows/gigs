@@ -92,5 +92,9 @@ gigs:
     city: Rio de Janeiro
     date: '18/11/2023 19:00'
     daysGroup: 17/18/19
+  - poster: 401764814_7586131151434828_3397812243827901602_n.jpg
+    city: Bangu
+    date: '19/11/2023 17:00'
+    daysGroup: 17/18/19
 ---
 

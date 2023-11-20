@@ -2,11 +2,6 @@
 abbr: SP
 name: São Paulo
 gigs:
-  - poster: 361641387_3456520821274765_5000235162969444519_n.jpg
-    city: São Paulo
-    date: '19/11/2023 10:00'
-    daysGroup: 16/17/18/19/20/21
-    ticketsUrl: 'https://www.sympla.com.br/festival-sp-punk__2075633'
   - poster: FB_IMG_1697128212261.jpg
     city: São Paulo
     date: '25/11/2023 20:30'
@@ -109,10 +104,6 @@ gigs:
     city: São Paulo
     date: '25/11/2023 19:00'
     daysGroup: 22/23/24/25/26
-  - poster: myfriends.jpg
-    city: Bauru
-    date: '19/11/2023 20:00'
-    daysGroup: 16/17/18/19/20/21
   - poster: the_return_of_evil.jpg
     city: São Carlos
     date: '25/11/2023 20:00'
@@ -138,10 +129,6 @@ gigs:
     city: Agudos
     date: '03/12/2023 14:00'
     daysGroup: 01/02/03
-  - poster: 397982576_1852564585219530_9195429883328231892_n.jpg
-    city: Piracicaba
-    date: '19/11/2023 14:00'
-    daysGroup: 16/17/18/19/20/21
   - poster: FB_IMG_1699128144867.jpg
     city: Sorocaba
     date: '25/11/2023 16:00'
@@ -163,10 +150,6 @@ gigs:
     date: '02/12/2023 18:00'
     daysGroup: 01/02/03
     ticketsUrl: 'https://www.clubedoingresso.com/evento/carnifex-sp'
-  - poster: FB_IMG_1699569510910.jpg
-    city: São Paulo
-    date: '19/11/2023 16:00'
-    daysGroup: 16/17/18/19/20/21
   - poster: FB_IMG_1699588355679.jpg
     city: São Paulo
     date: '09/12/2023 19:00'
@@ -186,11 +169,6 @@ gigs:
     date: '08/12/2023 21:00'
     daysGroup: 06/07/08/09/10
     ticketsUrl: 'https://www.sympla.com.br/evento/bufo-borealis-test/2198079'
-  - poster: 401763627_10231200710951352_4790843690590336663_n.jpg
-    city: São Paulo
-    date: '19/11/2023 15:00'
-    daysGroup: 16/17/18/19/20/21
-    ticketsUrl: 'https://www.clubedoingresso.com/evento/spmusicexperience'
   - poster: 400422666_7121203271235263_1699227769005218808_n.jpg
     city: São Paulo
     date: '08/12/2023 19:00'
@@ -208,10 +186,6 @@ gigs:
     city: Santo André
     date: '02/12/2023 19:00'
     daysGroup: 01/02/03
-  - poster: 401755853_6826486594098892_782188307375489256_n.jpg
-    city: São Paulo
-    date: '19/11/2023 17:00'
-    daysGroup: 16/17/18/19/20/21
   - poster: 402100770_1859354027873919_753659757081651035_n.jpg
     city: Santos
     date: '02/12/2023 21:00'

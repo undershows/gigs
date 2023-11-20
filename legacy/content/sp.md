@@ -1609,5 +1609,31 @@ gigs:
     city: Praia Grande
     date: '18/11/2023 20:00'
     daysGroup: 16/17/18/19/20/21
+  - poster: 361641387_3456520821274765_5000235162969444519_n.jpg
+    city: São Paulo
+    date: '19/11/2023 10:00'
+    daysGroup: 16/17/18/19/20/21
+    ticketsUrl: 'https://www.sympla.com.br/festival-sp-punk__2075633'
+  - poster: myfriends.jpg
+    city: Bauru
+    date: '19/11/2023 20:00'
+    daysGroup: 16/17/18/19/20/21
+  - poster: 397982576_1852564585219530_9195429883328231892_n.jpg
+    city: Piracicaba
+    date: '19/11/2023 14:00'
+    daysGroup: 16/17/18/19/20/21
+  - poster: FB_IMG_1699569510910.jpg
+    city: São Paulo
+    date: '19/11/2023 16:00'
+    daysGroup: 16/17/18/19/20/21
+  - poster: 401763627_10231200710951352_4790843690590336663_n.jpg
+    city: São Paulo
+    date: '19/11/2023 15:00'
+    daysGroup: 16/17/18/19/20/21
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/spmusicexperience'
+  - poster: 401755853_6826486594098892_782188307375489256_n.jpg
+    city: São Paulo
+    date: '19/11/2023 17:00'
+    daysGroup: 16/17/18/19/20/21
 ---
 

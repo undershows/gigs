@@ -50,5 +50,9 @@ gigs:
     city: Recife
     date: '16/11/2023 18:00'
     daysGroup: 16/17/18/19
+  - poster: Goatburner_Caruaru.jpg
+    city: Caruaru
+    date: '19/11/2023 18:00'
+    daysGroup: 16/17/18/19
 ---
 
