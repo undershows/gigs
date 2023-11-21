@@ -1635,5 +1635,15 @@ gigs:
     city: São Paulo
     date: '19/11/2023 17:00'
     daysGroup: 16/17/18/19/20/21
+  - poster: 0e5f3576-7252-4dbd-8156-10bfe61e78f0.jpeg
+    city: São Paulo
+    date: '20/11/2023 17:00'
+    daysGroup: 16/17/18/19/20/21
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/birdflesh-saopaulo'
+  - poster: 2e809731-447d-403f-8423-6f384bfc675f.jpeg
+    city: São Paulo
+    date: '20/11/2023 19:00'
+    ticketsUrl: 'https://ingresse.com/ludovic-thuslove'
+    daysGroup: 16/17/18/19/20/21
 ---
 

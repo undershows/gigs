@@ -29,11 +29,6 @@ gigs:
     daysGroup: 06/07/08/09/10
     ticketsUrl: >-
       https://www.sympla.com.br/violator-em-sao-paulo--city-lights-music-hall--0912__2208975
-  - poster: 0e5f3576-7252-4dbd-8156-10bfe61e78f0.jpeg
-    city: São Paulo
-    date: '20/11/2023 17:00'
-    daysGroup: 16/17/18/19/20/21
-    ticketsUrl: 'https://www.clubedoingresso.com/evento/birdflesh-saopaulo'
   - poster: 393852418_1111819276791886_8422845143342434413_n.jpg
     city: São José dos Campos
     date: '22/11/2023 18:00'
@@ -91,11 +86,6 @@ gigs:
     city: Ribeirão Pires
     date: '26/11/2023 16:00'
     daysGroup: 22/23/24/25/26
-  - poster: 2e809731-447d-403f-8423-6f384bfc675f.jpeg
-    city: São Paulo
-    date: '20/11/2023 19:00'
-    ticketsUrl: 'https://ingresse.com/ludovic-thuslove'
-    daysGroup: 16/17/18/19/20/21
   - poster: 396697501_23980314158283440_7982968121182861425_n.jpg
     city: Santo André
     date: '03/12/2023 10:00'
