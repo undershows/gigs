@@ -53,11 +53,6 @@ gigs:
     date: '03/12/2023 13:00'
     daysGroup: 01/02/03
     ticketsUrl: 'https://www.sympla.com.br/evento/masters-of-noise-2023/2222962'
-  - poster: db83c02d-a289-4679-85e2-e6685045f9c4.jpeg
-    city: Sorocaba
-    date: '21/11/2023 19:00'
-    daysGroup: 16/17/18/19/20/21
-    ticketsUrl: 'https://www.sympla.com.br/evento/birdflesh-em-sorocaba/2209430'
   - poster: 777c3872-b8dc-41a2-84ab-e6076f7b042d.jpeg
     city: São Paulo
     date: '03/04/2024 18:00'

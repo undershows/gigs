@@ -1645,5 +1645,10 @@ gigs:
     date: '20/11/2023 19:00'
     ticketsUrl: 'https://ingresse.com/ludovic-thuslove'
     daysGroup: 16/17/18/19/20/21
+  - poster: db83c02d-a289-4679-85e2-e6685045f9c4.jpeg
+    city: Sorocaba
+    date: '21/11/2023 19:00'
+    daysGroup: 16/17/18/19/20/21
+    ticketsUrl: 'https://www.sympla.com.br/evento/birdflesh-em-sorocaba/2209430'
 ---
 
