@@ -1650,5 +1650,10 @@ gigs:
     date: '21/11/2023 19:00'
     daysGroup: 16/17/18/19/20/21
     ticketsUrl: 'https://www.sympla.com.br/evento/birdflesh-em-sorocaba/2209430'
+  - poster: 393852418_1111819276791886_8422845143342434413_n.jpg
+    city: São José dos Campos
+    date: '22/11/2023 18:00'
+    daysGroup: 22/23/24/25/26
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/birdflesh-sjc'
 ---
 

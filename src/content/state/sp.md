@@ -29,11 +29,6 @@ gigs:
     daysGroup: 06/07/08/09/10
     ticketsUrl: >-
       https://www.sympla.com.br/violator-em-sao-paulo--city-lights-music-hall--0912__2208975
-  - poster: 393852418_1111819276791886_8422845143342434413_n.jpg
-    city: São José dos Campos
-    date: '22/11/2023 18:00'
-    daysGroup: 22/23/24/25/26
-    ticketsUrl: 'https://www.clubedoingresso.com/evento/birdflesh-sjc'
   - poster: FB_IMG_1697688789564.jpg
     city: São Paulo
     date: '16/12/2023 22:00'
