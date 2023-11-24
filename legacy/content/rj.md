@@ -96,5 +96,9 @@ gigs:
     city: Bangu
     date: '19/11/2023 17:00'
     daysGroup: 17/18/19
+  - poster: birdflesh_rio.jpg
+    city: Rio de Janeiro
+    date: '23/11/2023 19:00'
+    daysGroup: 23/24/25/26
 ---
 
