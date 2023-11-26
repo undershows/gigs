@@ -2,18 +2,10 @@
 abbr: SP
 name: São Paulo
 gigs:
-  - poster: FB_IMG_1697128212261.jpg
-    city: São Paulo
-    date: '25/11/2023 20:30'
-    daysGroup: 22/23/24/25/26
   - poster: FB_IMG_1697129123144.jpg
     city: Indaiatuba
     date: '17/12/2023 15:00'
     daysGroup: 14/15/16/17
-  - poster: 387076955_7201080146622380_4101665350962834155_n.jpg
-    city: Campo Limpo Paulista
-    date: '25/11/2023 18:30'
-    daysGroup: 22/23/24/25/26
   - poster: 380382563_2292381637819390_1584426411446296073_n.jpg
     city: São Paulo
     date: '11/02/2024 19:00'
@@ -67,11 +59,6 @@ gigs:
     date: '23/02/2024 19:00'
     daysGroup: 28/29
     ticketsUrl: 'https://www.clubedoingresso.com/evento/petbrick-lightningbolt-sp'
-  - poster: 536c5597-b3ae-415c-8d95-0775cb824507.jpeg
-    city: São Paulo
-    date: '25/11/2023 19:00'
-    daysGroup: 22/23/24/25/26
-    ticketsUrl: 'https://pixelticket.com.br/eventos/16055/discharge-no-hangar110'
   - poster: 17958871-69b5-41c4-a689-5eea63112128.jpeg
     city: Ribeirão Pires
     date: '26/11/2023 16:00'
@@ -80,14 +67,6 @@ gigs:
     city: Santo André
     date: '03/12/2023 10:00'
     daysGroup: 01/02/03
-  - poster: 396732779_6749941781753812_522915413943509897_n.jpg
-    city: São Paulo
-    date: '25/11/2023 19:00'
-    daysGroup: 22/23/24/25/26
-  - poster: the_return_of_evil.jpg
-    city: São Carlos
-    date: '25/11/2023 20:00'
-    daysGroup: 22/23/24/25/26
   - poster: mulheres_punk_debate.jpg
     city: São Paulo
     date: '02/12/2023 16:00'
@@ -109,18 +88,6 @@ gigs:
     city: Agudos
     date: '03/12/2023 14:00'
     daysGroup: 01/02/03
-  - poster: FB_IMG_1699128144867.jpg
-    city: Sorocaba
-    date: '25/11/2023 16:00'
-    daysGroup: 22/23/24/25/26
-  - poster: FB_IMG_1699500180968.jpg
-    city: São Paulo
-    date: '25/11/2023 14:00'
-    daysGroup: 22/23/24/25/26
-  - poster: FB_IMG_1699500113966.jpg
-    city: Várzea Paulista
-    date: '25/11/2023 14:00'
-    daysGroup: 22/23/24/25/26
   - poster: FB_IMG_1699502091682.jpg
     city: Mogi das Cruzes
     date: '02/12/2023 23:00'
@@ -157,11 +124,6 @@ gigs:
     city: Jundiaí
     date: '02/12/2023 17:00'
     daysGroup: 01/02/03
-  - poster: 401776897_6265027833597179_9140951992002312989_n.jpg
-    city: São Paulo
-    date: '25/11/2023 20:00'
-    daysGroup: 22/23/24/25/26
-    ticketsUrl: 'https://www.clubedoingresso.com/evento/pestaapnea-25-11'
   - poster: 401773273_7754397824575275_1606004578882631150_n.jpg
     city: Santo André
     date: '02/12/2023 19:00'

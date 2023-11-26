@@ -24,5 +24,9 @@ gigs:
     city: Fortaleza
     date: '12/11/2023 16:00'
     daysGroup: 10/11/12
+  - poster: o_passare_rock_fest.jpeg
+    city: Fortaleza
+    date: '25/11/2023 17:00'
+    daysGroup: 24/25/26
 ---
 
