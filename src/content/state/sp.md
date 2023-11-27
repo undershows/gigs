@@ -140,6 +140,34 @@ gigs:
     city: Várzea Paulista
     date: '16/12/2023 16:00'
     daysGroup: 14/15/16/17
+  - poster: raizdaserra_deaf_kids_social_chaos.jpg
+    city: São Paulo
+    date: '16/12/2023 19:00'
+    daysGroup: 14/15/16/17
+  - poster: felinto_deaf_kids.jpg
+    city: São Paulo
+    date: '14/12/2023 19:00'
+    daysGroup: 14/15/16/17
+  - poster: deaf_kids_der_74.jpg
+    city: São Paulo
+    date: '15/12/2023 19:00'
+    daysGroup: 14/15/16/17
+  - poster: 404290310_1864084787400843_2122440697487606313_n.jpg
+    city: Mogi da Cruzes
+    date: '16/12/2023 23:00'
+    daysGroup: 14/15/16/17
+  - poster: 404352437_1864331924042796_459181973584467431_n.jpg
+    city: Agudos
+    date: '16/12/2023 20:30'
+    daysGroup: 14/15/16/17
+  - poster: 404324852_1864430744032914_1769589248563753722_n.jpg
+    city: Bauru
+    date: '16/12/2023 15:00'
+    daysGroup: 14/15/16/17
+  - poster: 404330230_1864881493987839_7900478187710138695_n.jpg
+    city: Bauru
+    date: '17/12/2023 15:00'
+    daysGroup: 14/15/16/17
 ---
 
 
