@@ -59,10 +59,6 @@ gigs:
     date: '23/02/2024 19:00'
     daysGroup: 28/29
     ticketsUrl: 'https://www.clubedoingresso.com/evento/petbrick-lightningbolt-sp'
-  - poster: 17958871-69b5-41c4-a689-5eea63112128.jpeg
-    city: Ribeirão Pires
-    date: '26/11/2023 16:00'
-    daysGroup: 22/23/24/25/26
   - poster: 396697501_23980314158283440_7982968121182861425_n.jpg
     city: Santo André
     date: '03/12/2023 10:00'
@@ -140,10 +136,6 @@ gigs:
     city: Praia Grande
     date: '09/12/2023 20:00'
     daysGroup: 06/07/08/09/10
-  - poster: 401819868_10227574024913688_3528442330953320669_n.jpg
-    city: São Paulo
-    date: '26/11/2023 16:00'
-    daysGroup: 22/23/24/25/26
   - poster: 399675735_3841002702811398_3491424057049684619_n.jpg
     city: Várzea Paulista
     date: '16/12/2023 16:00'

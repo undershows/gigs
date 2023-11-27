@@ -1693,5 +1693,13 @@ gigs:
     date: '25/11/2023 20:00'
     daysGroup: 22/23/24/25/26
     ticketsUrl: 'https://www.clubedoingresso.com/evento/pestaapnea-25-11'
+  - poster: 17958871-69b5-41c4-a689-5eea63112128.jpeg
+    city: Ribeirão Pires
+    date: '26/11/2023 16:00'
+    daysGroup: 22/23/24/25/26
+  - poster: 401819868_10227574024913688_3528442330953320669_n.jpg
+    city: São Paulo
+    date: '26/11/2023 16:00'
+    daysGroup: 22/23/24/25/26
 ---
 
