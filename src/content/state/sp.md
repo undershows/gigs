@@ -168,6 +168,14 @@ gigs:
     city: Bauru
     date: '17/12/2023 15:00'
     daysGroup: 14/15/16/17
+  - poster: esclerose_urutu.jpeg
+    city: São Paulo
+    date: '10/12/2023 17:00'
+    daysGroup: 06/07/08/09/10
+  - poster: esclerose_cidade.jpeg
+    city: São Paulo
+    date: '0089/12/2023 19:00'
+    daysGroup: 06/07/08/09/10
 ---
 
 
