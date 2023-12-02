@@ -31,10 +31,6 @@ gigs:
     daysGroup: 14/15/16/17
     ticketsUrl: >-
       https://www.sympla.com.br/evento/fuzz-fest-apresenta-garage-fuzz-paura-fistt-e-cannon-of-hate/2199332
-  - poster: FB_IMG_1697827970394.jpg
-    city: Osasco
-    date: '01/12/2023 19:00'
-    daysGroup: 01/02/03
   - poster: FB_IMG_1697828363156.jpg
     city: Diadema
     date: '03/12/2023 13:00'
@@ -101,12 +97,6 @@ gigs:
     city: Várzea Paulista
     date: '10/12/2023 16:00'
     daysGroup: 06/07/08/09/10
-  - poster: FB_IMG_1699744058785.jpg
-    city: Santo André
-    date: '01/12/2023 19:00'
-    daysGroup: 01/02/03
-    ticketsUrl: >-
-      https://www.sympla.com.br/evento/merda-e-sentimento-carpete-no-74club/2240746
   - poster: FB_IMG_1699664714486.jpg
     city: São Paulo
     date: '08/12/2023 21:00'

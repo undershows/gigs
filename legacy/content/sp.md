@@ -1701,5 +1701,15 @@ gigs:
     city: São Paulo
     date: '26/11/2023 16:00'
     daysGroup: 22/23/24/25/26
+  - poster: FB_IMG_1697827970394.jpg
+    city: Osasco
+    date: '01/12/2023 19:00'
+    daysGroup: 01/02/03
+  - poster: FB_IMG_1699744058785.jpg
+    city: Santo André
+    date: '01/12/2023 19:00'
+    daysGroup: 01/02/03
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/merda-e-sentimento-carpete-no-74club/2240746
 ---
 
