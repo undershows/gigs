@@ -59,14 +59,6 @@ gigs:
     city: Santo André
     date: '03/12/2023 10:00'
     daysGroup: 01/02/03
-  - poster: mulheres_punk_debate.jpg
-    city: São Paulo
-    date: '02/12/2023 16:00'
-    daysGroup: 01/02/03
-  - poster: mulheres_punk_gig.jpg
-    city: São Paulo
-    date: '02/12/2023 17:30'
-    daysGroup: 01/02/03
   - poster: rebaellium_bauru.jpg
     city: Bauru
     date: '14/12/2023 18:00'
@@ -80,15 +72,6 @@ gigs:
     city: Agudos
     date: '03/12/2023 14:00'
     daysGroup: 01/02/03
-  - poster: FB_IMG_1699502091682.jpg
-    city: Mogi das Cruzes
-    date: '02/12/2023 23:00'
-    daysGroup: 01/02/03
-  - poster: FB_IMG_1699503210839.jpg
-    city: São Paulo
-    date: '02/12/2023 18:00'
-    daysGroup: 01/02/03
-    ticketsUrl: 'https://www.clubedoingresso.com/evento/carnifex-sp'
   - poster: FB_IMG_1699588355679.jpg
     city: São Paulo
     date: '09/12/2023 19:00'
@@ -106,18 +89,6 @@ gigs:
     city: São Paulo
     date: '08/12/2023 19:00'
     daysGroup: 06/07/08/09/10
-  - poster: 401856135_6265029506930345_5716003558363356723_n.jpg
-    city: Jundiaí
-    date: '02/12/2023 17:00'
-    daysGroup: 01/02/03
-  - poster: 401773273_7754397824575275_1606004578882631150_n.jpg
-    city: Santo André
-    date: '02/12/2023 19:00'
-    daysGroup: 01/02/03
-  - poster: 402100770_1859354027873919_753659757081651035_n.jpg
-    city: Santos
-    date: '02/12/2023 21:00'
-    daysGroup: 01/02/03
   - poster: 401526894_1859348761207779_5899173181712237305_n.jpg
     city: São Paulo
     date: '23/12/2023 15:00'

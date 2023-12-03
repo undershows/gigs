@@ -10,10 +10,6 @@ gigs:
     city: Guará
     date: '09/12/2023 21:00'
     daysGroup: 08/09/10
-  - poster: FB_IMG_1699530606161.jpg
-    city: Brasília
-    date: '02/12/2023 17:00'
-    daysGroup: 01/02/03
   - poster: IMG-20231111-WA0033.jpg
     city: Brasília
     date: '13/01/2024 18:00'

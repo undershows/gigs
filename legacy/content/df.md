@@ -120,5 +120,9 @@ gigs:
     city: Brasília
     date: '16/11/2023 20:00'
     daysGroup: 16/17/18/19
+  - poster: FB_IMG_1699530606161.jpg
+    city: Brasília
+    date: '02/12/2023 17:00'
+    daysGroup: 01/02/03
 ---
 
