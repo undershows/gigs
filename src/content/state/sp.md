@@ -135,7 +135,7 @@ gigs:
     daysGroup: 06/07/08/09/10
   - poster: esclerose_cidade.jpeg
     city: São Paulo
-    date: '0089/12/2023 19:00'
+    date: '08/12/2023 19:00'
     daysGroup: 06/07/08/09/10
 ---
 
