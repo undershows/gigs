@@ -1740,5 +1740,18 @@ gigs:
     city: Santos
     date: '02/12/2023 21:00'
     daysGroup: 01/02/03
+  - poster: FB_IMG_1697828363156.jpg
+    city: Diadema
+    date: '03/12/2023 13:00'
+    daysGroup: 01/02/03
+    ticketsUrl: 'https://www.sympla.com.br/evento/masters-of-noise-2023/2222962'
+  - poster: 396697501_23980314158283440_7982968121182861425_n.jpg
+    city: Santo André
+    date: '03/12/2023 10:00'
+    daysGroup: 01/02/03
+  - poster: ruidos_y_ideias_3.jpg
+    city: Agudos
+    date: '03/12/2023 14:00'
+    daysGroup: 01/02/03
 ---
 
