@@ -31,6 +31,11 @@ gigs:
     daysGroup: 14/15/16/17
     ticketsUrl: >-
       https://www.sympla.com.br/evento/fuzz-fest-apresenta-garage-fuzz-paura-fistt-e-cannon-of-hate/2199332
+  - poster: FB_IMG_1697828363156.jpg
+    city: Diadema
+    date: '03/12/2023 13:00'
+    daysGroup: 01/02/03
+    ticketsUrl: 'https://www.sympla.com.br/evento/masters-of-noise-2023/2222962'
   - poster: 777c3872-b8dc-41a2-84ab-e6076f7b042d.jpeg
     city: São Paulo
     date: '03/04/2024 18:00'
@@ -50,15 +55,19 @@ gigs:
     date: '23/02/2024 19:00'
     daysGroup: 28/29
     ticketsUrl: 'https://www.clubedoingresso.com/evento/petbrick-lightningbolt-sp'
+  - poster: 396697501_23980314158283440_7982968121182861425_n.jpg
+    city: Santo André
+    date: '03/12/2023 10:00'
+    daysGroup: 01/02/03
   - poster: rebaellium_bauru.jpg
     city: Bauru
     date: '14/12/2023 18:00'
     daysGroup: 14/15/16/17
     ticketsUrl: 'https://www.jackpub.com.br/event-details/rebaelliun-ereborus-tour'
-  - poster: living_metal.jpg
-    city: Bauru
-    date: '06/12/2023 19:00'
-    daysGroup: 06/07/08/09/10
+  - poster: ruidos_y_ideias_3.jpg
+    city: Agudos
+    date: '03/12/2023 14:00'
+    daysGroup: 01/02/03
   - poster: FB_IMG_1699588355679.jpg
     city: São Paulo
     date: '09/12/2023 19:00'
