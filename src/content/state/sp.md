@@ -133,6 +133,45 @@ gigs:
     city: São Paulo
     date: '08/12/2023 19:00'
     daysGroup: 06/07/08/09/10
+  - poster: 393314237_6859456590798168_5748350963496540018_n.jpg
+    city: São Paulo
+    date: '17/12/2023 16:00'
+    daysGroup: 14/15/16/17
+  - poster: 407409582_6606584822802188_340019458603471337_n.jpg
+    city: São Paulo
+    date: '23/12/2023 19:00'
+    daysGroup: 22/23/24
+    ticketsUrl: 'https://www.sympla.com.br/evento/saideira-punk-2023-22-e-23-dez/2269770'
+  - poster: 406993151_6817431384958602_4060055799360893402_n.jpg
+    city: São Paulo
+    date: '14/12/2023 19:00'
+    daysGroup: 14/15/16/17
+  - poster: 407183923_7378428345535910_8180276116431977265_n.jpg
+    city: Ribeirão Pires
+    date: '08/12/2023 18:00'
+    daysGroup: 06/07/08/09/10
+  - poster: 407361120_7378428905535854_1142316507091861762_n.jpg
+    city: Ribeirão Pires
+    date: '09/12/2023 19:00'
+    daysGroup: 06/07/08/09/10
+  - poster: 408660489_7378429988869079_2970826750691071827_n.jpg
+    city: Ribeirão Pires
+    date: '10/12/2023 17:00'
+    daysGroup: 06/07/08/09/10
+  - poster: 408008748_6863359780416151_154475117324543142_n.jpg
+    city: Diadema
+    date: '09/12/2023 13:00'
+    daysGroup: 06/07/08/09/10
+    ticketsUrl: 'https://www.sympla.com.br/evento/masters-of-noise-2023/2222962'
+  - poster: 407990692_6863361763749286_6852662987462682410_n.jpg
+    city: Diadema
+    date: '10/12/2023 13:00'
+    daysGroup: 06/07/08/09/10
+    ticketsUrl: 'https://www.sympla.com.br/evento/masters-of-noise-2023/2222962'
+  - poster: 409004844_260557720363340_3869131065499994757_n.jpg
+    city: Sorocaba
+    date: '13/01/2024 15:00'
+    daysGroup: 12/13/14
 ---
 
 

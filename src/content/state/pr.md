@@ -6,5 +6,9 @@ gigs:
     city: Sertanópolis
     date: '16/12/2023 14:00'
     daysGroup: 15/16/17
+  - poster: 407618648_679251357736030_8091200433693158458_n.jpg
+    city: Curitiba
+    date: '16/12/2023 21:00'
+    daysGroup: 15/16/17
 ---
 
