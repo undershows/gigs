@@ -18,5 +18,13 @@ gigs:
     city: Balneário Camboriú
     date: '10/12/2023 17:30'
     daysGroup: 08/09/10
+  - poster: FB_IMG_1702005661072.jpg
+    city: Blumenau
+    date: '09/12/2023 20:00'
+    daysGroup: 08/09/10
+  - poster: FB_IMG_1702005663483.jpg
+    city: Joinville
+    date: '10/12/2023 16:00'
+    daysGroup: 08/09/10
 ---
 

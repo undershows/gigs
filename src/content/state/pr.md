@@ -10,5 +10,9 @@ gigs:
     city: Curitiba
     date: '16/12/2023 21:00'
     daysGroup: 15/16/17
+  - poster: FB_IMG_1702005658788.jpg
+    city: Curitiba
+    date: '08/12/2023 21:00'
+    daysGroup: 08/09/10
 ---
 

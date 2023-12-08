@@ -7,5 +7,9 @@ gigs:
     date: '09/12/2023 17:00'
     daysGroup: 08/09/10
     ticketsUrl: 'https://www.bilheteriadigital.com/studio-pub-rock-festival-celebration-day-09-de-dezembro'
+  - poster: FB_IMG_1702006224180.jpg
+    city: Belém
+    date: '23/12/2023 18:00'
+    daysGroup: 21/22/23
 ---
 
