@@ -28,9 +28,9 @@ Para contribuir com pôsters de shows e festivais, existem duas formas.
 2. Adicione a imagem do pôster à pasta `public/images/posters`;
 3. Adicione as informações do show/festival ao arquivo do estado onde vai acontecer. Por exemplo, para adicionar um show da cidade de Belém, editamos o arquivo `src/content/state/pa.md`, que é onde ficam os shows do estado do Pará, e adicionamos ao final do arquivo (antes de `---`) as seguintes informações:
 ```yml
-  - city: Belém
+  - poster: NOME_DO_POSTER_QUE_ACABOU_DE_ADICIONAR.jpg
+    city: Belém
     date: '30/03/2023 19:00'
-    poster: NOME_DO_POSTER_QUE_ACABOU_DE_ADICIONAR.jpg
 ```
 
 4. Faça o commit das suas alterações e abra um pull request pra gente. ;)
