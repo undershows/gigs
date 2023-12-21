@@ -1,4 +1,5 @@
 import got from 'got'
+import chalk from 'chalk'
 import { format, parse, isBefore, startOfDay } from 'date-fns'
 import matter from 'gray-matter'
 import * as R from 'ramda'
@@ -48,6 +49,27 @@ const getCollection = async (state, dir = GIGS_DIR) => {
 /**
  * TODO
  */
+const fileExists = async (path) => {
+  try {
+    await access(path, constants.R_OK)
+    return true
+  } catch (err) {
+    if (err.code === 'ENOENT') {
+      return false
+    }
+
+    throw err
+  }
+}
+
+/**
+ * TODO
+ */
+const warn = (message) => console.log(`${chalk.hex('#FFA500')('[warn]')} ${message}`)
+
+/**
+ * TODO
+ */
 const findOrCreateCollection = async (state, dir = GIGS_DIR) => {
   const collectionPath = getFullPath(state, dir)
 
@@ -90,8 +112,18 @@ const fetchImage = async (imageUrl) => {
  */
 const removeImage = async (imageFilename) => {
   const imagePath = getImageFullPath(imageFilename)
-  await access(imagePath, constants.W_OK)
-  await rm(imagePath)
+
+  try {
+    await access(imagePath, constants.W_OK)
+    await rm(imagePath)
+  } catch (err) {
+    if (err.code === 'ENOENT') {
+      warn(`Image already removed: ${imagePath}`)
+      return
+    }
+
+    throw err
+  }
 }
 
 /**
@@ -101,9 +133,14 @@ const moveImageToLegacy = async (imageFilename) => {
   await mkdir(LEGACY_IMAGES_DIR, { recursive: true })
 
   const imagePath = getImageFullPath(imageFilename)
-  await access(imagePath, constants.W_OK)
-
   const legacyPath = getImageFullPath(imageFilename, LEGACY_IMAGES_DIR)
+
+  if (await fileExists(legacyPath)) {
+    warn(`Legacy image already exists: ${legacyPath}`)
+    return
+  }
+
+  await access(imagePath, constants.W_OK)
   await rename(imagePath, legacyPath)
 }
 
