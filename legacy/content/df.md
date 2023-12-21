@@ -124,5 +124,13 @@ gigs:
     city: Brasília
     date: '02/12/2023 17:00'
     daysGroup: 01/02/03
+  - poster: FB_IMG_1699530546589.jpg
+    city: Guará
+    date: '09/12/2023 21:00'
+    daysGroup: 08/09/10
+  - poster: 406804206_7232319786789403_5720086217666720226_n.jpg
+    city: Taguatinga
+    date: '08/12/2023 19:00'
+    daysGroup: 08/09/10
 ---
 
