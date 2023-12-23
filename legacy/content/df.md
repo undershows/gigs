@@ -132,5 +132,9 @@ gigs:
     city: Taguatinga
     date: '08/12/2023 19:00'
     daysGroup: 08/09/10
+  - poster: FB_IMG_1699500165327.jpg
+    city: Brasília
+    date: '22/12/2023 20:00'
+    daysGroup: 22/23/24
 ---
 
