@@ -21,15 +21,6 @@ gigs:
     date: '23/02/2024 19:00'
     daysGroup: 28/29
     ticketsUrl: 'https://www.clubedoingresso.com/evento/petbrick-lightningbolt-sp'
-  - poster: 401526894_1859348761207779_5899173181712237305_n.jpg
-    city: São Paulo
-    date: '23/12/2023 15:00'
-    daysGroup: 22/23/24
-  - poster: 407409582_6606584822802188_340019458603471337_n.jpg
-    city: São Paulo
-    date: '23/12/2023 19:00'
-    daysGroup: 22/23/24
-    ticketsUrl: 'https://www.sympla.com.br/evento/saideira-punk-2023-22-e-23-dez/2269770'
   - poster: 409004844_260557720363340_3869131065499994757_n.jpg
     city: Sorocaba
     date: '13/01/2024 15:00'

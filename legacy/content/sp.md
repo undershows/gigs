@@ -1891,5 +1891,14 @@ gigs:
     date: '10/12/2023 13:00'
     daysGroup: 06/07/08/09/10
     ticketsUrl: 'https://www.sympla.com.br/evento/masters-of-noise-2023/2222962'
+  - poster: 401526894_1859348761207779_5899173181712237305_n.jpg
+    city: São Paulo
+    date: '23/12/2023 15:00'
+    daysGroup: 22/23/24
+  - poster: 407409582_6606584822802188_340019458603471337_n.jpg
+    city: São Paulo
+    date: '23/12/2023 19:00'
+    daysGroup: 22/23/24
+    ticketsUrl: 'https://www.sympla.com.br/evento/saideira-punk-2023-22-e-23-dez/2269770'
 ---
 
