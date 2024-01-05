@@ -6,5 +6,6 @@ gigs:
     city: Rio de Janeiro
     date: '27/01/2024 18:00'
     daysGroup: 26/27/28
+    ticketsUrl: 'https://www.sympla.com.br/evento/janeiro-infernal-2024-com-flicts-klitoria-e-fuck-youth/2214884'
 ---
 
