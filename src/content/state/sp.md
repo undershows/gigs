@@ -85,6 +85,10 @@ gigs:
     city: Bauru
     date: '19/01/2024 19:00'
     daysGroup: 19/20/21
+  - poster: porao_tremer.jpeg
+    city: São Paulo
+    date: '17/02/2024 18:00'
+    daysGroup: 16/17/18
 ---
 
 
