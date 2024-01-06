@@ -89,6 +89,19 @@ gigs:
     city: São Paulo
     date: '17/02/2024 18:00'
     daysGroup: 16/17/18
+  - poster: 410846669_6927776020663116_8946148765172571278_n.jpg
+    city: São Paulo
+    date: '06/01/2024 19:00'
+    daysGroup: 05/06/07
+  - poster: 415080357_7653089671387168_7638198527463407410_n.jpg
+    city: São Paulo
+    date: '06/01/2024 16:00'
+    daysGroup: 05/06/07
+    ticketsUrl: 'https://www.hoppin.com.br/smashitupfest'
+  - poster: 415615602_10160698124796708_7641820062130909471_n.jpg
+    city: São Paulo
+    date: '06/01/2024 15:00'
+    daysGroup: 05/06/07
 ---
 
 
