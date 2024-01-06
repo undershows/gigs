@@ -64,7 +64,7 @@ gigs:
   - poster: 414960568_7684625448233744_2465150128350682908_n.jpg
     city: Santo André
     date: '27/01/2024 17:00'
-    daysGroup: 26/27/28  
+    daysGroup: 26/27/28
   - poster: 414925760_1888506468292008_5299209502087739633_n.jpg
     city: Santo André
     date: '13/01/2024 19:00'
@@ -76,10 +76,6 @@ gigs:
   - poster: 416118054_1888504388292216_5592317830209973327_n.jpg
     city: Ribeirão Pires
     date: '06/01/2024 16:20'
-    daysGroup: 05/06/07
-  - poster: 416123675_1888503968292258_1541748741371447374_n.jpg
-    city: Ribeirão Pires
-    date: '05/01/2024 19:00'
     daysGroup: 05/06/07
   - poster: 416121404_1888503521625636_1498573102759949554_n.jpg
     city: Bauru

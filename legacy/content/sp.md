@@ -1900,5 +1900,9 @@ gigs:
     date: '23/12/2023 19:00'
     daysGroup: 22/23/24
     ticketsUrl: 'https://www.sympla.com.br/evento/saideira-punk-2023-22-e-23-dez/2269770'
+  - poster: 416123675_1888503968292258_1541748741371447374_n.jpg
+    city: Ribeirão Pires
+    date: '05/01/2024 19:00'
+    daysGroup: 05/06/07
 ---
 
