@@ -41,10 +41,6 @@ gigs:
     city: Araraquara
     date: '13/01/2024 17:00'
     daysGroup: 11/12/13/14
-  - poster: 415041764_1890324318110223_6165517036870080078_n.jpg
-    city: São Vicente
-    date: '06/01/2024 14:00'
-    daysGroup: 05/06/07
   - poster: 415039990_1890323668110288_5598545513842962143_n.jpg
     city: Osasco
     date: '27/01/2024 19:00'
@@ -73,10 +69,6 @@ gigs:
     city: São Paulo
     date: '13/01/2024 16:00'
     daysGroup: 11/12/13/14
-  - poster: 416118054_1888504388292216_5592317830209973327_n.jpg
-    city: Ribeirão Pires
-    date: '06/01/2024 16:20'
-    daysGroup: 05/06/07
   - poster: 416121404_1888503521625636_1498573102759949554_n.jpg
     city: Bauru
     date: '19/01/2024 19:00'
@@ -85,19 +77,6 @@ gigs:
     city: São Paulo
     date: '17/02/2024 18:00'
     daysGroup: 16/17/18
-  - poster: 410846669_6927776020663116_8946148765172571278_n.jpg
-    city: São Paulo
-    date: '06/01/2024 19:00'
-    daysGroup: 05/06/07
-  - poster: 415080357_7653089671387168_7638198527463407410_n.jpg
-    city: São Paulo
-    date: '06/01/2024 16:00'
-    daysGroup: 05/06/07
-    ticketsUrl: 'https://www.hoppin.com.br/smashitupfest'
-  - poster: 415615602_10160698124796708_7641820062130909471_n.jpg
-    city: São Paulo
-    date: '06/01/2024 15:00'
-    daysGroup: 05/06/07
 ---
 
 
