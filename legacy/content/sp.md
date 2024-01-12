@@ -1925,5 +1925,9 @@ gigs:
     city: São Paulo
     date: '06/01/2024 15:00'
     daysGroup: 05/06/07
+  - poster: 416838489_24448891724758520_648682038866223566_n.jpg
+    city: São Paulo
+    date: '11/01/2024 19:00'
+    daysGroup: 11/12/13/14
 ---
 

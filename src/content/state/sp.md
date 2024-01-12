@@ -29,10 +29,6 @@ gigs:
     city: Várzea Paulista
     date: '20/01/2024 16:30'
     daysGroup: 19/20/21
-  - poster: 416838489_24448891724758520_648682038866223566_n.jpg
-    city: São Paulo
-    date: '11/01/2024 19:00'
-    daysGroup: 11/12/13/14
   - poster: 415042767_1890325114776810_2789792223259423687_n.jpg
     city: Leme
     date: '10/02/2024 17:00'
