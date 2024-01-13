@@ -56,10 +56,6 @@ gigs:
     city: Santo André
     date: '27/01/2024 17:00'
     daysGroup: 26/27/28
-  - poster: 414925760_1888506468292008_5299209502087739633_n.jpg
-    city: Santo André
-    date: '12/01/2024 19:00'
-    daysGroup: 11/12/13/14
   - poster: 414931320_1888504561625532_1719884897025757560_n.jpg
     city: São Paulo
     date: '13/01/2024 16:00'

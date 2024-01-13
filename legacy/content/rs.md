@@ -56,5 +56,9 @@ gigs:
     city: Caxias do Sul
     date: '10/12/2023 18:00'
     daysGroup: 08/09/10
+  - poster: 417524599_1890320574777264_557787971164724230_n.jpg
+    city: Caxias do Sul
+    date: '12/01/2024 20:00'
+    daysGroup: 12/13/14
 ---
 
