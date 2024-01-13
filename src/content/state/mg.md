@@ -12,5 +12,8 @@ gigs:
     date: '20/01/2024 16:00'
     daysGroup: 19/20/21
     ticketsUrl: 'https://www.sympla.com.br/evento/metalpunk-overkill-destruidoe-besthoeven-vinganca-suprema-futuro-lasso-odiaer-dirty-grave/2293008'
+  - poster: 417534598_1891238634685458_5525223180647567224_n.jpg
+    city: Sete Lagoas
+    date: '21/01/2024 16:00'
+    daysGroup: 19/20/21
 ---
-
