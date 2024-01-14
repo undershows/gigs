@@ -20,10 +20,6 @@ gigs:
     city: São Paulo
     date: '23/02/2024 19:00'
     daysGroup: 23/24/25
-  - poster: 409004844_260557720363340_3869131065499994757_n.jpg
-    city: Sorocaba
-    date: '13/01/2024 15:00'
-    daysGroup: 11/12/13/14
   - poster: 416110440_6996870147066206_7623684221712579500_n.jpg
     city: Várzea Paulista
     date: '20/01/2024 16:30'
@@ -32,10 +28,6 @@ gigs:
     city: Leme
     date: '10/02/2024 17:00'
     daysGroup: 07/08/09/10/11
-  - poster: 415041504_1890324891443499_9077068737159947460_n.jpg
-    city: Araraquara
-    date: '13/01/2024 17:00'
-    daysGroup: 11/12/13/14
   - poster: 415039990_1890323668110288_5598545513842962143_n.jpg
     city: Osasco
     date: '27/01/2024 19:00'
@@ -56,10 +48,6 @@ gigs:
     city: Santo André
     date: '27/01/2024 17:00'
     daysGroup: 26/27/28
-  - poster: 414931320_1888504561625532_1719884897025757560_n.jpg
-    city: São Paulo
-    date: '13/01/2024 16:00'
-    daysGroup: 11/12/13/14
   - poster: 416121404_1888503521625636_1498573102759949554_n.jpg
     city: Bauru
     date: '19/01/2024 19:00'
@@ -80,10 +68,6 @@ gigs:
     city: São Paulo
     date: '01/03/2024 19:00'
     daysGroup: 01/02/03
-  - poster: 419045651_10226745296110805_7561472331173889831_n.jpg
-    city: São Paulo
-    date: '13/01/2024 18:00'
-    daysGroup: 11/12/13/14
   - poster: 419262256_10226665770535803_1853245663784630882_n.jpg
     city: São Paulo
     date: '20/01/2024 17:00'

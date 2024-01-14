@@ -32,5 +32,9 @@ gigs:
     city: Fortaleza
     date: '26/11/2023 17:00'
     daysGroup: 24/25/26
+  - poster: 417446758_1890321194777202_6358059416372063266_n.jpg
+    city: Fortaleza
+    date: '13/01/2024 20:00'
+    daysGroup: 12/13/14
 ---
 
