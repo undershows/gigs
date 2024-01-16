@@ -112,6 +112,10 @@ gigs:
     date: '28/01/2024 15:00'
     daysGroup: 26/27/28
     ticketsUrl: 'https://bilheto.com.br/comprar/1914/krisiun-guarulhos'
+  - poster: 419897745_1897089960766992_3358755702439465299_n.jpg
+    city: São Paulo
+    date: '20/01/2024 14:00'
+    daysGroup: 18/19/20/21
 ---
 
 
