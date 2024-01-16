@@ -72,6 +72,32 @@ gigs:
     city: São Paulo
     date: '20/01/2024 17:00'
     daysGroup: 18/19/20/21
+  - poster: 417242040_2020131961703651_7406015972688770878_n.jpg
+    city: São Paulo
+    date: '17/02/2024 19:00'
+    daysGroup: 16/17/18
+    ticketsUrl: 'https://www.sympla.com.br/evento/sangue-de-bode-manger-cadavre-postvmo-em-sao-paulo-sp/2267076'
+  - poster: 419905293_1897064624102859_4442472993660006826_n.jpg
+    city: Americana
+    date: '20/01/2024 20:00'
+    daysGroup: 18/19/20/21
+  - poster: 419740802_1897065900769398_7592475115981432309_n.jpg
+    city: Araraquara
+    date: '27/01/2024 16:00'
+    daysGroup: 26/27/28
+  - poster: 419741565_1897066537436001_7149585910889774975_n.jpg
+    city: Arujá
+    date: '04/02/2024 15:00'
+    daysGroup: 02/03/04
+  - poster: 419876352_1897067134102608_7159331979539570273_n.jpg
+    city: Botucatu
+    date: '29/02/2024 18:00'
+    daysGroup: 28/29
+    ticketsUrl: 'https://megabilheteria.com/evento?id=20240108102449'
+  - poster: 419897783_1897068087435846_8068463850717527156_n.jpg
+    city: Limeira
+    date: '24/03/2024 17:00'
+    daysGroup: 22/23/24
 ---
 
 
