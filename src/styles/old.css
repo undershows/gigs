@@ -6,6 +6,11 @@ img {
   height: 800px;
 }
 
+.logo {
+  width: 200px;
+  height: 200px;
+}
+
 p.normal {
   line-height: 1.5;
   text-align: center;
@@ -13,6 +18,7 @@ p.normal {
 }
 
 body {
+  min-width: fit-content;
   background-image: radial-gradient(blue, pink, gray);
 }
 
