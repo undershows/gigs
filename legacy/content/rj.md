@@ -100,5 +100,9 @@ gigs:
     city: Rio de Janeiro
     date: '23/11/2023 19:00'
     daysGroup: 23/24/25/26
+  - poster: 419891535_1897065497436105_7196204140057251189_n.jpg
+    city: Rio de Janeiro
+    date: '16/01/2024 18:00'
+    daysGroup: 16/17/18/19/20/21
 ---
 
