@@ -60,10 +60,6 @@ gigs:
     city: São Paulo
     date: '07/02/2024 19:00'
     daysGroup: 07/08/09/10/11
-  - poster: 7bb56667-81ae-4d63-bca3-f9dce91757ea.jpeg
-    city: São Paulo
-    date: '18/01/2024 19:00'
-    daysGroup: 18/19/20/21
   - poster: 5b79ebcb-27a7-4c3a-a497-ed67b7cde461.jpeg
     city: São Paulo
     date: '01/03/2024 19:00'
@@ -76,7 +72,8 @@ gigs:
     city: São Paulo
     date: '17/02/2024 19:00'
     daysGroup: 16/17/18
-    ticketsUrl: 'https://www.sympla.com.br/evento/sangue-de-bode-manger-cadavre-postvmo-em-sao-paulo-sp/2267076'
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/sangue-de-bode-manger-cadavre-postvmo-em-sao-paulo-sp/2267076
   - poster: 419905293_1897064624102859_4442472993660006826_n.jpg
     city: Americana
     date: '20/01/2024 20:00'
