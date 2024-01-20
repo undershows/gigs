@@ -48,10 +48,6 @@ gigs:
     city: Santo André
     date: '27/01/2024 17:00'
     daysGroup: 26/27/28
-  - poster: 416121404_1888503521625636_1498573102759949554_n.jpg
-    city: Bauru
-    date: '19/01/2024 19:00'
-    daysGroup: 18/19/20/21
   - poster: porao_tremer.jpeg
     city: São Paulo
     date: '17/02/2024 18:00'
@@ -95,11 +91,6 @@ gigs:
     city: Limeira
     date: '24/03/2024 17:00'
     daysGroup: 22/23/24
-  - poster: 419837015_7297261413666137_4804571215233014515_n.jpg
-    city: São Paulo
-    date: '19/01/2024 19:00'
-    daysGroup: 18/19/20/21
-    ticketsUrl: 'https://pixelticket.com.br/eventos/18641/resistencia-fest'
   - poster: 419710158_7387228078011036_7551231149779820527_n.jpg
     city: São Paulo
     date: '24/02/2024 19:00'

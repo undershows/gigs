@@ -104,5 +104,9 @@ gigs:
     city: Rio de Janeiro
     date: '16/01/2024 18:00'
     daysGroup: 16/17/18/19/20/21
+  - poster: 419796750_1897065304102791_8939027230573620360_n.jpg
+    city: Rio de Janeiro
+    date: '19/01/2024 18:00'
+    daysGroup: 16/17/18/19/20/21
 ---
 

@@ -1953,5 +1953,14 @@ gigs:
     city: São Paulo
     date: '18/01/2024 19:00'
     daysGroup: 18/19/20/21
+  - poster: 416121404_1888503521625636_1498573102759949554_n.jpg
+    city: Bauru
+    date: '19/01/2024 19:00'
+    daysGroup: 18/19/20/21
+  - poster: 419837015_7297261413666137_4804571215233014515_n.jpg
+    city: São Paulo
+    date: '19/01/2024 19:00'
+    daysGroup: 18/19/20/21
+    ticketsUrl: 'https://pixelticket.com.br/eventos/18641/resistencia-fest'
 ---
 
