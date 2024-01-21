@@ -88,5 +88,11 @@ gigs:
     city: Belo Horizonte
     date: '24/11/2023 19:00'
     daysGroup: 24/25/26
+  - poster: 412869102_10224884237601729_7947012367630132713_n.jpg
+    city: Belo Horizonte
+    date: '20/01/2024 16:00'
+    daysGroup: 19/20/21
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/metalpunk-overkill-destruidoe-besthoeven-vinganca-suprema-futuro-lasso-odiaer-dirty-grave/2293008
 ---
 

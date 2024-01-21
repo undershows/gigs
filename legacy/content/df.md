@@ -145,5 +145,9 @@ gigs:
     date: '13/01/2024 18:00'
     daysGroup: 12/13/14
     ticketsUrl: 'https://www.sympla.com.br/evento/pos-guerra-tour-de-30-anos/2244482'
+  - poster: 418952447_1897065664102755_8115450677112211589_n.jpg
+    city: Taguatinga
+    date: '20/01/2024 18:00'
+    daysGroup: 19/20/21
 ---
 

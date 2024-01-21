@@ -20,10 +20,6 @@ gigs:
     city: São Paulo
     date: '23/02/2024 19:00'
     daysGroup: 23/24/25
-  - poster: 416110440_6996870147066206_7623684221712579500_n.jpg
-    city: Várzea Paulista
-    date: '20/01/2024 16:30'
-    daysGroup: 18/19/20/21
   - poster: 415042767_1890325114776810_2789792223259423687_n.jpg
     city: Leme
     date: '10/02/2024 17:00'
@@ -32,18 +28,10 @@ gigs:
     city: Osasco
     date: '27/01/2024 19:00'
     daysGroup: 26/27/28
-  - poster: 417502873_1890323304776991_7051360038957797764_n.jpg
-    city: São Paulo
-    date: '20/01/2024 19:00'
-    daysGroup: 18/19/20/21
   - poster: 415047044_1890319958110659_7123779783143063299_n.jpg
     city: Araçatuba
     date: '10/02/2024 14:00'
     daysGroup: 07/08/09/10/11
-  - poster: 415035484_1890319664777355_8404202042348155163_n.jpg
-    city: Birigui
-    date: '20/01/2024 16:00'
-    daysGroup: 18/19/20/21
   - poster: 414960568_7684625448233744_2465150128350682908_n.jpg
     city: Santo André
     date: '27/01/2024 17:00'
@@ -60,20 +48,12 @@ gigs:
     city: São Paulo
     date: '01/03/2024 19:00'
     daysGroup: 01/02/03
-  - poster: 419262256_10226665770535803_1853245663784630882_n.jpg
-    city: São Paulo
-    date: '20/01/2024 17:00'
-    daysGroup: 18/19/20/21
   - poster: 417242040_2020131961703651_7406015972688770878_n.jpg
     city: São Paulo
     date: '17/02/2024 19:00'
     daysGroup: 16/17/18
     ticketsUrl: >-
       https://www.sympla.com.br/evento/sangue-de-bode-manger-cadavre-postvmo-em-sao-paulo-sp/2267076
-  - poster: 419905293_1897064624102859_4442472993660006826_n.jpg
-    city: Americana
-    date: '20/01/2024 20:00'
-    daysGroup: 18/19/20/21
   - poster: 419740802_1897065900769398_7592475115981432309_n.jpg
     city: Araraquara
     date: '27/01/2024 16:00'
@@ -100,10 +80,6 @@ gigs:
     date: '28/01/2024 15:00'
     daysGroup: 26/27/28
     ticketsUrl: 'https://bilheto.com.br/comprar/1914/krisiun-guarulhos'
-  - poster: 419897745_1897089960766992_3358755702439465299_n.jpg
-    city: São Paulo
-    date: '20/01/2024 14:00'
-    daysGroup: 18/19/20/21
   - poster: FB_IMG_1705464452234.jpg
     city: Osasco
     date: '21/01/2024 13:00'

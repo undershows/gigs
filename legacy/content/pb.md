@@ -39,5 +39,9 @@ gigs:
     city: João Pessoa
     date: '18/11/2023 18:00'
     daysGroup: 17/18/19
+  - poster: IMG-20240118-WA0038.jpg
+    city: João Pessoa
+    date: '20/01/2024 15:00'
+    daysGroup: 19/20/21
 ---
 

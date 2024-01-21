@@ -1962,5 +1962,29 @@ gigs:
     date: '19/01/2024 19:00'
     daysGroup: 18/19/20/21
     ticketsUrl: 'https://pixelticket.com.br/eventos/18641/resistencia-fest'
+  - poster: 416110440_6996870147066206_7623684221712579500_n.jpg
+    city: Várzea Paulista
+    date: '20/01/2024 16:30'
+    daysGroup: 18/19/20/21
+  - poster: 417502873_1890323304776991_7051360038957797764_n.jpg
+    city: São Paulo
+    date: '20/01/2024 19:00'
+    daysGroup: 18/19/20/21
+  - poster: 415035484_1890319664777355_8404202042348155163_n.jpg
+    city: Birigui
+    date: '20/01/2024 16:00'
+    daysGroup: 18/19/20/21
+  - poster: 419262256_10226665770535803_1853245663784630882_n.jpg
+    city: São Paulo
+    date: '20/01/2024 17:00'
+    daysGroup: 18/19/20/21
+  - poster: 419905293_1897064624102859_4442472993660006826_n.jpg
+    city: Americana
+    date: '20/01/2024 20:00'
+    daysGroup: 18/19/20/21
+  - poster: 419897745_1897089960766992_3358755702439465299_n.jpg
+    city: São Paulo
+    date: '20/01/2024 14:00'
+    daysGroup: 18/19/20/21
 ---
 

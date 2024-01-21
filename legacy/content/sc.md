@@ -101,5 +101,9 @@ gigs:
     city: Joinville
     date: '10/12/2023 16:00'
     daysGroup: 08/09/10
+  - poster: 414932589_1888508131625175_3207948506893132952_n.jpg
+    city: Florianopólis
+    date: '20/01/2024 18:00'
+    daysGroup: 19/20/21
 ---
 
