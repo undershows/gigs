@@ -7,9 +7,5 @@ gigs:
     date: '17/02/2024 18:00'
     daysGroup: 16/17/18
     ticketsUrl: 'https://www.sympla.com.br/evento/profanvs-diaboli-art/2200593'
-  - poster: 417534598_1891238634685458_5525223180647567224_n.jpg
-    city: Sete Lagoas
-    date: '21/01/2024 16:00'
-    daysGroup: 19/20/21
 ---
 

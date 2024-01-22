@@ -1986,5 +1986,13 @@ gigs:
     city: São Paulo
     date: '20/01/2024 14:00'
     daysGroup: 18/19/20/21
+  - poster: FB_IMG_1705464452234.jpg
+    city: Osasco
+    date: '21/01/2024 13:00'
+    daysGroup: 18/19/20/21
+  - poster: FB_IMG_1705459905294.jpg
+    city: São Paulo
+    date: '21/01/2024 15:00'
+    daysGroup: 18/19/20/21
 ---
 

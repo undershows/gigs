@@ -82,16 +82,8 @@ gigs:
     ticketsUrl: 'https://bilheto.com.br/comprar/1914/krisiun-guarulhos'
   - poster: FB_IMG_1705464452234.jpg
     city: Osasco
-    date: '21/01/2024 13:00'
-    daysGroup: 18/19/20/21
-  - poster: FB_IMG_1705464452234.jpg
-    city: Osasco
     date: '28/01/2024 13:00'
     daysGroup: 26/27/28
-  - poster: FB_IMG_1705459905294.jpg
-    city: São Paulo
-    date: '21/01/2024 15:00'
-    daysGroup: 18/19/20/21
   - poster: FB_IMG_1705464448516.jpg
     city: Osasco
     date: '17/02/2024 18:00'
