@@ -24,18 +24,10 @@ gigs:
     city: Leme
     date: '10/02/2024 17:00'
     daysGroup: 07/08/09/10/11
-  - poster: 415039990_1890323668110288_5598545513842962143_n.jpg
-    city: Osasco
-    date: '27/01/2024 19:00'
-    daysGroup: 26/27/28
   - poster: 415047044_1890319958110659_7123779783143063299_n.jpg
     city: Araçatuba
     date: '10/02/2024 14:00'
     daysGroup: 07/08/09/10/11
-  - poster: 414960568_7684625448233744_2465150128350682908_n.jpg
-    city: Santo André
-    date: '27/01/2024 17:00'
-    daysGroup: 26/27/28
   - poster: porao_tremer.jpeg
     city: São Paulo
     date: '17/02/2024 18:00'
@@ -54,10 +46,6 @@ gigs:
     daysGroup: 16/17/18
     ticketsUrl: >-
       https://www.sympla.com.br/evento/sangue-de-bode-manger-cadavre-postvmo-em-sao-paulo-sp/2267076
-  - poster: 419740802_1897065900769398_7592475115981432309_n.jpg
-    city: Araraquara
-    date: '27/01/2024 16:00'
-    daysGroup: 26/27/28
   - poster: 419741565_1897066537436001_7149585910889774975_n.jpg
     city: Arujá
     date: '04/02/2024 15:00'

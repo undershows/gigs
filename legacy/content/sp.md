@@ -1994,5 +1994,17 @@ gigs:
     city: São Paulo
     date: '21/01/2024 15:00'
     daysGroup: 18/19/20/21
+  - poster: 415039990_1890323668110288_5598545513842962143_n.jpg
+    city: Osasco
+    date: '27/01/2024 19:00'
+    daysGroup: 26/27/28
+  - poster: 414960568_7684625448233744_2465150128350682908_n.jpg
+    city: Santo André
+    date: '27/01/2024 17:00'
+    daysGroup: 26/27/28
+  - poster: 419740802_1897065900769398_7592475115981432309_n.jpg
+    city: Araraquara
+    date: '27/01/2024 16:00'
+    daysGroup: 26/27/28
 ---
 
