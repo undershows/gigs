@@ -2006,5 +2006,14 @@ gigs:
     city: Araraquara
     date: '27/01/2024 16:00'
     daysGroup: 26/27/28
+  - poster: 419741556_7008114409274020_5924615217459667846_n.jpg
+    city: Guarulhos
+    date: '28/01/2024 15:00'
+    daysGroup: 26/27/28
+    ticketsUrl: 'https://bilheto.com.br/comprar/1914/krisiun-guarulhos'
+  - poster: FB_IMG_1705464452234.jpg
+    city: Osasco
+    date: '28/01/2024 13:00'
+    daysGroup: 26/27/28
 ---
 
