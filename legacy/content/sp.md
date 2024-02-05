@@ -2015,5 +2015,9 @@ gigs:
     city: Osasco
     date: '28/01/2024 13:00'
     daysGroup: 26/27/28
+  - poster: 419741565_1897066537436001_7149585910889774975_n.jpg
+    city: Arujá
+    date: '04/02/2024 15:00'
+    daysGroup: 02/03/04
 ---
 

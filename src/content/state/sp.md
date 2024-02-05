@@ -46,10 +46,6 @@ gigs:
     daysGroup: 16/17/18
     ticketsUrl: >-
       https://www.sympla.com.br/evento/sangue-de-bode-manger-cadavre-postvmo-em-sao-paulo-sp/2267076
-  - poster: 419741565_1897066537436001_7149585910889774975_n.jpg
-    city: Arujá
-    date: '04/02/2024 15:00'
-    daysGroup: 02/03/04
   - poster: 419876352_1897067134102608_7159331979539570273_n.jpg
     city: Botucatu
     date: '29/02/2024 18:00'
