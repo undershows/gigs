@@ -2019,5 +2019,9 @@ gigs:
     city: Arujá
     date: '04/02/2024 15:00'
     daysGroup: 02/03/04
+  - poster: feeec094-3dce-468c-881b-e2d65cb31490.jpeg
+    city: São Paulo
+    date: '07/02/2024 19:00'
+    daysGroup: 07/08/09/10/11
 ---
 
