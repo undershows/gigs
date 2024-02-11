@@ -20,14 +20,6 @@ gigs:
     city: São Paulo
     date: '23/02/2024 19:00'
     daysGroup: 23/24/25
-  - poster: 415042767_1890325114776810_2789792223259423687_n.jpg
-    city: Leme
-    date: '10/02/2024 17:00'
-    daysGroup: 07/08/09/10/11
-  - poster: 415047044_1890319958110659_7123779783143063299_n.jpg
-    city: Araçatuba
-    date: '10/02/2024 14:00'
-    daysGroup: 07/08/09/10/11
   - poster: porao_tremer.jpeg
     city: São Paulo
     date: '17/02/2024 18:00'
