@@ -2,11 +2,6 @@
 abbr: SP
 name: São Paulo
 gigs:
-  - poster: 380382563_2292381637819390_1584426411446296073_n.jpg
-    city: São Paulo
-    date: '11/02/2024 19:00'
-    daysGroup: 07/08/09/10/11
-    ticketsUrl: 'https://www.clubedoingresso.com/evento/koolmetalfest-violence'
   - poster: 777c3872-b8dc-41a2-84ab-e6076f7b042d.jpeg
     city: São Paulo
     date: '03/04/2024 18:00'
