@@ -9,6 +9,6 @@ gigs:
   - poster: 425885952_978225227065899_6758675851336442089_n.jpg
     city: Curitiba
     date: '17/03/2024 19:00'
-    daysGroup: 01/02/03
+    daysGroup: 15/16/17
 ---
 
