@@ -58,6 +58,60 @@ gigs:
     city: São Paulo
     date: '18/02/2024 15:00'
     daysGroup: 16/17/18
+  - poster: woodstock_discos_fest.jpg
+    city: São Paulo
+    date: '30/03/2024 15:00'
+    daysGroup: 29/30/31
+  - poster: destroy_music_now_fest_3.jpeg
+    city: Amparo
+    date: '16/03/2024 18:00'
+    daysGroup: 15/16/17
+  - poster: gulpian_metal_fest.jpeg
+    city: Praia Grande
+    date: '16/03/2024 20:00'
+    daysGroup: 15/16/17
+  - poster: rock_no_parque.jpeg
+    city: Presidente Prudente
+    date: '16/03/2024 17:00'
+    daysGroup: 15/16/17
+  - poster: irs.jpeg
+    city: São Paulo
+    date: '15/03/2024 19:00'
+    daysGroup: 15/16/17
+  - poster: ny_hc_metal_fest_1_2.jpg
+    city: São Paulo
+    date: '08/03/2024 19:00'
+    daysGroup: 08/09/10
+  - poster: ny_hc_metal_fest_1_1.jpg
+    city: São Paulo
+    date: '09/03/2024 19:00'
+    daysGroup: 08/09/10
+  - poster: hell_extreme_fest.jpg
+    city: São Paulo
+    date: '02/03/2024 20:00'
+    daysGroup: 01/02/03
+  - poster: aurora_negra_anarquia.jpeg
+    city: São Paulo
+    date: '18/02/2024 15:00'
+    daysGroup: 16/17/18
+  - poster: engrena_fest_4.png
+    city: Agudos
+    date: '17/02/2024 17:00'
+    daysGroup: 16/17/18
+  - poster: central_do_brasil_sounds.jpeg
+    city: Santos
+    date: '17/02/2024 20:00'
+    daysGroup: 16/17/18
+  - poster: iron_first_rock_house.jpeg
+    city: Santos
+    date: '17/02/2024 21:00'
+    daysGroup: 16/17/18
+  - poster: punk_pascoa_24.jpeg
+    city: São Paulo
+    date: '30/03/2024 17:00'
+    daysGroup: 29/30/31
+  - poster: 424898441_976780200543735_2535751770787422699_n.jpg
+    city: São José do Rio Preto
+    date: '16/02/2024 19:00'
+    daysGroup: 16/17/18
 ---
-
-
