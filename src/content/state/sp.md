@@ -50,18 +50,6 @@ gigs:
     city: São Paulo
     date: '15/03/2024 19:00'
     daysGroup: 15/16/17
-  - poster: a1bcc5e1-4a60-4dc3-ad3a-02104abcf4f0.jpeg
-    city: São Paulo
-    date: '12/02/2024 18:00'
-    daysGroup: 12/13
-  - poster: 427806098_881038724027554_1341115307125438377_n.jpg
-    city: São Paulo
-    date: '12/02/2024 20:00'
-    daysGroup: 12/13
-  - poster: 427873296_880890157375744_2996966484289734996_n.jpg
-    city: São Paulo
-    date: '12/02/2024 15:00'
-    daysGroup: 12/13
   - poster: 427833598_880890134042413_3889855062876820552_n.jpg
     city: São Paulo
     date: '13/02/2024 15:00'
