@@ -10,5 +10,10 @@ gigs:
     city: Curitiba
     date: '17/03/2024 19:00'
     daysGroup: 15/16/17
+  - poster: 235e8adb-9547-4447-8167-b21366d84611.jpeg
+    city: Curitiba
+    date: '02/03/2024 17:30'
+    daysGroup: 01/02/03
+    ticketsUrl: 'https://pixta.me/u/test-deaf-kids-em-curitiba'
 ---
 
