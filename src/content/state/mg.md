@@ -11,6 +11,11 @@ gigs:
     city: Uberlândia
     date: '29/03/2024 15:00'
     daysGroup: 29/30/21
-    ticketsUrl: 'https://www.sympla.com.br/evento/profanvs-diaboli-art/2200593'
+    ticketsUrl: 'https://www.sympla.com.br/evento/test-teia-tour/2344570'
+  - poster: 424742205_10225089800460672_4828198356120290326_n.jpg
+    city: Belo Horizonte
+    date: '06/04/2024 16:00'
+    daysGroup: 05/06/07
+    ticketsUrl: 'https://www.sympla.com.br/evento/metalpunk-overkill-master-escarnium-podridao-matrak-attakk-preceptor-beyond-the-grave-napalm/2336731'
 ---
 

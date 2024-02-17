@@ -119,5 +119,9 @@ gigs:
     city: Jundiaí
     date: '10/03/2024 16:00'
     daysGroup: 08/09/10
+  - poster: 427750833_7677689738961416_4514808208956894873_n.jpg
+    city: Campo Limpo Paulista
+    date: '17/02/2024 18:30'
+    daysGroup: 16/17/18
 ---
 
