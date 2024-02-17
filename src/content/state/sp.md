@@ -106,15 +106,12 @@ gigs:
     city: São Paulo
     date: '30/03/2024 17:00'
     daysGroup: 29/30/31
-  - poster: 424898441_976780200543735_2535751770787422699_n.jpg
-    city: São José do Rio Preto
-    date: '16/02/2024 19:00'
-    daysGroup: 16/17/18
   - poster: 427998067_18213574837263705_3052114041853877663_n.jpg
     city: São Paulo
     date: '28/07/2024 16:00'
     daysGroup: 26/27/28
-    ticketsUrl: 'https://www.sympla.com.br/evento/sadistic-intent-usa-chakal-mg-spiritual-hate-sp/2337890'
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/sadistic-intent-usa-chakal-mg-spiritual-hate-sp/2337890
   - poster: 904afbac-9553-4096-b35e-67326a1b23e2.jpeg
     city: Jundiaí
     date: '10/03/2024 16:00'

@@ -2052,5 +2052,9 @@ gigs:
     city: São Paulo
     date: '13/02/2024 15:00'
     daysGroup: 12/13
+  - poster: 424898441_976780200543735_2535751770787422699_n.jpg
+    city: São José do Rio Preto
+    date: '16/02/2024 19:00'
+    daysGroup: 16/17/18
 ---
 
