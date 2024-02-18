@@ -2056,5 +2056,35 @@ gigs:
     city: São José do Rio Preto
     date: '16/02/2024 19:00'
     daysGroup: 16/17/18
+  - poster: porao_tremer.jpeg
+    city: São Paulo
+    date: '17/02/2024 18:00'
+    daysGroup: 16/17/18
+  - poster: 417242040_2020131961703651_7406015972688770878_n.jpg
+    city: São Paulo
+    date: '17/02/2024 19:00'
+    daysGroup: 16/17/18
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/sangue-de-bode-manger-cadavre-postvmo-em-sao-paulo-sp/2267076
+  - poster: FB_IMG_1705464448516.jpg
+    city: Osasco
+    date: '17/02/2024 18:00'
+    daysGroup: 16/17/18
+  - poster: engrena_fest_4.png
+    city: Agudos
+    date: '17/02/2024 17:00'
+    daysGroup: 16/17/18
+  - poster: central_do_brasil_sounds.jpeg
+    city: Santos
+    date: '17/02/2024 20:00'
+    daysGroup: 16/17/18
+  - poster: iron_first_rock_house.jpeg
+    city: Santos
+    date: '17/02/2024 21:00'
+    daysGroup: 16/17/18
+  - poster: 427750833_7677689738961416_4514808208956894873_n.jpg
+    city: Campo Limpo Paulista
+    date: '17/02/2024 18:30'
+    daysGroup: 16/17/18
 ---
 

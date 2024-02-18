@@ -98,5 +98,10 @@ gigs:
     city: Sete Lagoas
     date: '21/01/2024 16:00'
     daysGroup: 19/20/21
+  - poster: 417414138_1890324601443528_5905732492202683460_n.jpg
+    city: Belo Horizonte
+    date: '17/02/2024 18:00'
+    daysGroup: 16/17/18
+    ticketsUrl: 'https://www.sympla.com.br/evento/profanvs-diaboli-art/2200593'
 ---
 

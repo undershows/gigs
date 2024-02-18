@@ -15,20 +15,10 @@ gigs:
     city: São Paulo
     date: '23/02/2024 19:00'
     daysGroup: 23/24/25
-  - poster: porao_tremer.jpeg
-    city: São Paulo
-    date: '17/02/2024 18:00'
-    daysGroup: 16/17/18
   - poster: 5b79ebcb-27a7-4c3a-a497-ed67b7cde461.jpeg
     city: São Paulo
     date: '01/03/2024 19:00'
     daysGroup: 01/02/03
-  - poster: 417242040_2020131961703651_7406015972688770878_n.jpg
-    city: São Paulo
-    date: '17/02/2024 19:00'
-    daysGroup: 16/17/18
-    ticketsUrl: >-
-      https://www.sympla.com.br/evento/sangue-de-bode-manger-cadavre-postvmo-em-sao-paulo-sp/2267076
   - poster: 419876352_1897067134102608_7159331979539570273_n.jpg
     city: Botucatu
     date: '29/02/2024 18:00'
@@ -42,10 +32,6 @@ gigs:
     city: São Paulo
     date: '24/02/2024 19:00'
     daysGroup: 23/24/25
-  - poster: FB_IMG_1705464448516.jpg
-    city: Osasco
-    date: '17/02/2024 18:00'
-    daysGroup: 16/17/18
   - poster: FB_IMG_1705464484569.jpg
     city: São Paulo
     date: '15/03/2024 19:00'
@@ -90,18 +76,6 @@ gigs:
     city: São Paulo
     date: '18/02/2024 15:00'
     daysGroup: 16/17/18
-  - poster: engrena_fest_4.png
-    city: Agudos
-    date: '17/02/2024 17:00'
-    daysGroup: 16/17/18
-  - poster: central_do_brasil_sounds.jpeg
-    city: Santos
-    date: '17/02/2024 20:00'
-    daysGroup: 16/17/18
-  - poster: iron_first_rock_house.jpeg
-    city: Santos
-    date: '17/02/2024 21:00'
-    daysGroup: 16/17/18
   - poster: punk_pascoa_24.jpeg
     city: São Paulo
     date: '30/03/2024 17:00'
@@ -116,9 +90,5 @@ gigs:
     city: Jundiaí
     date: '10/03/2024 16:00'
     daysGroup: 08/09/10
-  - poster: 427750833_7677689738961416_4514808208956894873_n.jpg
-    city: Campo Limpo Paulista
-    date: '17/02/2024 18:30'
-    daysGroup: 16/17/18
 ---
 

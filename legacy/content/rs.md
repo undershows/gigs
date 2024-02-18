@@ -60,5 +60,9 @@ gigs:
     city: Caxias do Sul
     date: '12/01/2024 20:00'
     daysGroup: 12/13/14
+  - poster: velho_cancer_sapo_boi_valika_poa.png
+    city: Porto Alegre
+    date: '17/02/2024 22:00'
+    daysGroup: 16/17/18
 ---
 

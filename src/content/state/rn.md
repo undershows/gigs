@@ -2,10 +2,6 @@
 abbr: RN
 name: Rio Grande do Norte
 gigs:
-  - poster: 423904088_3703791783226557_4085972533051956084_n.jpg
-    city: Natal
-    date: '17/02/2024 20:00'
-    daysGroup: 16/17/18
   - poster: 423944266_1385153785538459_1906618903585378950_n.jpg
     city: Natal
     date: '17/05/2024 20:00'
