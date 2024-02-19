@@ -2086,5 +2086,13 @@ gigs:
     city: Campo Limpo Paulista
     date: '17/02/2024 18:30'
     daysGroup: 16/17/18
+  - poster: 427923686_880887984042628_8340685849097888448_n.jpg
+    city: São Paulo
+    date: '18/02/2024 15:00'
+    daysGroup: 16/17/18
+  - poster: aurora_negra_anarquia.jpeg
+    city: São Paulo
+    date: '18/02/2024 15:00'
+    daysGroup: 16/17/18
 ---
 
