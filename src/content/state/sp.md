@@ -13,8 +13,9 @@ gigs:
     ticketsUrl: 'https://www.clubedoingresso.com/evento/rottingchrist-saopaulo'
   - poster: 2f2819b0-7ada-44fa-82ea-7afc0ab8abce.jpeg
     city: São Paulo
-    date: '23/02/2024 19:00'
-    daysGroup: 23/24/25
+    date: '25/02/2024 19:00'
+    daysGroup: 22/23/24/25
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/lightningbolt-sp'
   - poster: 5b79ebcb-27a7-4c3a-a497-ed67b7cde461.jpeg
     city: São Paulo
     date: '01/03/2024 19:00'
@@ -31,7 +32,7 @@ gigs:
   - poster: 419710158_7387228078011036_7551231149779820527_n.jpg
     city: São Paulo
     date: '24/02/2024 19:00'
-    daysGroup: 23/24/25
+    daysGroup: 22/23/24/25
   - poster: FB_IMG_1705464484569.jpg
     city: São Paulo
     date: '15/03/2024 19:00'
@@ -82,5 +83,69 @@ gigs:
     city: Jundiaí
     date: '10/03/2024 16:00'
     daysGroup: 08/09/10
+  - poster: 428607174_10161172916905682_510967880524830581_n.jpg
+    city: Santo André
+    date: '02/03/2024 21:00'
+    daysGroup: 01/02/03
+    ticketsUrl: 'https://www.sympla.com.br/evento/statues-on-fire-zumbi-holocausto/2325755'
+  - poster: 428603082_10161172917115682_3117893141937922856_n.jpg
+    city: Diadema
+    date: '25/02/2024 17:00'
+    daysGroup: 22/23/24/25
+    ticketsUrl: 'https://www.sympla.com.br/evento/colera-no-container/2331843'
+  - poster: 428604306_10161172917420682_9032059893620142153_n.jpg
+    city: São Paulo
+    date: '09/03/2024 19:00'
+    daysGroup: 08/09/10
+    ticketsUrl: 'https://pixelticket.com.br/eventos/19149/fuzz-fest-edicao-sao-paulo'
+  - poster: 428604370_1123317215477648_7114563309895793922_n.jpg
+    city: Mogi das Cruzes
+    date: '24/02/2024 23:00'
+    daysGroup: 22/23/24/25
+  - poster: 428635439_931516018382579_975205111440950987_n.jpg
+    city: Salto
+    date: '07/04/2024 14:00'
+    daysGroup: 03/04/05/06/07
+  - poster: 426152299_1137155820751833_8624274243739914986_n.jpg
+    city: São Paulo
+    date: '03/03/2024 17:00'
+    daysGroup: 01/02/03
+  - poster: 428602143_861238639346661_6361568793070206772_n.jpg
+    city: São Paulo
+    date: '02/03/2024 20:00'
+    daysGroup: 01/02/03
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/blasthrash-voodoopriest-cerberusattack'
+  - poster: 428628805_885735993557827_7213166780330776982_n.jpg
+    city: São Paulo
+    date: '22/02/2024 17:00'
+    daysGroup: 22/23/24/25
+  - poster: 428164934_884847140313379_9221843969179904822_n.jpg
+    city: São Paulo
+    date: '23/02/2024 17:00'
+    daysGroup: 22/23/24/25
+  - poster: 428624102_884847053646721_6599459064600481425_n.jpg
+    city: São Paulo
+    date: '24/02/2024 16:00'
+    daysGroup: 22/23/24/25
+  - poster: 427986527_884847083646718_7386586123626780740_n.jpg
+    city: São Paulo
+    date: '25/02/2024 15:00'
+    daysGroup: 22/23/24/25
+  - poster: 428610393_10228010941836338_1882503008808586780_n.jpg
+    city: São Paulo
+    date: '02/03/2024 22:00'
+    daysGroup: 01/02/03
+  - poster: 428655417_7150523785024779_1356854740834443036_n.jpg
+    city: Ribeirão Pires
+    date: '02/03/2024 19:00'
+    daysGroup: 01/02/03
+  - poster: 428643622_7176772459085759_6060544909828137548_n.jpg
+    city: Indaiatuba
+    date: '25/02/2024 15:00'
+    daysGroup: 22/23/24/25
+  - poster: 428634535_354389890839087_606299737754602659_n.jpg
+    city: São Paulo
+    date: '23/03/2024 15:00'
+    daysGroup: 22/23/24
 ---
 
