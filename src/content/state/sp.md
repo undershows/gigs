@@ -114,11 +114,8 @@ gigs:
     city: São Paulo
     date: '02/03/2024 20:00'
     daysGroup: 01/02/03
-    ticketsUrl: 'https://www.clubedoingresso.com/evento/blasthrash-voodoopriest-cerberusattack'
-  - poster: 428628805_885735993557827_7213166780330776982_n.jpg
-    city: São Paulo
-    date: '22/02/2024 17:00'
-    daysGroup: 22/23/24/25
+    ticketsUrl: >-
+      https://www.clubedoingresso.com/evento/blasthrash-voodoopriest-cerberusattack
   - poster: 428164934_884847140313379_9221843969179904822_n.jpg
     city: São Paulo
     date: '23/02/2024 17:00'
