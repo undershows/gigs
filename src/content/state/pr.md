@@ -15,5 +15,9 @@ gigs:
     date: '02/03/2024 17:30'
     daysGroup: 01/02/03
     ticketsUrl: 'https://pixta.me/u/test-deaf-kids-em-curitiba'
+  - poster: 409050831_1922437381565583_1525164506903941283_n.jpg
+    city: Londrina
+    date: '24/03/2024 20:00'
+    daysGroup: 22/23/24
 ---
 

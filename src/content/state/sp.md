@@ -36,7 +36,7 @@ gigs:
   - poster: FB_IMG_1705464484569.jpg
     city: São Paulo
     date: '15/03/2024 19:00'
-    daysGroup: 15/16/17
+    daysGroup: 14/15/16/17
   - poster: woodstock_discos_fest.jpg
     city: São Paulo
     date: '30/03/2024 15:00'
@@ -44,26 +44,26 @@ gigs:
   - poster: destroy_music_now_fest_3.jpeg
     city: Amparo
     date: '16/03/2024 18:00'
-    daysGroup: 15/16/17
+    daysGroup: 14/15/16/17
   - poster: gulpian_metal_fest.jpeg
     city: Praia Grande
     date: '16/03/2024 20:00'
-    daysGroup: 15/16/17
+    daysGroup: 14/15/16/17
   - poster: rock_no_parque.jpeg
     city: Presidente Prudente
     date: '16/03/2024 17:00'
-    daysGroup: 15/16/17
+    daysGroup: 14/15/16/17
   - poster: irs.jpeg
     city: São Paulo
     date: '15/03/2024 19:00'
-    daysGroup: 15/16/17
+    daysGroup: 14/15/16/17
   - poster: ny_hc_metal_fest_1_2.jpg
     city: São Paulo
-    date: '08/03/2024 19:00'
+    date: '09/03/2024 19:00'
     daysGroup: 08/09/10
   - poster: ny_hc_metal_fest_1_1.jpg
     city: São Paulo
-    date: '09/03/2024 19:00'
+    date: '08/03/2024 19:00'
     daysGroup: 08/09/10
   - poster: hell_extreme_fest.jpg
     city: São Paulo
@@ -73,6 +73,7 @@ gigs:
     city: São Paulo
     date: '30/03/2024 17:00'
     daysGroup: 29/30/31
+    ticketsUrl: 'https://pixelticket.com.br/eventos/19039/punk-na-pascoa-2024/ingressos'
   - poster: 427998067_18213574837263705_3052114041853877663_n.jpg
     city: São Paulo
     date: '28/07/2024 16:00'
@@ -144,5 +145,71 @@ gigs:
     city: São Paulo
     date: '23/03/2024 15:00'
     daysGroup: 22/23/24
+  - poster: 428618466_1922614351547886_3553769102855542818_n.jpg
+    city: Santo André
+    date: '25/05/2024 16:00'
+    daysGroup: 24/25/26
+  - poster: 408895880_7198813080199573_3933068117335750741_n.jpg
+    city: São Paulo
+    date: '10/03/2024 17:00'
+    daysGroup: 08/09/10
+    ticketsUrl: 'https://www.sympla.com.br/evento/desacato-civil-lancamento-paz-entre-nos-guerra-entre-classes/2329245'
+  - poster: 409064451_1922431634899491_6900890464451042591_n.jpg
+    city: São Paulo
+    date: '23/02/2024 19:00'
+    daysGroup: 22/23/24/25
+  - poster: 409105440_1922433568232631_6198673764685366707_n.jpg
+    city: Americana
+    date: '09/03/2024 16:00'
+    daysGroup: 08/09/10
+  - poster: 409008871_1922435491565772_3314836456122113609_n.jpg
+    city: São Paulo
+    date: '25/02/2024 16:00'
+    daysGroup: 22/23/24/25
+  - poster: 409029405_1922437061565615_3579815364251814486_n.jpg
+    city: Bauru
+    date: '23/02/2024 20:00'
+    daysGroup: 22/23/24/25
+  - poster: 408974485_1922438431565478_5897967426963923084_n.jpg
+    city: Bauru
+    date: '01/03/2024 20:00'
+    daysGroup: 01/02/03
+  - poster: 429657931_1922440134898641_4712315873094987394_n.jpg
+    city: São Paulo
+    date: '14/03/2024 19:00'
+    daysGroup: 14/15/16/17
+  - poster: 409093527_1922441021565219_6275883552458245992_n.jpg
+    city: Várzea Paulista
+    date: '30/03/2024 16:00'
+    daysGroup: 29/30/31
+    ticketsUrl: 'https://www.sympla.com.br/evento/as-flores-do-mal-litanias-de-sata-ii/2298137'
+  - poster: 409175953_1922447361564585_67224738994855062_n.jpg
+    city: São Bernardo do Campo
+    date: '23/02/2024 19:00'
+    daysGroup: 22/23/24/25
+  - poster: 409082138_1922467421562579_820641671716542132_n.jpg
+    city: Sumaré
+    date: '24/02/2024 19:00'
+    daysGroup: 22/23/24/25
+  - poster: 409028643_1922552718220716_7262028436423881778_n.jpg
+    city: Santos
+    date: '23/03/2024 21:00'
+    daysGroup: 22/23/24
+  - poster: 429648294_1922552941554027_2861434385745327344_n.jpg
+    city: Santos
+    date: '16/03/2024 21:00'
+    daysGroup: 14/15/16/17
+  - poster: 409008323_1922553244887330_6521206587292831332_n.jpg
+    city: Itapetininga
+    date: '10/03/2024 16:00'
+    daysGroup: 08/09/10
+  - poster: 409057838_1922553584887296_5365434299357612199_n.jpg
+    city: Praia Grande
+    date: '09/03/2024 20:00'
+    daysGroup: 08/09/10
+  - poster: 409174227_1922554181553903_6400896565387486649_n.jpg
+    city: Santos
+    date: '02/03/2024 19:00'
+    daysGroup: 01/02/03
 ---
 

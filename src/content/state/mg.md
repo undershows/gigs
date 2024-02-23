@@ -17,5 +17,14 @@ gigs:
     city: Uberlândia
     date: '07/07/2024 16:00'
     daysGroup: 05/06/07
+    ticketsUrl: 'https://www.sympla.com.br/evento/sinister-em-belo-horizonte/2350307'
+  - poster: 409012386_1922439638232024_5090050635587026336_n.jpg
+    city: Divinópolis
+    date: '24/02/2024 17:00'
+    daysGroup: 23/24/25
+  - poster: 427987378_920336043425925_1903104236965332032_n.jpg
+    city: Alfenas
+    date: '09/03/2024 16:00'
+    daysGroup: 08/09/10
 ---
 
