@@ -2098,5 +2098,21 @@ gigs:
     city: São Paulo
     date: '22/02/2024 17:00'
     daysGroup: 22/23/24/25
+  - poster: 428164934_884847140313379_9221843969179904822_n.jpg
+    city: São Paulo
+    date: '23/02/2024 17:00'
+    daysGroup: 22/23/24/25
+  - poster: 409064451_1922431634899491_6900890464451042591_n.jpg
+    city: São Paulo
+    date: '23/02/2024 19:00'
+    daysGroup: 22/23/24/25
+  - poster: 409029405_1922437061565615_3579815364251814486_n.jpg
+    city: Bauru
+    date: '23/02/2024 20:00'
+    daysGroup: 22/23/24/25
+  - poster: 409175953_1922447361564585_67224738994855062_n.jpg
+    city: São Bernardo do Campo
+    date: '23/02/2024 19:00'
+    daysGroup: 22/23/24/25
 ---
 
