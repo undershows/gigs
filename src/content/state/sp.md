@@ -29,10 +29,6 @@ gigs:
     city: Limeira
     date: '24/03/2024 17:00'
     daysGroup: 22/23/24
-  - poster: 419710158_7387228078011036_7551231149779820527_n.jpg
-    city: São Paulo
-    date: '24/02/2024 19:00'
-    daysGroup: 22/23/24/25
   - poster: FB_IMG_1705464484569.jpg
     city: São Paulo
     date: '15/03/2024 19:00'
@@ -99,10 +95,6 @@ gigs:
     date: '09/03/2024 19:00'
     daysGroup: 08/09/10
     ticketsUrl: 'https://pixelticket.com.br/eventos/19149/fuzz-fest-edicao-sao-paulo'
-  - poster: 428604370_1123317215477648_7114563309895793922_n.jpg
-    city: Mogi das Cruzes
-    date: '24/02/2024 23:00'
-    daysGroup: 22/23/24/25
   - poster: 428635439_931516018382579_975205111440950987_n.jpg
     city: Salto
     date: '07/04/2024 14:00'
@@ -117,10 +109,6 @@ gigs:
     daysGroup: 01/02/03
     ticketsUrl: >-
       https://www.clubedoingresso.com/evento/blasthrash-voodoopriest-cerberusattack
-  - poster: 428624102_884847053646721_6599459064600481425_n.jpg
-    city: São Paulo
-    date: '24/02/2024 16:00'
-    daysGroup: 22/23/24/25
   - poster: 427986527_884847083646718_7386586123626780740_n.jpg
     city: São Paulo
     date: '25/02/2024 15:00'
@@ -173,10 +161,6 @@ gigs:
     daysGroup: 29/30/31
     ticketsUrl: >-
       https://www.sympla.com.br/evento/as-flores-do-mal-litanias-de-sata-ii/2298137
-  - poster: 409082138_1922467421562579_820641671716542132_n.jpg
-    city: Sumaré
-    date: '24/02/2024 19:00'
-    daysGroup: 22/23/24/25
   - poster: 409028643_1922552718220716_7262028436423881778_n.jpg
     city: Santos
     date: '23/03/2024 21:00'

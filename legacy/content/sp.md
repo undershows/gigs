@@ -2114,5 +2114,21 @@ gigs:
     city: São Bernardo do Campo
     date: '23/02/2024 19:00'
     daysGroup: 22/23/24/25
+  - poster: 419710158_7387228078011036_7551231149779820527_n.jpg
+    city: São Paulo
+    date: '24/02/2024 19:00'
+    daysGroup: 22/23/24/25
+  - poster: 428604370_1123317215477648_7114563309895793922_n.jpg
+    city: Mogi das Cruzes
+    date: '24/02/2024 23:00'
+    daysGroup: 22/23/24/25
+  - poster: 428624102_884847053646721_6599459064600481425_n.jpg
+    city: São Paulo
+    date: '24/02/2024 16:00'
+    daysGroup: 22/23/24/25
+  - poster: 409082138_1922467421562579_820641671716542132_n.jpg
+    city: Sumaré
+    date: '24/02/2024 19:00'
+    daysGroup: 22/23/24/25
 ---
 

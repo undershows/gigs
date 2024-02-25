@@ -103,5 +103,9 @@ gigs:
     date: '17/02/2024 18:00'
     daysGroup: 16/17/18
     ticketsUrl: 'https://www.sympla.com.br/evento/profanvs-diaboli-art/2200593'
+  - poster: 409012386_1922439638232024_5090050635587026336_n.jpg
+    city: Divinópolis
+    date: '24/02/2024 17:00'
+    daysGroup: 23/24/25
 ---
 
