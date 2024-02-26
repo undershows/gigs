@@ -11,11 +11,6 @@ gigs:
     date: '29/02/2024 19:00'
     daysGroup: 28/29
     ticketsUrl: 'https://www.clubedoingresso.com/evento/rottingchrist-saopaulo'
-  - poster: 2f2819b0-7ada-44fa-82ea-7afc0ab8abce.jpeg
-    city: São Paulo
-    date: '25/02/2024 19:00'
-    daysGroup: 22/23/24/25
-    ticketsUrl: 'https://www.clubedoingresso.com/evento/lightningbolt-sp'
   - poster: 5b79ebcb-27a7-4c3a-a497-ed67b7cde461.jpeg
     city: São Paulo
     date: '01/03/2024 19:00'
@@ -85,11 +80,6 @@ gigs:
     date: '02/03/2024 21:00'
     daysGroup: 01/02/03
     ticketsUrl: 'https://www.sympla.com.br/evento/statues-on-fire-zumbi-holocausto/2325755'
-  - poster: 428603082_10161172917115682_3117893141937922856_n.jpg
-    city: Diadema
-    date: '25/02/2024 17:00'
-    daysGroup: 22/23/24/25
-    ticketsUrl: 'https://www.sympla.com.br/evento/colera-no-container/2331843'
   - poster: 428604306_10161172917420682_9032059893620142153_n.jpg
     city: São Paulo
     date: '09/03/2024 19:00'
@@ -109,10 +99,6 @@ gigs:
     daysGroup: 01/02/03
     ticketsUrl: >-
       https://www.clubedoingresso.com/evento/blasthrash-voodoopriest-cerberusattack
-  - poster: 427986527_884847083646718_7386586123626780740_n.jpg
-    city: São Paulo
-    date: '25/02/2024 15:00'
-    daysGroup: 22/23/24/25
   - poster: 428610393_10228010941836338_1882503008808586780_n.jpg
     city: São Paulo
     date: '02/03/2024 22:00'
@@ -121,10 +107,6 @@ gigs:
     city: Ribeirão Pires
     date: '02/03/2024 19:00'
     daysGroup: 01/02/03
-  - poster: 428643622_7176772459085759_6060544909828137548_n.jpg
-    city: Indaiatuba
-    date: '25/02/2024 15:00'
-    daysGroup: 22/23/24/25
   - poster: 428634535_354389890839087_606299737754602659_n.jpg
     city: São Paulo
     date: '23/03/2024 15:00'
@@ -143,10 +125,6 @@ gigs:
     city: Americana
     date: '09/03/2024 16:00'
     daysGroup: 08/09/10
-  - poster: 409008871_1922435491565772_3314836456122113609_n.jpg
-    city: São Paulo
-    date: '25/02/2024 16:00'
-    daysGroup: 22/23/24/25
   - poster: 408974485_1922438431565478_5897967426963923084_n.jpg
     city: Bauru
     date: '01/03/2024 20:00'

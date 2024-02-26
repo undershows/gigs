@@ -2130,5 +2130,27 @@ gigs:
     city: Sumaré
     date: '24/02/2024 19:00'
     daysGroup: 22/23/24/25
+  - poster: 2f2819b0-7ada-44fa-82ea-7afc0ab8abce.jpeg
+    city: São Paulo
+    date: '25/02/2024 19:00'
+    daysGroup: 22/23/24/25
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/lightningbolt-sp'
+  - poster: 428603082_10161172917115682_3117893141937922856_n.jpg
+    city: Diadema
+    date: '25/02/2024 17:00'
+    daysGroup: 22/23/24/25
+    ticketsUrl: 'https://www.sympla.com.br/evento/colera-no-container/2331843'
+  - poster: 427986527_884847083646718_7386586123626780740_n.jpg
+    city: São Paulo
+    date: '25/02/2024 15:00'
+    daysGroup: 22/23/24/25
+  - poster: 428643622_7176772459085759_6060544909828137548_n.jpg
+    city: Indaiatuba
+    date: '25/02/2024 15:00'
+    daysGroup: 22/23/24/25
+  - poster: 409008871_1922435491565772_3314836456122113609_n.jpg
+    city: São Paulo
+    date: '25/02/2024 16:00'
+    daysGroup: 22/23/24/25
 ---
 
