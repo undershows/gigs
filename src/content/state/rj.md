@@ -10,12 +10,8 @@ gigs:
     city: Niterói
     date: '28/02/2024 21:00'
     daysGroup: 27/28/29
-    ticketsUrl: 'https://www.sympla.com.br/evento/test-deafkids-em-niteroi-no-hope-tour-iii-2024/2311473'
-  - poster: cec894d1-edbb-4d2e-96aa-158349e655cc.jpeg
-    city: Botafogo
-    date: '27/02/2024 20:00'
-    daysGroup: 27/28/29
-    ticketsUrl: 'https://www.sympla.com.br/evento/deafkids-test-no-rio-de-janeiro-no-hope-tour-iii'
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/test-deafkids-em-niteroi-no-hope-tour-iii-2024/2311473
   - poster: 408860103_1922432824899372_381804353597326036_n.jpg
     city: Rio de Janeiro
     date: '23/03/2024 20:00'

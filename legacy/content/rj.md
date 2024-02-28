@@ -118,5 +118,11 @@ gigs:
     city: Rio de Janeiro
     date: '27/01/2024 19:00'
     daysGroup: 26/27/28
+  - poster: cec894d1-edbb-4d2e-96aa-158349e655cc.jpeg
+    city: Botafogo
+    date: '27/02/2024 20:00'
+    daysGroup: 27/28/29
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/deafkids-test-no-rio-de-janeiro-no-hope-tour-iii
 ---
 
