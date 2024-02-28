@@ -178,5 +178,13 @@ gigs:
     date: '27/03/2024 19:30'
     daysGroup: 27/28/29/30/31
     ticketsUrl: 'https://bilheto.com.br/comprar/2006/speedfire-night'
+  - poster: 426594430_7141774655943560_8546504140199171479_n.jpg
+    city: Paulínia
+    date: '23/03/2024 17:00'
+    daysGroup: 22/23/24
+  - poster: 429857739_1127524298390273_8561734392738266283_n.jpg
+    city: Mogi das Cruzes
+    date: '06/04/2024 15:00'
+    daysGroup: 03/04/05/06/07
 ---
 

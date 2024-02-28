@@ -15,5 +15,10 @@ gigs:
     city: Juazeiro do Norte
     date: '15/03/2024 22:00'
     daysGroup: 15/16/17
+  - poster: 430002905_1369378580384673_7367483815373927214_n.jpg
+    city: Fortaleza
+    date: '07/04/2024 16:00'
+    daysGroup: 05/06/07
+    ticketsUrl: 'https://www.sympla.com.br/evento/ceara-obsceno-extremo-fest/2348645'
 ---
 
