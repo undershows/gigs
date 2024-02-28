@@ -182,5 +182,9 @@ gigs:
     city: Maringá
     date: '29/01/2024 19:00'
     daysGroup: 26/27/28/29
+  - poster: 409050831_1922437381565583_1525164506903941283_n.jpg
+    city: Londrina
+    date: '24/02/2024 20:00'
+    daysGroup: 22/23/24
 ---
 

@@ -31,7 +31,7 @@ gigs:
   - poster: woodstock_discos_fest.jpg
     city: São Paulo
     date: '30/03/2024 15:00'
-    daysGroup: 29/30/31
+    daysGroup: 27/28/29/30/31
   - poster: destroy_music_now_fest_3.jpeg
     city: Amparo
     date: '16/03/2024 18:00'
@@ -63,7 +63,7 @@ gigs:
   - poster: punk_pascoa_24.jpeg
     city: São Paulo
     date: '30/03/2024 17:00'
-    daysGroup: 29/30/31
+    daysGroup: 27/28/29/30/31
     ticketsUrl: 'https://pixelticket.com.br/eventos/19039/punk-na-pascoa-2024/ingressos'
   - poster: 427998067_18213574837263705_3052114041853877663_n.jpg
     city: São Paulo
@@ -136,7 +136,7 @@ gigs:
   - poster: 409093527_1922441021565219_6275883552458245992_n.jpg
     city: Várzea Paulista
     date: '30/03/2024 16:00'
-    daysGroup: 29/30/31
+    daysGroup: 27/28/29/30/31
     ticketsUrl: >-
       https://www.sympla.com.br/evento/as-flores-do-mal-litanias-de-sata-ii/2298137
   - poster: 409028643_1922552718220716_7262028436423881778_n.jpg
@@ -159,5 +159,24 @@ gigs:
     city: Santos
     date: '02/03/2024 19:00'
     daysGroup: 01/02/03
+  - poster: 426634202_7141772765943749_1395357840467097607_n.jpg
+    city: São Paulo
+    date: '02/03/2024 19:00'
+    daysGroup: 01/02/03
+  - poster: 426636283_7141773049277054_147547108893619454_n.jpg
+    city: Campinas
+    date: '09/04/2024 18:00'
+    daysGroup: 09/10/11/12/13/14
+    ticketsUrl: 'https://www.sympla.com.br/evento/master-escarnium-e-lethal-charge/2328227'
+  - poster: 426595249_7141773165943709_8971445354082816178_n.jpg
+    city: São José dos Campos
+    date: '15/03/2024 19:00'
+    daysGroup: 14/15/16/17
+    ticketsUrl: 'https://www.sympla.com.br/evento/rock-doido-2-edicao/2353322'
+  - poster: 426575908_7141774235943602_7195629165719770207_n.jpg
+    city: São Paulo
+    date: '27/03/2024 19:30'
+    daysGroup: 27/28/29/30/31
+    ticketsUrl: 'https://bilheto.com.br/comprar/2006/speedfire-night'
 ---
 

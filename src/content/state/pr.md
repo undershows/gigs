@@ -15,9 +15,16 @@ gigs:
     date: '02/03/2024 17:30'
     daysGroup: 01/02/03
     ticketsUrl: 'https://pixta.me/u/test-deaf-kids-em-curitiba'
-  - poster: 409050831_1922437381565583_1525164506903941283_n.jpg
+  - poster: 426613177_7141772779277081_6724945959924564874_n.jpg
+    city: Maringá
+    date: '02/03/2024 20:00'
+    daysGroup: 01/02/03
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/desalmado-hellway-patrol-enslaver-declinio-em-maringa-pr/2300567
+  - poster: 426606783_7141774615943564_3118240064595198621_n.jpg
     city: Londrina
-    date: '24/03/2024 20:00'
-    daysGroup: 22/23/24
+    date: '11/04/2024 19:30'
+    daysGroup: 11/12/13/14
+    ticketsUrl: 'https://bilheto.com.br/comprar/2015/Master-e-Escarnium'
 ---
 

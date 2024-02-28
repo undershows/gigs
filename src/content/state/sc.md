@@ -16,5 +16,9 @@ gigs:
     date: '04/03/2024 17:00'
     daysGroup: 01/02/03/04
     ticketsUrl: 'https://www.sympla.com.br/evento/domingo-no-hope-tour-iii-deafkids-test-sp-no-ahoy/2307145'
+  - poster: 428704520_2677858162372167_8825611715779635192_n.jpg
+    city: Joinville
+    date: '06/04/2024 17:00'
+    daysGroup: 05/06/07
 ---
 
