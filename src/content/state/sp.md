@@ -186,5 +186,9 @@ gigs:
     city: Mogi das Cruzes
     date: '06/04/2024 15:00'
     daysGroup: 03/04/05/06/07
+  - poster: 430050803_2678380068986643_3611821494775567343_n.jpg
+    city: Arujá
+    date: '02/03/2024 19:00'
+    daysGroup: 01/02/03
 ---
 
