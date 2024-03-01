@@ -180,5 +180,13 @@ gigs:
     city: Arujá
     date: '02/03/2024 19:00'
     daysGroup: 01/02/03
+  - poster: 430022830_904086028387472_3432513820544610340_n.jpg
+    city: São José dos Campos
+    date: '10/03/2024 17:00'
+    daysGroup: 08/09/10
+  - poster: 430848187_18402781762067518_3419502131339350366_n_1080.jpg
+    city: São Paulo
+    date: '04/05/2024 19:00'
+    daysGroup: 03/04/05
 ---
 
