@@ -11,5 +11,10 @@ gigs:
     city: Brasília
     date: '16/03/2024 18:30'
     daysGroup: 15/16/17
+  - poster: 1707252976143.jpg
+    city: Brasília
+    date: '02/03/2024 18:00'
+    daysGroup: 01/02/03
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/rottingchrist-brasilia'
 ---
 
