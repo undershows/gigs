@@ -2152,5 +2152,15 @@ gigs:
     city: São Paulo
     date: '25/02/2024 16:00'
     daysGroup: 22/23/24/25
+  - poster: 2cb2e2e5-d747-496d-8200-9a05717d4d20.jpeg
+    city: São Paulo
+    date: '29/02/2024 19:00'
+    daysGroup: 28/29
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/rottingchrist-saopaulo'
+  - poster: 419876352_1897067134102608_7159331979539570273_n.jpg
+    city: Botucatu
+    date: '29/02/2024 18:00'
+    daysGroup: 28/29
+    ticketsUrl: 'https://megabilheteria.com/evento?id=20240108102449'
 ---
 

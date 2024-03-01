@@ -130,5 +130,9 @@ gigs:
     daysGroup: 27/28/29
     ticketsUrl: >-
       https://www.sympla.com.br/evento/test-deafkids-em-niteroi-no-hope-tour-iii-2024/2311473
+  - poster: f209c54a-ee06-4879-abe1-40b8e97014af.jpeg
+    city: Volta Redonda
+    date: '29/02/2024 19:00'
+    daysGroup: 27/28/29
 ---
 
