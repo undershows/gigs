@@ -6,10 +6,6 @@ gigs:
     city: São Paulo
     date: '03/04/2024 18:00'
     daysGroup: 03/04/05/06/07
-  - poster: 5b79ebcb-27a7-4c3a-a497-ed67b7cde461.jpeg
-    city: São Paulo
-    date: '01/03/2024 19:00'
-    daysGroup: 01/02/03
   - poster: 419897783_1897068087435846_8068463850717527156_n.jpg
     city: Limeira
     date: '24/03/2024 17:00'
@@ -115,10 +111,6 @@ gigs:
     city: Americana
     date: '09/03/2024 16:00'
     daysGroup: 08/09/10
-  - poster: 408974485_1922438431565478_5897967426963923084_n.jpg
-    city: Bauru
-    date: '01/03/2024 20:00'
-    daysGroup: 01/02/03
   - poster: 429657931_1922440134898641_4712315873094987394_n.jpg
     city: São Paulo
     date: '14/03/2024 19:00'

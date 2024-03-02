@@ -2162,5 +2162,13 @@ gigs:
     date: '29/02/2024 18:00'
     daysGroup: 28/29
     ticketsUrl: 'https://megabilheteria.com/evento?id=20240108102449'
+  - poster: 5b79ebcb-27a7-4c3a-a497-ed67b7cde461.jpeg
+    city: São Paulo
+    date: '01/03/2024 19:00'
+    daysGroup: 01/02/03
+  - poster: 408974485_1922438431565478_5897967426963923084_n.jpg
+    city: Bauru
+    date: '01/03/2024 20:00'
+    daysGroup: 01/02/03
 ---
 
