@@ -149,5 +149,10 @@ gigs:
     city: Taguatinga
     date: '20/01/2024 18:00'
     daysGroup: 19/20/21
+  - poster: 1707252976143.jpg
+    city: Brasília
+    date: '02/03/2024 18:00'
+    daysGroup: 01/02/03
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/rottingchrist-brasilia'
 ---
 

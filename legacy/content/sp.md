@@ -2170,5 +2170,40 @@ gigs:
     city: Bauru
     date: '01/03/2024 20:00'
     daysGroup: 01/02/03
+  - poster: hell_extreme_fest.jpg
+    city: São Paulo
+    date: '02/03/2024 20:00'
+    daysGroup: 01/02/03
+  - poster: 428607174_10161172916905682_510967880524830581_n.jpg
+    city: Santo André
+    date: '02/03/2024 21:00'
+    daysGroup: 01/02/03
+    ticketsUrl: 'https://www.sympla.com.br/evento/statues-on-fire-zumbi-holocausto/2325755'
+  - poster: 428602143_861238639346661_6361568793070206772_n.jpg
+    city: São Paulo
+    date: '02/03/2024 20:00'
+    daysGroup: 01/02/03
+    ticketsUrl: >-
+      https://www.clubedoingresso.com/evento/blasthrash-voodoopriest-cerberusattack
+  - poster: 428610393_10228010941836338_1882503008808586780_n.jpg
+    city: São Paulo
+    date: '02/03/2024 22:00'
+    daysGroup: 01/02/03
+  - poster: 428655417_7150523785024779_1356854740834443036_n.jpg
+    city: Ribeirão Pires
+    date: '02/03/2024 19:00'
+    daysGroup: 01/02/03
+  - poster: 409174227_1922554181553903_6400896565387486649_n.jpg
+    city: Santos
+    date: '02/03/2024 19:00'
+    daysGroup: 01/02/03
+  - poster: 426634202_7141772765943749_1395357840467097607_n.jpg
+    city: São Paulo
+    date: '02/03/2024 19:00'
+    daysGroup: 01/02/03
+  - poster: 430050803_2678380068986643_3611821494775567343_n.jpg
+    city: Arujá
+    date: '02/03/2024 19:00'
+    daysGroup: 01/02/03
 ---
 

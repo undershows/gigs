@@ -42,10 +42,6 @@ gigs:
     city: São Paulo
     date: '08/03/2024 19:00'
     daysGroup: 08/09/10
-  - poster: hell_extreme_fest.jpg
-    city: São Paulo
-    date: '02/03/2024 20:00'
-    daysGroup: 01/02/03
   - poster: punk_pascoa_24.jpeg
     city: São Paulo
     date: '30/03/2024 17:00'
@@ -61,11 +57,6 @@ gigs:
     city: Jundiaí
     date: '10/03/2024 16:00'
     daysGroup: 08/09/10
-  - poster: 428607174_10161172916905682_510967880524830581_n.jpg
-    city: Santo André
-    date: '02/03/2024 21:00'
-    daysGroup: 01/02/03
-    ticketsUrl: 'https://www.sympla.com.br/evento/statues-on-fire-zumbi-holocausto/2325755'
   - poster: 428604306_10161172917420682_9032059893620142153_n.jpg
     city: São Paulo
     date: '09/03/2024 19:00'
@@ -78,20 +69,6 @@ gigs:
   - poster: 426152299_1137155820751833_8624274243739914986_n.jpg
     city: São Paulo
     date: '03/03/2024 17:00'
-    daysGroup: 01/02/03
-  - poster: 428602143_861238639346661_6361568793070206772_n.jpg
-    city: São Paulo
-    date: '02/03/2024 20:00'
-    daysGroup: 01/02/03
-    ticketsUrl: >-
-      https://www.clubedoingresso.com/evento/blasthrash-voodoopriest-cerberusattack
-  - poster: 428610393_10228010941836338_1882503008808586780_n.jpg
-    city: São Paulo
-    date: '02/03/2024 22:00'
-    daysGroup: 01/02/03
-  - poster: 428655417_7150523785024779_1356854740834443036_n.jpg
-    city: Ribeirão Pires
-    date: '02/03/2024 19:00'
     daysGroup: 01/02/03
   - poster: 428634535_354389890839087_606299737754602659_n.jpg
     city: São Paulo
@@ -137,14 +114,6 @@ gigs:
     city: Praia Grande
     date: '09/03/2024 20:00'
     daysGroup: 08/09/10
-  - poster: 409174227_1922554181553903_6400896565387486649_n.jpg
-    city: Santos
-    date: '02/03/2024 19:00'
-    daysGroup: 01/02/03
-  - poster: 426634202_7141772765943749_1395357840467097607_n.jpg
-    city: São Paulo
-    date: '02/03/2024 19:00'
-    daysGroup: 01/02/03
   - poster: 426636283_7141773049277054_147547108893619454_n.jpg
     city: Campinas
     date: '09/04/2024 18:00'
@@ -168,10 +137,6 @@ gigs:
     city: Mogi das Cruzes
     date: '06/04/2024 15:00'
     daysGroup: 03/04/05/06/07
-  - poster: 430050803_2678380068986643_3611821494775567343_n.jpg
-    city: Arujá
-    date: '02/03/2024 19:00'
-    daysGroup: 01/02/03
   - poster: 430022830_904086028387472_3432513820544610340_n.jpg
     city: São José dos Campos
     date: '10/03/2024 17:00'
