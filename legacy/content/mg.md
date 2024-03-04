@@ -107,5 +107,10 @@ gigs:
     city: Divinópolis
     date: '24/02/2024 17:00'
     daysGroup: 23/24/25
+  - poster: RottingChrist-BH-2024.jpg
+    city: Belo Horizonte
+    date: '03/03/2024 18:00'
+    daysGroup: 01/02/03
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/rottingchrist-bh'
 ---
 

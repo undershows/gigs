@@ -2205,5 +2205,9 @@ gigs:
     city: Arujá
     date: '02/03/2024 19:00'
     daysGroup: 01/02/03
+  - poster: 426152299_1137155820751833_8624274243739914986_n.jpg
+    city: São Paulo
+    date: '03/03/2024 17:00'
+    daysGroup: 01/02/03
 ---
 

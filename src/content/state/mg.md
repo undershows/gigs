@@ -27,10 +27,5 @@ gigs:
     date: '15/03/2024 16:00'
     daysGroup: 15/16/17
     ticketsUrl: 'https://www.sympla.com.br/evento/rockin-prod-brutal-devastation/2305040'
-  - poster: RottingChrist-BH-2024.jpg
-    city: Belo Horizonte
-    date: '03/03/2024 18:00'
-    daysGroup: 01/02/03
-    ticketsUrl: 'https://www.clubedoingresso.com/evento/rottingchrist-bh'
 ---
 
