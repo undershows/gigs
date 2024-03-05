@@ -171,5 +171,10 @@ gigs:
     date: '12/04/2024 18:00'
     daysGroup: 09/10/11/12/13/14
     ticketsUrl: 'https://www.clubedoingresso.com/evento/leatherleone-saopaulo'
+  - poster: 428223971_909553501177155_450208392506509987_n.jpg
+    city: São Paulo
+    date: '06/04/2024 18:00'
+    daysGroup: 03/04/05/06/07
+    ticketsUrl: 'https://bilheto.com.br/comprar/1978/exciter'
 ---
 
