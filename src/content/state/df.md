@@ -12,5 +12,9 @@ gigs:
     city: Brasília
     date: '16/03/2024 18:30'
     daysGroup: 15/16/17
+  - poster: 55126296-d6f3-4476-9692-30001f0c8704.jpeg
+    city: Taguatinga Norte
+    date: '10/03/2024 14:00'
+    daysGroup: 08/09/10
 ---
 

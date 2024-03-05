@@ -141,5 +141,35 @@ gigs:
     city: São Paulo
     date: '04/05/2024 19:00'
     daysGroup: 03/04/05
+  - poster: 430797872_976154540745905_924115645621037138_n.jpg
+    city: Americana
+    date: '23/03/2024 20:00'
+    daysGroup: 22/23/24
+    ticketsUrl: 'https://www.sympla.com.br/evento/hup-apresenta-paura-strong-reaction-dente-canino-e-infortunio/2341359'
+  - poster: image_123650291.JPG
+    city: São Paulo
+    date: '06/04/2024 19:00'
+    daysGroup: 03/04/05/06/07
+    ticketsUrl: 'https://www.sympla.com.br/evento/ziggurat-of-doom/2346171'
+  - poster: heretoir-sp-2024.jpg
+    city: São Paulo
+    date: '29/03/2024 19:00'
+    daysGroup: 27/28/29/30/31
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/heretoir'
+  - poster: 426488998_120207068767380040_3886440266274244029_n.jpg
+    city: São Paulo
+    date: '09/11/2024 18:00'
+    daysGroup: 08/09/10
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/asphyx-thetroopsofdoom-evilcult-saopaulo'
+  - poster: 394670686_120200600328820362_60766939617271028_n.jpeg
+    city: São Paulo
+    date: '18/04/2024 19:00'
+    daysGroup: 18/19/20/21
+    ticketsUrl: 'https://www.ticket360.com.br/evento/27888/ingressos-para-megadeth'
+  - poster: 429817751_7287685177990495_4516949471080703535_n.jpg
+    city: São Paulo
+    date: '12/04/2024 18:00'
+    daysGroup: 09/10/11/12/13/14
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/leatherleone-saopaulo'
 ---
 
