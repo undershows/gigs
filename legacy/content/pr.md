@@ -197,5 +197,10 @@ gigs:
     daysGroup: 01/02/03
     ticketsUrl: >-
       https://www.sympla.com.br/evento/desalmado-hellway-patrol-enslaver-declinio-em-maringa-pr/2300567
+  - poster: IMG-20240228-WA0026.jpg
+    city: Cascavel
+    date: '06/03/2024 19:00'
+    daysGroup: 06/07/08/09/10
+    ticketsUrl: 'https://www.sympla.com.br/death-metal-attack__2335993'
 ---
 

@@ -64,5 +64,9 @@ gigs:
     city: Porto Alegre
     date: '17/02/2024 22:00'
     daysGroup: 16/17/18
+  - poster: 13601dc8-e5fa-44c4-9878-6d30acba37bf.jpeg
+    city: Caxias do Sul
+    date: '06/03/2024 19:00'
+    daysGroup: 06/07/08/09/10
 ---
 

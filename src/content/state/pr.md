@@ -15,10 +15,5 @@ gigs:
     date: '11/04/2024 19:30'
     daysGroup: 11/12/13/14
     ticketsUrl: 'https://bilheto.com.br/comprar/2015/Master-e-Escarnium'
-  - poster: IMG-20240228-WA0026.jpg
-    city: Cascavel
-    date: '06/03/2024 19:00'
-    daysGroup: 06/07/08/09/10
-    ticketsUrl: 'https://www.sympla.com.br/death-metal-attack__2335993'
 ---
 
