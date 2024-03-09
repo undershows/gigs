@@ -2209,5 +2209,9 @@ gigs:
     city: São Paulo
     date: '03/03/2024 17:00'
     daysGroup: 01/02/03
+  - poster: ny_hc_metal_fest_1_1.jpg
+    city: São Paulo
+    date: '08/03/2024 19:00'
+    daysGroup: 08/09/10
 ---
 

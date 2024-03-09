@@ -74,5 +74,9 @@ gigs:
     daysGroup: 06/07/08/09/10
     ticketsUrl: >-
       https://www.sympla.com.br/evento/test-deafkids-em-porto-alegre-agulha/2337089
+  - poster: 428639583_941756321067488_5846105432987626527_n.jpg
+    city: Porto Alegre
+    date: '08/03/2024 19:00'
+    daysGroup: 06/07/08/09/10
 ---
 
