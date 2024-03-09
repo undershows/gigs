@@ -176,5 +176,9 @@ gigs:
     date: '06/04/2024 18:00'
     daysGroup: 03/04/05/06/07
     ticketsUrl: 'https://bilheto.com.br/comprar/1978/exciter'
+  - poster: 429871987_25275884072026242_667394277502033794_n.jpg
+    city: São Paulo
+    date: '22/03/2024 17:00'
+    daysGroup: 22/23/24
 ---
 
