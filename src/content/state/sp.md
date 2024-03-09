@@ -38,10 +38,6 @@ gigs:
     city: São Paulo
     date: '09/03/2024 19:00'
     daysGroup: 08/09/10
-  - poster: ny_hc_metal_fest_1_1.jpg
-    city: São Paulo
-    date: '08/03/2024 19:00'
-    daysGroup: 08/09/10
   - poster: punk_pascoa_24.jpeg
     city: São Paulo
     date: '30/03/2024 17:00'
@@ -145,7 +141,8 @@ gigs:
     city: Americana
     date: '23/03/2024 20:00'
     daysGroup: 22/23/24
-    ticketsUrl: 'https://www.sympla.com.br/evento/hup-apresenta-paura-strong-reaction-dente-canino-e-infortunio/2341359'
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/hup-apresenta-paura-strong-reaction-dente-canino-e-infortunio/2341359
   - poster: image_123650291.JPG
     city: São Paulo
     date: '06/04/2024 19:00'
@@ -160,7 +157,8 @@ gigs:
     city: São Paulo
     date: '09/11/2024 18:00'
     daysGroup: 08/09/10
-    ticketsUrl: 'https://www.clubedoingresso.com/evento/asphyx-thetroopsofdoom-evilcult-saopaulo'
+    ticketsUrl: >-
+      https://www.clubedoingresso.com/evento/asphyx-thetroopsofdoom-evilcult-saopaulo
   - poster: 394670686_120200600328820362_60766939617271028_n.jpeg
     city: São Paulo
     date: '18/04/2024 19:00'
