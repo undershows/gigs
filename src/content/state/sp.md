@@ -161,5 +161,10 @@ gigs:
     city: São Paulo
     date: '22/03/2024 17:00'
     daysGroup: 22/23/24
+  - poster: 431525437_3692619941009419_5244187636168166923_n.jpg
+    city: São Paulo
+    date: '09/06/2024 14:00'
+    daysGroup: 07/08/09
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/possessed-venominc-sp'
 ---
 
