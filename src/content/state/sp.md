@@ -34,10 +34,6 @@ gigs:
     city: São Paulo
     date: '15/03/2024 19:00'
     daysGroup: 14/15/16/17
-  - poster: ny_hc_metal_fest_1_2.jpg
-    city: São Paulo
-    date: '09/03/2024 19:00'
-    daysGroup: 08/09/10
   - poster: punk_pascoa_24.jpeg
     city: São Paulo
     date: '30/03/2024 17:00'
@@ -53,11 +49,6 @@ gigs:
     city: Jundiaí
     date: '10/03/2024 16:00'
     daysGroup: 08/09/10
-  - poster: 428604306_10161172917420682_9032059893620142153_n.jpg
-    city: São Paulo
-    date: '09/03/2024 19:00'
-    daysGroup: 08/09/10
-    ticketsUrl: 'https://pixelticket.com.br/eventos/19149/fuzz-fest-edicao-sao-paulo'
   - poster: 428635439_931516018382579_975205111440950987_n.jpg
     city: Salto
     date: '07/04/2024 14:00'
@@ -76,10 +67,6 @@ gigs:
     daysGroup: 08/09/10
     ticketsUrl: >-
       https://www.sympla.com.br/evento/desacato-civil-lancamento-paz-entre-nos-guerra-entre-classes/2329245
-  - poster: 409105440_1922433568232631_6198673764685366707_n.jpg
-    city: Americana
-    date: '09/03/2024 16:00'
-    daysGroup: 08/09/10
   - poster: 429657931_1922440134898641_4712315873094987394_n.jpg
     city: São Paulo
     date: '14/03/2024 19:00'
@@ -101,10 +88,6 @@ gigs:
   - poster: 409008323_1922553244887330_6521206587292831332_n.jpg
     city: Itapetininga
     date: '10/03/2024 16:00'
-    daysGroup: 08/09/10
-  - poster: 409057838_1922553584887296_5365434299357612199_n.jpg
-    city: Praia Grande
-    date: '09/03/2024 20:00'
     daysGroup: 08/09/10
   - poster: 426636283_7141773049277054_147547108893619454_n.jpg
     city: Campinas
@@ -177,12 +160,14 @@ gigs:
   - poster: 429871987_25275884072026242_667394277502033794_n.jpg
     city: São Paulo
     date: '22/03/2024 17:00'
-    - poster: estamos_aqui_fest.jpg
+    daysGroup: 22/23/24
+  - poster: estamos_aqui_fest.jpg
     city: São Paulo
     date: '07/04/2024 15:00'
     daysGroup: 03/04/05/06/07
     ticketsUrl: 'https://www.eventbrite.com.br/e/1o-estamos-aqui-tickets-860250772217?aff=oddtdtcreator'
-    daysGroup: 22/23/24
-    
----
-
+  - poster: 431525437_3692619941009419_5244187636168166923_n.jpg
+    city: São Paulo
+    date: '09/06/2024 14:00'
+    daysGroup: 07/08/09
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/possessed-venominc-sp'

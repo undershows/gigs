@@ -2213,5 +2213,22 @@ gigs:
     city: São Paulo
     date: '08/03/2024 19:00'
     daysGroup: 08/09/10
+  - poster: ny_hc_metal_fest_1_2.jpg
+    city: São Paulo
+    date: '09/03/2024 19:00'
+    daysGroup: 08/09/10
+  - poster: 428604306_10161172917420682_9032059893620142153_n.jpg
+    city: São Paulo
+    date: '09/03/2024 19:00'
+    daysGroup: 08/09/10
+    ticketsUrl: 'https://pixelticket.com.br/eventos/19149/fuzz-fest-edicao-sao-paulo'
+  - poster: 409105440_1922433568232631_6198673764685366707_n.jpg
+    city: Americana
+    date: '09/03/2024 16:00'
+    daysGroup: 08/09/10
+  - poster: 409057838_1922553584887296_5365434299357612199_n.jpg
+    city: Praia Grande
+    date: '09/03/2024 20:00'
+    daysGroup: 08/09/10
 ---
 
