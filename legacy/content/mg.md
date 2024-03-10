@@ -112,5 +112,9 @@ gigs:
     date: '03/03/2024 18:00'
     daysGroup: 01/02/03
     ticketsUrl: 'https://www.clubedoingresso.com/evento/rottingchrist-bh'
+  - poster: 427987378_920336043425925_1903104236965332032_n.jpg
+    city: Alfenas
+    date: '09/03/2024 16:00'
+    daysGroup: 08/09/10
 ---
 

@@ -96,5 +96,10 @@ gigs:
     city: Natal
     date: '17/02/2024 20:00'
     daysGroup: 16/17/18
+  - poster: 408961227_1922442531565068_612824742885617197_n.jpg
+    city: Natal
+    date: '09/03/2024 15:00'
+    daysGroup: 08/09/10
+    ticketsUrl: 'https://www.sympla.com.br/evento/verao-brutal-2024/2307026'
 ---
 
