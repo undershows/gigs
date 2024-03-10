@@ -177,6 +177,12 @@ gigs:
   - poster: 429871987_25275884072026242_667394277502033794_n.jpg
     city: São Paulo
     date: '22/03/2024 17:00'
+    - poster: estamos_aqui_fest.jpg
+    city: São Paulo
+    date: '07/04/2024 15:00'
+    daysGroup: 03/04/05/06/07
+    ticketsUrl: 'https://www.eventbrite.com.br/e/1o-estamos-aqui-tickets-860250772217?aff=oddtdtcreator'
     daysGroup: 22/23/24
+    
 ---
 
