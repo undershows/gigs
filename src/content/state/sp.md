@@ -161,10 +161,13 @@ gigs:
     city: São Paulo
     date: '22/03/2024 17:00'
     daysGroup: 22/23/24
+  - poster: estamos_aqui_fest.jpg
+    city: São Paulo
+    date: '07/04/2024 15:00'
+    daysGroup: 03/04/05/06/07
+    ticketsUrl: 'https://www.eventbrite.com.br/e/1o-estamos-aqui-tickets-860250772217?aff=oddtdtcreator'
   - poster: 431525437_3692619941009419_5244187636168166923_n.jpg
     city: São Paulo
     date: '09/06/2024 14:00'
     daysGroup: 07/08/09
     ticketsUrl: 'https://www.clubedoingresso.com/evento/possessed-venominc-sp'
----
-
