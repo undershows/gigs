@@ -14,7 +14,12 @@ gigs:
     ticketsUrl: 'https://bilheto.com.br/comprar/2096/angra-rn'
   - poster: 408961227_1922442531565068_612824742885617197_n.jpg
     city: Natal
-    date: '10/03/2024 19:00'
+    date: '09/03/2024 15:00'
+    daysGroup: 08/09/10
+    ticketsUrl: 'https://www.sympla.com.br/evento/verao-brutal-2024/2307026'
+  - poster: 408961227_1922442531565068_612824742885617198_n.jpg
+    city: Natal
+    date: '10/03/2024 15:00'
     daysGroup: 08/09/10
     ticketsUrl: 'https://www.sympla.com.br/evento/verao-brutal-2024/2307026'
 ---
