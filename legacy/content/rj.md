@@ -134,5 +134,11 @@ gigs:
     city: Volta Redonda
     date: '29/02/2024 19:00'
     daysGroup: 27/28/29
+  - poster: 428520104_25626623610270545_3451002358191395399_n.jpg
+    city: Rio de Janeiro
+    date: '10/03/2024 19:00'
+    daysGroup: 08/09/10
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/rio-rock-apresenta-banda-arcana-elysium-banda-frogslake/2357862
 ---
 

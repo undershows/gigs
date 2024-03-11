@@ -154,5 +154,9 @@ gigs:
     date: '02/03/2024 18:00'
     daysGroup: 01/02/03
     ticketsUrl: 'https://www.clubedoingresso.com/evento/rottingchrist-brasilia'
+  - poster: 55126296-d6f3-4476-9692-30001f0c8704.jpeg
+    city: Taguatinga Norte
+    date: '10/03/2024 14:00'
+    daysGroup: 08/09/10
 ---
 

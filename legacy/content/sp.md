@@ -2230,5 +2230,23 @@ gigs:
     city: Praia Grande
     date: '09/03/2024 20:00'
     daysGroup: 08/09/10
+  - poster: 904afbac-9553-4096-b35e-67326a1b23e2.jpeg
+    city: Jundiaí
+    date: '10/03/2024 16:00'
+    daysGroup: 08/09/10
+  - poster: 408895880_7198813080199573_3933068117335750741_n.jpg
+    city: São Paulo
+    date: '10/03/2024 17:00'
+    daysGroup: 08/09/10
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/desacato-civil-lancamento-paz-entre-nos-guerra-entre-classes/2329245
+  - poster: 409008323_1922553244887330_6521206587292831332_n.jpg
+    city: Itapetininga
+    date: '10/03/2024 16:00'
+    daysGroup: 08/09/10
+  - poster: 430022830_904086028387472_3432513820544610340_n.jpg
+    city: São José dos Campos
+    date: '10/03/2024 17:00'
+    daysGroup: 08/09/10
 ---
 

@@ -45,10 +45,6 @@ gigs:
     daysGroup: 26/27/28
     ticketsUrl: >-
       https://www.sympla.com.br/evento/sadistic-intent-usa-chakal-mg-spiritual-hate-sp/2337890
-  - poster: 904afbac-9553-4096-b35e-67326a1b23e2.jpeg
-    city: Jundiaí
-    date: '10/03/2024 16:00'
-    daysGroup: 08/09/10
   - poster: 428635439_931516018382579_975205111440950987_n.jpg
     city: Salto
     date: '07/04/2024 14:00'
@@ -61,12 +57,6 @@ gigs:
     city: Santo André
     date: '25/05/2024 16:00'
     daysGroup: 24/25/26
-  - poster: 408895880_7198813080199573_3933068117335750741_n.jpg
-    city: São Paulo
-    date: '10/03/2024 17:00'
-    daysGroup: 08/09/10
-    ticketsUrl: >-
-      https://www.sympla.com.br/evento/desacato-civil-lancamento-paz-entre-nos-guerra-entre-classes/2329245
   - poster: 429657931_1922440134898641_4712315873094987394_n.jpg
     city: São Paulo
     date: '14/03/2024 19:00'
@@ -85,10 +75,6 @@ gigs:
     city: Santos
     date: '16/03/2024 21:00'
     daysGroup: 14/15/16/17
-  - poster: 409008323_1922553244887330_6521206587292831332_n.jpg
-    city: Itapetininga
-    date: '10/03/2024 16:00'
-    daysGroup: 08/09/10
   - poster: 426636283_7141773049277054_147547108893619454_n.jpg
     city: Campinas
     date: '09/04/2024 18:00'
@@ -112,10 +98,6 @@ gigs:
     city: Mogi das Cruzes
     date: '06/04/2024 15:00'
     daysGroup: 03/04/05/06/07
-  - poster: 430022830_904086028387472_3432513820544610340_n.jpg
-    city: São José dos Campos
-    date: '10/03/2024 17:00'
-    daysGroup: 08/09/10
   - poster: 430848187_18402781762067518_3419502131339350366_n_1080.jpg
     city: São Paulo
     date: '04/05/2024 19:00'
@@ -165,9 +147,12 @@ gigs:
     city: São Paulo
     date: '07/04/2024 15:00'
     daysGroup: 03/04/05/06/07
-    ticketsUrl: 'https://www.eventbrite.com.br/e/1o-estamos-aqui-tickets-860250772217?aff=oddtdtcreator'
+    ticketsUrl: >-
+      https://www.eventbrite.com.br/e/1o-estamos-aqui-tickets-860250772217?aff=oddtdtcreator
   - poster: 431525437_3692619941009419_5244187636168166923_n.jpg
     city: São Paulo
     date: '09/06/2024 14:00'
     daysGroup: 07/08/09
     ticketsUrl: 'https://www.clubedoingresso.com/evento/possessed-venominc-sp'
+---
+
