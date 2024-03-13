@@ -171,5 +171,9 @@ gigs:
     city: Osasco
     date: '24/03/2024 16:00'
     daysGroup: 22/23/24
+  - poster: 432300344_922363696563881_1232312414954254177_n_1080.jpg
+    city: São Paulo
+    date: '25/04/2024 19:00'
+    daysGroup: 25/26/27/28
 ---
 
