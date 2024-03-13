@@ -154,5 +154,22 @@ gigs:
     date: '09/06/2024 14:00'
     daysGroup: 07/08/09
     ticketsUrl: 'https://www.clubedoingresso.com/evento/possessed-venominc-sp'
+  - poster: 432270027_10160796438926708_5644371987250907410_n.jpg
+    city: São Paulo
+    date: '16/03/2024 17:00'
+    daysGroup: 14/15/16/17
+  - poster: 432393969_10160796715766708_7704137555653115523_n.jpg
+    city: São Paulo
+    date: '15/03/2024 17:00'
+    daysGroup: 14/15/16/17
+  - poster: 431800439_8225189384162781_6629888917573912482_n.jpg
+    city: São Paulo
+    date: '11/05/2024 17:00'
+    daysGroup: 10/11/12
+    ticketsUrl: 'https://www.sympla.com.br/evento/war-dance-fest/2355059'
+  - poster: 430129288_3075044082632309_2024063158352483886_n.jpg
+    city: Osasco
+    date: '24/03/2024 16:00'
+    daysGroup: 22/23/24
 ---
 
