@@ -14,7 +14,8 @@ gigs:
     city: São Paulo
     date: '15/03/2024 19:00'
     daysGroup: 14/15/16/17
-    ticketsUrl: 'https://www.sympla.com.br/evento/the-hawaiians-southamerican-tour-com-fibonattis-rosa-tigre-e-bubblegumers-no-red-star-studios/2295981'
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/the-hawaiians-southamerican-tour-com-fibonattis-rosa-tigre-e-bubblegumers-no-red-star-studios/2295981
   - poster: woodstock_discos_fest.jpg
     city: São Paulo
     date: '30/03/2024 15:00'
@@ -58,10 +59,6 @@ gigs:
     city: Santo André
     date: '25/05/2024 16:00'
     daysGroup: 24/25/26
-  - poster: 429657931_1922440134898641_4712315873094987394_n.jpg
-    city: São Paulo
-    date: '14/03/2024 19:00'
-    daysGroup: 14/15/16/17
   - poster: 409093527_1922441021565219_6275883552458245992_n.jpg
     city: Várzea Paulista
     date: '30/03/2024 16:00'

@@ -2248,5 +2248,9 @@ gigs:
     city: São José dos Campos
     date: '10/03/2024 17:00'
     daysGroup: 08/09/10
+  - poster: 429657931_1922440134898641_4712315873094987394_n.jpg
+    city: São Paulo
+    date: '14/03/2024 19:00'
+    daysGroup: 14/15/16/17
 ---
 
