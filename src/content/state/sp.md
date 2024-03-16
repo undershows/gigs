@@ -164,5 +164,9 @@ gigs:
     date: '18/05/2024 19:00'
     daysGroup: 17/18/19
     ticketsUrl: 'https://www.sympla.com.br/evento/grinders-deserdados-fuck-youth/2372389'
+  - poster: 432759005_1934624163680238_6543147432396003727_n.jpg
+    city: Marília
+    date: '17/03/2024 16:00'
+    daysGroup: 14/15/16/17
 ---
 
