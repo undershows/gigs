@@ -44,5 +44,9 @@ gigs:
     city: Fortaleza
     date: '09/03/2024 19:00'
     daysGroup: 08/09/10
+  - poster: 409089295_1922443251564996_4994751903473490435_n.jpg
+    city: Juazeiro do Norte
+    date: '15/03/2024 22:00'
+    daysGroup: 15/16/17
 ---
 

@@ -18,11 +18,6 @@ gigs:
     date: '07/07/2024 16:00'
     daysGroup: 05/06/07
     ticketsUrl: 'https://www.sympla.com.br/evento/sinister-em-belo-horizonte/2350307'
-  - poster: 419441637_902137941469674_3379572269553968942_n.jpeg
-    city: Belo Horizonte
-    date: '15/03/2024 16:00'
-    daysGroup: 15/16/17
-    ticketsUrl: 'https://www.sympla.com.br/evento/rockin-prod-brutal-devastation/2305040'
   - poster: 428263128_122102047688216057_1655299540612622518_n.jpg
     city: Belo Horizonte
     date: '28/03/2024 19:00'

@@ -10,12 +10,6 @@ gigs:
     city: Limeira
     date: '24/03/2024 17:00'
     daysGroup: 22/23/24
-  - poster: FB_IMG_1705464484569.jpg
-    city: São Paulo
-    date: '15/03/2024 19:00'
-    daysGroup: 14/15/16/17
-    ticketsUrl: >-
-      https://www.sympla.com.br/evento/the-hawaiians-southamerican-tour-com-fibonattis-rosa-tigre-e-bubblegumers-no-red-star-studios/2295981
   - poster: woodstock_discos_fest.jpg
     city: São Paulo
     date: '30/03/2024 15:00'
@@ -31,10 +25,6 @@ gigs:
   - poster: rock_no_parque.jpeg
     city: Presidente Prudente
     date: '16/03/2024 17:00'
-    daysGroup: 14/15/16/17
-  - poster: irs.jpeg
-    city: São Paulo
-    date: '15/03/2024 19:00'
     daysGroup: 14/15/16/17
   - poster: punk_pascoa_24.jpeg
     city: São Paulo
@@ -78,11 +68,6 @@ gigs:
     date: '09/04/2024 18:00'
     daysGroup: 09/10/11/12/13/14
     ticketsUrl: 'https://www.sympla.com.br/evento/master-escarnium-e-lethal-charge/2328227'
-  - poster: 426595249_7141773165943709_8971445354082816178_n.jpg
-    city: São José dos Campos
-    date: '15/03/2024 19:00'
-    daysGroup: 14/15/16/17
-    ticketsUrl: 'https://www.sympla.com.br/evento/rock-doido-2-edicao/2353322'
   - poster: 426575908_7141774235943602_7195629165719770207_n.jpg
     city: São Paulo
     date: '27/03/2024 19:30'
@@ -155,10 +140,6 @@ gigs:
   - poster: 432270027_10160796438926708_5644371987250907410_n.jpg
     city: São Paulo
     date: '16/03/2024 17:00'
-    daysGroup: 14/15/16/17
-  - poster: 432393969_10160796715766708_7704137555653115523_n.jpg
-    city: São Paulo
-    date: '15/03/2024 17:00'
     daysGroup: 14/15/16/17
   - poster: 431800439_8225189384162781_6629888917573912482_n.jpg
     city: São Paulo

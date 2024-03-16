@@ -116,5 +116,10 @@ gigs:
     city: Alfenas
     date: '09/03/2024 16:00'
     daysGroup: 08/09/10
+  - poster: 419441637_902137941469674_3379572269553968942_n.jpeg
+    city: Belo Horizonte
+    date: '15/03/2024 16:00'
+    daysGroup: 15/16/17
+    ticketsUrl: 'https://www.sympla.com.br/evento/rockin-prod-brutal-devastation/2305040'
 ---
 

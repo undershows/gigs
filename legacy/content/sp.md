@@ -2252,5 +2252,24 @@ gigs:
     city: São Paulo
     date: '14/03/2024 19:00'
     daysGroup: 14/15/16/17
+  - poster: FB_IMG_1705464484569.jpg
+    city: São Paulo
+    date: '15/03/2024 19:00'
+    daysGroup: 14/15/16/17
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/the-hawaiians-southamerican-tour-com-fibonattis-rosa-tigre-e-bubblegumers-no-red-star-studios/2295981
+  - poster: irs.jpeg
+    city: São Paulo
+    date: '15/03/2024 19:00'
+    daysGroup: 14/15/16/17
+  - poster: 426595249_7141773165943709_8971445354082816178_n.jpg
+    city: São José dos Campos
+    date: '15/03/2024 19:00'
+    daysGroup: 14/15/16/17
+    ticketsUrl: 'https://www.sympla.com.br/evento/rock-doido-2-edicao/2353322'
+  - poster: 432393969_10160796715766708_7704137555653115523_n.jpg
+    city: São Paulo
+    date: '15/03/2024 17:00'
+    daysGroup: 14/15/16/17
 ---
 
