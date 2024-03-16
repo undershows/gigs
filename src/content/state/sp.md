@@ -173,5 +173,10 @@ gigs:
     city: São Paulo
     date: '25/04/2024 19:00'
     daysGroup: 25/26/27/28
+  - poster: 429977722_1179615073422079_4621303830614397179_n.jpg
+    city: São Paulo
+    date: '16/03/2024 20:00'
+    daysGroup: 14/15/16/17
+    ticketsUrl: 'https://www.sympla.com.br/evento/banda-chaos-wizard/2369078'
 ---
 
