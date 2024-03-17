@@ -202,5 +202,10 @@ gigs:
     date: '06/03/2024 19:00'
     daysGroup: 06/07/08/09/10
     ticketsUrl: 'https://www.sympla.com.br/death-metal-attack__2335993'
+  - poster: 430288855_1559882711469328_785076578070084251_n.jpg
+    city: Curitiba
+    date: '16/03/2024 18:00'
+    daysGroup: 15/16/17
+    ticketsUrl: 'https://pixta.me/u/capivara-jawbreaker-i'
 ---
 

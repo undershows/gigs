@@ -12,5 +12,9 @@ gigs:
     city: Manaus
     date: '12/01/2024 20:00'
     daysGroup: 12/13/14
+  - poster: 409025663_1922446774897977_7907476500043086654_n.jpg
+    city: Manaus
+    date: '16/03/2024 20:00'
+    daysGroup: 15/16/17
 ---
 

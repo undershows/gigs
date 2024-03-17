@@ -2271,5 +2271,30 @@ gigs:
     city: São Paulo
     date: '15/03/2024 17:00'
     daysGroup: 14/15/16/17
+  - poster: destroy_music_now_fest_3.jpeg
+    city: Amparo
+    date: '16/03/2024 18:00'
+    daysGroup: 14/15/16/17
+  - poster: gulpian_metal_fest.jpeg
+    city: Praia Grande
+    date: '16/03/2024 20:00'
+    daysGroup: 14/15/16/17
+  - poster: rock_no_parque.jpeg
+    city: Presidente Prudente
+    date: '16/03/2024 17:00'
+    daysGroup: 14/15/16/17
+  - poster: 429648294_1922552941554027_2861434385745327344_n.jpg
+    city: Santos
+    date: '16/03/2024 21:00'
+    daysGroup: 14/15/16/17
+  - poster: 432270027_10160796438926708_5644371987250907410_n.jpg
+    city: São Paulo
+    date: '16/03/2024 17:00'
+    daysGroup: 14/15/16/17
+  - poster: 429977722_1179615073422079_4621303830614397179_n.jpg
+    city: São Paulo
+    date: '16/03/2024 20:00'
+    daysGroup: 14/15/16/17
+    ticketsUrl: 'https://www.sympla.com.br/evento/banda-chaos-wizard/2369078'
 ---
 

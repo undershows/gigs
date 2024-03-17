@@ -15,10 +15,5 @@ gigs:
     date: '11/04/2024 19:30'
     daysGroup: 11/12/13/14
     ticketsUrl: 'https://bilheto.com.br/comprar/2015/Master-e-Escarnium'
-  - poster: 430288855_1559882711469328_785076578070084251_n.jpg
-    city: Curitiba
-    date: '16/03/2024 18:00'
-    daysGroup: 15/16/17
-    ticketsUrl: 'https://pixta.me/u/capivara-jawbreaker-i'
 ---
 

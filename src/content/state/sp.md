@@ -14,18 +14,6 @@ gigs:
     city: São Paulo
     date: '30/03/2024 15:00'
     daysGroup: 27/28/29/30/31
-  - poster: destroy_music_now_fest_3.jpeg
-    city: Amparo
-    date: '16/03/2024 18:00'
-    daysGroup: 14/15/16/17
-  - poster: gulpian_metal_fest.jpeg
-    city: Praia Grande
-    date: '16/03/2024 20:00'
-    daysGroup: 14/15/16/17
-  - poster: rock_no_parque.jpeg
-    city: Presidente Prudente
-    date: '16/03/2024 17:00'
-    daysGroup: 14/15/16/17
   - poster: punk_pascoa_24.jpeg
     city: São Paulo
     date: '30/03/2024 17:00'
@@ -59,10 +47,6 @@ gigs:
     city: Santos
     date: '23/03/2024 21:00'
     daysGroup: 22/23/24
-  - poster: 429648294_1922552941554027_2861434385745327344_n.jpg
-    city: Santos
-    date: '16/03/2024 21:00'
-    daysGroup: 14/15/16/17
   - poster: 426636283_7141773049277054_147547108893619454_n.jpg
     city: Campinas
     date: '09/04/2024 18:00'
@@ -137,10 +121,6 @@ gigs:
     date: '09/06/2024 14:00'
     daysGroup: 07/08/09
     ticketsUrl: 'https://www.clubedoingresso.com/evento/possessed-venominc-sp'
-  - poster: 432270027_10160796438926708_5644371987250907410_n.jpg
-    city: São Paulo
-    date: '16/03/2024 17:00'
-    daysGroup: 14/15/16/17
   - poster: 431800439_8225189384162781_6629888917573912482_n.jpg
     city: São Paulo
     date: '11/05/2024 17:00'
@@ -154,11 +134,6 @@ gigs:
     city: São Paulo
     date: '25/04/2024 19:00'
     daysGroup: 25/26/27/28
-  - poster: 429977722_1179615073422079_4621303830614397179_n.jpg
-    city: São Paulo
-    date: '16/03/2024 20:00'
-    daysGroup: 14/15/16/17
-    ticketsUrl: 'https://www.sympla.com.br/evento/banda-chaos-wizard/2369078'
   - poster: bb7bbd96-6775-46bf-9180-a3f1764db540.jpeg
     city: São Paulo
     date: '18/05/2024 19:00'
