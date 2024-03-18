@@ -6,10 +6,6 @@ gigs:
     city: Cambé
     date: '24/03/2024 16:00'
     daysGroup: 22/23/24
-  - poster: 425885952_978225227065899_6758675851336442089_n.jpg
-    city: Curitiba
-    date: '17/03/2024 19:00'
-    daysGroup: 15/16/17
   - poster: 426606783_7141774615943564_3118240064595198621_n.jpg
     city: Londrina
     date: '11/04/2024 19:30'
