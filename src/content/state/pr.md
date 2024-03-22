@@ -42,5 +42,9 @@ gigs:
     date: '17/05/2024 21:00'
     daysGroup: 17/18/19/20/21
     ticketsUrl: 'https://www.bilheto.com.br/comprar/2255/nightfall-at-night-we-prey'
+  - poster: 434093812_1547752522671851_8816185956344620481_n.jpg
+    city: Curitiba
+    date: '07/04/2024 19:30'
+    daysGroup: 05/06/07
 ---
 

@@ -169,5 +169,21 @@ gigs:
     date: '23/05/2024 16:00'
     daysGroup: 23/24/25/26
     ticketsUrl: 'https://www.sympla.com.br/evento/nightfall-heia-desdominus/2382644'
+  - poster: 434041557_1113814136328722_2268124992955788889_n_1080.jpg
+    city: Ferraz de Vasconcelos
+    date: '24/03/2024 14:00'
+    daysGroup: 22/23/24
+  - poster: 433994164_3635566276663294_5106300861395249759_n.jpg
+    city: São Paulo
+    date: '29/03/2024 21:00'
+    daysGroup: 27/28/29/30/31
+  - poster: 434179040_18432747082043238_6374008786972538966_n.jpg
+    city: São Paulo
+    date: '22/03/2024 19:00'
+    daysGroup: 22/23/24
+  - poster: timebomb_rock_together.jpg
+    city: São Paulo
+    date: '13/04/2024 18:00'
+    daysGroup: 09/10/11/12/13/14
 ---
 
