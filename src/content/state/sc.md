@@ -19,6 +19,7 @@ gigs:
     city: Florianopólis
     date: '16/06/2024 16:00'
     daysGroup: 14/15/16
+    ticketsUrl: 'https://bilheto.com.br/comprar/2167/the-burning-dawn'
   - poster: 430144588_799608852194540_3968061267463551909_n.jpg
     city: Dona Emma
     date: '21/06/2024 19:00'
@@ -32,5 +33,11 @@ gigs:
     city: São Bento do Sul
     date: '23/06/2024 15:00'
     daysGroup: 21/22/23
+    ticketsUrl: 'https://bilheto.com.br/comprar/2227/oracle-ov-void'
+  - poster: 53596061260_6d8853db65.jpg
+    city: Blumenau
+    date: '18/05/2024 21:00'
+    daysGroup: 17/18/19
+    ticketsUrl: 'https://bilheto.com.br/comprar/2256/nightfall-at-night-we-prey'
 ---
 

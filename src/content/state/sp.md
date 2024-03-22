@@ -36,7 +36,7 @@ gigs:
   - poster: 428618466_1922614351547886_3553769102855542818_n.jpg
     city: Santo André
     date: '25/05/2024 16:00'
-    daysGroup: 24/25/26
+    daysGroup: 23/24/25/26
   - poster: 409093527_1922441021565219_6275883552458245992_n.jpg
     city: Várzea Paulista
     date: '30/03/2024 16:00'
@@ -138,7 +138,7 @@ gigs:
   - poster: bb7bbd96-6775-46bf-9180-a3f1764db540.jpeg
     city: São Paulo
     date: '18/05/2024 19:00'
-    daysGroup: 17/18/19
+    daysGroup: 16/17/18/19
     ticketsUrl: 'https://www.sympla.com.br/evento/grinders-deserdados-fuck-youth/2372389'
   - poster: profetas_do_caos_tour.jpeg
     city: Jundiaí
@@ -159,5 +159,15 @@ gigs:
     date: '06/06/2024 17:00'
     daysGroup: 06/07/08/09
     ticketsUrl: 'https://www.sympla.com.br/evento/sinister-vulture-ancestral-malediction-ereboros-podridao/2342064'
+  - poster: 432444639_944713857212696_6758194070716682199_n.jpg
+    city: São Paulo
+    date: '16/05/2024 19:00'
+    daysGroup: 16/17/18/19
+    ticketsUrl: 'https://www.sympla.com.br/evento/nightfall-grave-desecrator-heia/2366424'
+  - poster: 428618466_1922614351547886_3553769102855542818_n.jpg
+    city: Ribeirão Preto
+    date: '23/05/2024 16:00'
+    daysGroup: 23/24/25/26
+    ticketsUrl: 'https://www.sympla.com.br/evento/nightfall-heia-desdominus/2382644'
 ---
 
