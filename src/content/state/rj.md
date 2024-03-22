@@ -32,5 +32,9 @@ gigs:
     city: Rio de Janeiro
     date: '25/08/2024 20:00'
     daysGroup: 25/26/27
+  - poster: 433647918_7411015228967842_2842694090612948419_n.jpg
+    city: Rio de Janeiro
+    date: '18/05/2024 19:00'
+    daysGroup: 17/18/19
 ---
 

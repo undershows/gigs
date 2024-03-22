@@ -14,7 +14,7 @@ gigs:
     ticketsUrl: >-
       https://www.sympla.com.br/evento/metalpunk-overkill-master-escarnium-podridao-matrak-attakk-preceptor-beyond-the-grave-napalm/2336731
   - poster: 428683278_2673619522796031_4534828098999944732_n.jpg
-    city: Uberlândia
+    city: Belo Horizonte
     date: '07/07/2024 16:00'
     daysGroup: 05/06/07
     ticketsUrl: 'https://www.sympla.com.br/evento/sinister-em-belo-horizonte/2350307'

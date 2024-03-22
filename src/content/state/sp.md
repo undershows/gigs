@@ -69,6 +69,7 @@ gigs:
     city: São Paulo
     date: '04/05/2024 19:00'
     daysGroup: 03/04/05
+    ticketsUrl: 'https://www.sympla.com.br/evento/lasso-em-sao-paulo/2362579'
   - poster: 430797872_976154540745905_924115645621037138_n.jpg
     city: Americana
     date: '23/03/2024 20:00'
@@ -119,7 +120,7 @@ gigs:
   - poster: 431525437_3692619941009419_5244187636168166923_n.jpg
     city: São Paulo
     date: '09/06/2024 14:00'
-    daysGroup: 07/08/09
+    daysGroup: 06/07/08/09
     ticketsUrl: 'https://www.clubedoingresso.com/evento/possessed-venominc-sp'
   - poster: 431800439_8225189384162781_6629888917573912482_n.jpg
     city: São Paulo
@@ -139,5 +140,24 @@ gigs:
     date: '18/05/2024 19:00'
     daysGroup: 17/18/19
     ticketsUrl: 'https://www.sympla.com.br/evento/grinders-deserdados-fuck-youth/2372389'
+  - poster: profetas_do_caos_tour.jpeg
+    city: Jundiaí
+    date: '03/04/2024 20:00'
+    daysGroup: 03/04/05/06/07
+    ticketsUrl: 'https://www.sympla.com.br/evento/nervochaos-carpatus-frade-negro/2365939'
+  - poster: 432729476_1178864503556162_5594006283990413920_n.jpg
+    city: Santo André
+    date: '08/06/2024 20:00'
+    daysGroup: 06/07/08/09
+  - poster: FB_IMG_1711017057318-724x1024.jpg
+    city: Marília
+    date: '05/05/2024 18:00'
+    daysGroup: 03/04/05
+    ticketsUrl: 'https://www.sympla.com.br/evento/nervochaos-carpatus-frade-negro-d-i-e/2366258'
+  - poster: 432856903_1179326466843299_3063550065245102428_n.jpg
+    city: São Paulo
+    date: '06/06/2024 17:00'
+    daysGroup: 06/07/08/09
+    ticketsUrl: 'https://www.sympla.com.br/evento/sinister-vulture-ancestral-malediction-ereboros-podridao/2342064'
 ---
 
