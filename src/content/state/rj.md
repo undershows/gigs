@@ -10,7 +10,7 @@ gigs:
   - poster: 429978014_2679717358852914_6495037671454569637_n.jpg
     city: Rio de Janeiro
     date: '06/04/2024 20:00'
-    daysGroup: 05/06/07
+    daysGroup: 05/06/07/08
     ticketsUrl: >-
       https://www.sympla.com.br/evento/from-hell-15-anos-a-primeira-festa-metalica-do-brasil/2313655
   - poster: 429139766_302960342478110_3891542638670458818_n.jpg
@@ -41,5 +41,10 @@ gigs:
     date: '22/06/2024 20:00'
     daysGroup: 21/22/23
     ticketsUrl: 'https://articket.com.br/e/1948/bayside-kings-plastic-fire'
+  - poster: 434228422_4455048444720142_3102390770950031318_n.jpg
+    city: Niterói
+    date: '08/04/2024 19:00'
+    daysGroup: 05/06/07/08
+    ticketsUrl: 'https://www.sympla.com.br/evento/matrak-attakk-italia-pek0-vitorvulgo/2391520'
 ---
 

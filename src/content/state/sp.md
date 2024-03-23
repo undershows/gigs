@@ -245,7 +245,7 @@ gigs:
     date: '19/04/2024 20:00'
     daysGroup: 18/19/20/21
   - poster: 434039642_1621495198598355_3832041645325406016_n.jpeg
-    city: São Paulo
+    city: Ribeirão Pires
     date: '23/03/2024 18:00'
     daysGroup: 22/23/24
   - poster: 434044215_3405194199772612_4803999893743466356_n.jpeg
@@ -302,5 +302,47 @@ gigs:
     date: '21/04/2024 18:00'
     daysGroup: 19/20/21
     ticketsUrl: 'https://www.sympla.com.br/evento/3-acena-rock-fest-aldeia/2380260'
+  - poster: 434036917_393109970131185_1969111530214376093_n.jpeg
+    city: São Paulo
+    date: '21/04/2024 17:00'
+    daysGroup: 19/20/21
+  - poster: 434203162_3523930071202332_6159707457337539495_n.jpeg
+    city: Ribeirão Pires
+    date: '27/04/2024 18:00'
+    daysGroup: 26/27/28
+  - poster: 434162759_1378769622792484_3285042354675201126_n.jpg
+    city: São Paulo
+    date: '01/06/2024 14:00'
+    daysGroup: 01/02
+  - poster: 432847890_17955891431753973_8020462518099145560_n.jpg
+    city: São Carlos
+    date: '05/04/2024 20:00'
+    daysGroup: 03/04/05/06/07
+  - poster: 434209815_3693726360945612_4649749239957905202_n.jpeg
+    city: São Paulo
+    date: '06/10/2024 14:00'
+    daysGroup: 04/05/06
+  - poster: 432729159_1574828219970282_4499235302076668875_n.jpeg
+    city: Varzea Paulista
+    date: '20/04/2024 16:00'
+    daysGroup: 19/20/21
+  - poster: 434168056_943240643661144_5416283988617408824_n.jpeg
+    city: São Paulo
+    date: '01/06/2024 17:00'
+    daysGroup: 01/02
+  - poster: 432422553_906451661488366_7584820643933349301_n.jpg
+    city: São Paulo
+    date: '31/03/2024 17:00'
+    daysGroup: 27/28/29/30/31
+    ticketsUrl: 'https://www.ingresse.com/brujeria/'
+  - poster: 434246665_1494888561064649_3829173162723674405_n.jpeg
+    city: Bauru
+    date: '10/04/2024 19:30'
+    daysGroup: 09/10/11/12/13/14
+    ticketsUrl: 'https://bilheto.com.br/comprar/2220/master-em-bauru'
+  - poster: 434213761_1117038439610269_6446718147887714680_n.jpeg
+    city: São José dos Campos
+    date: '05/04/2024 22:00'
+    daysGroup: 03/04/05/06/07
 ---
 
