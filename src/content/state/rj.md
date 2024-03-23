@@ -46,5 +46,9 @@ gigs:
     date: '08/04/2024 19:00'
     daysGroup: 05/06/07/08
     ticketsUrl: 'https://www.sympla.com.br/evento/matrak-attakk-italia-pek0-vitorvulgo/2391520'
+  - poster: 434195783_1057870235307700_7674790815614389630_n.jpeg
+    city: Rio de Janeiro
+    date: '23/03/2024 19:00'
+    daysGroup: 22/23/24
 ---
 
