@@ -32,5 +32,9 @@ gigs:
     city: Belo Horizonte
     date: '08/06/2024 16:00'
     daysGroup: 06/07/08/09
+  - poster: 432929317_10161551157919516_1474726786461472691_n.jpg
+    city: Belo Horizonte
+    date: '08/10/2024 18:00'
+    daysGroup: 04/05/06/07/08
 ---
 

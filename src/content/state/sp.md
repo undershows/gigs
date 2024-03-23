@@ -162,7 +162,7 @@ gigs:
     date: '16/05/2024 19:00'
     daysGroup: 16/17/18/19
     ticketsUrl: 'https://www.sympla.com.br/evento/nightfall-grave-desecrator-heia/2366424'
-  - poster: 428618466_1922614351547886_3553769102855542818_n.jpg
+  - poster: 431968120_1177325603710052_6102780045514853272_n.jpg
     city: Ribeirão Preto
     date: '23/05/2024 16:00'
     daysGroup: 23/24/25/26
@@ -182,7 +182,7 @@ gigs:
   - poster: 419244534_10233541230735523_3030333027914672784_n.jpg
     city: Praia Grande
     date: '21/04/2024 15:00'
-    daysGroup: 19/20/21
+    daysGroup: 18/19/20/21
   - poster: 430270662_416506557596072_5766387288168935857_n.jpeg
     city: São Paulo
     date: '27/04/2024 19:00'
@@ -212,6 +212,7 @@ gigs:
     city: São Paulo
     date: '19/04/2024 19:00'
     daysGroup: 18/19/20/21
+    ticketsUrl: 'https://www.sympla.com.br/evento/treva-e-apnea-no-fffront/2386547'
   - poster: 433144769_3732223623763095_8464975622320279116_n.jpeg
     city: São Paulo
     date: '23/03/2024 18:30'
@@ -232,6 +233,7 @@ gigs:
     city: São Paulo
     date: '14/04/2024 16:00'
     daysGroup: 09/10/11/12/13/14
+    ticketsUrl: 'https://www.sympla.com.br/evento/ska-na-paskoa/2388121'
   - poster: 433960792_3723118001348737_8029486377573138035_n.jpg
     city: São Paulo
     date: '23/03/2024 16:00'
@@ -269,7 +271,7 @@ gigs:
   - poster: 433995718_1432531464021302_7381160410004949574_n.jpeg
     city: Leme
     date: '20/04/2024 15:00'
-    daysGroup: 19/20/21
+    daysGroup: 18/19/20/21
   - poster: 434049382_1939563149853006_2794241649669835521_n.jpg
     city: Bauru
     date: '28/03/2024 22:00'
@@ -297,12 +299,12 @@ gigs:
   - poster: 432455834_804338251722252_5835305398390189278_n.jpg
     city: Jundiaí
     date: '21/04/2024 18:00'
-    daysGroup: 19/20/21
+    daysGroup: 18/19/20/21
     ticketsUrl: 'https://www.sympla.com.br/evento/3-acena-rock-fest-aldeia/2380260'
   - poster: 434036917_393109970131185_1969111530214376093_n.jpeg
     city: São Paulo
     date: '21/04/2024 17:00'
-    daysGroup: 19/20/21
+    daysGroup: 18/19/20/21
   - poster: 434203162_3523930071202332_6159707457337539495_n.jpeg
     city: Ribeirão Pires
     date: '27/04/2024 18:00'
@@ -322,7 +324,7 @@ gigs:
   - poster: 432729159_1574828219970282_4499235302076668875_n.jpeg
     city: Varzea Paulista
     date: '20/04/2024 16:00'
-    daysGroup: 19/20/21
+    daysGroup: 18/19/20/21
   - poster: 434168056_943240643661144_5416283988617408824_n.jpeg
     city: São Paulo
     date: '01/06/2024 17:00'
@@ -341,5 +343,43 @@ gigs:
     city: São José dos Campos
     date: '05/04/2024 22:00'
     daysGroup: 03/04/05/06/07
+  - poster: 433112849_18283214812166315_88871365544501493_n.jpg
+    city: Mauá
+    date: '24/05/2024 19:00'
+    daysGroup: 23/24/25/26
+  - poster: 432925259_18283214797166315_3200926321295849537_n.jpg
+    city: Santo André
+    date: '13/04/2024 13:00'
+    daysGroup: 09/10/11/12/13/14
+  - poster: 434197255_18423534145007631_4050075109606656051_n.jpg
+    city: São Paulo
+    date: '26/04/2024 21:00'
+    daysGroup: 26/27/28
+  - poster: 434213187_958086199288899_4060226264678337303_n.jpeg
+    city: Santos
+    date: '20/04/2024 21:00'
+    daysGroup: 18/19/20/21
+  - poster: 434202701_381122481478728_7125968765949213412_n.jpeg
+    city: Osasco
+    date: '24/03/2024 19:00'
+    daysGroup: 22/23/24
+  - poster: 434225958_3713419442268167_6940803460978995889_n.jpg
+    city: São Paulo
+    date: '11/04/2024 21:00'
+    daysGroup: 09/10/11/12/13/14
+  - poster: 433042500_1249659376007276_5752266565172957056_n.jpeg
+    city: São Paulo
+    date: '13/04/2024 19:00'
+    daysGroup: 09/10/11/12/13/14
+    ticketsUrl: 'https://www.sympla.com.br/evento/infamous-glory-nameless-gods-rotten-entrails-na-fenda/2373490'
+  - poster: 434160821_896612988907623_4836316996825533969_n.jpeg
+    city: Santos
+    date: '05/04/2024 21:00'
+    daysGroup: 03/04/05/06/07
+  - poster: 430397173_1464458887838283_7341664308642314183_n.jpeg
+    city: São Paulo
+    date: '13/04/2024 16:00'
+    daysGroup: 09/10/11/12/13/14
+    ticketsUrl: 'https://www.hoppin.com.br/smashitup'
 ---
 

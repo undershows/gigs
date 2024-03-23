@@ -18,5 +18,12 @@ gigs:
     date: '31/03/2024 18:00'
     daysGroup: 29/30/31
     ticketsUrl: 'https://www.sympla.com.br/evento/ttt-test-teia-tour-em-brasilia/2360689'
+  - poster: 434213181_1563592627837592_5368217858911582042_n.jpeg
+    city: Gama
+    date: '07/09/2024 18:00'
+    daysGroup: 06/07/08
+
+
+    
 ---
 
