@@ -185,5 +185,122 @@ gigs:
     city: São Paulo
     date: '13/04/2024 18:00'
     daysGroup: 09/10/11/12/13/14
+  - poster: 419244534_10233541230735523_3030333027914672784_n.jpg
+    city: Praia Grande
+    date: '21/04/2024 15:00'
+    daysGroup: 19/20/21
+  - poster: 430270662_416506557596072_5766387288168935857_n.jpeg
+    city: São Paulo
+    date: '27/04/2024 19:00'
+    daysGroup: 26/27/28
+  - poster: 432725488_7017322841730358_2290152780310597681_n.jpeg
+    city: Guarulhos
+    date: '30/03/2024 19:00'
+    daysGroup: 27/28/29/30/31
+  - poster: 432754637_1149028929348083_6900827881406581498_n.jpg
+    city: São Paulo
+    date: '22/06/2024 20:00'
+    daysGroup: 21/22/23
+    ticketsUrl: 'https://www.sympla.com.br/evento/a-porta-maldita-lotico-intrinsic-nameless-gods/2388432'
+  - poster: 432940679_18247484830217161_8515167532375950925_n.jpg
+    city: Limeira
+    date: '09/08/2024 19:00'
+    daysGroup: 09/10/11
+    ticketsUrl: 'https://bilheto.com.br/comprar/2028/batushka-em-limeira'
+  - poster: 433109379_18329022217187181_5285626361630011773_n.jpg
+    city: Diadema
+    date: '05/04/2024 19:00'
+    daysGroup: 03/04/05/06/07
+    ticketsUrl: 'https://www.sympla.com.br/evento/black-pantera-eskrota-asfixia-social-kfkm-no-container/2386690'
+  - poster: 433137047_18003706766388060_7991772005971731330_n.jpg
+    city: São Paulo
+    date: '19/04/2024 19:00'
+    daysGroup: 18/19/20/21
+  - poster: 433144769_3732223623763095_8464975622320279116_n.jpeg
+    city: São Paulo
+    date: '23/03/2024 18:30'
+    daysGroup: 22/23/24
+  - poster: 433416959_985397190252843_9174155458970450174_n.jpg
+    city: Campinas
+    date: '23/03/2024 15:00'
+    daysGroup: 22/23/24
+  - poster: 433975697_1836904923443890_6964366306229365659_n.jpg
+    city: São Paulo
+    date: '24/03/2024 18:00'
+    daysGroup: 22/23/24
+  - poster: 433982034_1095367261518839_4621125954914671466_n.jpeg
+    city: Suzano
+    date: '28/03/2024 19:00'
+    daysGroup: 27/28/29/30/31
+  - poster: 433902967_1119437099102045_900994065832899738_n.jpeg
+    city: São Paulo
+    date: '14/04/2024 16:00'
+    daysGroup: 09/10/11/12/13/14
+  - poster: 433960792_3723118001348737_8029486377573138035_n.jpg
+    city: São Paulo
+    date: '23/03/2024 16:00'
+    daysGroup: 22/23/24
+  - poster: 434035373_3568204280061630_2626156847096295145_n.jpeg
+    city: São Paulo
+    date: '19/04/2024 20:00'
+    daysGroup: 18/19/20/21
+  - poster: 434039642_1621495198598355_3832041645325406016_n.jpeg
+    city: São Paulo
+    date: '23/03/2024 18:00'
+    daysGroup: 22/23/24
+  - poster: 434044215_3405194199772612_4803999893743466356_n.jpeg
+    city: São Paulo
+    date: '30/03/2024 22:00'
+    daysGroup: 27/28/29/30/31
+  - poster: 434045875_1915724898845797_4544933898293526269_n.jpeg
+    city: São Paulo
+    date: '30/03/2024 17:30'
+    daysGroup: 27/28/29/30/31
+  - poster: 434034972_331813006543228_6284339643932530289_n.jpeg
+    city: São Paulo
+    date: '26/04/2024 19:00'
+    daysGroup: 26/27/28
+  - poster: 434047160_1715826248908724_2585922864684735293_n.jpeg
+    city: São Paulo
+    date: '23/03/2024 19:00'
+    daysGroup: 22/23/24
+  - poster: 434078426_1612950812792532_2975905824463588823_n.jpeg
+    city: São Paulo
+    date: '23/03/2024 19:00'
+    daysGroup: 22/23/24
+    ticketsUrl: 'https://www.sympla.com.br/evento/boring-assholes-bocarra-rota-54-sentimento-carpete/2372331'
+  - poster: 433995718_1432531464021302_7381160410004949574_n.jpeg
+    city: Leme
+    date: '20/04/2024 15:00'
+    daysGroup: 19/20/21
+  - poster: 434049382_1939563149853006_2794241649669835521_n.jpg
+    city: Bauru
+    date: '28/03/2024 22:00'
+    daysGroup: 27/28/29/30/31
+  - poster: 434201303_760178205834626_4043142859678664352_n.jpeg
+    city: São Paulo
+    date: '23/03/2024 14:00'
+    daysGroup: 22/23/24
+  - poster: 434149592_1112553236443371_1730872517776889531_n.jpg
+    city: Batatais
+    date: '15/06/2024 18:00'
+    daysGroup: 14/15/16
+  - poster: 434056235_424403709985818_8263128556698339580_n.jpeg
+    city: Santo André
+    date: '23/03/2024 15:00'
+    daysGroup: 22/23/24
+  - poster: 434034375_721252866836713_5248871160948095585_n.jpeg
+    city: Osasco
+    date: '27/04/2024 19:00'
+    daysGroup: 26/27/28
+  - poster: 434046194_1108536753625216_121460301202172976_n.jpeg
+    city: São Paulo
+    date: '23/03/2024 22:00'
+    daysGroup: 22/23/24
+  - poster: 432455834_804338251722252_5835305398390189278_n.jpg
+    city: Jundiaí
+    date: '21/04/2024 18:00'
+    daysGroup: 19/20/21
+    ticketsUrl: 'https://www.sympla.com.br/evento/3-acena-rock-fest-aldeia/2380260'
 ---
 

@@ -36,5 +36,10 @@ gigs:
     city: Rio de Janeiro
     date: '18/05/2024 19:00'
     daysGroup: 17/18/19
+  - poster: 434016589_1877951889378221_6366716932807969737_n.jpeg
+    city: Rio de Janeiro
+    date: '22/06/2024 20:00'
+    daysGroup: 21/22/23
+    ticketsUrl: 'https://articket.com.br/e/1948/bayside-kings-plastic-fire'
 ---
 
