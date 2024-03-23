@@ -107,10 +107,6 @@ gigs:
     date: '06/04/2024 18:00'
     daysGroup: 03/04/05/06/07
     ticketsUrl: 'https://bilheto.com.br/comprar/1978/exciter'
-  - poster: 429871987_25275884072026242_667394277502033794_n.jpg
-    city: São Paulo
-    date: '22/03/2024 17:00'
-    daysGroup: 22/23/24
   - poster: estamos_aqui_fest.jpg
     city: São Paulo
     date: '07/04/2024 15:00'
@@ -153,12 +149,14 @@ gigs:
     city: Marília
     date: '05/05/2024 18:00'
     daysGroup: 03/04/05
-    ticketsUrl: 'https://www.sympla.com.br/evento/nervochaos-carpatus-frade-negro-d-i-e/2366258'
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/nervochaos-carpatus-frade-negro-d-i-e/2366258
   - poster: 432856903_1179326466843299_3063550065245102428_n.jpg
     city: São Paulo
     date: '06/06/2024 17:00'
     daysGroup: 06/07/08/09
-    ticketsUrl: 'https://www.sympla.com.br/evento/sinister-vulture-ancestral-malediction-ereboros-podridao/2342064'
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/sinister-vulture-ancestral-malediction-ereboros-podridao/2342064
   - poster: 432444639_944713857212696_6758194070716682199_n.jpg
     city: São Paulo
     date: '16/05/2024 19:00'
@@ -177,10 +175,6 @@ gigs:
     city: São Paulo
     date: '29/03/2024 21:00'
     daysGroup: 27/28/29/30/31
-  - poster: 434179040_18432747082043238_6374008786972538966_n.jpg
-    city: São Paulo
-    date: '22/03/2024 19:00'
-    daysGroup: 22/23/24
   - poster: timebomb_rock_together.jpg
     city: São Paulo
     date: '13/04/2024 18:00'
@@ -201,7 +195,8 @@ gigs:
     city: São Paulo
     date: '22/06/2024 20:00'
     daysGroup: 21/22/23
-    ticketsUrl: 'https://www.sympla.com.br/evento/a-porta-maldita-lotico-intrinsic-nameless-gods/2388432'
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/a-porta-maldita-lotico-intrinsic-nameless-gods/2388432
   - poster: 432940679_18247484830217161_8515167532375950925_n.jpg
     city: Limeira
     date: '09/08/2024 19:00'
@@ -211,7 +206,8 @@ gigs:
     city: Diadema
     date: '05/04/2024 19:00'
     daysGroup: 03/04/05/06/07
-    ticketsUrl: 'https://www.sympla.com.br/evento/black-pantera-eskrota-asfixia-social-kfkm-no-container/2386690'
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/black-pantera-eskrota-asfixia-social-kfkm-no-container/2386690
   - poster: 433137047_18003706766388060_7991772005971731330_n.jpg
     city: São Paulo
     date: '19/04/2024 19:00'
@@ -268,7 +264,8 @@ gigs:
     city: São Paulo
     date: '23/03/2024 19:00'
     daysGroup: 22/23/24
-    ticketsUrl: 'https://www.sympla.com.br/evento/boring-assholes-bocarra-rota-54-sentimento-carpete/2372331'
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/boring-assholes-bocarra-rota-54-sentimento-carpete/2372331
   - poster: 433995718_1432531464021302_7381160410004949574_n.jpeg
     city: Leme
     date: '20/04/2024 15:00'

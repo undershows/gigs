@@ -211,5 +211,9 @@ gigs:
     city: Curitiba
     date: '17/03/2024 19:00'
     daysGroup: 15/16/17
+  - poster: 433083265_3115316685265912_2676838509237144509_n.jpg
+    city: Curitiba
+    date: '22/03/2024 18:00'
+    daysGroup: 22/23/24
 ---
 
