@@ -95,7 +95,7 @@ gigs:
   - poster: 394670686_120200600328820362_60766939617271028_n.jpeg
     city: São Paulo
     date: '18/04/2024 19:00'
-    daysGroup: 18/19/20/21
+    daysGroup: 18/19/20/21/22/23
     ticketsUrl: 'https://www.ticket360.com.br/evento/27888/ingressos-para-megadeth'
   - poster: 429817751_7287685177990495_4516949471080703535_n.jpg
     city: São Paulo
@@ -182,7 +182,7 @@ gigs:
   - poster: 419244534_10233541230735523_3030333027914672784_n.jpg
     city: Praia Grande
     date: '21/04/2024 15:00'
-    daysGroup: 18/19/20/21
+    daysGroup: 18/19/20/21/22/23
   - poster: 430270662_416506557596072_5766387288168935857_n.jpeg
     city: São Paulo
     date: '27/04/2024 19:00'
@@ -211,7 +211,7 @@ gigs:
   - poster: 433137047_18003706766388060_7991772005971731330_n.jpg
     city: São Paulo
     date: '19/04/2024 19:00'
-    daysGroup: 18/19/20/21
+    daysGroup: 18/19/20/21/22/23
     ticketsUrl: 'https://www.sympla.com.br/evento/treva-e-apnea-no-fffront/2386547'
   - poster: 433144769_3732223623763095_8464975622320279116_n.jpeg
     city: São Paulo
@@ -241,7 +241,7 @@ gigs:
   - poster: 434035373_3568204280061630_2626156847096295145_n.jpeg
     city: São Paulo
     date: '19/04/2024 20:00'
-    daysGroup: 18/19/20/21
+    daysGroup: 18/19/20/21/22/23
   - poster: 434039642_1621495198598355_3832041645325406016_n.jpeg
     city: Ribeirão Pires
     date: '23/03/2024 18:00'
@@ -268,10 +268,10 @@ gigs:
     daysGroup: 22/23/24
     ticketsUrl: >-
       https://www.sympla.com.br/evento/boring-assholes-bocarra-rota-54-sentimento-carpete/2372331
-  - poster: 433995718_1432531464021302_7381160410004949574_n.jpeg
+  - poster: 432917875_903060068492086_6425648223446182307_n.jpg
     city: Leme
     date: '20/04/2024 15:00'
-    daysGroup: 18/19/20/21
+    daysGroup: 18/19/20/21/22/23
   - poster: 434049382_1939563149853006_2794241649669835521_n.jpg
     city: Bauru
     date: '28/03/2024 22:00'
@@ -299,12 +299,12 @@ gigs:
   - poster: 432455834_804338251722252_5835305398390189278_n.jpg
     city: Jundiaí
     date: '21/04/2024 18:00'
-    daysGroup: 18/19/20/21
+    daysGroup: 18/19/20/21/22/23
     ticketsUrl: 'https://www.sympla.com.br/evento/3-acena-rock-fest-aldeia/2380260'
   - poster: 434036917_393109970131185_1969111530214376093_n.jpeg
     city: São Paulo
     date: '21/04/2024 17:00'
-    daysGroup: 18/19/20/21
+    daysGroup: 18/19/20/21/22/23
   - poster: 434203162_3523930071202332_6159707457337539495_n.jpeg
     city: Ribeirão Pires
     date: '27/04/2024 18:00'
@@ -324,7 +324,7 @@ gigs:
   - poster: 432729159_1574828219970282_4499235302076668875_n.jpeg
     city: Varzea Paulista
     date: '20/04/2024 16:00'
-    daysGroup: 18/19/20/21
+    daysGroup: 18/19/20/21/22/23
   - poster: 434168056_943240643661144_5416283988617408824_n.jpeg
     city: São Paulo
     date: '01/06/2024 17:00'
@@ -358,7 +358,7 @@ gigs:
   - poster: 434213187_958086199288899_4060226264678337303_n.jpeg
     city: Santos
     date: '20/04/2024 21:00'
-    daysGroup: 18/19/20/21
+    daysGroup: 18/19/20/21/22/23
   - poster: 434202701_381122481478728_7125968765949213412_n.jpeg
     city: Osasco
     date: '24/03/2024 19:00'
@@ -381,5 +381,13 @@ gigs:
     date: '13/04/2024 16:00'
     daysGroup: 09/10/11/12/13/14
     ticketsUrl: 'https://www.hoppin.com.br/smashitup'
+  - poster: 432917875_903060068492086_6425648223446182307_n.jpg
+    city: São Paulo
+    date: '23/04/2024 15:00'
+    daysGroup: 18/19/20/21/22/23
+  - poster: 434037396_3320989971378036_5611533458272470876_n.jpeg
+    city: Arujá
+    date: '31/03/2024 14:00'
+    daysGroup: 27/28/29/30/31
 ---
 
