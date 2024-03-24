@@ -6,6 +6,7 @@ gigs:
     city: São Paulo
     date: '03/04/2024 18:00'
     daysGroup: 03/04/05/06/07
+    ticketsUrl: 'https://pixelticket.com.br/eventos/17017/russian-circles'
   - poster: 419897783_1897068087435846_8068463850717527156_n.jpg
     city: Limeira
     date: '24/03/2024 17:00'
