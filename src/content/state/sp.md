@@ -120,8 +120,8 @@ gigs:
     ticketsUrl: 'https://www.sympla.com.br/evento/grinders-deserdados-fuck-youth/2372389'
   - poster: profetas_do_caos_tour.jpeg
     city: Jundiaí
-    date: '03/04/2024 20:00'
-    daysGroup: 03/04/05/06/07
+    date: '03/05/2024 20:00'
+    daysGroup: 03/04/05
     ticketsUrl: 'https://www.sympla.com.br/evento/nervochaos-carpatus-frade-negro/2365939'
   - poster: 432729476_1178864503556162_5594006283990413920_n.jpg
     city: Santo André
