@@ -2308,5 +2308,61 @@ gigs:
     city: São Paulo
     date: '22/03/2024 19:00'
     daysGroup: 22/23/24
+  - poster: 428634535_354389890839087_606299737754602659_n.jpg
+    city: São Paulo
+    date: '23/03/2024 15:00'
+    daysGroup: 22/23/24
+  - poster: 409028643_1922552718220716_7262028436423881778_n.jpg
+    city: Santos
+    date: '23/03/2024 21:00'
+    daysGroup: 22/23/24
+  - poster: 426594430_7141774655943560_8546504140199171479_n.jpg
+    city: Paulínia
+    date: '23/03/2024 17:00'
+    daysGroup: 22/23/24
+  - poster: 430797872_976154540745905_924115645621037138_n.jpg
+    city: Americana
+    date: '23/03/2024 20:00'
+    daysGroup: 22/23/24
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/hup-apresenta-paura-strong-reaction-dente-canino-e-infortunio/2341359
+  - poster: 433144769_3732223623763095_8464975622320279116_n.jpeg
+    city: São Paulo
+    date: '23/03/2024 18:30'
+    daysGroup: 22/23/24
+  - poster: 433416959_985397190252843_9174155458970450174_n.jpg
+    city: Campinas
+    date: '23/03/2024 15:00'
+    daysGroup: 22/23/24
+  - poster: 433960792_3723118001348737_8029486377573138035_n.jpg
+    city: São Paulo
+    date: '23/03/2024 16:00'
+    daysGroup: 22/23/24
+  - poster: 434039642_1621495198598355_3832041645325406016_n.jpeg
+    city: Ribeirão Pires
+    date: '23/03/2024 18:00'
+    daysGroup: 22/23/24
+  - poster: 434047160_1715826248908724_2585922864684735293_n.jpeg
+    city: São Paulo
+    date: '23/03/2024 19:00'
+    daysGroup: 22/23/24
+  - poster: 434078426_1612950812792532_2975905824463588823_n.jpeg
+    city: São Paulo
+    date: '23/03/2024 19:00'
+    daysGroup: 22/23/24
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/boring-assholes-bocarra-rota-54-sentimento-carpete/2372331
+  - poster: 434201303_760178205834626_4043142859678664352_n.jpeg
+    city: São Paulo
+    date: '23/03/2024 14:00'
+    daysGroup: 22/23/24
+  - poster: 434056235_424403709985818_8263128556698339580_n.jpeg
+    city: Santo André
+    date: '23/03/2024 15:00'
+    daysGroup: 22/23/24
+  - poster: 434046194_1108536753625216_121460301202172976_n.jpeg
+    city: São Paulo
+    date: '23/03/2024 22:00'
+    daysGroup: 22/23/24
 ---
 

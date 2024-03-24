@@ -78,5 +78,9 @@ gigs:
     city: Porto Alegre
     date: '08/03/2024 19:00'
     daysGroup: 06/07/08/09/10
+  - poster: 426586981_7141773942610298_6343405334587623914_n.jpg
+    city: Sapucaia do Sul
+    date: '23/03/2024 20:00'
+    daysGroup: 22/23/24
 ---
 

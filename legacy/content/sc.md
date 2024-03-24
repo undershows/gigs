@@ -120,5 +120,9 @@ gigs:
     date: '10/03/2024 15:00'
     daysGroup: 08/09/10
     ticketsUrl: 'https://appticket.com.br/16-otacilio-rock-festival-2024'
+  - poster: 432664685_17977994654663539_9067888745253305533_n.jpg
+    city: Jaraguá do Sul
+    date: '23/03/2024 21:00'
+    daysGroup: 22/23/24
 ---
 

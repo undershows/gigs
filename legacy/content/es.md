@@ -36,5 +36,9 @@ gigs:
     city: Vila Velha
     date: '11/11/2023 15:00'
     daysGroup: 01/02/03/04/05/06
+  - poster: 434310104_1826876131128891_1388495198609474713_n_1080.jpg
+    city: Linhares
+    date: '23/03/2024 20:00'
+    daysGroup: 22/23/24
 ---
 

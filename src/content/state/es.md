@@ -6,9 +6,5 @@ gigs:
     city: Ibatiba
     date: '06/04/2024 13:00'
     daysGroup: 05/06/07
-  - poster: 434310104_1826876131128891_1388495198609474713_n_1080.jpg
-    city: Linhares
-    date: '23/03/2024 20:00'
-    daysGroup: 22/23/24
 ---
 

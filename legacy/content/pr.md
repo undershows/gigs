@@ -215,5 +215,9 @@ gigs:
     city: Curitiba
     date: '22/03/2024 18:00'
     daysGroup: 22/23/24
+  - poster: 432934041_18301707880194446_8807795669664825569_n_1080.jpg
+    city: Maringá
+    date: '23/03/2024 20:00'
+    daysGroup: 22/23/24
 ---
 
