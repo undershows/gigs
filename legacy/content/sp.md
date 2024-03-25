@@ -2364,5 +2364,25 @@ gigs:
     city: São Paulo
     date: '23/03/2024 22:00'
     daysGroup: 22/23/24
+  - poster: 419897783_1897068087435846_8068463850717527156_n.jpg
+    city: Limeira
+    date: '24/03/2024 17:00'
+    daysGroup: 22/23/24
+  - poster: 430129288_3075044082632309_2024063158352483886_n.jpg
+    city: Osasco
+    date: '24/03/2024 16:00'
+    daysGroup: 22/23/24
+  - poster: 434041557_1113814136328722_2268124992955788889_n_1080.jpg
+    city: Ferraz de Vasconcelos
+    date: '24/03/2024 14:00'
+    daysGroup: 22/23/24
+  - poster: 433975697_1836904923443890_6964366306229365659_n.jpg
+    city: São Paulo
+    date: '24/03/2024 18:00'
+    daysGroup: 22/23/24
+  - poster: 434202701_381122481478728_7125968765949213412_n.jpeg
+    city: Osasco
+    date: '24/03/2024 19:00'
+    daysGroup: 22/23/24
 ---
 

@@ -7,10 +7,6 @@ gigs:
     date: '03/04/2024 18:00'
     daysGroup: 03/04/05/06/07
     ticketsUrl: 'https://pixelticket.com.br/eventos/17017/russian-circles'
-  - poster: 419897783_1897068087435846_8068463850717527156_n.jpg
-    city: Limeira
-    date: '24/03/2024 17:00'
-    daysGroup: 22/23/24
   - poster: woodstock_discos_fest.jpg
     city: São Paulo
     date: '30/03/2024 15:00'
@@ -106,10 +102,6 @@ gigs:
     date: '11/05/2024 17:00'
     daysGroup: 10/11/12
     ticketsUrl: 'https://www.sympla.com.br/evento/war-dance-fest/2355059'
-  - poster: 430129288_3075044082632309_2024063158352483886_n.jpg
-    city: Osasco
-    date: '24/03/2024 16:00'
-    daysGroup: 22/23/24
   - poster: 432300344_922363696563881_1232312414954254177_n_1080.jpg
     city: São Paulo
     date: '25/04/2024 19:00'
@@ -150,10 +142,6 @@ gigs:
     date: '23/05/2024 16:00'
     daysGroup: 23/24/25/26
     ticketsUrl: 'https://www.sympla.com.br/evento/nightfall-heia-desdominus/2382644'
-  - poster: 434041557_1113814136328722_2268124992955788889_n_1080.jpg
-    city: Ferraz de Vasconcelos
-    date: '24/03/2024 14:00'
-    daysGroup: 22/23/24
   - poster: 433994164_3635566276663294_5106300861395249759_n.jpg
     city: São Paulo
     date: '29/03/2024 21:00'
@@ -196,10 +184,6 @@ gigs:
     date: '19/04/2024 19:00'
     daysGroup: 18/19/20/21/22/23
     ticketsUrl: 'https://www.sympla.com.br/evento/treva-e-apnea-no-fffront/2386547'
-  - poster: 433975697_1836904923443890_6964366306229365659_n.jpg
-    city: São Paulo
-    date: '24/03/2024 18:00'
-    daysGroup: 22/23/24
   - poster: 433982034_1095367261518839_4621125954914671466_n.jpeg
     city: Suzano
     date: '28/03/2024 19:00'
@@ -304,10 +288,6 @@ gigs:
     city: Santos
     date: '20/04/2024 21:00'
     daysGroup: 18/19/20/21/22/23
-  - poster: 434202701_381122481478728_7125968765949213412_n.jpeg
-    city: Osasco
-    date: '24/03/2024 19:00'
-    daysGroup: 22/23/24
   - poster: 434225958_3713419442268167_6940803460978995889_n.jpg
     city: São Paulo
     date: '11/04/2024 21:00'

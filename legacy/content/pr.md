@@ -219,5 +219,9 @@ gigs:
     city: Maringá
     date: '23/03/2024 20:00'
     daysGroup: 22/23/24
+  - poster: underground_festival_dantzig_24.jpg
+    city: Londrina
+    date: '24/03/2024 17:00'
+    daysGroup: 22/23/24
 ---
 

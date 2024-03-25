@@ -2,10 +2,6 @@
 abbr: PR
 name: Paraná
 gigs:
-  - poster: underground_festival_dantzig_24.jpg
-    city: Londrina
-    date: '24/03/2024 17:00'
-    daysGroup: 22/23/24
   - poster: 426606783_7141774615943564_3118240064595198621_n.jpg
     city: Londrina
     date: '11/04/2024 19:30'

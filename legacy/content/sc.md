@@ -124,5 +124,9 @@ gigs:
     city: Jaraguá do Sul
     date: '23/03/2024 21:00'
     daysGroup: 22/23/24
+  - poster: 434201247_1488264745087062_452985119960457125_n.jpeg
+    city: Joinville
+    date: '24/03/2024 16:00'
+    daysGroup: 22/23/24
 ---
 
