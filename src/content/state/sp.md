@@ -250,6 +250,7 @@ gigs:
     city: São Paulo
     date: '06/10/2024 14:00'
     daysGroup: 04/05/06
+    ticketsUrl: 'https://www.bilheto.com.br/comprar/2266/lucifer-sp'
   - poster: 432729159_1574828219970282_4499235302076668875_n.jpeg
     city: Varzea Paulista
     date: '20/04/2024 16:00'

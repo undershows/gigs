@@ -42,5 +42,10 @@ gigs:
     daysGroup: 05/06/07/08
     ticketsUrl: >-
       https://www.sympla.com.br/evento/matrak-attakk-italia-pek0-vitorvulgo/2391520
+  - poster: 428598917_800255351915850_6072974435062191152_n.jpg
+    city: Rio de Janeiro
+    date: '13/04/2024 18:00'
+    daysGroup: 12/13/14
+    ticketsUrl: 'https://www.sympla.com.br/evento/hatefulmurder-sangue-de-bode-inraza-lumnia/2346006'
 ---
 
