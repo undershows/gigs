@@ -316,5 +316,10 @@ gigs:
     city: Arujá
     date: '31/03/2024 14:00'
     daysGroup: 27/28/29/30/31
+  - poster: gong_large.jpeg
+    city: São Paulo
+    date: '04/04/2024 20:00'
+    daysGroup: 03/04/05/06/07
+    ticketsUrl: 'https://ingresse.com/gong/'
 ---
 
