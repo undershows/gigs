@@ -100,7 +100,7 @@ gigs:
   - poster: 431800439_8225189384162781_6629888917573912482_n.jpg
     city: São Paulo
     date: '11/05/2024 17:00'
-    daysGroup: 10/11/12
+    daysGroup: 09/10/11/12
     ticketsUrl: 'https://www.sympla.com.br/evento/war-dance-fest/2355059'
   - poster: 432300344_922363696563881_1232312414954254177_n_1080.jpg
     city: São Paulo
@@ -321,5 +321,15 @@ gigs:
     date: '04/04/2024 20:00'
     daysGroup: 03/04/05/06/07
     ticketsUrl: 'https://ingresse.com/gong/'
+  - poster: 431580884_1216954796379331_6691154876655517417_n.jpg
+    city: São Paulo
+    date: '09/05/2024 19:00'
+    daysGroup: 09/10/11/12
+    ticketsUrl: 'https://www.ingresse.com/tortoise/'
+  - poster: 425671209_2391517074570600_902858711512559910_n.jpg
+    city: São Paulo
+    date: '18/08/2024 19:00'
+    daysGroup: 16/17/18
+    ticketsUrl: 'https://www.ingresse.com/karate-sp/'
 ---
 
