@@ -331,5 +331,10 @@ gigs:
     date: '18/08/2024 19:00'
     daysGroup: 16/17/18
     ticketsUrl: 'https://www.ingresse.com/karate-sp/'
+  - poster: b9e7a1d8-25f0-4eac-be91-b50b121d506c.jpeg
+    city: São Paulo
+    date: '05/04/2024 19:00'
+    daysGroup: 03/04/05/06/07
+    ticketsUrl: 'https://www.sympla.com.br/evento/dynamite-pub-revival/2373927'
 ---
 
