@@ -336,5 +336,13 @@ gigs:
     date: '05/04/2024 19:00'
     daysGroup: 03/04/05/06/07
     ticketsUrl: 'https://www.sympla.com.br/evento/dynamite-pub-revival/2373927'
+  - poster: 434131806_7285024604908029_5490735453565144507_n.jpg
+    city: São Paulo
+    date: '06/04/2024 18:00'
+    daysGroup: 03/04/05/06/07
+  - poster: 432453319_949087016741956_4680368393866297596_n.jpg
+    city: Campo Limpo Paulista
+    date: '13/04/2024 18:00'
+    daysGroup: 09/10/11/12/13/14
 ---
 
