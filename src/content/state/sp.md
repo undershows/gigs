@@ -41,11 +41,6 @@ gigs:
     date: '09/04/2024 18:00'
     daysGroup: 09/10/11/12/13/14
     ticketsUrl: 'https://www.sympla.com.br/evento/master-escarnium-e-lethal-charge/2328227'
-  - poster: 426575908_7141774235943602_7195629165719770207_n.jpg
-    city: São Paulo
-    date: '27/03/2024 19:30'
-    daysGroup: 27/28/29/30/31
-    ticketsUrl: 'https://bilheto.com.br/comprar/2006/speedfire-night'
   - poster: 429857739_1127524298390273_8561734392738266283_n.jpg
     city: Mogi das Cruzes
     date: '06/04/2024 15:00'

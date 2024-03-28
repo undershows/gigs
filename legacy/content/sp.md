@@ -2384,5 +2384,10 @@ gigs:
     city: Osasco
     date: '24/03/2024 19:00'
     daysGroup: 22/23/24
+  - poster: 426575908_7141774235943602_7195629165719770207_n.jpg
+    city: São Paulo
+    date: '27/03/2024 19:30'
+    daysGroup: 27/28/29/30/31
+    ticketsUrl: 'https://bilheto.com.br/comprar/2006/speedfire-night'
 ---
 
