@@ -179,10 +179,6 @@ gigs:
     date: '19/04/2024 19:00'
     daysGroup: 18/19/20/21/22/23
     ticketsUrl: 'https://www.sympla.com.br/evento/treva-e-apnea-no-fffront/2386547'
-  - poster: 433982034_1095367261518839_4621125954914671466_n.jpeg
-    city: Suzano
-    date: '28/03/2024 19:00'
-    daysGroup: 27/28/29/30/31
   - poster: 433902967_1119437099102045_900994065832899738_n.jpeg
     city: São Paulo
     date: '14/04/2024 16:00'
@@ -208,10 +204,6 @@ gigs:
     city: Leme
     date: '20/04/2024 15:00'
     daysGroup: 18/19/20/21/22/23
-  - poster: 434049382_1939563149853006_2794241649669835521_n.jpg
-    city: Bauru
-    date: '28/03/2024 22:00'
-    daysGroup: 27/28/29/30/31
   - poster: 434149592_1112553236443371_1730872517776889531_n.jpg
     city: Batatais
     date: '15/06/2024 18:00'

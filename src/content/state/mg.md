@@ -18,11 +18,6 @@ gigs:
     date: '07/07/2024 16:00'
     daysGroup: 05/06/07
     ticketsUrl: 'https://www.sympla.com.br/evento/sinister-em-belo-horizonte/2350307'
-  - poster: 428263128_122102047688216057_1655299540612622518_n.jpg
-    city: Belo Horizonte
-    date: '28/03/2024 19:00'
-    daysGroup: 28/29/30/31
-    ticketsUrl: 'https://www.clubedoingresso.com/evento/heretoir-belohoriozonte'
   - poster: 392872616_797040089118083_1924924707324349995_n.jpg
     city: Belo Horizonte
     date: '24/05/2024 19:00'

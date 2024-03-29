@@ -2389,5 +2389,13 @@ gigs:
     date: '27/03/2024 19:30'
     daysGroup: 27/28/29/30/31
     ticketsUrl: 'https://bilheto.com.br/comprar/2006/speedfire-night'
+  - poster: 433982034_1095367261518839_4621125954914671466_n.jpeg
+    city: Suzano
+    date: '28/03/2024 19:00'
+    daysGroup: 27/28/29/30/31
+  - poster: 434049382_1939563149853006_2794241649669835521_n.jpg
+    city: Bauru
+    date: '28/03/2024 22:00'
+    daysGroup: 27/28/29/30/31
 ---
 

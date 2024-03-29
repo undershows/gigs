@@ -121,5 +121,10 @@ gigs:
     date: '15/03/2024 16:00'
     daysGroup: 15/16/17
     ticketsUrl: 'https://www.sympla.com.br/evento/rockin-prod-brutal-devastation/2305040'
+  - poster: 428263128_122102047688216057_1655299540612622518_n.jpg
+    city: Belo Horizonte
+    date: '28/03/2024 19:00'
+    daysGroup: 28/29/30/31
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/heretoir-belohoriozonte'
 ---
 
