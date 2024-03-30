@@ -2397,5 +2397,14 @@ gigs:
     city: Bauru
     date: '28/03/2024 22:00'
     daysGroup: 27/28/29/30/31
+  - poster: heretoir-sp-2024.jpg
+    city: São Paulo
+    date: '29/03/2024 19:00'
+    daysGroup: 27/28/29/30/31
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/heretoir'
+  - poster: 433994164_3635566276663294_5106300861395249759_n.jpg
+    city: São Paulo
+    date: '29/03/2024 21:00'
+    daysGroup: 27/28/29/30/31
 ---
 

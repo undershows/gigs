@@ -126,5 +126,10 @@ gigs:
     date: '28/03/2024 19:00'
     daysGroup: 28/29/30/31
     ticketsUrl: 'https://www.clubedoingresso.com/evento/heretoir-belohoriozonte'
+  - poster: 16de85f2-2196-45ab-ab24-9035690aef88.jpeg
+    city: Uberlândia
+    date: '29/03/2024 15:00'
+    daysGroup: 28/29/30/31
+    ticketsUrl: 'https://www.sympla.com.br/evento/test-teia-tour/2344570'
 ---
 

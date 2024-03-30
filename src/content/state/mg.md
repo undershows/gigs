@@ -2,11 +2,6 @@
 abbr: MG
 name: Minas Gerais
 gigs:
-  - poster: 16de85f2-2196-45ab-ab24-9035690aef88.jpeg
-    city: Uberlândia
-    date: '29/03/2024 15:00'
-    daysGroup: 28/29/30/31
-    ticketsUrl: 'https://www.sympla.com.br/evento/test-teia-tour/2344570'
   - poster: 424742205_10225089800460672_4828198356120290326_n.jpg
     city: Belo Horizonte
     date: '06/04/2024 16:00'

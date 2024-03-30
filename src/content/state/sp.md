@@ -55,11 +55,6 @@ gigs:
     date: '06/04/2024 19:00'
     daysGroup: 03/04/05/06/07
     ticketsUrl: 'https://www.sympla.com.br/evento/ziggurat-of-doom/2346171'
-  - poster: heretoir-sp-2024.jpg
-    city: São Paulo
-    date: '29/03/2024 19:00'
-    daysGroup: 27/28/29/30/31
-    ticketsUrl: 'https://www.clubedoingresso.com/evento/heretoir'
   - poster: 426488998_120207068767380040_3886440266274244029_n.jpg
     city: São Paulo
     date: '09/11/2024 18:00'
@@ -137,10 +132,6 @@ gigs:
     date: '23/05/2024 16:00'
     daysGroup: 23/24/25/26
     ticketsUrl: 'https://www.sympla.com.br/evento/nightfall-heia-desdominus/2382644'
-  - poster: 433994164_3635566276663294_5106300861395249759_n.jpg
-    city: São Paulo
-    date: '29/03/2024 21:00'
-    daysGroup: 27/28/29/30/31
   - poster: timebomb_rock_together.jpg
     city: São Paulo
     date: '13/04/2024 18:00'
