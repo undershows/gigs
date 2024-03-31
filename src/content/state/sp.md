@@ -7,15 +7,6 @@ gigs:
     date: '03/04/2024 18:00'
     daysGroup: 03/04/05/06/07
     ticketsUrl: 'https://pixelticket.com.br/eventos/17017/russian-circles'
-  - poster: woodstock_discos_fest.jpg
-    city: São Paulo
-    date: '30/03/2024 15:00'
-    daysGroup: 27/28/29/30/31
-  - poster: punk_pascoa_24.jpeg
-    city: São Paulo
-    date: '30/03/2024 17:00'
-    daysGroup: 27/28/29/30/31
-    ticketsUrl: 'https://pixelticket.com.br/eventos/19039/punk-na-pascoa-2024/ingressos'
   - poster: 427998067_18213574837263705_3052114041853877663_n.jpg
     city: São Paulo
     date: '28/07/2024 16:00'
@@ -30,12 +21,6 @@ gigs:
     city: Santo André
     date: '25/05/2024 16:00'
     daysGroup: 23/24/25/26
-  - poster: 409093527_1922441021565219_6275883552458245992_n.jpg
-    city: Várzea Paulista
-    date: '30/03/2024 16:00'
-    daysGroup: 27/28/29/30/31
-    ticketsUrl: >-
-      https://www.sympla.com.br/evento/as-flores-do-mal-litanias-de-sata-ii/2298137
   - poster: 426636283_7141773049277054_147547108893619454_n.jpg
     city: Campinas
     date: '09/04/2024 18:00'
@@ -144,10 +129,6 @@ gigs:
     city: São Paulo
     date: '27/04/2024 19:00'
     daysGroup: 26/27/28
-  - poster: 432725488_7017322841730358_2290152780310597681_n.jpeg
-    city: Guarulhos
-    date: '30/03/2024 19:00'
-    daysGroup: 27/28/29/30/31
   - poster: 432754637_1149028929348083_6900827881406581498_n.jpg
     city: São Paulo
     date: '22/06/2024 20:00'
@@ -179,14 +160,6 @@ gigs:
     city: São Paulo
     date: '19/04/2024 20:00'
     daysGroup: 18/19/20/21/22/23
-  - poster: 434044215_3405194199772612_4803999893743466356_n.jpeg
-    city: São Paulo
-    date: '30/03/2024 22:00'
-    daysGroup: 27/28/29/30/31
-  - poster: 434045875_1915724898845797_4544933898293526269_n.jpeg
-    city: São Paulo
-    date: '30/03/2024 17:30'
-    daysGroup: 27/28/29/30/31
   - poster: 434034972_331813006543228_6284339643932530289_n.jpeg
     city: São Paulo
     date: '26/04/2024 19:00'

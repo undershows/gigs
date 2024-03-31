@@ -74,5 +74,11 @@ gigs:
     daysGroup: 19/20/21
     ticketsUrl: >-
       https://www.sympla.com.br/evento/shiva-apresenta-herzegovina-bang-bang-babies/2287865
+  - poster: 434007026_7146245562111278_5033329442710463856_n.jpeg
+    city: Goiania
+    date: '30/03/2024 15:00'
+    daysGroup: 29/30/31
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/shiva-e-rala-crew-apresentam-test-teia-tour/2384345
 ---
 
