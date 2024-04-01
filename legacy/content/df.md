@@ -168,5 +168,10 @@ gigs:
     daysGroup: 29/30/31
     ticketsUrl: >-
       https://www.sympla.com.br/evento/beneath-the-underground-iv-capaca-s-return/2327919
+  - poster: 434021062_792083769448739_1702118563206108759_n.jpeg
+    city: Brasília
+    date: '31/03/2024 18:00'
+    daysGroup: 29/30/31
+    ticketsUrl: 'https://www.sympla.com.br/evento/ttt-test-teia-tour-em-brasilia/2360689'
 ---
 

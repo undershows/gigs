@@ -2433,5 +2433,14 @@ gigs:
     city: São Paulo
     date: '30/03/2024 17:30'
     daysGroup: 27/28/29/30/31
+  - poster: 432422553_906451661488366_7584820643933349301_n.jpg
+    city: São Paulo
+    date: '31/03/2024 17:00'
+    daysGroup: 27/28/29/30/31
+    ticketsUrl: 'https://www.ingresse.com/brujeria/'
+  - poster: 434037396_3320989971378036_5611533458272470876_n.jpeg
+    city: Arujá
+    date: '31/03/2024 14:00'
+    daysGroup: 27/28/29/30/31
 ---
 

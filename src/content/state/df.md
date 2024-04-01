@@ -7,11 +7,6 @@ gigs:
     date: '16/10/2024 18:00'
     daysGroup: 16/17/18/19/20
     ticketsUrl: 'https://bilheto.com.br/comprar/2151/napalm-death'
-  - poster: 434021062_792083769448739_1702118563206108759_n.jpeg
-    city: Brasília
-    date: '31/03/2024 18:00'
-    daysGroup: 29/30/31
-    ticketsUrl: 'https://www.sympla.com.br/evento/ttt-test-teia-tour-em-brasilia/2360689'
   - poster: 434213181_1563592627837592_5368217858911582042_n.jpeg
     city: Gama
     date: '07/09/2024 18:00'
