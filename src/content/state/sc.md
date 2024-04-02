@@ -39,5 +39,9 @@ gigs:
     date: '18/05/2024 21:00'
     daysGroup: 17/18/19
     ticketsUrl: 'https://bilheto.com.br/comprar/2256/nightfall-at-night-we-prey'
+  - poster: 433956836_1182285273214085_4792184424622239707_n.jpg
+    city: Joinville
+    date: '22/06/2024 15:00'
+    daysGroup: 21/22/23
 ---
 

@@ -15,7 +15,7 @@ gigs:
       https://www.sympla.com.br/evento/sadistic-intent-usa-chakal-mg-spiritual-hate-sp/2337890
   - poster: 428635439_931516018382579_975205111440950987_n.jpg
     city: Salto
-    date: '07/04/2024 14:00'
+    date: '06/04/2024 14:00'
     daysGroup: 03/04/05/06/07
   - poster: 428618466_1922614351547886_3553769102855542818_n.jpg
     city: Santo André
@@ -80,7 +80,7 @@ gigs:
   - poster: 432300344_922363696563881_1232312414954254177_n_1080.jpg
     city: São Paulo
     date: '25/04/2024 19:00'
-    daysGroup: 25/26/27/28
+    daysGroup: 25/26/27/28/29/30
   - poster: bb7bbd96-6775-46bf-9180-a3f1764db540.jpeg
     city: São Paulo
     date: '18/05/2024 19:00'
@@ -128,7 +128,7 @@ gigs:
   - poster: 430270662_416506557596072_5766387288168935857_n.jpeg
     city: São Paulo
     date: '27/04/2024 19:00'
-    daysGroup: 26/27/28
+    daysGroup: 25/26/27/28/29/30
   - poster: 432754637_1149028929348083_6900827881406581498_n.jpg
     city: São Paulo
     date: '22/06/2024 20:00'
@@ -163,7 +163,7 @@ gigs:
   - poster: 434034972_331813006543228_6284339643932530289_n.jpeg
     city: São Paulo
     date: '26/04/2024 19:00'
-    daysGroup: 26/27/28
+    daysGroup: 25/26/27/28/29/30
   - poster: 432917875_903060068492086_6425648223446182307_n.jpg
     city: Leme
     date: '20/04/2024 15:00'
@@ -175,7 +175,7 @@ gigs:
   - poster: 434034375_721252866836713_5248871160948095585_n.jpeg
     city: Osasco
     date: '27/04/2024 19:00'
-    daysGroup: 26/27/28
+    daysGroup: 25/26/27/28/29/30
   - poster: 432455834_804338251722252_5835305398390189278_n.jpg
     city: Jundiaí
     date: '21/04/2024 18:00'
@@ -188,7 +188,7 @@ gigs:
   - poster: 434203162_3523930071202332_6159707457337539495_n.jpeg
     city: Ribeirão Pires
     date: '27/04/2024 18:00'
-    daysGroup: 26/27/28
+    daysGroup: 25/26/27/28/29/30
   - poster: 434162759_1378769622792484_3285042354675201126_n.jpg
     city: São Paulo
     date: '01/06/2024 14:00'
@@ -230,7 +230,7 @@ gigs:
   - poster: 434197255_18423534145007631_4050075109606656051_n.jpg
     city: São Paulo
     date: '26/04/2024 21:00'
-    daysGroup: 26/27/28
+    daysGroup: 25/26/27/28/29/30
   - poster: 434213187_958086199288899_4060226264678337303_n.jpeg
     city: Santos
     date: '20/04/2024 21:00'
@@ -286,5 +286,105 @@ gigs:
     city: Campo Limpo Paulista
     date: '13/04/2024 18:00'
     daysGroup: 09/10/11/12/13/14
+  - poster: 435052987_18260324926234316_7382872937689819885_n.jpg
+    city: Osasco
+    date: '07/04/2024 16:00'
+    daysGroup: 03/04/05/06/07
+  - poster: 434840874_1074737570291419_6545740953538692485_n.jpeg
+    city: São Paulo
+    date: '14/04/2024 19:30'
+    daysGroup: 09/10/11/12/13/14
+  - poster: 434844137_2348320505499516_6172864610108233906_n.jpeg
+    city: Jacareí
+    date: '30/04/2024 18:00'
+    daysGroup: 25/26/27/28/29/30
+  - poster: 434666155_214367415103960_7303435112113298228_n.jpg
+    city: Campinas
+    date: '21/04/2024 17:00'
+    daysGroup: 18/19/20/21/22/23
+    ticketsUrl: 'https://www.sympla.com.br/evento/acao-direta-bad-taste-e-vo-tonha/2400449'
+  - poster: 434849590_1399032197417809_5560632226177386193_n.jpeg
+    city: São Paulo
+    date: '06/04/2024 18:00'
+    daysGroup: 03/04/05/06/07
+  - poster: 434815934_1856027281544501_5508034085369387826_n.jpg
+    city: São Paulo
+    date: '13/04/2024 19:00'
+    daysGroup: 09/10/11/12/13/14
+  - poster: 434208852_302715996184044_2978831953778341169_n.jpeg
+    city: São Paulo
+    date: '16/05/2024 14:00'
+    daysGroup: 16/17/18/19
+  - poster: 434334998_1373336246676381_4534883261129237858_n.jpeg
+    city: Arujá
+    date: '09/06/2024 16:00'
+    daysGroup: 06/07/08/09
+  - poster: 434577866_1517333935480338_7644270007742407550_n.jpeg
+    city: Praia Grande
+    date: '06/04/2024 20:00'
+    daysGroup: 03/04/05/06/07
+  - poster: 434211392_428389273056760_8125453295904152631_n.jpeg
+    city: Taubaté
+    date: '21/04/2024 14:00'
+    daysGroup: 18/19/20/21/22/23
+  - poster: 434994937_18410191267068324_4110946634138725192_n.jpg
+    city: Taubaté
+    date: '26/04/2024 20:00'
+    daysGroup: 25/26/27/28/29/30
+  - poster: 434325109_18425195986061957_1357910988668567173_n.jpg
+    city: Santo André
+    date: '05/04/2024 19:00'
+    daysGroup: 03/04/05/06/07
+    ticketsUrl: 'https://www.sympla.com.br/evento/desalmado-lotico-em-santo-andre-sp/2302828'
+  - poster: 433238810_18424105069058543_3806178385128827588_n.jpg
+    city: São Paulo
+    date: '22/06/2024 18:00'
+    daysGroup: 21/22/23
+    ticketsUrl: 'https://www.ingresse.com/the-obsessed/'
+  - poster: 434917641_801439045183193_5082738383460587325_n.jpeg
+    city: Sorocaba
+    date: '07/04/2024 17:00'
+    daysGroup: 03/04/05/06/07
+  - poster: 434961028_438160782062809_3251671167933713659_n.jpeg
+    city: São Paulo
+    date: '19/04/2024 19:00'
+    daysGroup: 18/19/20/21/22/23
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/showgaragefuzz'
+  - poster: 434434001_1795864770825281_8640135555188247032_n.jpeg
+    city: São José dos Campos
+    date: '07/04/2024 17:00'
+    daysGroup: 03/04/05/06/07
+    ticketsUrl: 'https://www.sympla.com.br/evento/black-pantera-no-hocus-pocus/2385495'
+  - poster: 434593190_7687566931295284_6846101973740682867_n.jpg
+    city: São Paulo
+    date: '06/04/2024 18:00'
+    daysGroup: 03/04/05/06/07
+  - poster: 425523196_903100044846044_2056735529951557943_n.jpeg
+    city: Sorocaba
+    date: '06/04/2024 18:00'
+    daysGroup: 03/04/05/06/07
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/hammersessions-sorocaba'
+  - poster: 435336920_962150009247806_8088327145214203831_n.jpg
+    city: Botucatu
+    date: '04/05/2024 20:00'
+    daysGroup: 03/04/05
+    ticketsUrl: 'https://www.megabilheteria.com/evento?id=20240320144949'
+  - poster: 431532032_1182311719878107_5885739277133671317_n.jpg
+    city: Diadema
+    date: '09/06/2024 15:00'
+    daysGroup: 06/07/08/09
+  - poster: 430711155_400658872653650_5832602851559607704_n.jpeg
+    city: Jacareí
+    date: '25/04/2024 18:00'
+    daysGroup: 25/26/27/28/29/30
+  - poster: 418422127_424135253466720_4528275293426612299_n.jpeg
+    city: Ubatuba
+    date: '06/04/2024 23:00'
+    daysGroup: 03/04/05/06/07
+    ticketsUrl: 'https://www.sympla.com.br/evento/ubatuba-underwaves-ii-edicao/2298075'
+  - poster: 432974852_1182584793184133_2498448446273120772_n.jpg
+    city: Jacareí
+    date: '07/06/2024 18:00'
+    daysGroup: 06/07/08/09
 ---
 

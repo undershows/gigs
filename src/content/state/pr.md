@@ -43,5 +43,17 @@ gigs:
     date: '12/05/2024 17:00'
     daysGroup: 10/11/12
     ticketsUrl: 'https://pixta.me/u/manger-cadavre-em-curitiba'
+  - poster: 434897865_1158693451688743_2187214045143391383_n.jpeg
+    city: Curitiba
+    date: '13/04/2024 18:00'
+    daysGroup: 11/12/13/14
+  - poster: 434843239_769446308473580_6026386348529123885_n.jpeg
+    city: Maringá
+    date: '05/04/2024 20:00'
+    daysGroup: 05/06/07
+  - poster: 433238299_18038321020832363_4711700219571447622_n.jpg
+    city: Cascavel
+    date: '05/04/2024 23:00'
+    daysGroup: 05/06/07
 ---
 
