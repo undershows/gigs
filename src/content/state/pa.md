@@ -12,5 +12,9 @@ gigs:
     date: '20/04/2024 17:00'
     daysGroup: 19/20/21
     ticketsUrl: 'https://www.sympla.com.br/evento/amazonian-metal-fest-rhegia-celebration/2341808'
+  - poster: 433054280_423546840264547_1366075393677600022_n.png
+    city: Ananindeua
+    date: '20/04/2024 17:00'
+    daysGroup: 19/20/21
 ---
 

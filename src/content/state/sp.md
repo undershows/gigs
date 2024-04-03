@@ -386,5 +386,35 @@ gigs:
     city: Jacareí
     date: '07/06/2024 18:00'
     daysGroup: 06/07/08/09
+  - poster: 434993924_18425262817033374_8975603405320228347_n.jpg
+    city: São Paulo
+    date: '16/08/2024 18:00'
+    daysGroup: 16/17/18
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/nebula-saopaulo'
+  - poster: 435247080_794314575925607_4632190631731271000_n.jpeg
+    city: São José dos Campos
+    date: '05/05/2024 18:00'
+    daysGroup: 03/04/05
+  - poster: 435233088_1429022477979376_839016662914425756_n.jpg
+    city: São Paulo
+    date: '13/04/2024 19:00'
+    daysGroup: 09/10/11/12/13/14
+    ticketsUrl: 'https://pixelticket.com.br/eventos/20395/becold-show-de-aniversario'
+  - poster: 435246765_17878962312048719_1809705049119668091_n.jpg
+    city: São Paulo
+    date: '15/06/2024 20:00'
+    daysGroup: 14/15/16
+  - poster: 435215264_1366386450716704_8514430606376817036_n.jpeg
+    city: Arujá
+    date: '14/04/2024 15:00'
+    daysGroup: 09/10/11/12/13/14
+  - poster: 434851897_1880298402406959_4123898199035041749_n.jpeg
+    city: São Paulo
+    date: '05/05/2024 15:00'
+    daysGroup: 03/04/05
+  - poster: 434896808_7217803611608682_224972644908558933_n.jpeg
+    city: São Paulo
+    date: '06/04/2024 20:00'
+    daysGroup: 03/04/05/06/07
 ---
 
