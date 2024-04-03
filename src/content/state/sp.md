@@ -33,7 +33,7 @@ gigs:
   - poster: 430848187_18402781762067518_3419502131339350366_n_1080.jpg
     city: São Paulo
     date: '04/05/2024 19:00'
-    daysGroup: 03/04/05
+    daysGroup: 01/02/03/04/05
     ticketsUrl: 'https://www.sympla.com.br/evento/lasso-em-sao-paulo/2362579'
   - poster: image_123650291.JPG
     city: São Paulo
@@ -89,7 +89,7 @@ gigs:
   - poster: profetas_do_caos_tour.jpeg
     city: Jundiaí
     date: '03/05/2024 20:00'
-    daysGroup: 03/04/05
+    daysGroup: 01/02/03/04/05
     ticketsUrl: 'https://www.sympla.com.br/evento/nervochaos-carpatus-frade-negro/2365939'
   - poster: 432729476_1178864503556162_5594006283990413920_n.jpg
     city: Santo André
@@ -98,7 +98,7 @@ gigs:
   - poster: FB_IMG_1711017057318-724x1024.jpg
     city: Marília
     date: '05/05/2024 18:00'
-    daysGroup: 03/04/05
+    daysGroup: 01/02/03/04/05
     ticketsUrl: >-
       https://www.sympla.com.br/evento/nervochaos-carpatus-frade-negro-d-i-e/2366258
   - poster: 432856903_1179326466843299_3063550065245102428_n.jpg
@@ -367,7 +367,7 @@ gigs:
   - poster: 435336920_962150009247806_8088327145214203831_n.jpg
     city: Botucatu
     date: '04/05/2024 20:00'
-    daysGroup: 03/04/05
+    daysGroup: 01/02/03/04/05
     ticketsUrl: 'https://www.megabilheteria.com/evento?id=20240320144949'
   - poster: 431532032_1182311719878107_5885739277133671317_n.jpg
     city: Diadema
@@ -394,7 +394,7 @@ gigs:
   - poster: 435247080_794314575925607_4632190631731271000_n.jpeg
     city: São José dos Campos
     date: '05/05/2024 18:00'
-    daysGroup: 03/04/05
+    daysGroup: 01/02/03/04/05
   - poster: 435233088_1429022477979376_839016662914425756_n.jpg
     city: São Paulo
     date: '13/04/2024 19:00'
@@ -411,10 +411,30 @@ gigs:
   - poster: 434851897_1880298402406959_4123898199035041749_n.jpeg
     city: São Paulo
     date: '05/05/2024 15:00'
-    daysGroup: 03/04/05
+    daysGroup: 01/02/03/04/05
   - poster: 434896808_7217803611608682_224972644908558933_n.jpeg
     city: São Paulo
     date: '06/04/2024 20:00'
+    daysGroup: 03/04/05/06/07
+  - poster: 114e5757-6baf-4eb2-82d0-07362c5f5aef.jpeg
+    city: São Paulo
+    date: '27/04/2024 21:00'
+    daysGroup: 25/26/27/28/29/30
+  - poster: 435333956_1848861932222087_6805434695892942294_n.jpeg
+    city: São Paulo
+    date: '13/04/2024 18:00'
+    daysGroup: 09/10/11/12/13/14
+  - poster: 434880699_792143318991342_202738750191919940_n.jpg
+    city: Várzea Paulista
+    date: '01/05/2024 17:00'
+    daysGroup: 01/02/03/04/05
+  - poster: 434870940_3712329222381110_5113659682269173779_n.jpg
+    city: Cotia
+    date: '27/04/2024 17:00'
+    daysGroup: 25/26/27/28/29/30
+  - poster: 435029081_2754159238065845_266185572406689360_n.jpeg
+    city: São Paulo
+    date: '06/04/2024 17:00'
     daysGroup: 03/04/05/06/07
 ---
 
