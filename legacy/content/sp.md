@@ -2442,5 +2442,10 @@ gigs:
     city: Arujá
     date: '31/03/2024 14:00'
     daysGroup: 27/28/29/30/31
+  - poster: 777c3872-b8dc-41a2-84ab-e6076f7b042d.jpeg
+    city: São Paulo
+    date: '03/04/2024 18:00'
+    daysGroup: 03/04/05/06/07
+    ticketsUrl: 'https://pixelticket.com.br/eventos/17017/russian-circles'
 ---
 

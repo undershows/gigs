@@ -2,11 +2,6 @@
 abbr: SP
 name: São Paulo
 gigs:
-  - poster: 777c3872-b8dc-41a2-84ab-e6076f7b042d.jpeg
-    city: São Paulo
-    date: '03/04/2024 18:00'
-    daysGroup: 03/04/05/06/07
-    ticketsUrl: 'https://pixelticket.com.br/eventos/17017/russian-circles'
   - poster: 427998067_18213574837263705_3052114041853877663_n.jpg
     city: São Paulo
     date: '28/07/2024 16:00'
@@ -335,7 +330,8 @@ gigs:
     city: Santo André
     date: '05/04/2024 19:00'
     daysGroup: 03/04/05/06/07
-    ticketsUrl: 'https://www.sympla.com.br/evento/desalmado-lotico-em-santo-andre-sp/2302828'
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/desalmado-lotico-em-santo-andre-sp/2302828
   - poster: 433238810_18424105069058543_3806178385128827588_n.jpg
     city: São Paulo
     date: '22/06/2024 18:00'
