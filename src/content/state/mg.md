@@ -43,5 +43,15 @@ gigs:
     date: '26/05/2024 17:00'
     daysGroup: 24/25/26
     ticketsUrl: 'https://www.sympla.com.br/evento/nightfall-heia-khormoundeggom/2391583'
+  - poster: 435520828_240322389103482_7218125887247694332_n.jpeg
+    city: Belo Horizonte
+    date: '01/06/2024 21:00'
+    daysGroup: 01/02
+    ticketsUrl: 'https://www.sympla.com.br/evento/dark-age-8-edicao-com-plastique-noir-mais-djs-stark-e-brainiak/2406002'
+  - poster: 435511028_344095994786401_4976039761927980713_n.jpeg
+    city: Belo Horizonte
+    date: '15/06/2024 13:00'
+    daysGroup: 14/15/16
+    ticketsUrl: 'https://www.sympla.com.br/evento/punk-no-park/2390041'
 ---
 
