@@ -15,5 +15,9 @@ gigs:
     city: Brasília
     date: '20/04/2024 17:00'
     daysGroup: 19/20/21
+  - poster: FB_IMG_1712279825486.jpg
+    city: Guará II
+    date: '13/04/2024 19:00'
+    daysGroup: 12/13/14
 ---
 
