@@ -449,7 +449,7 @@ gigs:
     daysGroup: 18/19/20/21/22/23
   - poster: received_371902012504669.jpeg
     city: São Paulo
-    date: '06/04/2024 19:00'
+    date: '05/04/2024 19:00'
     daysGroup: 03/04/05/06/07
 ---
 
