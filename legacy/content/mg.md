@@ -131,5 +131,10 @@ gigs:
     date: '29/03/2024 15:00'
     daysGroup: 28/29/30/31
     ticketsUrl: 'https://www.sympla.com.br/evento/test-teia-tour/2344570'
+  - poster: 433231174_10161554859969516_4339788701092623375_n.jpg
+    city: Belo Horizonte
+    date: '04/04/2024 20:00'
+    daysGroup: 04/05/06/07
+    ticketsUrl: 'https://www.bilheto.com.br/comprar/1979/exciter'
 ---
 

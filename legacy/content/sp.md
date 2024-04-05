@@ -2447,5 +2447,10 @@ gigs:
     date: '03/04/2024 18:00'
     daysGroup: 03/04/05/06/07
     ticketsUrl: 'https://pixelticket.com.br/eventos/17017/russian-circles'
+  - poster: 431708660_305697432199514_8590228770291880932_n.jpg
+    city: São Paulo
+    date: '04/04/2024 20:00'
+    daysGroup: 03/04/05/06/07
+    ticketsUrl: 'https://ingresse.com/gong/'
 ---
 

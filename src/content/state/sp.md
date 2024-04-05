@@ -253,11 +253,6 @@ gigs:
     city: São Paulo
     date: '23/04/2024 15:00'
     daysGroup: 18/19/20/21/22/23
-  - poster: 431708660_305697432199514_8590228770291880932_n.jpg
-    city: São Paulo
-    date: '04/04/2024 20:00'
-    daysGroup: 03/04/05/06/07
-    ticketsUrl: 'https://ingresse.com/gong/'
   - poster: 431580884_1216954796379331_6691154876655517417_n.jpg
     city: São Paulo
     date: '09/05/2024 19:00'
@@ -436,7 +431,8 @@ gigs:
     city: São Paulo
     date: '27/04/2024 19:00'
     daysGroup: 25/26/27/28/29/30
-    ticketsUrl: 'https://pixelticket.com.br/eventos/20405/show-beneficente-em-prol-da-cruz-vermelha'
+    ticketsUrl: >-
+      https://pixelticket.com.br/eventos/20405/show-beneficente-em-prol-da-cruz-vermelha
   - poster: 432929341_18073275232478445_3611769220044089800_n.jpg
     city: Americana
     date: '06/04/2024 19:00'
@@ -445,7 +441,8 @@ gigs:
     city: Santo André
     date: '06/04/2024 19:00'
     daysGroup: 03/04/05/06/07
-    ticketsUrl: 'https://www.sympla.com.br/evento/bufo-borealis-lamar-ao-vivo-no-74club/2400833'
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/bufo-borealis-lamar-ao-vivo-no-74club/2400833
   - poster: 435256992_417533340965765_4061504986822360341_n.jpeg
     city: Americana
     date: '20/04/2024 12:00'

@@ -17,9 +17,5 @@ gigs:
     date: '19/10/2024 18:00'
     daysGroup: 18/19/20
     ticketsUrl: 'https://www.clubedoingresso.com/evento/napalmdeath-fortaleza'
-  - poster: 435277658_1190680702347540_8753728345562762478_n.jpeg
-    city: Fortaleza
-    date: '04/04/2024 16:00'
-    daysGroup: 04/05/06/07
 ---
 

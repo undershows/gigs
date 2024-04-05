@@ -28,11 +28,6 @@ gigs:
     date: '08/10/2024 18:00'
     daysGroup: 04/05/06/07/08
     ticketsUrl: 'https://www.bilheto.com.br/comprar/2265/lucifer-mg'
-  - poster: 433231174_10161554859969516_4339788701092623375_n.jpg
-    city: Belo Horizonte
-    date: '04/04/2024 20:00'
-    daysGroup: 04/05/06/07
-    ticketsUrl: 'https://www.bilheto.com.br/comprar/1979/exciter'
   - poster: 435005758_451198213904794_1638309637297290605_n.jpeg
     city: Juíz de Fora
     date: '13/04/2024 14:00'
@@ -47,7 +42,8 @@ gigs:
     city: Belo Horizonte
     date: '01/06/2024 21:00'
     daysGroup: 01/02
-    ticketsUrl: 'https://www.sympla.com.br/evento/dark-age-8-edicao-com-plastique-noir-mais-djs-stark-e-brainiak/2406002'
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/dark-age-8-edicao-com-plastique-noir-mais-djs-stark-e-brainiak/2406002
   - poster: 435511028_344095994786401_4976039761927980713_n.jpeg
     city: Belo Horizonte
     date: '15/06/2024 13:00'
