@@ -144,5 +144,10 @@ gigs:
     city: Rio de Janeiro
     date: '23/03/2024 19:00'
     daysGroup: 22/23/24
+  - poster: 434198156_3654942004763511_5895255782962035730_n.jpeg
+    city: Rio de Janeiro
+    date: '05/04/2024 18:00'
+    daysGroup: 05/06/07/08
+    ticketsUrl: 'https://www.sympla.com.br/evento/clava-klitoria-onda-errada-utsu/2396825'
 ---
 

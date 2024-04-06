@@ -16,7 +16,8 @@ gigs:
     city: Maringá
     date: '19/06/2024 19:00'
     daysGroup: 19/20/21/22/23
-    ticketsUrl: 'https://www.sympla.com.br/evento/enthroned-nervochaos-introtyl-holder/2372974'
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/enthroned-nervochaos-introtyl-holder/2372974
   - poster: enthroned_foz_do_iguacu.jpeg
     city: Foz do Iguaçu
     date: '18/06/2024 19:00'
@@ -48,14 +49,6 @@ gigs:
     city: Curitiba
     date: '13/04/2024 18:00'
     daysGroup: 11/12/13/14
-  - poster: 434843239_769446308473580_6026386348529123885_n.jpeg
-    city: Maringá
-    date: '05/04/2024 20:00'
-    daysGroup: 05/06/07
-  - poster: 433238299_18038321020832363_4711700219571447622_n.jpg
-    city: Cascavel
-    date: '05/04/2024 23:00'
-    daysGroup: 05/06/07
   - poster: 435341609_1155081042516206_6570764371753598599_n.jpg
     city: Curitiba
     date: '06/04/2024 19:00'

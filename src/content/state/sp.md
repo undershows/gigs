@@ -135,12 +135,6 @@ gigs:
     date: '09/08/2024 19:00'
     daysGroup: 09/10/11
     ticketsUrl: 'https://bilheto.com.br/comprar/2028/batushka-em-limeira'
-  - poster: 433109379_18329022217187181_5285626361630011773_n.jpg
-    city: Diadema
-    date: '05/04/2024 19:00'
-    daysGroup: 03/04/05/06/07
-    ticketsUrl: >-
-      https://www.sympla.com.br/evento/black-pantera-eskrota-asfixia-social-kfkm-no-container/2386690
   - poster: 433137047_18003706766388060_7991772005971731330_n.jpg
     city: São Paulo
     date: '19/04/2024 19:00'
@@ -188,10 +182,6 @@ gigs:
     city: São Paulo
     date: '01/06/2024 14:00'
     daysGroup: 01/02
-  - poster: 432847890_17955891431753973_8020462518099145560_n.jpg
-    city: São Carlos
-    date: '05/04/2024 20:00'
-    daysGroup: 03/04/05/06/07
   - poster: 434209815_3693726360945612_4649749239957905202_n.jpeg
     city: São Paulo
     date: '06/10/2024 14:00'
@@ -210,10 +200,6 @@ gigs:
     date: '10/04/2024 19:30'
     daysGroup: 09/10/11/12/13/14
     ticketsUrl: 'https://bilheto.com.br/comprar/2220/master-em-bauru'
-  - poster: 434213761_1117038439610269_6446718147887714680_n.jpeg
-    city: São José dos Campos
-    date: '05/04/2024 22:00'
-    daysGroup: 03/04/05/06/07
   - poster: 433112849_18283214812166315_88871365544501493_n.jpg
     city: Mauá
     date: '24/05/2024 19:00'
@@ -240,10 +226,6 @@ gigs:
     daysGroup: 09/10/11/12/13/14
     ticketsUrl: >-
       https://www.sympla.com.br/evento/infamous-glory-nameless-gods-rotten-entrails-na-fenda/2373490
-  - poster: 434160821_896612988907623_4836316996825533969_n.jpeg
-    city: Santos
-    date: '05/04/2024 21:00'
-    daysGroup: 03/04/05/06/07
   - poster: 430397173_1464458887838283_7341664308642314183_n.jpeg
     city: São Paulo
     date: '13/04/2024 16:00'
@@ -263,11 +245,6 @@ gigs:
     date: '18/08/2024 19:00'
     daysGroup: 16/17/18
     ticketsUrl: 'https://www.ingresse.com/karate-sp/'
-  - poster: b9e7a1d8-25f0-4eac-be91-b50b121d506c.jpeg
-    city: São Paulo
-    date: '05/04/2024 19:00'
-    daysGroup: 03/04/05/06/07
-    ticketsUrl: 'https://www.sympla.com.br/evento/dynamite-pub-revival/2373927'
   - poster: 434131806_7285024604908029_5490735453565144507_n.jpg
     city: São Paulo
     date: '06/04/2024 18:00'
@@ -321,12 +298,6 @@ gigs:
     city: Taubaté
     date: '26/04/2024 20:00'
     daysGroup: 25/26/27/28/29/30
-  - poster: 434325109_18425195986061957_1357910988668567173_n.jpg
-    city: Santo André
-    date: '05/04/2024 19:00'
-    daysGroup: 03/04/05/06/07
-    ticketsUrl: >-
-      https://www.sympla.com.br/evento/desalmado-lotico-em-santo-andre-sp/2302828
   - poster: 433238810_18424105069058543_3806178385128827588_n.jpg
     city: São Paulo
     date: '22/06/2024 18:00'
@@ -447,9 +418,5 @@ gigs:
     city: Americana
     date: '20/04/2024 12:00'
     daysGroup: 18/19/20/21/22/23
-  - poster: received_371902012504669.jpeg
-    city: São Paulo
-    date: '05/04/2024 19:00'
-    daysGroup: 03/04/05/06/07
 ---
 

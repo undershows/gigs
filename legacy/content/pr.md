@@ -223,5 +223,13 @@ gigs:
     city: Londrina
     date: '24/03/2024 17:00'
     daysGroup: 22/23/24
+  - poster: 434843239_769446308473580_6026386348529123885_n.jpeg
+    city: Maringá
+    date: '05/04/2024 20:00'
+    daysGroup: 05/06/07
+  - poster: 433238299_18038321020832363_4711700219571447622_n.jpg
+    city: Cascavel
+    date: '05/04/2024 23:00'
+    daysGroup: 05/06/07
 ---
 

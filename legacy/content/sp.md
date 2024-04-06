@@ -2452,5 +2452,38 @@ gigs:
     date: '04/04/2024 20:00'
     daysGroup: 03/04/05/06/07
     ticketsUrl: 'https://ingresse.com/gong/'
+  - poster: 433109379_18329022217187181_5285626361630011773_n.jpg
+    city: Diadema
+    date: '05/04/2024 19:00'
+    daysGroup: 03/04/05/06/07
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/black-pantera-eskrota-asfixia-social-kfkm-no-container/2386690
+  - poster: 432847890_17955891431753973_8020462518099145560_n.jpg
+    city: São Carlos
+    date: '05/04/2024 20:00'
+    daysGroup: 03/04/05/06/07
+  - poster: 434213761_1117038439610269_6446718147887714680_n.jpeg
+    city: São José dos Campos
+    date: '05/04/2024 22:00'
+    daysGroup: 03/04/05/06/07
+  - poster: 434160821_896612988907623_4836316996825533969_n.jpeg
+    city: Santos
+    date: '05/04/2024 21:00'
+    daysGroup: 03/04/05/06/07
+  - poster: b9e7a1d8-25f0-4eac-be91-b50b121d506c.jpeg
+    city: São Paulo
+    date: '05/04/2024 19:00'
+    daysGroup: 03/04/05/06/07
+    ticketsUrl: 'https://www.sympla.com.br/evento/dynamite-pub-revival/2373927'
+  - poster: 434325109_18425195986061957_1357910988668567173_n.jpg
+    city: Santo André
+    date: '05/04/2024 19:00'
+    daysGroup: 03/04/05/06/07
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/desalmado-lotico-em-santo-andre-sp/2302828
+  - poster: received_371902012504669.jpeg
+    city: São Paulo
+    date: '05/04/2024 19:00'
+    daysGroup: 03/04/05/06/07
 ---
 

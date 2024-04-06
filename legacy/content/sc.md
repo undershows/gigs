@@ -128,5 +128,9 @@ gigs:
     city: Joinville
     date: '24/03/2024 16:00'
     daysGroup: 22/23/24
+  - poster: FB_IMG_1709168186703.jpg
+    city: Florianopólis
+    date: '05/04/2024 22:00'
+    daysGroup: 05/06/07
 ---
 
