@@ -79,5 +79,9 @@ gigs:
     date: '30/03/2024 15:00'
     daysGroup: 29/30/31
     ticketsUrl: 'https://www.clubedoingresso.com/evento/abrilprorock'
+  - poster: 435292587_382624208069586_5816554308105250028_n.jpeg
+    city: Caruaru
+    date: '06/04/2024 18:00'
+    daysGroup: 05/06/07
 ---
 

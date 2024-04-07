@@ -149,5 +149,11 @@ gigs:
     date: '05/04/2024 18:00'
     daysGroup: 05/06/07/08
     ticketsUrl: 'https://www.sympla.com.br/evento/clava-klitoria-onda-errada-utsu/2396825'
+  - poster: 429978014_2679717358852914_6495037671454569637_n.jpg
+    city: Rio de Janeiro
+    date: '06/04/2024 20:00'
+    daysGroup: 05/06/07/08
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/from-hell-15-anos-a-primeira-festa-metalica-do-brasil/2313655
 ---
 

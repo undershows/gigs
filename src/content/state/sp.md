@@ -8,10 +8,6 @@ gigs:
     daysGroup: 26/27/28
     ticketsUrl: >-
       https://www.sympla.com.br/evento/sadistic-intent-usa-chakal-mg-spiritual-hate-sp/2337890
-  - poster: 428635439_931516018382579_975205111440950987_n.jpg
-    city: Salto
-    date: '06/04/2024 14:00'
-    daysGroup: 03/04/05/06/07
   - poster: 428618466_1922614351547886_3553769102855542818_n.jpg
     city: Santo André
     date: '25/05/2024 16:00'
@@ -21,20 +17,11 @@ gigs:
     date: '09/04/2024 18:00'
     daysGroup: 09/10/11/12/13/14
     ticketsUrl: 'https://www.sympla.com.br/evento/master-escarnium-e-lethal-charge/2328227'
-  - poster: 429857739_1127524298390273_8561734392738266283_n.jpg
-    city: Mogi das Cruzes
-    date: '06/04/2024 15:00'
-    daysGroup: 03/04/05/06/07
   - poster: 430848187_18402781762067518_3419502131339350366_n_1080.jpg
     city: São Paulo
     date: '04/05/2024 19:00'
     daysGroup: 01/02/03/04/05
     ticketsUrl: 'https://www.sympla.com.br/evento/lasso-em-sao-paulo/2362579'
-  - poster: image_123650291.JPG
-    city: São Paulo
-    date: '06/04/2024 19:00'
-    daysGroup: 03/04/05/06/07
-    ticketsUrl: 'https://www.sympla.com.br/evento/ziggurat-of-doom/2346171'
   - poster: 426488998_120207068767380040_3886440266274244029_n.jpg
     city: São Paulo
     date: '09/11/2024 18:00'
@@ -51,11 +38,6 @@ gigs:
     date: '12/04/2024 18:00'
     daysGroup: 09/10/11/12/13/14
     ticketsUrl: 'https://www.clubedoingresso.com/evento/leatherleone-saopaulo'
-  - poster: 428223971_909553501177155_450208392506509987_n.jpg
-    city: São Paulo
-    date: '06/04/2024 18:00'
-    daysGroup: 03/04/05/06/07
-    ticketsUrl: 'https://bilheto.com.br/comprar/1978/exciter'
   - poster: estamos_aqui_fest.jpg
     city: São Paulo
     date: '07/04/2024 15:00'
@@ -245,10 +227,6 @@ gigs:
     date: '18/08/2024 19:00'
     daysGroup: 16/17/18
     ticketsUrl: 'https://www.ingresse.com/karate-sp/'
-  - poster: 434131806_7285024604908029_5490735453565144507_n.jpg
-    city: São Paulo
-    date: '06/04/2024 18:00'
-    daysGroup: 03/04/05/06/07
   - poster: 432453319_949087016741956_4680368393866297596_n.jpg
     city: Campo Limpo Paulista
     date: '13/04/2024 18:00'
@@ -270,10 +248,6 @@ gigs:
     date: '21/04/2024 17:00'
     daysGroup: 18/19/20/21/22/23
     ticketsUrl: 'https://www.sympla.com.br/evento/acao-direta-bad-taste-e-vo-tonha/2400449'
-  - poster: 434849590_1399032197417809_5560632226177386193_n.jpeg
-    city: São Paulo
-    date: '06/04/2024 18:00'
-    daysGroup: 03/04/05/06/07
   - poster: 434815934_1856027281544501_5508034085369387826_n.jpg
     city: São Paulo
     date: '13/04/2024 19:00'
@@ -286,10 +260,6 @@ gigs:
     city: Arujá
     date: '09/06/2024 16:00'
     daysGroup: 06/07/08/09
-  - poster: 434577866_1517333935480338_7644270007742407550_n.jpeg
-    city: Praia Grande
-    date: '06/04/2024 20:00'
-    daysGroup: 03/04/05/06/07
   - poster: 434211392_428389273056760_8125453295904152631_n.jpeg
     city: Taubaté
     date: '21/04/2024 14:00'
@@ -317,15 +287,6 @@ gigs:
     date: '07/04/2024 17:00'
     daysGroup: 03/04/05/06/07
     ticketsUrl: 'https://www.sympla.com.br/evento/black-pantera-no-hocus-pocus/2385495'
-  - poster: 434593190_7687566931295284_6846101973740682867_n.jpg
-    city: São Paulo
-    date: '06/04/2024 18:00'
-    daysGroup: 03/04/05/06/07
-  - poster: 425523196_903100044846044_2056735529951557943_n.jpeg
-    city: Sorocaba
-    date: '06/04/2024 18:00'
-    daysGroup: 03/04/05/06/07
-    ticketsUrl: 'https://www.clubedoingresso.com/evento/hammersessions-sorocaba'
   - poster: 435336920_962150009247806_8088327145214203831_n.jpg
     city: Botucatu
     date: '04/05/2024 20:00'
@@ -339,11 +300,6 @@ gigs:
     city: Jacareí
     date: '25/04/2024 18:00'
     daysGroup: 25/26/27/28/29/30
-  - poster: 418422127_424135253466720_4528275293426612299_n.jpeg
-    city: Ubatuba
-    date: '06/04/2024 23:00'
-    daysGroup: 03/04/05/06/07
-    ticketsUrl: 'https://www.sympla.com.br/evento/ubatuba-underwaves-ii-edicao/2298075'
   - poster: 432974852_1182584793184133_2498448446273120772_n.jpg
     city: Jacareí
     date: '07/06/2024 18:00'
@@ -374,10 +330,6 @@ gigs:
     city: São Paulo
     date: '05/05/2024 15:00'
     daysGroup: 01/02/03/04/05
-  - poster: 434896808_7217803611608682_224972644908558933_n.jpeg
-    city: São Paulo
-    date: '06/04/2024 20:00'
-    daysGroup: 03/04/05/06/07
   - poster: 114e5757-6baf-4eb2-82d0-07362c5f5aef.jpeg
     city: São Paulo
     date: '27/04/2024 21:00'
@@ -394,26 +346,12 @@ gigs:
     city: Cotia
     date: '27/04/2024 17:00'
     daysGroup: 25/26/27/28/29/30
-  - poster: 435029081_2754159238065845_266185572406689360_n.jpeg
-    city: São Paulo
-    date: '06/04/2024 17:00'
-    daysGroup: 03/04/05/06/07
   - poster: 435215268_1118311349419287_9166179784323319112_n.jpg
     city: São Paulo
     date: '27/04/2024 19:00'
     daysGroup: 25/26/27/28/29/30
     ticketsUrl: >-
       https://pixelticket.com.br/eventos/20405/show-beneficente-em-prol-da-cruz-vermelha
-  - poster: 432929341_18073275232478445_3611769220044089800_n.jpg
-    city: Americana
-    date: '06/04/2024 19:00'
-    daysGroup: 03/04/05/06/07
-  - poster: 432922748_18425760973061957_2764030194518483587_n.jpg
-    city: Santo André
-    date: '06/04/2024 19:00'
-    daysGroup: 03/04/05/06/07
-    ticketsUrl: >-
-      https://www.sympla.com.br/evento/bufo-borealis-lamar-ao-vivo-no-74club/2400833
   - poster: 435256992_417533340965765_4061504986822360341_n.jpeg
     city: Americana
     date: '20/04/2024 12:00'

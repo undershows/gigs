@@ -2,12 +2,6 @@
 abbr: MG
 name: Minas Gerais
 gigs:
-  - poster: 424742205_10225089800460672_4828198356120290326_n.jpg
-    city: Belo Horizonte
-    date: '06/04/2024 16:00'
-    daysGroup: 04/05/06/07
-    ticketsUrl: >-
-      https://www.sympla.com.br/evento/metalpunk-overkill-master-escarnium-podridao-matrak-attakk-preceptor-beyond-the-grave-napalm/2336731
   - poster: 428683278_2673619522796031_4534828098999944732_n.jpg
     city: Belo Horizonte
     date: '07/07/2024 16:00'

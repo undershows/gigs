@@ -2,10 +2,6 @@
 abbr: SC
 name: Santa Catarina
 gigs:
-  - poster: 428704520_2677858162372167_8825611715779635192_n.jpg
-    city: Joinville
-    date: '06/04/2024 17:00'
-    daysGroup: 05/06/07
   - poster: 432896082_1179326436843302_5353833939571368188_n.jpg
     city: Joinville
     date: '05/07/2024 18:00'

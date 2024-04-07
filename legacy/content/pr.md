@@ -231,5 +231,9 @@ gigs:
     city: Cascavel
     date: '05/04/2024 23:00'
     daysGroup: 05/06/07
+  - poster: 435341609_1155081042516206_6570764371753598599_n.jpg
+    city: Curitiba
+    date: '06/04/2024 19:00'
+    daysGroup: 05/06/07
 ---
 

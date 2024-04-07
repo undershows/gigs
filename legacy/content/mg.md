@@ -136,5 +136,11 @@ gigs:
     date: '04/04/2024 20:00'
     daysGroup: 04/05/06/07
     ticketsUrl: 'https://www.bilheto.com.br/comprar/1979/exciter'
+  - poster: 424742205_10225089800460672_4828198356120290326_n.jpg
+    city: Belo Horizonte
+    date: '06/04/2024 16:00'
+    daysGroup: 04/05/06/07
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/metalpunk-overkill-master-escarnium-podridao-matrak-attakk-preceptor-beyond-the-grave-napalm/2336731
 ---
 

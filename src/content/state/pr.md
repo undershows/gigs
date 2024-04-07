@@ -49,10 +49,6 @@ gigs:
     city: Curitiba
     date: '13/04/2024 18:00'
     daysGroup: 11/12/13/14
-  - poster: 435341609_1155081042516206_6570764371753598599_n.jpg
-    city: Curitiba
-    date: '06/04/2024 19:00'
-    daysGroup: 05/06/07
   - poster: 429861885_18331330837114615_8375132758476110631_n.jpg
     city: Curitiba
     date: '03/05/2024 18:00'
