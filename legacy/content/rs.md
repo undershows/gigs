@@ -86,5 +86,10 @@ gigs:
     city: Porto Alegre
     date: '24/03/2024 20:00'
     daysGroup: 22/23/24
+  - poster: 434003952_1074515324358775_3209897800798802501_n.jpeg
+    city: Porto Alegre
+    date: '07/04/2024 18:00'
+    daysGroup: 05/06/07
+    ticketsUrl: 'https://www.sympla.com.br/evento/no-rest-silenzio-statico/2387542'
 ---
 

@@ -62,9 +62,5 @@ gigs:
     daysGroup: 19/20/21
     ticketsUrl: >-
       https://www.sympla.com.br/evento/independente-fest-molho-negro-bandas-21-04-na-roxx-em-sao-goncalo/2375676
-  - poster: IMG_20240406_094047_579.jpg
-    city: Rio de Janeiro
-    date: '07/04/2024 16:20'
-    daysGroup: 05/06/07/08
 ---
 

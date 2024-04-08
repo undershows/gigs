@@ -155,5 +155,9 @@ gigs:
     daysGroup: 05/06/07/08
     ticketsUrl: >-
       https://www.sympla.com.br/evento/from-hell-15-anos-a-primeira-festa-metalica-do-brasil/2313655
+  - poster: IMG_20240406_094047_579.jpg
+    city: Rio de Janeiro
+    date: '07/04/2024 16:20'
+    daysGroup: 05/06/07/08
 ---
 

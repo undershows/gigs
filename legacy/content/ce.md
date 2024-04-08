@@ -52,5 +52,10 @@ gigs:
     city: Fortaleza
     date: '04/04/2024 16:00'
     daysGroup: 04/05/06/07
+  - poster: 430002905_1369378580384673_7367483815373927214_n.jpg
+    city: Fortaleza
+    date: '07/04/2024 16:00'
+    daysGroup: 04/05/06/07
+    ticketsUrl: 'https://www.sympla.com.br/evento/ceara-obsceno-extremo-fest/2348645'
 ---
 

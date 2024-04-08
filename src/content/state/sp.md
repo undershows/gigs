@@ -38,12 +38,6 @@ gigs:
     date: '12/04/2024 18:00'
     daysGroup: 09/10/11/12/13/14
     ticketsUrl: 'https://www.clubedoingresso.com/evento/leatherleone-saopaulo'
-  - poster: estamos_aqui_fest.jpg
-    city: São Paulo
-    date: '07/04/2024 15:00'
-    daysGroup: 03/04/05/06/07
-    ticketsUrl: >-
-      https://www.eventbrite.com.br/e/1o-estamos-aqui-tickets-860250772217?aff=oddtdtcreator
   - poster: 431525437_3692619941009419_5244187636168166923_n.jpg
     city: São Paulo
     date: '09/06/2024 14:00'
@@ -231,10 +225,6 @@ gigs:
     city: Campo Limpo Paulista
     date: '13/04/2024 18:00'
     daysGroup: 09/10/11/12/13/14
-  - poster: 435052987_18260324926234316_7382872937689819885_n.jpg
-    city: Osasco
-    date: '07/04/2024 16:00'
-    daysGroup: 03/04/05/06/07
   - poster: 434840874_1074737570291419_6545740953538692485_n.jpeg
     city: São Paulo
     date: '14/04/2024 19:30'
@@ -273,20 +263,11 @@ gigs:
     date: '22/06/2024 18:00'
     daysGroup: 21/22/23
     ticketsUrl: 'https://www.ingresse.com/the-obsessed/'
-  - poster: 434917641_801439045183193_5082738383460587325_n.jpeg
-    city: Sorocaba
-    date: '07/04/2024 17:00'
-    daysGroup: 03/04/05/06/07
   - poster: 434961028_438160782062809_3251671167933713659_n.jpeg
     city: São Paulo
     date: '19/04/2024 19:00'
     daysGroup: 18/19/20/21/22/23
     ticketsUrl: 'https://www.clubedoingresso.com/evento/showgaragefuzz'
-  - poster: 434434001_1795864770825281_8640135555188247032_n.jpeg
-    city: São José dos Campos
-    date: '07/04/2024 17:00'
-    daysGroup: 03/04/05/06/07
-    ticketsUrl: 'https://www.sympla.com.br/evento/black-pantera-no-hocus-pocus/2385495'
   - poster: 435336920_962150009247806_8088327145214203831_n.jpg
     city: Botucatu
     date: '04/05/2024 20:00'

@@ -2547,5 +2547,24 @@ gigs:
     daysGroup: 03/04/05/06/07
     ticketsUrl: >-
       https://www.sympla.com.br/evento/bufo-borealis-lamar-ao-vivo-no-74club/2400833
+  - poster: estamos_aqui_fest.jpg
+    city: São Paulo
+    date: '07/04/2024 15:00'
+    daysGroup: 03/04/05/06/07
+    ticketsUrl: >-
+      https://www.eventbrite.com.br/e/1o-estamos-aqui-tickets-860250772217?aff=oddtdtcreator
+  - poster: 435052987_18260324926234316_7382872937689819885_n.jpg
+    city: Osasco
+    date: '07/04/2024 16:00'
+    daysGroup: 03/04/05/06/07
+  - poster: 434917641_801439045183193_5082738383460587325_n.jpeg
+    city: Sorocaba
+    date: '07/04/2024 17:00'
+    daysGroup: 03/04/05/06/07
+  - poster: 434434001_1795864770825281_8640135555188247032_n.jpeg
+    city: São José dos Campos
+    date: '07/04/2024 17:00'
+    daysGroup: 03/04/05/06/07
+    ticketsUrl: 'https://www.sympla.com.br/evento/black-pantera-no-hocus-pocus/2385495'
 ---
 
