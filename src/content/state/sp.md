@@ -372,5 +372,26 @@ gigs:
     city: São Paulo
     date: '27/04/2024 15:00'
     daysGroup: 25/26/27/28/29/30
+  - poster: 436329389_932723381628528_527849210547003685_n.jpeg
+    city: São Paulo
+    date: '11/05/2024 20:00'
+    daysGroup: 09/10/11/12
+    ticketsUrl: 'https://www.sympla.com.br/evento/festa-hell-oh-dear-autoramas/2414788'
+  - poster: 423716091_17963864072733369_1555135687417787264_n.jpg
+    city: São Paulo
+    date: '03/05/2024 21:00'
+    daysGroup: 01/02/03/04/05
+  - poster: 435828875_789456899443321_2493933601507397163_n.jpeg
+    city: Itu
+    date: '04/05/2024 18:00'
+    daysGroup: 01/02/03/04/05
+  - poster: 436549146_435418998857239_6777378062668013117_n.jpg
+    city: São Paulo
+    date: '26/04/2024 20:00'
+    daysGroup: 25/26/27/28/29/30
+  - poster: 434716618_8283938914955899_3674010024537310048_n.jpg
+    city: São Paulo
+    date: '13/04/2024 20:00'
+    daysGroup: 09/10/11/12/13/14
 ---
 
