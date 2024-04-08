@@ -49,5 +49,10 @@ gigs:
     city: Curitiba
     date: '03/05/2024 18:00'
     daysGroup: 03/04/05
+  - poster: ponta_grossa_profetas_caos_24.jpeg
+    city: Ponta Grossa
+    date: '31/05/2024 19:00'
+    daysGroup: 30/31
+    ticketsUrl: 'https://www.sympla.com.br/evento/nervochaos-orthostat-grotesco/2402137'
 ---
 
