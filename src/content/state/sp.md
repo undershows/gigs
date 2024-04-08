@@ -131,7 +131,7 @@ gigs:
     daysGroup: 25/26/27/28/29/30
   - poster: 432917875_903060068492086_6425648223446182307_n.jpg
     city: Leme
-    date: '20/04/2024 15:00'
+    date: '23/04/2024 15:00'
     daysGroup: 18/19/20/21/22/23
   - poster: 434149592_1112553236443371_1730872517776889531_n.jpg
     city: Batatais
@@ -207,9 +207,9 @@ gigs:
     date: '13/04/2024 16:00'
     daysGroup: 09/10/11/12/13/14
     ticketsUrl: 'https://www.hoppin.com.br/smashitup'
-  - poster: 432917875_903060068492086_6425648223446182307_n.jpg
-    city: São Paulo
-    date: '23/04/2024 15:00'
+  - poster: 433995718_1432531464021302_7381160410004949574_n.jpeg
+    city: Leme
+    date: '20/04/2024 19:00'
     daysGroup: 18/19/20/21/22/23
   - poster: 431580884_1216954796379331_6691154876655517417_n.jpg
     city: São Paulo
@@ -337,5 +337,40 @@ gigs:
     city: Americana
     date: '20/04/2024 12:00'
     daysGroup: 18/19/20/21/22/23
+  - poster: 435192250_8242860902407285_1280357412880410646_n.jpg
+    city: Santo André
+    date: '09/04/2024 19:00'
+    daysGroup: 09/10/11/12/13/14
+    ticketsUrl: 'https://pixelticket.com.br/eventos/19819/matrak-attak-crust-punk-italy-france-e-social-chaos/ingressos'
+  - poster: 437023511_285023984648563_2002777941760385176_n.jpeg
+    city: Santos
+    date: '11/05/2024 20:00'
+    daysGroup: 09/10/11/12
+  - poster: 435113467_18219355696263705_2553179225496696992_n.jpg
+    city: São Paulo
+    date: '08/11/2024 19:00'
+    daysGroup: 08/09/10
+    ticketsUrl: 'https://www.sympla.com.br/evento/cirith-ungol-nightdemon-hellish-war-chumbo/2366428'
+  - poster: 435860755_833048205326932_6603494887668354393_n.jpeg
+    city: Jundiaí
+    date: '27/04/2024 15:00'
+    daysGroup: 25/26/27/28/29/30
+  - poster: 435215259_1671426317015983_5849953032475628322_n.jpeg
+    city: São Paulo
+    date: '13/04/2024 16:00'
+    daysGroup: 09/10/11/12/13/14
+  - poster: 434899412_1127540254943197_6045919285977942039_n.jpeg
+    city: São Paulo
+    date: '14/04/2024 15:00'
+    daysGroup: 09/10/11/12/13/14
+  - poster: 435236459_1460310031533635_8402540043601506060_n.jpeg
+    city: Taubaté
+    date: '05/05/2024 17:00'
+    daysGroup: 01/02/03/04/05
+    ticketsUrl: 'https://www.sympla.com.br/evento/basttardz-caosmaria-e-beneath-em-taubate-lapa-public-house/2407874'
+  - poster: 434950377_1168689117598503_747091242724618319_n.jpg
+    city: São Paulo
+    date: '27/04/2024 15:00'
+    daysGroup: 25/26/27/28/29/30
 ---
 
