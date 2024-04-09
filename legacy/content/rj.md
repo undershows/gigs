@@ -159,5 +159,11 @@ gigs:
     city: Rio de Janeiro
     date: '07/04/2024 16:20'
     daysGroup: 05/06/07/08
+  - poster: 434228422_4455048444720142_3102390770950031318_n.jpg
+    city: Niterói
+    date: '08/04/2024 19:00'
+    daysGroup: 05/06/07/08
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/matrak-attakk-italia-pek0-vitorvulgo/2391520
 ---
 

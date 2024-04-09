@@ -30,12 +30,6 @@ gigs:
     date: '22/06/2024 20:00'
     daysGroup: 21/22/23
     ticketsUrl: 'https://articket.com.br/e/1948/bayside-kings-plastic-fire'
-  - poster: 434228422_4455048444720142_3102390770950031318_n.jpg
-    city: Niterói
-    date: '08/04/2024 19:00'
-    daysGroup: 05/06/07/08
-    ticketsUrl: >-
-      https://www.sympla.com.br/evento/matrak-attakk-italia-pek0-vitorvulgo/2391520
   - poster: 428598917_800255351915850_6072974435062191152_n.jpg
     city: Rio de Janeiro
     date: '13/04/2024 18:00'
