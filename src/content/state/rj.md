@@ -60,5 +60,10 @@ gigs:
     city: Rio de Janeiro
     date: '20/04/2024 21:00'
     daysGroup: 19/20/21
+  - poster: 435633611_339836855758023_3350968860374496667_n.jpeg
+    city: Rio de Janeiro
+    date: '25/05/2024 16:00'
+    daysGroup: 24/25/26
+    ticketsUrl: 'https://www.eventim.com.br/event/shamangra-no-circo-voador-circo-voador-18550579/'
 ---
 

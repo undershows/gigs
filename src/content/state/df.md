@@ -12,9 +12,10 @@ gigs:
     date: '07/09/2024 18:00'
     daysGroup: 06/07/08
   - poster: 434210703_776702817719300_7571631902789513190_n.jpeg
-    city: Brasília
+    city: Guará
     date: '20/04/2024 17:00'
     daysGroup: 19/20/21
+    ticketsUrl: 'https://www.sympla.com.br/evento/possuido-pelo-cao/2397092'
   - poster: FB_IMG_1712279825486.jpg
     city: Guará II
     date: '13/04/2024 19:00'
@@ -23,5 +24,14 @@ gigs:
     city: Ceilândia
     date: '01/05/2024 15:00'
     daysGroup: 01/02
+  - poster: 435347890_366005399728166_5525648491619331057_n.jpg
+    city: Brasília
+    date: '30/04/2024 19:00'
+    daysGroup: 26/27/28/29/30
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/carcass-toinhabrasil'
+  - poster: 434863381_3750161901897781_6430778911739127503_n.jpg
+    city: Recanto das Emas
+    date: '13/04/2024 16:00'
+    daysGroup: 12/13/14
 ---
 
