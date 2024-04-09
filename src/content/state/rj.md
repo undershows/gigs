@@ -65,5 +65,10 @@ gigs:
     date: '25/05/2024 16:00'
     daysGroup: 24/25/26
     ticketsUrl: 'https://www.eventim.com.br/event/shamangra-no-circo-voador-circo-voador-18550579/'
+  - poster: 436588002_944094980341576_4729942850257484999_n.jpeg
+    city: Rio de Janeiro
+    date: '13/04/2024 20:00'
+    daysGroup: 12/13/14
+    ticketsUrl: 'https://www.sympla.com.br/evento/eskrota-impietus-horrificia-bicuda/2320625'
 ---
 

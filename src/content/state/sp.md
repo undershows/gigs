@@ -66,6 +66,7 @@ gigs:
     city: Santo André
     date: '08/06/2024 20:00'
     daysGroup: 06/07/08/09
+    ticketsUrl: 'https://pixelticket.com.br/eventos/20278/nervochaos-e-satanatos'
   - poster: FB_IMG_1711017057318-724x1024.jpg
     city: Marília
     date: '05/05/2024 18:00'
@@ -421,5 +422,25 @@ gigs:
     city: Agudos
     date: '20/04/2024 18:00'
     daysGroup: 18/19/20/21/22/23
+  - poster: 436332578_2075556882827086_4825454717417995325_n.jpeg
+    city: Sumaré
+    date: '04/05/2024 20:00'
+    daysGroup: 01/02/03/04/05
+  - poster: 435115925_18016768277191359_148657608794497424_n.jpg
+    city: São Paulo
+    date: '05/05/2024 16:00'
+    daysGroup: 01/02/03/04/05
+  - poster: 436233355_1122421842419973_2896812447290870855_n.jpg
+    city: São Paulo
+    date: '27/04/2024 19:00'
+    daysGroup: 25/26/27/28/29/30
+  - poster: 435165468_18320241220133589_294436158470304841_n.jpg
+    city: Indaiatuba
+    date: '13/04/2024 18:00'
+    daysGroup: 09/10/11/12/13/14
+  - poster: 434822347_920795873385172_5597606999524703222_n.jpg
+    city: São Paulo
+    date: '10/04/2024 17:00'
+    daysGroup: 09/10/11/12/13/14
 ---
 

@@ -54,5 +54,9 @@ gigs:
     date: '31/05/2024 19:00'
     daysGroup: 30/31
     ticketsUrl: 'https://www.sympla.com.br/evento/nervochaos-orthostat-grotesco/2402137'
+  - poster: 434976159_18287043196160339_8298740457747813028_n.jpg
+    city: Foz do Iguaçu
+    date: '13/04/2024 21:00'
+    daysGroup: 09/10/11/12/13/14
 ---
 
