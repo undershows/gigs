@@ -219,7 +219,7 @@ gigs:
     ticketsUrl: 'https://www.ingresse.com/karate-sp/'
   - poster: 432453319_949087016741956_4680368393866297596_n.jpg
     city: Campo Limpo Paulista
-    date: '13/04/2024 18:00'
+    date: '13/04/2024 14:00'
     daysGroup: 09/10/11/12/13/14
   - poster: 434840874_1074737570291419_6545740953538692485_n.jpeg
     city: São Paulo
@@ -433,6 +433,31 @@ gigs:
   - poster: 434822347_920795873385172_5597606999524703222_n.jpg
     city: São Paulo
     date: '10/04/2024 17:00'
+    daysGroup: 09/10/11/12/13/14
+  - poster: 436430283_7819655121380711_7382755313066739064_n.jpg
+    city: São Paulo
+    date: '16/06/2024 11:00'
+    daysGroup: 14/15/16
+  - poster: 436351669_7819651471381076_3553914351961894147_n.jpg
+    city: São Paulo
+    date: '19/04/2024 20:00'
+    daysGroup: 18/19/20/21/22/23
+  - poster: 437055882_965982867970978_1393301522307534995_n.jpeg
+    city: São Paulo
+    date: '18/05/2024 18:00'
+    daysGroup: 16/17/18/19
+  - poster: 426722804_18255829192230291_3482758074123473958_n.jpg
+    city: São Paulo
+    date: '27/04/2024 17:00'
+    daysGroup: 25/26/27/28/29/30
+    ticketsUrl: 'https://pixelticket.com.br/eventos/18560/converge'
+  - poster: 435555559_340657622331400_2053114031395986990_n.jpg
+    city: São Paulo
+    date: '19/04/2024 18:30'
+    daysGroup: 18/19/20/21/22/23
+  - poster: 435860746_451250160578625_3314468987213048614_n.jpg
+    city: Jundiaí
+    date: '14/04/2024 18:00'
     daysGroup: 09/10/11/12/13/14
 ---
 
