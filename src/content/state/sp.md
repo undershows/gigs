@@ -12,11 +12,6 @@ gigs:
     city: Santo André
     date: '25/05/2024 16:00'
     daysGroup: 23/24/25/26
-  - poster: 426636283_7141773049277054_147547108893619454_n.jpg
-    city: Campinas
-    date: '09/04/2024 18:00'
-    daysGroup: 09/10/11/12/13/14
-    ticketsUrl: 'https://www.sympla.com.br/evento/master-escarnium-e-lethal-charge/2328227'
   - poster: 430848187_18402781762067518_3419502131339350366_n_1080.jpg
     city: São Paulo
     date: '04/05/2024 19:00'
@@ -338,11 +333,6 @@ gigs:
     city: Americana
     date: '20/04/2024 12:00'
     daysGroup: 18/19/20/21/22/23
-  - poster: 435192250_8242860902407285_1280357412880410646_n.jpg
-    city: Santo André
-    date: '09/04/2024 19:00'
-    daysGroup: 09/10/11/12/13/14
-    ticketsUrl: 'https://pixelticket.com.br/eventos/19819/matrak-attak-crust-punk-italy-france-e-social-chaos/ingressos'
   - poster: 437023511_285023984648563_2002777941760385176_n.jpeg
     city: Santos
     date: '11/05/2024 20:00'
@@ -351,7 +341,8 @@ gigs:
     city: São Paulo
     date: '08/11/2024 19:00'
     daysGroup: 08/09/10
-    ticketsUrl: 'https://www.sympla.com.br/evento/cirith-ungol-nightdemon-hellish-war-chumbo/2366428'
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/cirith-ungol-nightdemon-hellish-war-chumbo/2366428
   - poster: 435860755_833048205326932_6603494887668354393_n.jpeg
     city: Jundiaí
     date: '27/04/2024 15:00'
@@ -368,7 +359,8 @@ gigs:
     city: Taubaté
     date: '05/05/2024 17:00'
     daysGroup: 01/02/03/04/05
-    ticketsUrl: 'https://www.sympla.com.br/evento/basttardz-caosmaria-e-beneath-em-taubate-lapa-public-house/2407874'
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/basttardz-caosmaria-e-beneath-em-taubate-lapa-public-house/2407874
   - poster: 434950377_1168689117598503_747091242724618319_n.jpg
     city: São Paulo
     date: '27/04/2024 15:00'

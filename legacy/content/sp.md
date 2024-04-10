@@ -2566,5 +2566,16 @@ gigs:
     date: '07/04/2024 17:00'
     daysGroup: 03/04/05/06/07
     ticketsUrl: 'https://www.sympla.com.br/evento/black-pantera-no-hocus-pocus/2385495'
+  - poster: 426636283_7141773049277054_147547108893619454_n.jpg
+    city: Campinas
+    date: '09/04/2024 18:00'
+    daysGroup: 09/10/11/12/13/14
+    ticketsUrl: 'https://www.sympla.com.br/evento/master-escarnium-e-lethal-charge/2328227'
+  - poster: 435192250_8242860902407285_1280357412880410646_n.jpg
+    city: Santo André
+    date: '09/04/2024 19:00'
+    daysGroup: 09/10/11/12/13/14
+    ticketsUrl: >-
+      https://pixelticket.com.br/eventos/19819/matrak-attak-crust-punk-italy-france-e-social-chaos/ingressos
 ---
 
