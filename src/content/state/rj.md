@@ -38,8 +38,9 @@ gigs:
       https://www.sympla.com.br/evento/hatefulmurder-sangue-de-bode-inraza-lumnia/2346006
   - poster: 434331355_18388324495074586_4137079446901404080_n.jpg
     city: Rio de Janeiro
-    date: '14/04/2024 18:00'
+    date: '14/04/2024 10:00'
     daysGroup: 12/13/14
+    ticketsUrl: 'https://www.sympla.com.br/evento/efusiva-fest-iii/2374822'
   - poster: 434311395_297145870071211_4018158603546264430_n.jpeg
     city: Rio de Janeiro
     date: '07/06/2024 19:00'

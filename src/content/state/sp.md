@@ -312,9 +312,10 @@ gigs:
     date: '27/04/2024 21:00'
     daysGroup: 25/26/27/28/29/30
   - poster: 435333956_1848861932222087_6805434695892942294_n.jpeg
-    city: São Paulo
+    city: Campinas
     date: '13/04/2024 18:00'
     daysGroup: 09/10/11/12/13/14
+    ticketsUrl: 'https://erapaytickets.com/maguerbes-e-cura-rec-studio-bar__8528/'
   - poster: 434880699_792143318991342_202738750191919940_n.jpg
     city: Várzea Paulista
     date: '01/05/2024 17:00'
@@ -430,6 +431,7 @@ gigs:
     city: Indaiatuba
     date: '13/04/2024 18:00'
     daysGroup: 09/10/11/12/13/14
+    ticketsUrl: 'https://www.sympla.com.br/evento/gritando-hxcx-30-anos-em-indaiatuba-sp/2387249'
   - poster: 434822347_920795873385172_5597606999524703222_n.jpg
     city: São Paulo
     date: '10/04/2024 17:00'
@@ -459,5 +461,10 @@ gigs:
     city: Jundiaí
     date: '14/04/2024 18:00'
     daysGroup: 09/10/11/12/13/14
+  - poster: 429806615_18023855681000467_5680761411169159111_n.jpg
+    city: Campinas
+    date: '20/04/2024 18:00'
+    daysGroup: 18/19/20/21/22/23
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/hammersessions-campinas'
 ---
 
