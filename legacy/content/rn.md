@@ -111,5 +111,9 @@ gigs:
     date: '07/04/2024 18:00'
     daysGroup: 05/06/07
     ticketsUrl: 'https://bilheto.com.br/comprar/2096/angra-rn'
+  - poster: 434843303_766862322060352_2070546564597673414_n.jpeg
+    city: Mossoró
+    date: '10/04/2024 18:00'
+    daysGroup: 10/11/12/13/14
 ---
 

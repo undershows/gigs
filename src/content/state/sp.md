@@ -167,11 +167,6 @@ gigs:
     city: São Paulo
     date: '01/06/2024 17:00'
     daysGroup: 01/02
-  - poster: 434246665_1494888561064649_3829173162723674405_n.jpeg
-    city: Bauru
-    date: '10/04/2024 19:30'
-    daysGroup: 09/10/11/12/13/14
-    ticketsUrl: 'https://bilheto.com.br/comprar/2220/master-em-bauru'
   - poster: 433112849_18283214812166315_88871365544501493_n.jpg
     city: Mauá
     date: '24/05/2024 19:00'
@@ -431,11 +426,8 @@ gigs:
     city: Indaiatuba
     date: '13/04/2024 18:00'
     daysGroup: 09/10/11/12/13/14
-    ticketsUrl: 'https://www.sympla.com.br/evento/gritando-hxcx-30-anos-em-indaiatuba-sp/2387249'
-  - poster: 434822347_920795873385172_5597606999524703222_n.jpg
-    city: São Paulo
-    date: '10/04/2024 17:00'
-    daysGroup: 09/10/11/12/13/14
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/gritando-hxcx-30-anos-em-indaiatuba-sp/2387249
   - poster: 436430283_7819655121380711_7382755313066739064_n.jpg
     city: São Paulo
     date: '16/06/2024 11:00'

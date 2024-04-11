@@ -2577,5 +2577,14 @@ gigs:
     daysGroup: 09/10/11/12/13/14
     ticketsUrl: >-
       https://pixelticket.com.br/eventos/19819/matrak-attak-crust-punk-italy-france-e-social-chaos/ingressos
+  - poster: 434246665_1494888561064649_3829173162723674405_n.jpeg
+    city: Bauru
+    date: '10/04/2024 19:30'
+    daysGroup: 09/10/11/12/13/14
+    ticketsUrl: 'https://bilheto.com.br/comprar/2220/master-em-bauru'
+  - poster: 434822347_920795873385172_5597606999524703222_n.jpg
+    city: São Paulo
+    date: '10/04/2024 17:00'
+    daysGroup: 09/10/11/12/13/14
 ---
 
