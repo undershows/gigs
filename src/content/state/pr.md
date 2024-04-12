@@ -2,11 +2,6 @@
 abbr: PR
 name: Paraná
 gigs:
-  - poster: 426606783_7141774615943564_3118240064595198621_n.jpg
-    city: Londrina
-    date: '11/04/2024 19:30'
-    daysGroup: 11/12/13/14
-    ticketsUrl: 'https://bilheto.com.br/comprar/2015/Master-e-Escarnium'
   - poster: 428611066_797140522441373_7763513656686433665_n.jpg
     city: Curitiba
     date: '20/06/2024 21:00'
