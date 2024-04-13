@@ -2590,5 +2590,10 @@ gigs:
     city: São Paulo
     date: '11/04/2024 21:00'
     daysGroup: 09/10/11/12/13/14
+  - poster: 429817751_7287685177990495_4516949471080703535_n.jpg
+    city: São Paulo
+    date: '12/04/2024 18:00'
+    daysGroup: 09/10/11/12/13/14
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/leatherleone-saopaulo'
 ---
 

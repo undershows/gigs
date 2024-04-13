@@ -28,11 +28,6 @@ gigs:
     date: '18/04/2024 19:00'
     daysGroup: 18/19/20/21/22/23
     ticketsUrl: 'https://www.ticket360.com.br/evento/27888/ingressos-para-megadeth'
-  - poster: 429817751_7287685177990495_4516949471080703535_n.jpg
-    city: São Paulo
-    date: '12/04/2024 18:00'
-    daysGroup: 09/10/11/12/13/14
-    ticketsUrl: 'https://www.clubedoingresso.com/evento/leatherleone-saopaulo'
   - poster: 431525437_3692619941009419_5244187636168166923_n.jpg
     city: São Paulo
     date: '09/06/2024 14:00'
