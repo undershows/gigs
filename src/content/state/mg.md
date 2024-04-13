@@ -47,5 +47,20 @@ gigs:
     city: Uberaba
     date: '11/05/2024 18:00'
     daysGroup: 12/13/14
+  - poster: 437783465_976779797350894_906093469647491355_n.jpeg
+    city: Belo Horizonte
+    date: '11/08/2024 17:00'
+    daysGroup: 09/10/11
+    ticketsUrl: 'https://bilheto.com.br/comprar/2023/batushka'
+  - poster: 437803235_957843878926239_2077572146879813377_n.jpeg
+    city: Belo Horizonte
+    date: '22/05/2024 18:00'
+    daysGroup: 18/19/20/21/22
+    ticketsUrl: 'https://www.bilheto.com.br/comprar/2146/napalm-death'
+  - poster: 437778097_1139907330693913_3482651407327768481_n.jpeg
+    city: Belo Horizonte
+    date: '14/03/2025 19:00'
+    daysGroup: 14/15/16
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/gutalax-belohorizonte'
 ---
 

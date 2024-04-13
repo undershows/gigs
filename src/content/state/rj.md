@@ -71,5 +71,13 @@ gigs:
     date: '13/04/2024 20:00'
     daysGroup: 12/13/14
     ticketsUrl: 'https://www.sympla.com.br/evento/eskrota-impietus-horrificia-bicuda/2320625'
+  - poster: 437585101_982226573302565_2687781348344977087_n.jpeg
+    city: Campos dos Goytacazes 
+    date: '13/07/2024 18:00'
+    daysGroup: 12/13/14
+  - poster: 437339316_1412518986043063_1965274297037480346_n.jpeg
+    city: Rio de Janeiro
+    date: '01/11/2024 19:00'
+    daysGroup: 01/02/03
 ---
 

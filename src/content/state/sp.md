@@ -117,10 +117,6 @@ gigs:
     date: '14/04/2024 16:00'
     daysGroup: 09/10/11/12/13/14
     ticketsUrl: 'https://www.sympla.com.br/evento/ska-na-paskoa/2388121'
-  - poster: 434035373_3568204280061630_2626156847096295145_n.jpeg
-    city: São Paulo
-    date: '19/04/2024 20:00'
-    daysGroup: 18/19/20/21/22/23
   - poster: 434034972_331813006543228_6284339643932530289_n.jpeg
     city: São Paulo
     date: '26/04/2024 19:00'
@@ -454,5 +450,58 @@ gigs:
     date: '20/04/2024 18:00'
     daysGroup: 18/19/20/21/22/23
     ticketsUrl: 'https://www.clubedoingresso.com/evento/hammersessions-campinas'
+  - poster: 435120451_18317107702121660_8925803506965315760_n.jpg
+    city: São Paulo
+    date: '04/05/2024 13:00'
+    daysGroup: 01/02/03/04/05
+  - poster: 437783461_794844275520482_8443482418657512528_n.jpeg
+    city: São Paulo
+    date: '13/07/2024 13:00'
+    daysGroup: 12/13/14
+  - poster: 437329041_942441224556323_3830575192719907564_n.jpeg
+    city: Osasco
+    date: '28/04/2024 16:00'
+    daysGroup: 25/26/27/28/29/30
+  - poster: 435057151_18025201163062063_6808389614364602835_n.jpg
+    city: São Paulo
+    date: '20/04/2024 18:00'
+    daysGroup: 18/19/20/21/22/23
+  - poster: 435875307_670773728469776_8404476679594138426_n.jpeg
+    city: Várzea Paulista
+    date: '20/04/2024 19:00'
+    daysGroup: 18/19/20/21/22/23
+  - poster: 435073886_17893710843003023_8746314711742307530_n.jpg
+    city: São Paulo
+    date: '01/05/2024 17:00'
+    daysGroup: 01/02/03/04/05
+  - poster: 437789515_1186460232719430_2866805141690934471_n.jpg
+    city: São Paulo
+    date: '02/11/2024 16:00'
+    daysGroup: 01/02/03
+  - poster: 435773838_18426770683061957_6074027590268701923_n.jpg
+    city: São Paulo
+    date: '13/04/2024 18:00'
+    daysGroup: 09/10/11/12/13/14
+    ticketsUrl: 'https://www.sympla.com.br/evento/black-mantra-no-74club/2411083'
+  - poster: 437283925_744074031145909_5470397690214697235_n.jpeg
+    city: São Paulo
+    date: '13/04/2024 17:00'
+    daysGroup: 09/10/11/12/13/14
+  - poster: 435746963_857036286182602_744712184721632671_n.jpeg
+    city: Santos
+    date: '18/05/2024 21:00'
+    daysGroup: 16/17/18/19
+  - poster: 437220302_300141169643694_7355523027824685401_n.jpeg
+    city: São José dos Campos
+    date: '09/06/2024 17:00'
+    daysGroup: 06/07/08/09
+  - poster: 437653175_1240455544027519_4913741972962090542_n.jpg
+    city: Bauru
+    date: '28/04/2024 19:00'
+    daysGroup: 25/26/27/28/29/30
+  - poster: 437140533_440329581701593_3492624179838790896_n.jpeg
+    city: São Paulo
+    date: '25/05/2024 18:00'
+    daysGroup: 23/24/25/26
 ---
 

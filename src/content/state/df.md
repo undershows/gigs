@@ -33,5 +33,9 @@ gigs:
     city: Recanto das Emas
     date: '13/04/2024 16:00'
     daysGroup: 12/13/14
+  - poster: 435651721_2708078686016781_5142692081280534193_n.jpg
+    city: Brasília
+    date: '11/05/2024 18:00'
+    daysGroup: 10/11/12
 ---
 
