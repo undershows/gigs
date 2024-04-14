@@ -165,5 +165,23 @@ gigs:
     daysGroup: 05/06/07/08
     ticketsUrl: >-
       https://www.sympla.com.br/evento/matrak-attakk-italia-pek0-vitorvulgo/2391520
+  - poster: 429139766_302960342478110_3891542638670458818_n.jpg
+    city: Rio de Janeiro
+    date: '13/04/2024 20:00'
+    daysGroup: 12/13/14
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/fogo-na-zonal-sul-2-valvera-sp-forkill-lowd-gadelha-superdrive/2339819
+  - poster: 428598917_800255351915850_6072974435062191152_n.jpg
+    city: Rio de Janeiro
+    date: '13/04/2024 18:00'
+    daysGroup: 12/13/14
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/hatefulmurder-sangue-de-bode-inraza-lumnia/2346006
+  - poster: 436588002_944094980341576_4729942850257484999_n.jpeg
+    city: Rio de Janeiro
+    date: '13/04/2024 20:00'
+    daysGroup: 12/13/14
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/eskrota-impietus-horrificia-bicuda/2320625
 ---
 

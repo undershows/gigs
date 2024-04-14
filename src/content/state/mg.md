@@ -22,11 +22,6 @@ gigs:
     date: '08/10/2024 18:00'
     daysGroup: 04/05/06/07/08
     ticketsUrl: 'https://www.bilheto.com.br/comprar/2265/lucifer-mg'
-  - poster: 435005758_451198213904794_1638309637297290605_n.jpeg
-    city: Juíz de Fora
-    date: '13/04/2024 14:00'
-    daysGroup: 12/13/14
-    ticketsUrl: 'https://www.vakinha.com.br/vaquinha/feminikaos-64-nunca-mais'
   - poster: 432766433_1180675900041689_8714343605943988387_n.jpg
     city: Uberlândia
     date: '26/05/2024 17:00'

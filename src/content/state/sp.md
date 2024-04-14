@@ -79,10 +79,6 @@ gigs:
     date: '23/05/2024 16:00'
     daysGroup: 23/24/25/26
     ticketsUrl: 'https://www.sympla.com.br/evento/nightfall-heia-desdominus/2382644'
-  - poster: timebomb_rock_together.jpg
-    city: São Paulo
-    date: '13/04/2024 18:00'
-    daysGroup: 09/10/11/12/13/14
   - poster: 419244534_10233541230735523_3030333027914672784_n.jpg
     city: Praia Grande
     date: '21/04/2024 15:00'
@@ -162,10 +158,6 @@ gigs:
     city: Mauá
     date: '24/05/2024 19:00'
     daysGroup: 23/24/25/26
-  - poster: 432925259_18283214797166315_3200926321295849537_n.jpg
-    city: Santo André
-    date: '13/04/2024 13:00'
-    daysGroup: 09/10/11/12/13/14
   - poster: 434197255_18423534145007631_4050075109606656051_n.jpg
     city: São Paulo
     date: '26/04/2024 21:00'
@@ -174,17 +166,6 @@ gigs:
     city: Santos
     date: '20/04/2024 21:00'
     daysGroup: 18/19/20/21/22/23
-  - poster: 433042500_1249659376007276_5752266565172957056_n.jpeg
-    city: São Paulo
-    date: '13/04/2024 19:00'
-    daysGroup: 09/10/11/12/13/14
-    ticketsUrl: >-
-      https://www.sympla.com.br/evento/infamous-glory-nameless-gods-rotten-entrails-na-fenda/2373490
-  - poster: 430397173_1464458887838283_7341664308642314183_n.jpeg
-    city: São Paulo
-    date: '13/04/2024 16:00'
-    daysGroup: 09/10/11/12/13/14
-    ticketsUrl: 'https://www.hoppin.com.br/smashitup'
   - poster: 433995718_1432531464021302_7381160410004949574_n.jpeg
     city: Leme
     date: '20/04/2024 19:00'
@@ -199,10 +180,6 @@ gigs:
     date: '18/08/2024 19:00'
     daysGroup: 16/17/18
     ticketsUrl: 'https://www.ingresse.com/karate-sp/'
-  - poster: 432453319_949087016741956_4680368393866297596_n.jpg
-    city: Campo Limpo Paulista
-    date: '13/04/2024 14:00'
-    daysGroup: 09/10/11/12/13/14
   - poster: 434840874_1074737570291419_6545740953538692485_n.jpeg
     city: São Paulo
     date: '14/04/2024 19:30'
@@ -216,10 +193,6 @@ gigs:
     date: '21/04/2024 17:00'
     daysGroup: 18/19/20/21/22/23
     ticketsUrl: 'https://www.sympla.com.br/evento/acao-direta-bad-taste-e-vo-tonha/2400449'
-  - poster: 434815934_1856027281544501_5508034085369387826_n.jpg
-    city: São Paulo
-    date: '13/04/2024 19:00'
-    daysGroup: 09/10/11/12/13/14
   - poster: 434208852_302715996184044_2978831953778341169_n.jpeg
     city: São Paulo
     date: '16/05/2024 14:00'
@@ -272,11 +245,6 @@ gigs:
     city: São José dos Campos
     date: '05/05/2024 18:00'
     daysGroup: 01/02/03/04/05
-  - poster: 435233088_1429022477979376_839016662914425756_n.jpg
-    city: São Paulo
-    date: '13/04/2024 19:00'
-    daysGroup: 09/10/11/12/13/14
-    ticketsUrl: 'https://pixelticket.com.br/eventos/20395/becold-show-de-aniversario'
   - poster: 435246765_17878962312048719_1809705049119668091_n.jpg
     city: São Paulo
     date: '15/06/2024 20:00'
@@ -293,11 +261,6 @@ gigs:
     city: São Paulo
     date: '27/04/2024 21:00'
     daysGroup: 25/26/27/28/29/30
-  - poster: 435333956_1848861932222087_6805434695892942294_n.jpeg
-    city: Campinas
-    date: '13/04/2024 18:00'
-    daysGroup: 09/10/11/12/13/14
-    ticketsUrl: 'https://erapaytickets.com/maguerbes-e-cura-rec-studio-bar__8528/'
   - poster: 434880699_792143318991342_202738750191919940_n.jpg
     city: Várzea Paulista
     date: '01/05/2024 17:00'
@@ -330,10 +293,6 @@ gigs:
     city: Jundiaí
     date: '27/04/2024 15:00'
     daysGroup: 25/26/27/28/29/30
-  - poster: 435215259_1671426317015983_5849953032475628322_n.jpeg
-    city: São Paulo
-    date: '13/04/2024 16:00'
-    daysGroup: 09/10/11/12/13/14
   - poster: 434899412_1127540254943197_6045919285977942039_n.jpeg
     city: São Paulo
     date: '14/04/2024 15:00'
@@ -365,18 +324,6 @@ gigs:
     city: São Paulo
     date: '26/04/2024 20:00'
     daysGroup: 25/26/27/28/29/30
-  - poster: 434716618_8283938914955899_3674010024537310048_n.jpg
-    city: São Paulo
-    date: '13/04/2024 20:00'
-    daysGroup: 09/10/11/12/13/14
-  - poster: 435052926_18320208553134150_6779061447812265795_n.jpg
-    city: São Paulo
-    date: '13/04/2024 20:00'
-    daysGroup: 09/10/11/12/13/14
-  - poster: 435746979_1142908366749751_2380956562970772089_n.jpeg
-    city: Sumaré
-    date: '13/04/2024 20:00'
-    daysGroup: 09/10/11/12/13/14
   - poster: 435805319_1197994251576135_392163897001437031_n.jpeg
     city: Taubaté
     date: '26/04/2024 20:00'
@@ -409,12 +356,6 @@ gigs:
     city: São Paulo
     date: '27/04/2024 19:00'
     daysGroup: 25/26/27/28/29/30
-  - poster: 435165468_18320241220133589_294436158470304841_n.jpg
-    city: Indaiatuba
-    date: '13/04/2024 18:00'
-    daysGroup: 09/10/11/12/13/14
-    ticketsUrl: >-
-      https://www.sympla.com.br/evento/gritando-hxcx-30-anos-em-indaiatuba-sp/2387249
   - poster: 436430283_7819655121380711_7382755313066739064_n.jpg
     city: São Paulo
     date: '16/06/2024 11:00'
@@ -473,15 +414,6 @@ gigs:
     city: São Paulo
     date: '02/11/2024 16:00'
     daysGroup: 01/02/03
-  - poster: 435773838_18426770683061957_6074027590268701923_n.jpg
-    city: São Paulo
-    date: '13/04/2024 18:00'
-    daysGroup: 09/10/11/12/13/14
-    ticketsUrl: 'https://www.sympla.com.br/evento/black-mantra-no-74club/2411083'
-  - poster: 437283925_744074031145909_5470397690214697235_n.jpeg
-    city: São Paulo
-    date: '13/04/2024 17:00'
-    daysGroup: 09/10/11/12/13/14
   - poster: 435746963_857036286182602_744712184721632671_n.jpeg
     city: Santos
     date: '18/05/2024 21:00'

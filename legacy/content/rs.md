@@ -91,5 +91,9 @@ gigs:
     date: '07/04/2024 18:00'
     daysGroup: 05/06/07
     ticketsUrl: 'https://www.sympla.com.br/evento/no-rest-silenzio-statico/2387542'
+  - poster: 434214050_3761639104160162_7850423902261082107_n.jpeg
+    city: Rio Grande
+    date: '13/04/2024 19:00'
+    daysGroup: 12/13/14
 ---
 

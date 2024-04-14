@@ -173,5 +173,13 @@ gigs:
     date: '31/03/2024 18:00'
     daysGroup: 29/30/31
     ticketsUrl: 'https://www.sympla.com.br/evento/ttt-test-teia-tour-em-brasilia/2360689'
+  - poster: FB_IMG_1712279825486.jpg
+    city: Guará II
+    date: '13/04/2024 19:00'
+    daysGroup: 12/13/14
+  - poster: 434863381_3750161901897781_6430778911739127503_n.jpg
+    city: Recanto das Emas
+    date: '13/04/2024 16:00'
+    daysGroup: 12/13/14
 ---
 

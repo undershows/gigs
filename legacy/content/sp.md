@@ -2595,5 +2595,73 @@ gigs:
     date: '12/04/2024 18:00'
     daysGroup: 09/10/11/12/13/14
     ticketsUrl: 'https://www.clubedoingresso.com/evento/leatherleone-saopaulo'
+  - poster: timebomb_rock_together.jpg
+    city: São Paulo
+    date: '13/04/2024 18:00'
+    daysGroup: 09/10/11/12/13/14
+  - poster: 432925259_18283214797166315_3200926321295849537_n.jpg
+    city: Santo André
+    date: '13/04/2024 13:00'
+    daysGroup: 09/10/11/12/13/14
+  - poster: 433042500_1249659376007276_5752266565172957056_n.jpeg
+    city: São Paulo
+    date: '13/04/2024 19:00'
+    daysGroup: 09/10/11/12/13/14
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/infamous-glory-nameless-gods-rotten-entrails-na-fenda/2373490
+  - poster: 430397173_1464458887838283_7341664308642314183_n.jpeg
+    city: São Paulo
+    date: '13/04/2024 16:00'
+    daysGroup: 09/10/11/12/13/14
+    ticketsUrl: 'https://www.hoppin.com.br/smashitup'
+  - poster: 432453319_949087016741956_4680368393866297596_n.jpg
+    city: Campo Limpo Paulista
+    date: '13/04/2024 14:00'
+    daysGroup: 09/10/11/12/13/14
+  - poster: 434815934_1856027281544501_5508034085369387826_n.jpg
+    city: São Paulo
+    date: '13/04/2024 19:00'
+    daysGroup: 09/10/11/12/13/14
+  - poster: 435233088_1429022477979376_839016662914425756_n.jpg
+    city: São Paulo
+    date: '13/04/2024 19:00'
+    daysGroup: 09/10/11/12/13/14
+    ticketsUrl: 'https://pixelticket.com.br/eventos/20395/becold-show-de-aniversario'
+  - poster: 435333956_1848861932222087_6805434695892942294_n.jpeg
+    city: Campinas
+    date: '13/04/2024 18:00'
+    daysGroup: 09/10/11/12/13/14
+    ticketsUrl: 'https://erapaytickets.com/maguerbes-e-cura-rec-studio-bar__8528/'
+  - poster: 435215259_1671426317015983_5849953032475628322_n.jpeg
+    city: São Paulo
+    date: '13/04/2024 16:00'
+    daysGroup: 09/10/11/12/13/14
+  - poster: 434716618_8283938914955899_3674010024537310048_n.jpg
+    city: São Paulo
+    date: '13/04/2024 20:00'
+    daysGroup: 09/10/11/12/13/14
+  - poster: 435052926_18320208553134150_6779061447812265795_n.jpg
+    city: São Paulo
+    date: '13/04/2024 20:00'
+    daysGroup: 09/10/11/12/13/14
+  - poster: 435746979_1142908366749751_2380956562970772089_n.jpeg
+    city: Sumaré
+    date: '13/04/2024 20:00'
+    daysGroup: 09/10/11/12/13/14
+  - poster: 435165468_18320241220133589_294436158470304841_n.jpg
+    city: Indaiatuba
+    date: '13/04/2024 18:00'
+    daysGroup: 09/10/11/12/13/14
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/gritando-hxcx-30-anos-em-indaiatuba-sp/2387249
+  - poster: 435773838_18426770683061957_6074027590268701923_n.jpg
+    city: São Paulo
+    date: '13/04/2024 18:00'
+    daysGroup: 09/10/11/12/13/14
+    ticketsUrl: 'https://www.sympla.com.br/evento/black-mantra-no-74club/2411083'
+  - poster: 437283925_744074031145909_5470397690214697235_n.jpeg
+    city: São Paulo
+    date: '13/04/2024 17:00'
+    daysGroup: 09/10/11/12/13/14
 ---
 

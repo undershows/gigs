@@ -142,5 +142,10 @@ gigs:
     daysGroup: 04/05/06/07
     ticketsUrl: >-
       https://www.sympla.com.br/evento/metalpunk-overkill-master-escarnium-podridao-matrak-attakk-preceptor-beyond-the-grave-napalm/2336731
+  - poster: 435005758_451198213904794_1638309637297290605_n.jpeg
+    city: Juíz de Fora
+    date: '13/04/2024 14:00'
+    daysGroup: 12/13/14
+    ticketsUrl: 'https://www.vakinha.com.br/vaquinha/feminikaos-64-nunca-mais'
 ---
 

@@ -244,5 +244,17 @@ gigs:
     date: '11/04/2024 19:30'
     daysGroup: 11/12/13/14
     ticketsUrl: 'https://bilheto.com.br/comprar/2015/Master-e-Escarnium'
+  - poster: 434897865_1158693451688743_2187214045143391383_n.jpeg
+    city: Curitiba
+    date: '13/04/2024 18:00'
+    daysGroup: 11/12/13/14
+  - poster: 434976159_18287043196160339_8298740457747813028_n.jpg
+    city: Foz do Iguaçu
+    date: '13/04/2024 21:00'
+    daysGroup: 11/12/13/14
+  - poster: 429344208_360756336778547_6192805237599469709_n.jpeg
+    city: Curitiba
+    date: '13/04/2024 20:00'
+    daysGroup: 11/12/13/14
 ---
 

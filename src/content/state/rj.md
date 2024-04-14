@@ -2,12 +2,6 @@
 abbr: RJ
 name: Rio de Janeiro
 gigs:
-  - poster: 429139766_302960342478110_3891542638670458818_n.jpg
-    city: Rio de Janeiro
-    date: '13/04/2024 20:00'
-    daysGroup: 12/13/14
-    ticketsUrl: >-
-      https://www.sympla.com.br/evento/fogo-na-zonal-sul-2-valvera-sp-forkill-lowd-gadelha-superdrive/2339819
   - poster: 429836388_18311830639121660_6724303937094212667_n.jpg
     city: Rio de Janeiro
     date: '23/10/2024 20:00'
@@ -30,12 +24,6 @@ gigs:
     date: '22/06/2024 20:00'
     daysGroup: 21/22/23
     ticketsUrl: 'https://articket.com.br/e/1948/bayside-kings-plastic-fire'
-  - poster: 428598917_800255351915850_6072974435062191152_n.jpg
-    city: Rio de Janeiro
-    date: '13/04/2024 18:00'
-    daysGroup: 12/13/14
-    ticketsUrl: >-
-      https://www.sympla.com.br/evento/hatefulmurder-sangue-de-bode-inraza-lumnia/2346006
   - poster: 434331355_18388324495074586_4137079446901404080_n.jpg
     city: Rio de Janeiro
     date: '14/04/2024 10:00'
@@ -65,14 +53,10 @@ gigs:
     city: Rio de Janeiro
     date: '25/05/2024 16:00'
     daysGroup: 24/25/26
-    ticketsUrl: 'https://www.eventim.com.br/event/shamangra-no-circo-voador-circo-voador-18550579/'
-  - poster: 436588002_944094980341576_4729942850257484999_n.jpeg
-    city: Rio de Janeiro
-    date: '13/04/2024 20:00'
-    daysGroup: 12/13/14
-    ticketsUrl: 'https://www.sympla.com.br/evento/eskrota-impietus-horrificia-bicuda/2320625'
+    ticketsUrl: >-
+      https://www.eventim.com.br/event/shamangra-no-circo-voador-circo-voador-18550579/
   - poster: 437585101_982226573302565_2687781348344977087_n.jpeg
-    city: Campos dos Goytacazes 
+    city: Campos dos Goytacazes
     date: '13/07/2024 18:00'
     daysGroup: 12/13/14
   - poster: 437339316_1412518986043063_1965274297037480346_n.jpeg

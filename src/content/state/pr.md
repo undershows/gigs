@@ -36,10 +36,6 @@ gigs:
     date: '12/05/2024 17:00'
     daysGroup: 10/11/12
     ticketsUrl: 'https://pixta.me/u/manger-cadavre-em-curitiba'
-  - poster: 434897865_1158693451688743_2187214045143391383_n.jpeg
-    city: Curitiba
-    date: '13/04/2024 18:00'
-    daysGroup: 11/12/13/14
   - poster: 429861885_18331330837114615_8375132758476110631_n.jpg
     city: Curitiba
     date: '03/05/2024 18:00'
@@ -49,14 +45,6 @@ gigs:
     date: '31/05/2024 19:00'
     daysGroup: 30/31
     ticketsUrl: 'https://www.sympla.com.br/evento/nervochaos-orthostat-grotesco/2402137'
-  - poster: 434976159_18287043196160339_8298740457747813028_n.jpg
-    city: Foz do Iguaçu
-    date: '13/04/2024 21:00'
-    daysGroup: 11/12/13/14
-  - poster: 429344208_360756336778547_6192805237599469709_n.jpeg
-    city: Curitiba
-    date: '13/04/2024 20:00'
-    daysGroup: 11/12/13/14
   - poster: 435236253_2388863404640585_697204385019135035_n.jpeg
     city: Ponta Grossa
     date: '14/04/2024 18:00'
