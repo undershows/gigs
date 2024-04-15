@@ -206,7 +206,7 @@ gigs:
     daysGroup: 21/22/23
     ticketsUrl: 'https://www.ingresse.com/the-obsessed/'
   - poster: 434961028_438160782062809_3251671167933713659_n.jpeg
-    city: São Paulo
+    city: Indaiatuba
     date: '19/04/2024 19:00'
     daysGroup: 18/19/20/21/22/23
     ticketsUrl: 'https://www.clubedoingresso.com/evento/showgaragefuzz'
@@ -409,5 +409,75 @@ gigs:
     city: São Paulo
     date: '25/05/2024 18:00'
     daysGroup: 23/24/25/26
+  - poster: 436274541_453872900331280_4939351531564456996_n.jpg
+    city: São Paulo
+    date: '20/04/2024 19:00'
+    daysGroup: 18/19/20/21/22/23
+  - poster: 436096268_10228932082361161_2865194601553687732_n.jpg
+    city: Santo André
+    date: '05/05/2024 16:00'
+    daysGroup: 01/02/03/04/05
+  - poster: 435678766_10211117130360153_3424268382435079418_n.jpg
+    city: São Paulo
+    date: '11/05/2024 17:00'
+    daysGroup: 09/10/11/12
+  - poster: 434863547_10211117130440155_6425648371688703187_n.jpg
+    city: São Paulo
+    date: '17/08/2024 17:00'
+    daysGroup: 16/17/18
+  - poster: 436858182_10211117130320152_122791574814969379_n.jpg
+    city: São Paulo
+    date: '28/04/2024 14:00'
+    daysGroup: 25/26/27/28/29/30
+  - poster: 437094285_1212367209738228_4698661261880409353_n.jpeg
+    city: Salto
+    date: '11/05/2024 19:00'
+    daysGroup: 09/10/11/12
+  - poster: 435132829_17894221089003023_2651911262092661999_n.jpg
+    city: São Paulo
+    date: '27/04/2024 19:00'
+    daysGroup: 25/26/27/28/29/30
+  - poster: 437067887_18044995777725690_8659633210688041131_n.jpg
+    city: Santo André
+    date: '03/05/2024 20:00'
+    daysGroup: 01/02/03/04/05
+  - poster: 435134940_18427622596032461_9012676512503972161_n.jpg
+    city: Santo André
+    date: '10/05/2024 19:00'
+    daysGroup: 09/10/11/12
+  - poster: 435981018_18424429372031134_3321863971839591384_n.jpg
+    city: São Paulo
+    date: '11/05/2024 20:00'
+    daysGroup: 09/10/11/12
+  - poster: 437778543_924303099175973_5232971452945562942_n.jpeg
+    city: Osasco
+    date: '12/05/2024 16:00'
+    daysGroup: 09/10/11/12
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/garatospodres-tribosbar'
+  - poster: 437522256_980234606786309_7533288022356696110_n.jpeg
+    city: São Paulo
+    date: '20/04/2024 19:00'
+    daysGroup: 18/19/20/21/22/23
+  - poster: 437778097_932375482004426_7689286616062802793_n.jpeg
+    city: Piracicaba
+    date: '20/04/2024 18:00'
+    daysGroup: 18/19/20/21/22/23
+  - poster: 437106103_1378789146138192_2585367538412394268_n.jpg
+    city: Marília
+    date: '20/04/2024 18:00'
+    daysGroup: 18/19/20/21/22/23
+  - poster: 437081085_18054704248599743_922228528246256362_n.jpg
+    city: São Paulo
+    date: '04/05/2024 20:00'
+    daysGroup: 01/02/03/04/05
+  - poster: 437783126_1571167070462192_8668625496874683836_n.jpeg
+    city: Limeira
+    date: '04/05/2024 22:30'
+    daysGroup: 01/02/03/04/05
+  - poster: 438675838_1204900367156183_1304198705490024520_n.jpeg
+    city: São Paulo
+    date: '20/04/2024 19:00'
+    daysGroup: 18/19/20/21/22/23
+    ticketsUrl: 'https://www.sympla.com.br/evento/asteroides-trio-questions/2350748'
 ---
 

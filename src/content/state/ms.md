@@ -6,5 +6,15 @@ gigs:
     city: Dourados
     date: '20/04/2024 22:00'
     daysGroup: 19/20/21
+  - poster: 435785685_18392552461076919_8058290156477705610_n.jpg
+    city: Dourados
+    date: '10/05/2024 21:00'
+    daysGroup: 09/10/11/12
+    ticketsUrl: 'https://articket.com.br/e/2044/baile-da-xk'
+  - poster: 437104510_304339459201057_6820854699548198313_n.jpeg
+    city: Campo Grande
+    date: '17/08/2024 18:00'
+    daysGroup: 16/17/18
+    ticketsUrl: 'https://ingressos.epfprodutora.com.br/comprar-ingresso/sepultura-40-years-tour-5031'
 ---
 
