@@ -256,5 +256,9 @@ gigs:
     city: Curitiba
     date: '13/04/2024 20:00'
     daysGroup: 11/12/13/14
+  - poster: 435236253_2388863404640585_697204385019135035_n.jpeg
+    city: Ponta Grossa
+    date: '14/04/2024 18:00'
+    daysGroup: 11/12/13/14
 ---
 

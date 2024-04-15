@@ -103,11 +103,6 @@ gigs:
     date: '19/04/2024 19:00'
     daysGroup: 18/19/20/21/22/23
     ticketsUrl: 'https://www.sympla.com.br/evento/treva-e-apnea-no-fffront/2386547'
-  - poster: 433902967_1119437099102045_900994065832899738_n.jpeg
-    city: São Paulo
-    date: '14/04/2024 16:00'
-    daysGroup: 09/10/11/12/13/14
-    ticketsUrl: 'https://www.sympla.com.br/evento/ska-na-paskoa/2388121'
   - poster: 434034972_331813006543228_6284339643932530289_n.jpeg
     city: São Paulo
     date: '26/04/2024 19:00'
@@ -180,10 +175,6 @@ gigs:
     date: '18/08/2024 19:00'
     daysGroup: 16/17/18
     ticketsUrl: 'https://www.ingresse.com/karate-sp/'
-  - poster: 434840874_1074737570291419_6545740953538692485_n.jpeg
-    city: São Paulo
-    date: '14/04/2024 19:30'
-    daysGroup: 09/10/11/12/13/14
   - poster: 434844137_2348320505499516_6172864610108233906_n.jpeg
     city: Jacareí
     date: '30/04/2024 18:00'
@@ -249,10 +240,6 @@ gigs:
     city: São Paulo
     date: '15/06/2024 20:00'
     daysGroup: 14/15/16
-  - poster: 435215264_1366386450716704_8514430606376817036_n.jpeg
-    city: Arujá
-    date: '14/04/2024 15:00'
-    daysGroup: 09/10/11/12/13/14
   - poster: 434851897_1880298402406959_4123898199035041749_n.jpeg
     city: São Paulo
     date: '05/05/2024 15:00'
@@ -293,10 +280,6 @@ gigs:
     city: Jundiaí
     date: '27/04/2024 15:00'
     daysGroup: 25/26/27/28/29/30
-  - poster: 434899412_1127540254943197_6045919285977942039_n.jpeg
-    city: São Paulo
-    date: '14/04/2024 15:00'
-    daysGroup: 09/10/11/12/13/14
   - poster: 435236459_1460310031533635_8402540043601506060_n.jpeg
     city: Taubaté
     date: '05/05/2024 17:00'
@@ -377,10 +360,6 @@ gigs:
     city: São Paulo
     date: '19/04/2024 18:30'
     daysGroup: 18/19/20/21/22/23
-  - poster: 435860746_451250160578625_3314468987213048614_n.jpg
-    city: Jundiaí
-    date: '14/04/2024 18:00'
-    daysGroup: 09/10/11/12/13/14
   - poster: 429806615_18023855681000467_5680761411169159111_n.jpg
     city: Campinas
     date: '20/04/2024 18:00'

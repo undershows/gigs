@@ -183,5 +183,10 @@ gigs:
     daysGroup: 12/13/14
     ticketsUrl: >-
       https://www.sympla.com.br/evento/eskrota-impietus-horrificia-bicuda/2320625
+  - poster: 434331355_18388324495074586_4137079446901404080_n.jpg
+    city: Rio de Janeiro
+    date: '14/04/2024 10:00'
+    daysGroup: 12/13/14
+    ticketsUrl: 'https://www.sympla.com.br/evento/efusiva-fest-iii/2374822'
 ---
 

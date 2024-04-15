@@ -136,5 +136,9 @@ gigs:
     city: Joinville
     date: '06/04/2024 17:00'
     daysGroup: 05/06/07
+  - poster: 437060896_1264125481344384_930702029413021006_n.jpeg
+    city: Dona Emma
+    date: '14/04/2024 12:00'
+    daysGroup: 12/13/14
 ---
 

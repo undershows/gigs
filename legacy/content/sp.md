@@ -2663,5 +2663,26 @@ gigs:
     city: São Paulo
     date: '13/04/2024 17:00'
     daysGroup: 09/10/11/12/13/14
+  - poster: 433902967_1119437099102045_900994065832899738_n.jpeg
+    city: São Paulo
+    date: '14/04/2024 16:00'
+    daysGroup: 09/10/11/12/13/14
+    ticketsUrl: 'https://www.sympla.com.br/evento/ska-na-paskoa/2388121'
+  - poster: 434840874_1074737570291419_6545740953538692485_n.jpeg
+    city: São Paulo
+    date: '14/04/2024 19:30'
+    daysGroup: 09/10/11/12/13/14
+  - poster: 435215264_1366386450716704_8514430606376817036_n.jpeg
+    city: Arujá
+    date: '14/04/2024 15:00'
+    daysGroup: 09/10/11/12/13/14
+  - poster: 434899412_1127540254943197_6045919285977942039_n.jpeg
+    city: São Paulo
+    date: '14/04/2024 15:00'
+    daysGroup: 09/10/11/12/13/14
+  - poster: 435860746_451250160578625_3314468987213048614_n.jpg
+    city: Jundiaí
+    date: '14/04/2024 18:00'
+    daysGroup: 09/10/11/12/13/14
 ---
 
