@@ -5,18 +5,18 @@ gigs:
   - poster: 428611066_797140522441373_7763513656686433665_n.jpg
     city: Curitiba
     date: '20/06/2024 21:00'
-    daysGroup: 19/20/21/22/23
+    daysGroup: 18/19/20/21/22/23
     ticketsUrl: 'https://bilheto.com.br/comprar/2155/satanic-gathering'
   - poster: enthroned_maringa.jpeg
     city: Maringá
     date: '19/06/2024 19:00'
-    daysGroup: 19/20/21/22/23
+    daysGroup: 18/19/20/21/22/23
     ticketsUrl: >-
       https://www.sympla.com.br/evento/enthroned-nervochaos-introtyl-holder/2372974
   - poster: enthroned_foz_do_iguacu.jpeg
     city: Foz do Iguaçu
     date: '18/06/2024 19:00'
-    daysGroup: 19/20/21/22/23
+    daysGroup: 18/19/20/21/22/23
   - poster: 432767887_1176856680423611_6803058206802818995_n.jpg
     city: Foz do Iguaçu
     date: '21/05/2024 19:00'
@@ -50,6 +50,14 @@ gigs:
     date: '10/05/2024 19:00'
     daysGroup: 10/11/12
   - poster: 435746972_972092747467835_6931403172930494954_n.jpeg
+    city: Curitiba
+    date: '01/06/2024 19:00'
+    daysGroup: 01/02
+  - poster: 438100895_18304704421194446_4006209686421167020_n.jpg
+    city: Ponta Grossa
+    date: '20/04/2024 18:00'
+    daysGroup: 19/20/21
+  - poster: 438896898_7497673583633765_4814071160461561682_n.jpg
     city: Curitiba
     date: '01/06/2024 19:00'
     daysGroup: 01/02

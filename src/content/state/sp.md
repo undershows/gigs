@@ -479,5 +479,45 @@ gigs:
     date: '20/04/2024 19:00'
     daysGroup: 18/19/20/21/22/23
     ticketsUrl: 'https://www.sympla.com.br/evento/asteroides-trio-questions/2350748'
+  - poster: 437777466_1228800888101198_4174846822614352208_n.jpg
+    city: São Paulo
+    date: '27/04/2024 18:00'
+    daysGroup: 25/26/27/28/29/30
+  - poster: 437558590_728862232465251_4910778223569378293_n.jpeg
+    city: São Paulo
+    date: '20/04/2024 18:00'
+    daysGroup: 18/19/20/21/22/23
+  - poster: 437772995_422385533769821_8691543084420185017_n.jpeg
+    city: Taubaté
+    date: '17/05/2024 18:00'
+    daysGroup: 16/17/18/19
+  - poster: 438715428_935449564987893_7569957354757054589_n.jpeg
+    city: Santos
+    date: '30/04/2024 21:00'
+    daysGroup: 25/26/27/28/29/30
+  - poster: 438581858_1103751597407974_6926199836493968212_n.jpeg
+    city: São Paulo
+    date: '19/05/2024 14:00'
+    daysGroup: 16/17/18/19
+  - poster: 434015329_1243108867094314_4441678186495920971_n.jpeg
+    city: Diadema
+    date: '20/04/2024 15:00'
+    daysGroup: 18/19/20/21/22/23
+  - poster: 437694504_278353965328432_1523250705816443609_n.jpeg
+    city: São Paulo
+    date: '21/04/2024 14:00'
+    daysGroup: 18/19/20/21/22/23
+  - poster: 437550802_958319979160336_7210551835116617515_n.jpeg
+    city: São Paulo
+    date: '21/04/2024 16:00'
+    daysGroup: 18/19/20/21/22/23
+  - poster: 437529637_375218925511161_8008040962232587011_n.jpg
+    city: São Paulo
+    date: '04/05/2024 19:00'
+    daysGroup: 01/02/03/04/05
+  - poster: 436419684_18433178830041789_4534017904021547335_n.jpg
+    city: São Paulo
+    date: '17/05/2024 22:00'
+    daysGroup: 16/17/18/19
 ---
 
