@@ -514,5 +514,10 @@ gigs:
     city: São Paulo
     date: '17/05/2024 22:00'
     daysGroup: 16/17/18/19
+  - poster: festival_de_aco_24.jpeg
+    city: São Paulo
+    date: '01/06/2024 23:00'
+    daysGroup: 01/02
+    ticketsUrl: 'https://www.sympla.com.br/evento/inverno-de-aco-edicao-pre-fest/2429260'
 ---
 
