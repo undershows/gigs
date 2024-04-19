@@ -2684,5 +2684,10 @@ gigs:
     city: Jundiaí
     date: '14/04/2024 18:00'
     daysGroup: 09/10/11/12/13/14
+  - poster: 394670686_120200600328820362_60766939617271028_n.jpeg
+    city: São Paulo
+    date: '18/04/2024 19:00'
+    daysGroup: 18/19/20/21/22/23
+    ticketsUrl: 'https://www.ticket360.com.br/evento/27888/ingressos-para-megadeth'
 ---
 

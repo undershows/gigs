@@ -23,11 +23,6 @@ gigs:
     daysGroup: 08/09/10
     ticketsUrl: >-
       https://www.clubedoingresso.com/evento/asphyx-thetroopsofdoom-evilcult-saopaulo
-  - poster: 394670686_120200600328820362_60766939617271028_n.jpeg
-    city: São Paulo
-    date: '18/04/2024 19:00'
-    daysGroup: 18/19/20/21/22/23
-    ticketsUrl: 'https://www.ticket360.com.br/evento/27888/ingressos-para-megadeth'
   - poster: 431525437_3692619941009419_5244187636168166923_n.jpg
     city: São Paulo
     date: '09/06/2024 14:00'
