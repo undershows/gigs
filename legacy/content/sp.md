@@ -2689,5 +2689,23 @@ gigs:
     date: '18/04/2024 19:00'
     daysGroup: 18/19/20/21/22/23
     ticketsUrl: 'https://www.ticket360.com.br/evento/27888/ingressos-para-megadeth'
+  - poster: 433137047_18003706766388060_7991772005971731330_n.jpg
+    city: São Paulo
+    date: '19/04/2024 19:00'
+    daysGroup: 18/19/20/21/22/23
+    ticketsUrl: 'https://www.sympla.com.br/evento/treva-e-apnea-no-fffront/2386547'
+  - poster: 434961028_438160782062809_3251671167933713659_n.jpeg
+    city: Indaiatuba
+    date: '19/04/2024 19:00'
+    daysGroup: 18/19/20/21/22/23
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/showgaragefuzz'
+  - poster: 436351669_7819651471381076_3553914351961894147_n.jpg
+    city: São Paulo
+    date: '19/04/2024 20:00'
+    daysGroup: 18/19/20/21/22/23
+  - poster: 435555559_340657622331400_2053114031395986990_n.jpg
+    city: São Paulo
+    date: '19/04/2024 18:30'
+    daysGroup: 18/19/20/21/22/23
 ---
 

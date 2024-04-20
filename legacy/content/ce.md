@@ -57,5 +57,10 @@ gigs:
     date: '07/04/2024 16:00'
     daysGroup: 04/05/06/07
     ticketsUrl: 'https://www.sympla.com.br/evento/ceara-obsceno-extremo-fest/2348645'
+  - poster: amen_corner_fortaleza.jpeg
+    city: Fortaleza
+    date: '19/04/2024 20:00'
+    daysGroup: 19/20/21
+    ticketsUrl: 'https://www.sympla.com.br/evento/amen-corner/2327259'
 ---
 

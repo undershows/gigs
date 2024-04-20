@@ -93,11 +93,6 @@ gigs:
     date: '09/08/2024 19:00'
     daysGroup: 09/10/11
     ticketsUrl: 'https://bilheto.com.br/comprar/2028/batushka-em-limeira'
-  - poster: 433137047_18003706766388060_7991772005971731330_n.jpg
-    city: São Paulo
-    date: '19/04/2024 19:00'
-    daysGroup: 18/19/20/21/22/23
-    ticketsUrl: 'https://www.sympla.com.br/evento/treva-e-apnea-no-fffront/2386547'
   - poster: 434034972_331813006543228_6284339643932530289_n.jpeg
     city: São Paulo
     date: '26/04/2024 19:00'
@@ -200,11 +195,6 @@ gigs:
     date: '22/06/2024 18:00'
     daysGroup: 21/22/23
     ticketsUrl: 'https://www.ingresse.com/the-obsessed/'
-  - poster: 434961028_438160782062809_3251671167933713659_n.jpeg
-    city: Indaiatuba
-    date: '19/04/2024 19:00'
-    daysGroup: 18/19/20/21/22/23
-    ticketsUrl: 'https://www.clubedoingresso.com/evento/showgaragefuzz'
   - poster: 435336920_962150009247806_8088327145214203831_n.jpg
     city: Botucatu
     date: '04/05/2024 20:00'
@@ -338,10 +328,6 @@ gigs:
     city: São Paulo
     date: '16/06/2024 11:00'
     daysGroup: 14/15/16
-  - poster: 436351669_7819651471381076_3553914351961894147_n.jpg
-    city: São Paulo
-    date: '19/04/2024 20:00'
-    daysGroup: 18/19/20/21/22/23
   - poster: 437055882_965982867970978_1393301522307534995_n.jpeg
     city: São Paulo
     date: '18/05/2024 18:00'
@@ -351,15 +337,12 @@ gigs:
     date: '27/04/2024 17:00'
     daysGroup: 25/26/27/28/29/30
     ticketsUrl: 'https://pixelticket.com.br/eventos/18560/converge'
-  - poster: 435555559_340657622331400_2053114031395986990_n.jpg
-    city: São Paulo
-    date: '19/04/2024 18:30'
-    daysGroup: 18/19/20/21/22/23
   - poster: 429806615_18023855681000467_5680761411169159111_n.jpg
     city: Campinas
     date: '20/04/2024 15:00'
     daysGroup: 18/19/20/21/22/23
-    ticketsUrl: 'https://erapaytickets.com/bill-zander-cyro-sampaio-cura-bayside-kings-e-pense-rec-studio-bar__8750/'
+    ticketsUrl: >-
+      https://erapaytickets.com/bill-zander-cyro-sampaio-cura-bayside-kings-e-pense-rec-studio-bar__8750/
   - poster: 435120451_18317107702121660_8925803506965315760_n.jpg
     city: São Paulo
     date: '04/05/2024 13:00'
@@ -453,7 +436,8 @@ gigs:
     city: São Paulo
     date: '20/04/2024 19:00'
     daysGroup: 18/19/20/21/22/23
-    ticketsUrl: 'https://www.sympla.com.br/evento/chills-and-thrills-gasolines-reverendo-frankenstein-e-lu-riot/2410356'
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/chills-and-thrills-gasolines-reverendo-frankenstein-e-lu-riot/2410356
   - poster: 437778097_932375482004426_7689286616062802793_n.jpeg
     city: Piracicaba
     date: '20/04/2024 18:00'
