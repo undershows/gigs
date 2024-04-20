@@ -357,9 +357,9 @@ gigs:
     daysGroup: 18/19/20/21/22/23
   - poster: 429806615_18023855681000467_5680761411169159111_n.jpg
     city: Campinas
-    date: '20/04/2024 18:00'
+    date: '20/04/2024 15:00'
     daysGroup: 18/19/20/21/22/23
-    ticketsUrl: 'https://www.clubedoingresso.com/evento/hammersessions-campinas'
+    ticketsUrl: 'https://erapaytickets.com/bill-zander-cyro-sampaio-cura-bayside-kings-e-pense-rec-studio-bar__8750/'
   - poster: 435120451_18317107702121660_8925803506965315760_n.jpg
     city: São Paulo
     date: '04/05/2024 13:00'
@@ -453,6 +453,7 @@ gigs:
     city: São Paulo
     date: '20/04/2024 19:00'
     daysGroup: 18/19/20/21/22/23
+    ticketsUrl: 'https://www.sympla.com.br/evento/chills-and-thrills-gasolines-reverendo-frankenstein-e-lu-riot/2410356'
   - poster: 437778097_932375482004426_7689286616062802793_n.jpeg
     city: Piracicaba
     date: '20/04/2024 18:00'
@@ -480,7 +481,7 @@ gigs:
     daysGroup: 25/26/27/28/29/30
   - poster: 437558590_728862232465251_4910778223569378293_n.jpeg
     city: São Paulo
-    date: '20/04/2024 18:00'
+    date: '20/04/2024 16:00'
     daysGroup: 18/19/20/21/22/23
   - poster: 437772995_422385533769821_8691543084420185017_n.jpeg
     city: Taubaté
@@ -519,5 +520,18 @@ gigs:
     date: '01/06/2024 23:00'
     daysGroup: 01/02
     ticketsUrl: 'https://www.sympla.com.br/evento/inverno-de-aco-edicao-pre-fest/2429260'
+  - poster: 439105196_18251498536222869_8924769717621354214_n.jpg
+    city: Arujá
+    date: '01/05/2024 15:00'
+    daysGroup: 01/02/03/04/05
+  - poster: 436301496_2715244248633558_460765244733301572_n.jpg
+    city: Arujá
+    date: '05/05/2024 15:00'
+    daysGroup: 01/02/03/04/05
+  - poster: 438941736_723771409957258_75836104643452385_n.jpeg
+    city: São Paulo
+    date: '18/05/2024 19:00'
+    daysGroup: 16/17/18/19
+    ticketsUrl: 'https://www.sympla.com.br/evento/inherence-cranula-e-void-it/2423117'
 ---
 

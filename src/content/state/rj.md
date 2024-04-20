@@ -44,6 +44,7 @@ gigs:
     city: Rio de Janeiro
     date: '20/04/2024 21:00'
     daysGroup: 19/20/21
+    ticketsUrl: 'https://www.sympla.com.br/evento/podridao-baga-bicuda/2329123'
   - poster: 435633611_339836855758023_3350968860374496667_n.jpeg
     city: Rio de Janeiro
     date: '25/05/2024 16:00'
