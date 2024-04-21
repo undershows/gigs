@@ -34,12 +34,6 @@ gigs:
     city: Campos dos Goytacazes
     date: '02/06/2024 18:00'
     daysGroup: 01/02
-  - poster: 434854074_1295151464534793_3938162126585966632_n.jpeg
-    city: São Gonçalo
-    date: '21/04/2024 15:00'
-    daysGroup: 19/20/21
-    ticketsUrl: >-
-      https://www.sympla.com.br/evento/independente-fest-molho-negro-bandas-21-04-na-roxx-em-sao-goncalo/2375676
   - poster: 435633611_339836855758023_3350968860374496667_n.jpeg
     city: Rio de Janeiro
     date: '25/05/2024 16:00'
