@@ -2,10 +2,6 @@
 abbr: MS
 name: Mato Grosso do Sul
 gigs:
-  - poster: 436996763_3676001505955303_101672279019570122_n.jpeg
-    city: Dourados
-    date: '20/04/2024 22:00'
-    daysGroup: 19/20/21
   - poster: 435785685_18392552461076919_8058290156477705610_n.jpg
     city: Dourados
     date: '10/05/2024 21:00'
@@ -15,6 +11,7 @@ gigs:
     city: Campo Grande
     date: '17/08/2024 18:00'
     daysGroup: 16/17/18
-    ticketsUrl: 'https://ingressos.epfprodutora.com.br/comprar-ingresso/sepultura-40-years-tour-5031'
+    ticketsUrl: >-
+      https://ingressos.epfprodutora.com.br/comprar-ingresso/sepultura-40-years-tour-5031
 ---
 

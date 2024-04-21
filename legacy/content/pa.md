@@ -70,5 +70,15 @@ gigs:
     city: Belém
     date: '23/03/2024 20:00'
     daysGroup: 22/23/24
+  - poster: 434833555_385393824375834_8744104204504483146_n.jpeg
+    city: Belém
+    date: '20/04/2024 17:00'
+    daysGroup: 19/20/21
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/amazonian-metal-fest-rhegia-celebration/2341808
+  - poster: 433054280_423546840264547_1366075393677600022_n.png
+    city: Ananindeua
+    date: '20/04/2024 17:00'
+    daysGroup: 19/20/21
 ---
 

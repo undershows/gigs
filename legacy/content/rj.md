@@ -188,5 +188,10 @@ gigs:
     date: '14/04/2024 10:00'
     daysGroup: 12/13/14
     ticketsUrl: 'https://www.sympla.com.br/evento/efusiva-fest-iii/2374822'
+  - poster: 435239709_397711686355527_8542798995242953042_n.jpeg
+    city: Rio de Janeiro
+    date: '20/04/2024 21:00'
+    daysGroup: 19/20/21
+    ticketsUrl: 'https://www.sympla.com.br/evento/podridao-baga-bicuda/2329123'
 ---
 

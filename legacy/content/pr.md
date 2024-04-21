@@ -260,5 +260,9 @@ gigs:
     city: Ponta Grossa
     date: '14/04/2024 18:00'
     daysGroup: 11/12/13/14
+  - poster: 438100895_18304704421194446_4006209686421167020_n.jpg
+    city: Ponta Grossa
+    date: '20/04/2024 18:00'
+    daysGroup: 19/20/21
 ---
 

@@ -13,11 +13,6 @@ gigs:
     daysGroup: 26/27/28
     ticketsUrl: >-
       https://www.sympla.com.br/evento/black-pantera-eskroeta-natal-rn-whiskritorio-pub/2307149
-  - poster: 434542991_392977730294873_6899359856252938098_n.jpeg
-    city: Natal
-    date: '20/04/2024 18:00'
-    daysGroup: 19/20/21
-    ticketsUrl: 'https://www.sympla.com.br/evento/amen-corner-the-war-of-the-antichrist-nordeste-tour-2024/2351302'
   - poster: 435793254_17926952582847256_7461345848870002051_n.jpg
     city: Natal
     date: '18/05/2024 19:00'

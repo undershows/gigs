@@ -131,10 +131,6 @@ gigs:
     date: '06/10/2024 14:00'
     daysGroup: 04/05/06
     ticketsUrl: 'https://www.bilheto.com.br/comprar/2266/lucifer-sp'
-  - poster: 432729159_1574828219970282_4499235302076668875_n.jpeg
-    city: Varzea Paulista
-    date: '20/04/2024 16:00'
-    daysGroup: 18/19/20/21/22/23
   - poster: 434168056_943240643661144_5416283988617408824_n.jpeg
     city: São Paulo
     date: '01/06/2024 17:00'
@@ -147,14 +143,6 @@ gigs:
     city: São Paulo
     date: '26/04/2024 21:00'
     daysGroup: 25/26/27/28/29/30
-  - poster: 434213187_958086199288899_4060226264678337303_n.jpeg
-    city: Santos
-    date: '20/04/2024 21:00'
-    daysGroup: 18/19/20/21/22/23
-  - poster: 433995718_1432531464021302_7381160410004949574_n.jpeg
-    city: Leme
-    date: '20/04/2024 19:00'
-    daysGroup: 18/19/20/21/22/23
   - poster: 431580884_1216954796379331_6691154876655517417_n.jpg
     city: São Paulo
     date: '09/05/2024 19:00'
@@ -247,10 +235,6 @@ gigs:
     daysGroup: 25/26/27/28/29/30
     ticketsUrl: >-
       https://pixelticket.com.br/eventos/20405/show-beneficente-em-prol-da-cruz-vermelha
-  - poster: 435256992_417533340965765_4061504986822360341_n.jpeg
-    city: Americana
-    date: '20/04/2024 12:00'
-    daysGroup: 18/19/20/21/22/23
   - poster: 437023511_285023984648563_2002777941760385176_n.jpeg
     city: Santos
     date: '11/05/2024 20:00'
@@ -308,10 +292,6 @@ gigs:
     city: São Paulo
     date: '25/05/2024 14:00'
     daysGroup: 23/24/25/26
-  - poster: 435137680_1951798611962793_1216529864076568188_n.jpg
-    city: Agudos
-    date: '20/04/2024 18:00'
-    daysGroup: 18/19/20/21/22/23
   - poster: 436332578_2075556882827086_4825454717417995325_n.jpeg
     city: Sumaré
     date: '04/05/2024 20:00'
@@ -337,12 +317,6 @@ gigs:
     date: '27/04/2024 17:00'
     daysGroup: 25/26/27/28/29/30
     ticketsUrl: 'https://pixelticket.com.br/eventos/18560/converge'
-  - poster: 429806615_18023855681000467_5680761411169159111_n.jpg
-    city: Campinas
-    date: '20/04/2024 15:00'
-    daysGroup: 18/19/20/21/22/23
-    ticketsUrl: >-
-      https://erapaytickets.com/bill-zander-cyro-sampaio-cura-bayside-kings-e-pense-rec-studio-bar__8750/
   - poster: 435120451_18317107702121660_8925803506965315760_n.jpg
     city: São Paulo
     date: '04/05/2024 13:00'
@@ -355,14 +329,6 @@ gigs:
     city: Osasco
     date: '28/04/2024 16:00'
     daysGroup: 25/26/27/28/29/30
-  - poster: 435057151_18025201163062063_6808389614364602835_n.jpg
-    city: São Paulo
-    date: '20/04/2024 18:00'
-    daysGroup: 18/19/20/21/22/23
-  - poster: 435875307_670773728469776_8404476679594138426_n.jpeg
-    city: Várzea Paulista
-    date: '20/04/2024 19:00'
-    daysGroup: 18/19/20/21/22/23
   - poster: 435073886_17893710843003023_8746314711742307530_n.jpg
     city: São Paulo
     date: '01/05/2024 17:00'
@@ -387,10 +353,6 @@ gigs:
     city: São Paulo
     date: '25/05/2024 18:00'
     daysGroup: 23/24/25/26
-  - poster: 436274541_453872900331280_4939351531564456996_n.jpg
-    city: São Paulo
-    date: '20/04/2024 19:00'
-    daysGroup: 18/19/20/21/22/23
   - poster: 436096268_10228932082361161_2865194601553687732_n.jpg
     city: Santo André
     date: '05/05/2024 16:00'
@@ -432,20 +394,6 @@ gigs:
     date: '12/05/2024 16:00'
     daysGroup: 09/10/11/12
     ticketsUrl: 'https://www.clubedoingresso.com/evento/garatospodres-tribosbar'
-  - poster: 437522256_980234606786309_7533288022356696110_n.jpeg
-    city: São Paulo
-    date: '20/04/2024 19:00'
-    daysGroup: 18/19/20/21/22/23
-    ticketsUrl: >-
-      https://www.sympla.com.br/evento/chills-and-thrills-gasolines-reverendo-frankenstein-e-lu-riot/2410356
-  - poster: 437778097_932375482004426_7689286616062802793_n.jpeg
-    city: Piracicaba
-    date: '20/04/2024 18:00'
-    daysGroup: 18/19/20/21/22/23
-  - poster: 437106103_1378789146138192_2585367538412394268_n.jpg
-    city: Marília
-    date: '20/04/2024 18:00'
-    daysGroup: 18/19/20/21/22/23
   - poster: 437081085_18054704248599743_922228528246256362_n.jpg
     city: São Paulo
     date: '04/05/2024 20:00'
@@ -454,19 +402,10 @@ gigs:
     city: Limeira
     date: '04/05/2024 22:30'
     daysGroup: 01/02/03/04/05
-  - poster: 438675838_1204900367156183_1304198705490024520_n.jpeg
-    city: São Paulo
-    date: '20/04/2024 19:00'
-    daysGroup: 18/19/20/21/22/23
-    ticketsUrl: 'https://www.sympla.com.br/evento/asteroides-trio-questions/2350748'
   - poster: 437777466_1228800888101198_4174846822614352208_n.jpg
     city: São Paulo
     date: '27/04/2024 18:00'
     daysGroup: 25/26/27/28/29/30
-  - poster: 437558590_728862232465251_4910778223569378293_n.jpeg
-    city: São Paulo
-    date: '20/04/2024 16:00'
-    daysGroup: 18/19/20/21/22/23
   - poster: 437772995_422385533769821_8691543084420185017_n.jpeg
     city: Taubaté
     date: '17/05/2024 18:00'
@@ -479,10 +418,6 @@ gigs:
     city: São Paulo
     date: '19/05/2024 14:00'
     daysGroup: 16/17/18/19
-  - poster: 434015329_1243108867094314_4441678186495920971_n.jpeg
-    city: Diadema
-    date: '20/04/2024 15:00'
-    daysGroup: 18/19/20/21/22/23
   - poster: 437694504_278353965328432_1523250705816443609_n.jpeg
     city: São Paulo
     date: '21/04/2024 14:00'

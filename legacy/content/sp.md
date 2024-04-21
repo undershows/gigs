@@ -2707,5 +2707,70 @@ gigs:
     city: São Paulo
     date: '19/04/2024 18:30'
     daysGroup: 18/19/20/21/22/23
+  - poster: 432729159_1574828219970282_4499235302076668875_n.jpeg
+    city: Varzea Paulista
+    date: '20/04/2024 16:00'
+    daysGroup: 18/19/20/21/22/23
+  - poster: 434213187_958086199288899_4060226264678337303_n.jpeg
+    city: Santos
+    date: '20/04/2024 21:00'
+    daysGroup: 18/19/20/21/22/23
+  - poster: 433995718_1432531464021302_7381160410004949574_n.jpeg
+    city: Leme
+    date: '20/04/2024 19:00'
+    daysGroup: 18/19/20/21/22/23
+  - poster: 435256992_417533340965765_4061504986822360341_n.jpeg
+    city: Americana
+    date: '20/04/2024 12:00'
+    daysGroup: 18/19/20/21/22/23
+  - poster: 435137680_1951798611962793_1216529864076568188_n.jpg
+    city: Agudos
+    date: '20/04/2024 18:00'
+    daysGroup: 18/19/20/21/22/23
+  - poster: 429806615_18023855681000467_5680761411169159111_n.jpg
+    city: Campinas
+    date: '20/04/2024 15:00'
+    daysGroup: 18/19/20/21/22/23
+    ticketsUrl: >-
+      https://erapaytickets.com/bill-zander-cyro-sampaio-cura-bayside-kings-e-pense-rec-studio-bar__8750/
+  - poster: 435057151_18025201163062063_6808389614364602835_n.jpg
+    city: São Paulo
+    date: '20/04/2024 18:00'
+    daysGroup: 18/19/20/21/22/23
+  - poster: 435875307_670773728469776_8404476679594138426_n.jpeg
+    city: Várzea Paulista
+    date: '20/04/2024 19:00'
+    daysGroup: 18/19/20/21/22/23
+  - poster: 436274541_453872900331280_4939351531564456996_n.jpg
+    city: São Paulo
+    date: '20/04/2024 19:00'
+    daysGroup: 18/19/20/21/22/23
+  - poster: 437522256_980234606786309_7533288022356696110_n.jpeg
+    city: São Paulo
+    date: '20/04/2024 19:00'
+    daysGroup: 18/19/20/21/22/23
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/chills-and-thrills-gasolines-reverendo-frankenstein-e-lu-riot/2410356
+  - poster: 437778097_932375482004426_7689286616062802793_n.jpeg
+    city: Piracicaba
+    date: '20/04/2024 18:00'
+    daysGroup: 18/19/20/21/22/23
+  - poster: 437106103_1378789146138192_2585367538412394268_n.jpg
+    city: Marília
+    date: '20/04/2024 18:00'
+    daysGroup: 18/19/20/21/22/23
+  - poster: 438675838_1204900367156183_1304198705490024520_n.jpeg
+    city: São Paulo
+    date: '20/04/2024 19:00'
+    daysGroup: 18/19/20/21/22/23
+    ticketsUrl: 'https://www.sympla.com.br/evento/asteroides-trio-questions/2350748'
+  - poster: 437558590_728862232465251_4910778223569378293_n.jpeg
+    city: São Paulo
+    date: '20/04/2024 16:00'
+    daysGroup: 18/19/20/21/22/23
+  - poster: 434015329_1243108867094314_4441678186495920971_n.jpeg
+    city: Diadema
+    date: '20/04/2024 15:00'
+    daysGroup: 18/19/20/21/22/23
 ---
 

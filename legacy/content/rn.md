@@ -123,5 +123,11 @@ gigs:
     city: Natal
     date: '13/04/2024 18:00'
     daysGroup: 10/11/12/13/14
+  - poster: 434542991_392977730294873_6899359856252938098_n.jpeg
+    city: Natal
+    date: '20/04/2024 18:00'
+    daysGroup: 19/20/21
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/amen-corner-the-war-of-the-antichrist-nordeste-tour-2024/2351302
 ---
 

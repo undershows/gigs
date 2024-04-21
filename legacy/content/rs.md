@@ -95,5 +95,9 @@ gigs:
     city: Rio Grande
     date: '13/04/2024 19:00'
     daysGroup: 12/13/14
+  - poster: 434280915_762724975823307_8597457717621238226_n.jpeg
+    city: Porto Alegre
+    date: '20/04/2024 18:00'
+    daysGroup: 19/20/21
 ---
 

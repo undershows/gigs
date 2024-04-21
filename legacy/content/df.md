@@ -181,5 +181,10 @@ gigs:
     city: Recanto das Emas
     date: '13/04/2024 16:00'
     daysGroup: 12/13/14
+  - poster: 434210703_776702817719300_7571631902789513190_n.jpeg
+    city: Guará
+    date: '20/04/2024 17:00'
+    daysGroup: 19/20/21
+    ticketsUrl: 'https://www.sympla.com.br/evento/possuido-pelo-cao/2397092'
 ---
 

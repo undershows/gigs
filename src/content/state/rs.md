@@ -28,10 +28,6 @@ gigs:
     date: '19/05/2024 18:00'
     daysGroup: 17/18/19
     ticketsUrl: 'https://www.bilheto.com.br/comprar/2234/nightfall-e-heia'
-  - poster: 434280915_762724975823307_8597457717621238226_n.jpeg
-    city: Porto Alegre
-    date: '20/04/2024 18:00'
-    daysGroup: 19/20/21
   - poster: 435860752_1433844323921028_265013798528813967_n.jpeg
     city: Porto Alegre
     date: '24/11/2024 17:00'

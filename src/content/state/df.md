@@ -11,11 +11,6 @@ gigs:
     city: Gama
     date: '07/09/2024 18:00'
     daysGroup: 06/07/08
-  - poster: 434210703_776702817719300_7571631902789513190_n.jpeg
-    city: Guará
-    date: '20/04/2024 17:00'
-    daysGroup: 19/20/21
-    ticketsUrl: 'https://www.sympla.com.br/evento/possuido-pelo-cao/2397092'
   - poster: 434856289_10231931225080249_3636235382429585795_n.jpg
     city: Ceilândia
     date: '01/05/2024 15:00'
