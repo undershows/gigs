@@ -312,11 +312,6 @@ gigs:
     city: São Paulo
     date: '18/05/2024 18:00'
     daysGroup: 16/17/18/19
-  - poster: 426722804_18255829192230291_3482758074123473958_n.jpg
-    city: São Paulo
-    date: '27/04/2024 17:00'
-    daysGroup: 25/26/27/28/29/30
-    ticketsUrl: 'https://pixelticket.com.br/eventos/18560/converge'
   - poster: 435120451_18317107702121660_8925803506965315760_n.jpg
     city: São Paulo
     date: '04/05/2024 13:00'
