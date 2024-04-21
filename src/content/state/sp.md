@@ -118,6 +118,7 @@ gigs:
     city: São Paulo
     date: '21/04/2024 17:00'
     daysGroup: 18/19/20/21/22/23
+    ticketsUrl: 'https://www.hoppin.com.br/festival-entre-bandas-2024'
   - poster: 434203162_3523930071202332_6159707457337539495_n.jpeg
     city: Ribeirão Pires
     date: '27/04/2024 18:00'
