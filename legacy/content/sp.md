@@ -2772,5 +2772,36 @@ gigs:
     city: Diadema
     date: '20/04/2024 15:00'
     daysGroup: 18/19/20/21/22/23
+  - poster: 419244534_10233541230735523_3030333027914672784_n.jpg
+    city: Praia Grande
+    date: '21/04/2024 15:00'
+    daysGroup: 18/19/20/21/22/23
+  - poster: 432455834_804338251722252_5835305398390189278_n.jpg
+    city: Jundiaí
+    date: '21/04/2024 18:00'
+    daysGroup: 18/19/20/21/22/23
+    ticketsUrl: 'https://www.sympla.com.br/evento/3-acena-rock-fest-aldeia/2380260'
+  - poster: 434036917_393109970131185_1969111530214376093_n.jpeg
+    city: São Paulo
+    date: '21/04/2024 17:00'
+    daysGroup: 18/19/20/21/22/23
+    ticketsUrl: 'https://www.hoppin.com.br/festival-entre-bandas-2024'
+  - poster: 434666155_214367415103960_7303435112113298228_n.jpg
+    city: Campinas
+    date: '21/04/2024 17:00'
+    daysGroup: 18/19/20/21/22/23
+    ticketsUrl: 'https://www.sympla.com.br/evento/acao-direta-bad-taste-e-vo-tonha/2400449'
+  - poster: 434211392_428389273056760_8125453295904152631_n.jpeg
+    city: Taubaté
+    date: '21/04/2024 14:00'
+    daysGroup: 18/19/20/21/22/23
+  - poster: 437694504_278353965328432_1523250705816443609_n.jpeg
+    city: São Paulo
+    date: '21/04/2024 14:00'
+    daysGroup: 18/19/20/21/22/23
+  - poster: 437550802_958319979160336_7210551835116617515_n.jpeg
+    city: São Paulo
+    date: '21/04/2024 16:00'
+    daysGroup: 18/19/20/21/22/23
 ---
 

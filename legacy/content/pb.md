@@ -52,5 +52,11 @@ gigs:
     date: '15/03/2024 20:00'
     daysGroup: 15/16/17
     ticketsUrl: 'https://www.sympla.com.br/evento/ratos-de-porao-em-joao-pessoa/2329723'
+  - poster: 3ea7c67c-9991-4b50-a8a7-361a840b0f44.jpeg
+    city: João Pessoa
+    date: '21/04/2024 19:00'
+    daysGroup: 19/20/21
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/amen-corner-medicine-death-infested-blood-e-sodoma/2360774
 ---
 

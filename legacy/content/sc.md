@@ -140,5 +140,10 @@ gigs:
     city: Dona Emma
     date: '14/04/2024 12:00'
     daysGroup: 12/13/14
+  - poster: 432721241_953210409474663_7877216024112294273_n.jpeg
+    city: Balneário Camboriú
+    date: '21/04/2024 15:00'
+    daysGroup: 18/19/20/21/22/23
+    ticketsUrl: 'https://www.sympla.com.br/evento/eskroeta-em-balneario-camboriu-sc/2384041'
 ---
 

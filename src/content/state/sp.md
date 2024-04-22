@@ -74,10 +74,6 @@ gigs:
     date: '23/05/2024 16:00'
     daysGroup: 23/24/25/26
     ticketsUrl: 'https://www.sympla.com.br/evento/nightfall-heia-desdominus/2382644'
-  - poster: 419244534_10233541230735523_3030333027914672784_n.jpg
-    city: Praia Grande
-    date: '21/04/2024 15:00'
-    daysGroup: 18/19/20/21/22/23
   - poster: 430270662_416506557596072_5766387288168935857_n.jpeg
     city: São Paulo
     date: '27/04/2024 19:00'
@@ -109,16 +105,6 @@ gigs:
     city: Osasco
     date: '27/04/2024 19:00'
     daysGroup: 25/26/27/28/29/30
-  - poster: 432455834_804338251722252_5835305398390189278_n.jpg
-    city: Jundiaí
-    date: '21/04/2024 18:00'
-    daysGroup: 18/19/20/21/22/23
-    ticketsUrl: 'https://www.sympla.com.br/evento/3-acena-rock-fest-aldeia/2380260'
-  - poster: 434036917_393109970131185_1969111530214376093_n.jpeg
-    city: São Paulo
-    date: '21/04/2024 17:00'
-    daysGroup: 18/19/20/21/22/23
-    ticketsUrl: 'https://www.hoppin.com.br/festival-entre-bandas-2024'
   - poster: 434203162_3523930071202332_6159707457337539495_n.jpeg
     city: Ribeirão Pires
     date: '27/04/2024 18:00'
@@ -158,11 +144,6 @@ gigs:
     city: Jacareí
     date: '30/04/2024 18:00'
     daysGroup: 25/26/27/28/29/30
-  - poster: 434666155_214367415103960_7303435112113298228_n.jpg
-    city: Campinas
-    date: '21/04/2024 17:00'
-    daysGroup: 18/19/20/21/22/23
-    ticketsUrl: 'https://www.sympla.com.br/evento/acao-direta-bad-taste-e-vo-tonha/2400449'
   - poster: 434208852_302715996184044_2978831953778341169_n.jpeg
     city: São Paulo
     date: '16/05/2024 14:00'
@@ -171,10 +152,6 @@ gigs:
     city: Arujá
     date: '09/06/2024 16:00'
     daysGroup: 06/07/08/09
-  - poster: 434211392_428389273056760_8125453295904152631_n.jpeg
-    city: Taubaté
-    date: '21/04/2024 14:00'
-    daysGroup: 18/19/20/21/22/23
   - poster: 434994937_18410191267068324_4110946634138725192_n.jpg
     city: Taubaté
     date: '26/04/2024 20:00'
@@ -414,14 +391,6 @@ gigs:
     city: São Paulo
     date: '19/05/2024 14:00'
     daysGroup: 16/17/18/19
-  - poster: 437694504_278353965328432_1523250705816443609_n.jpeg
-    city: São Paulo
-    date: '21/04/2024 14:00'
-    daysGroup: 18/19/20/21/22/23
-  - poster: 437550802_958319979160336_7210551835116617515_n.jpeg
-    city: São Paulo
-    date: '21/04/2024 16:00'
-    daysGroup: 18/19/20/21/22/23
   - poster: 437529637_375218925511161_8008040962232587011_n.jpg
     city: São Paulo
     date: '04/05/2024 19:00'
