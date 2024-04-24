@@ -33,7 +33,7 @@ gigs:
     date: '24/11/2024 17:00'
     daysGroup: 22/23/24
     ticketsUrl: 'https://bileto.sympla.com.br/event/92915/d/250448/s/1708446'
-  - poster: 437777466_1228800888101198_4174846822614352208_n.jpg
+  - poster: 439098935_940887364432819_985481676327269182_n.jpeg
     city: Caxias do Sul
     date: '26/04/2024 21:00'
     daysGroup: 26/27/28

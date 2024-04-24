@@ -116,8 +116,9 @@ gigs:
     ticketsUrl: 'https://www.bilheto.com.br/comprar/2266/lucifer-sp'
   - poster: 434168056_943240643661144_5416283988617408824_n.jpeg
     city: São Paulo
-    date: '01/06/2024 17:00'
+    date: '02/06/2024 17:00'
     daysGroup: 01/02
+    ticketsUrl: 'https://www.sympla.com.br/evento/show-cras-sp-nameless-god-sp-sodade-sp-vantas-cps/2392574'
   - poster: 433112849_18283214812166315_88871365544501493_n.jpg
     city: Mauá
     date: '24/05/2024 19:00'
@@ -254,10 +255,6 @@ gigs:
     city: Taubaté
     date: '26/04/2024 20:00'
     daysGroup: 25/26/27/28/29/30
-  - poster: 435862562_731631629125906_9169514292691325072_n.jpeg
-    city: São José dos Campos
-    date: '09/06/2024 17:00'
-    daysGroup: 06/07/08/09
   - poster: 437029264_7671629972860708_1864553285190868220_n.jpeg
     city: Guarulhos
     date: '28/04/2024 15:00'
@@ -358,6 +355,7 @@ gigs:
     city: São Paulo
     date: '11/05/2024 20:00'
     daysGroup: 09/10/11/12
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/hammerheadblues-apnea-camelia-laiglesiaborratxeria'
   - poster: 437778543_924303099175973_5232971452945562942_n.jpeg
     city: Osasco
     date: '12/05/2024 16:00'
@@ -373,8 +371,9 @@ gigs:
     daysGroup: 01/02/03/04/05
   - poster: 437777466_1228800888101198_4174846822614352208_n.jpg
     city: São Paulo
-    date: '27/04/2024 18:00'
-    daysGroup: 25/26/27/28/29/30
+    date: '27/09/2024 18:00'
+    daysGroup: 27/28/29
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/gorillabiscuits-saopaulo'
   - poster: 437772995_422385533769821_8691543084420185017_n.jpeg
     city: Taubaté
     date: '17/05/2024 18:00'
