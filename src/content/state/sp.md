@@ -224,7 +224,7 @@ gigs:
       https://www.sympla.com.br/evento/cirith-ungol-nightdemon-hellish-war-chumbo/2366428
   - poster: 435860755_833048205326932_6603494887668354393_n.jpeg
     city: Jundiaí
-    date: '27/04/2024 15:00'
+    date: '27/04/2024 18:00'
     daysGroup: 25/26/27/28/29/30
   - poster: 435236459_1460310031533635_8402540043601506060_n.jpeg
     city: Taubaté
@@ -274,6 +274,7 @@ gigs:
     city: São Paulo
     date: '27/04/2024 19:00'
     daysGroup: 25/26/27/28/29/30
+    ticketsUrl: 'https://www.sympla.com.br/evento/a-porta-maldita-e-desconhecido-juvenal-chococorn-hoovaranas-fragoria/2415353'
   - poster: 436430283_7819655121380711_7382755313066739064_n.jpg
     city: São Paulo
     date: '16/06/2024 11:00'
@@ -411,5 +412,9 @@ gigs:
     date: '18/05/2024 19:00'
     daysGroup: 16/17/18/19
     ticketsUrl: 'https://www.sympla.com.br/evento/inherence-cranula-e-void-it/2423117'
+  - poster: 439124321_18013527647464786_3948346761236333473_n.jpg
+    city: Santo André
+    date: '26/04/2024 19:00'
+    daysGroup: 25/26/27/28/29/30
 ---
 
