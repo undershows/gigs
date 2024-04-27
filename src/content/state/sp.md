@@ -392,5 +392,9 @@ gigs:
     city: São Paulo
     date: '27/04/2024 19:00'
     daysGroup: 25/26/27/28/29/30
+  - poster: test_front_3004.jpeg
+    city: São Paulo
+    date: '30/04/2024 18:00'
+    daysGroup: 25/26/27/28/29/30
 ---
 
