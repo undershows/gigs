@@ -388,5 +388,9 @@ gigs:
     date: '18/05/2024 19:00'
     daysGroup: 16/17/18/19
     ticketsUrl: 'https://www.sympla.com.br/evento/inherence-cranula-e-void-it/2423117'
+  - poster: 439823184_1187634459081334_7455982327054780566_n.jpeg
+    city: São Paulo
+    date: '27/04/2024 19:00'
+    daysGroup: 25/26/27/28/29/30
 ---
 
