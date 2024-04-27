@@ -2811,5 +2811,39 @@ gigs:
     city: Jacareí
     date: '25/04/2024 18:00'
     daysGroup: 25/26/27/28/29/30
+  - poster: 432300344_922363696563881_1232312414954254177_n_1080.jpg
+    city: São Paulo
+    date: '25/04/2024 19:00'
+    daysGroup: 25/26/27/28/29/30
+  - poster: 434034972_331813006543228_6284339643932530289_n.jpeg
+    city: São Paulo
+    date: '26/04/2024 19:00'
+    daysGroup: 25/26/27/28/29/30
+  - poster: 434197255_18423534145007631_4050075109606656051_n.jpg
+    city: São Paulo
+    date: '26/04/2024 21:00'
+    daysGroup: 25/26/27/28/29/30
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/magueerbes-e-fim-do-silencio-no-fffront-de-sexta-e-cedo/2394469
+  - poster: 434994937_18410191267068324_4110946634138725192_n.jpg
+    city: Taubaté
+    date: '26/04/2024 20:00'
+    daysGroup: 25/26/27/28/29/30
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/lapacore-festival-apto-vulgar-crowning-animals-e-saviorself/2403202
+  - poster: 430711155_400658872653650_5832602851559607704_n.jpeg
+    city: Jacareí
+    date: '25/04/2024 18:00'
+    daysGroup: 25/26/27/28/29/30
+  - poster: 436549146_435418998857239_6777378062668013117_n.jpg
+    city: São Paulo
+    date: '26/04/2024 20:00'
+    daysGroup: 25/26/27/28/29/30
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/a-porta-maldita-suco-digital-vinha-de-brita/2415344
+  - poster: 439124321_18013527647464786_3948346761236333473_n.jpg
+    city: Santo André
+    date: '26/04/2024 19:00'
+    daysGroup: 25/26/27/28/29/30
 ---
 

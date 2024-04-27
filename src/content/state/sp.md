@@ -33,10 +33,6 @@ gigs:
     date: '11/05/2024 17:00'
     daysGroup: 09/10/11/12
     ticketsUrl: 'https://www.sympla.com.br/evento/war-dance-fest/2355059'
-  - poster: 432300344_922363696563881_1232312414954254177_n_1080.jpg
-    city: São Paulo
-    date: '25/04/2024 19:00'
-    daysGroup: 25/26/27/28/29/30
   - poster: bb7bbd96-6775-46bf-9180-a3f1764db540.jpeg
     city: São Paulo
     date: '18/05/2024 19:00'
@@ -89,10 +85,6 @@ gigs:
     date: '09/08/2024 19:00'
     daysGroup: 09/10/11
     ticketsUrl: 'https://bilheto.com.br/comprar/2028/batushka-em-limeira'
-  - poster: 434034972_331813006543228_6284339643932530289_n.jpeg
-    city: São Paulo
-    date: '26/04/2024 19:00'
-    daysGroup: 25/26/27/28/29/30
   - poster: 434149592_1112553236443371_1730872517776889531_n.jpg
     city: Batatais
     date: '15/06/2024 18:00'
@@ -118,16 +110,12 @@ gigs:
     city: São Paulo
     date: '02/06/2024 17:00'
     daysGroup: 01/02
-    ticketsUrl: 'https://www.sympla.com.br/evento/show-cras-sp-nameless-god-sp-sodade-sp-vantas-cps/2392574'
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/show-cras-sp-nameless-god-sp-sodade-sp-vantas-cps/2392574
   - poster: 433112849_18283214812166315_88871365544501493_n.jpg
     city: Mauá
     date: '24/05/2024 19:00'
     daysGroup: 23/24/25/26
-  - poster: 434197255_18423534145007631_4050075109606656051_n.jpg
-    city: São Paulo
-    date: '26/04/2024 21:00'
-    daysGroup: 25/26/27/28/29/30
-    ticketsUrl: 'https://www.sympla.com.br/evento/magueerbes-e-fim-do-silencio-no-fffront-de-sexta-e-cedo/2394469'
   - poster: 431580884_1216954796379331_6691154876655517417_n.jpg
     city: São Paulo
     date: '09/05/2024 19:00'
@@ -150,11 +138,6 @@ gigs:
     city: Arujá
     date: '09/06/2024 16:00'
     daysGroup: 06/07/08/09
-  - poster: 434994937_18410191267068324_4110946634138725192_n.jpg
-    city: Taubaté
-    date: '26/04/2024 20:00'
-    daysGroup: 25/26/27/28/29/30
-    ticketsUrl: 'https://www.sympla.com.br/evento/lapacore-festival-apto-vulgar-crowning-animals-e-saviorself/2403202'
   - poster: 433238810_18424105069058543_3806178385128827588_n.jpg
     city: São Paulo
     date: '22/06/2024 18:00'
@@ -169,10 +152,6 @@ gigs:
     city: Diadema
     date: '09/06/2024 15:00'
     daysGroup: 06/07/08/09
-  - poster: 430711155_400658872653650_5832602851559607704_n.jpeg
-    city: Jacareí
-    date: '25/04/2024 18:00'
-    daysGroup: 25/26/27/28/29/30
   - poster: 432974852_1182584793184133_2498448446273120772_n.jpg
     city: Jacareí
     date: '07/06/2024 18:00'
@@ -249,11 +228,6 @@ gigs:
     city: Itu
     date: '04/05/2024 18:00'
     daysGroup: 01/02/03/04/05
-  - poster: 436549146_435418998857239_6777378062668013117_n.jpg
-    city: São Paulo
-    date: '26/04/2024 20:00'
-    daysGroup: 25/26/27/28/29/30
-    ticketsUrl: 'https://www.sympla.com.br/evento/a-porta-maldita-suco-digital-vinha-de-brita/2415344'
   - poster: 437029264_7671629972860708_1864553285190868220_n.jpeg
     city: Guarulhos
     date: '28/04/2024 15:00'
@@ -274,7 +248,8 @@ gigs:
     city: São Paulo
     date: '27/04/2024 19:00'
     daysGroup: 25/26/27/28/29/30
-    ticketsUrl: 'https://www.sympla.com.br/evento/a-porta-maldita-e-desconhecido-juvenal-chococorn-hoovaranas-fragoria/2415353'
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/a-porta-maldita-e-desconhecido-juvenal-chococorn-hoovaranas-fragoria/2415353
   - poster: 436430283_7819655121380711_7382755313066739064_n.jpg
     city: São Paulo
     date: '16/06/2024 11:00'
@@ -355,7 +330,8 @@ gigs:
     city: São Paulo
     date: '11/05/2024 20:00'
     daysGroup: 09/10/11/12
-    ticketsUrl: 'https://www.clubedoingresso.com/evento/hammerheadblues-apnea-camelia-laiglesiaborratxeria'
+    ticketsUrl: >-
+      https://www.clubedoingresso.com/evento/hammerheadblues-apnea-camelia-laiglesiaborratxeria
   - poster: 437778543_924303099175973_5232971452945562942_n.jpeg
     city: Osasco
     date: '12/05/2024 16:00'
@@ -412,9 +388,5 @@ gigs:
     date: '18/05/2024 19:00'
     daysGroup: 16/17/18/19
     ticketsUrl: 'https://www.sympla.com.br/evento/inherence-cranula-e-void-it/2423117'
-  - poster: 439124321_18013527647464786_3948346761236333473_n.jpg
-    city: Santo André
-    date: '26/04/2024 19:00'
-    daysGroup: 25/26/27/28/29/30
 ---
 
