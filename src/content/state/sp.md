@@ -348,5 +348,9 @@ gigs:
     city: São Paulo
     date: '30/04/2024 18:00'
     daysGroup: 25/26/27/28/29/30
+  - poster: FB_IMG_1714322224988.jpg
+    city: São Paulo
+    date: '28/04/2024 16:00'
+    daysGroup: 25/26/27/28/29/30
 ---
 
