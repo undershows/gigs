@@ -129,5 +129,11 @@ gigs:
     daysGroup: 19/20/21
     ticketsUrl: >-
       https://www.sympla.com.br/evento/amen-corner-the-war-of-the-antichrist-nordeste-tour-2024/2351302
+  - poster: 433237500_18302219461194446_8343414152669915524_n.jpg
+    city: Natal
+    date: '27/04/2024 19:00'
+    daysGroup: 26/27/28
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/black-pantera-eskroeta-natal-rn-whiskritorio-pub/2307149
 ---
 

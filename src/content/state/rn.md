@@ -7,12 +7,6 @@ gigs:
     date: '17/05/2024 20:00'
     daysGroup: 17/18/19
     ticketsUrl: 'https://www.bilheto.com.br/comprar/2043/dead-fish-rn'
-  - poster: 433237500_18302219461194446_8343414152669915524_n.jpg
-    city: Natal
-    date: '27/04/2024 19:00'
-    daysGroup: 26/27/28
-    ticketsUrl: >-
-      https://www.sympla.com.br/evento/black-pantera-eskroeta-natal-rn-whiskritorio-pub/2307149
   - poster: 435793254_17926952582847256_7461345848870002051_n.jpg
     city: Natal
     date: '18/05/2024 19:00'

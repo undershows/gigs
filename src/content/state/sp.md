@@ -70,10 +70,6 @@ gigs:
     date: '23/05/2024 16:00'
     daysGroup: 23/24/25/26
     ticketsUrl: 'https://www.sympla.com.br/evento/nightfall-heia-desdominus/2382644'
-  - poster: 430270662_416506557596072_5766387288168935857_n.jpeg
-    city: São Paulo
-    date: '27/04/2024 19:00'
-    daysGroup: 25/26/27/28/29/30
   - poster: 432754637_1149028929348083_6900827881406581498_n.jpg
     city: São Paulo
     date: '22/06/2024 20:00'
@@ -89,14 +85,6 @@ gigs:
     city: Batatais
     date: '15/06/2024 18:00'
     daysGroup: 14/15/16
-  - poster: 434034375_721252866836713_5248871160948095585_n.jpeg
-    city: Osasco
-    date: '27/04/2024 19:00'
-    daysGroup: 25/26/27/28/29/30
-  - poster: 434203162_3523930071202332_6159707457337539495_n.jpeg
-    city: Ribeirão Pires
-    date: '27/04/2024 18:00'
-    daysGroup: 25/26/27/28/29/30
   - poster: 434162759_1378769622792484_3285042354675201126_n.jpg
     city: São Paulo
     date: '01/06/2024 14:00'
@@ -173,24 +161,10 @@ gigs:
     city: São Paulo
     date: '05/05/2024 15:00'
     daysGroup: 01/02/03/04/05
-  - poster: 114e5757-6baf-4eb2-82d0-07362c5f5aef.jpeg
-    city: São Paulo
-    date: '27/04/2024 21:00'
-    daysGroup: 25/26/27/28/29/30
   - poster: 434880699_792143318991342_202738750191919940_n.jpg
     city: Várzea Paulista
     date: '01/05/2024 17:00'
     daysGroup: 01/02/03/04/05
-  - poster: 434870940_3712329222381110_5113659682269173779_n.jpg
-    city: Cotia
-    date: '27/04/2024 17:00'
-    daysGroup: 25/26/27/28/29/30
-  - poster: 435215268_1118311349419287_9166179784323319112_n.jpg
-    city: São Paulo
-    date: '27/04/2024 19:00'
-    daysGroup: 25/26/27/28/29/30
-    ticketsUrl: >-
-      https://pixelticket.com.br/eventos/20405/show-beneficente-em-prol-da-cruz-vermelha
   - poster: 437023511_285023984648563_2002777941760385176_n.jpeg
     city: Santos
     date: '11/05/2024 20:00'
@@ -201,20 +175,12 @@ gigs:
     daysGroup: 08/09/10
     ticketsUrl: >-
       https://www.sympla.com.br/evento/cirith-ungol-nightdemon-hellish-war-chumbo/2366428
-  - poster: 435860755_833048205326932_6603494887668354393_n.jpeg
-    city: Jundiaí
-    date: '27/04/2024 18:00'
-    daysGroup: 25/26/27/28/29/30
   - poster: 435236459_1460310031533635_8402540043601506060_n.jpeg
     city: Taubaté
     date: '05/05/2024 17:00'
     daysGroup: 01/02/03/04/05
     ticketsUrl: >-
       https://www.sympla.com.br/evento/basttardz-caosmaria-e-beneath-em-taubate-lapa-public-house/2407874
-  - poster: 434950377_1168689117598503_747091242724618319_n.jpg
-    city: São Paulo
-    date: '27/04/2024 15:00'
-    daysGroup: 25/26/27/28/29/30
   - poster: 436329389_932723381628528_527849210547003685_n.jpeg
     city: São Paulo
     date: '11/05/2024 20:00'
@@ -244,12 +210,6 @@ gigs:
     city: São Paulo
     date: '05/05/2024 16:00'
     daysGroup: 01/02/03/04/05
-  - poster: 436233355_1122421842419973_2896812447290870855_n.jpg
-    city: São Paulo
-    date: '27/04/2024 19:00'
-    daysGroup: 25/26/27/28/29/30
-    ticketsUrl: >-
-      https://www.sympla.com.br/evento/a-porta-maldita-e-desconhecido-juvenal-chococorn-hoovaranas-fragoria/2415353
   - poster: 436430283_7819655121380711_7382755313066739064_n.jpg
     city: São Paulo
     date: '16/06/2024 11:00'
@@ -314,10 +274,6 @@ gigs:
     city: Salto
     date: '11/05/2024 19:00'
     daysGroup: 09/10/11/12
-  - poster: 435132829_17894221089003023_2651911262092661999_n.jpg
-    city: São Paulo
-    date: '27/04/2024 19:00'
-    daysGroup: 25/26/27/28/29/30
   - poster: 437067887_18044995777725690_8659633210688041131_n.jpg
     city: Santo André
     date: '03/05/2024 20:00'
@@ -388,10 +344,6 @@ gigs:
     date: '18/05/2024 19:00'
     daysGroup: 16/17/18/19
     ticketsUrl: 'https://www.sympla.com.br/evento/inherence-cranula-e-void-it/2423117'
-  - poster: 439823184_1187634459081334_7455982327054780566_n.jpeg
-    city: São Paulo
-    date: '27/04/2024 19:00'
-    daysGroup: 25/26/27/28/29/30
   - poster: test_front_3004.jpeg
     city: São Paulo
     date: '30/04/2024 18:00'

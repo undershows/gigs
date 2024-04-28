@@ -2845,5 +2845,53 @@ gigs:
     city: Santo André
     date: '26/04/2024 19:00'
     daysGroup: 25/26/27/28/29/30
+  - poster: 430270662_416506557596072_5766387288168935857_n.jpeg
+    city: São Paulo
+    date: '27/04/2024 19:00'
+    daysGroup: 25/26/27/28/29/30
+  - poster: 434034375_721252866836713_5248871160948095585_n.jpeg
+    city: Osasco
+    date: '27/04/2024 19:00'
+    daysGroup: 25/26/27/28/29/30
+  - poster: 434203162_3523930071202332_6159707457337539495_n.jpeg
+    city: Ribeirão Pires
+    date: '27/04/2024 18:00'
+    daysGroup: 25/26/27/28/29/30
+  - poster: 114e5757-6baf-4eb2-82d0-07362c5f5aef.jpeg
+    city: São Paulo
+    date: '27/04/2024 21:00'
+    daysGroup: 25/26/27/28/29/30
+  - poster: 434870940_3712329222381110_5113659682269173779_n.jpg
+    city: Cotia
+    date: '27/04/2024 17:00'
+    daysGroup: 25/26/27/28/29/30
+  - poster: 435215268_1118311349419287_9166179784323319112_n.jpg
+    city: São Paulo
+    date: '27/04/2024 19:00'
+    daysGroup: 25/26/27/28/29/30
+    ticketsUrl: >-
+      https://pixelticket.com.br/eventos/20405/show-beneficente-em-prol-da-cruz-vermelha
+  - poster: 435860755_833048205326932_6603494887668354393_n.jpeg
+    city: Jundiaí
+    date: '27/04/2024 18:00'
+    daysGroup: 25/26/27/28/29/30
+  - poster: 434950377_1168689117598503_747091242724618319_n.jpg
+    city: São Paulo
+    date: '27/04/2024 15:00'
+    daysGroup: 25/26/27/28/29/30
+  - poster: 436233355_1122421842419973_2896812447290870855_n.jpg
+    city: São Paulo
+    date: '27/04/2024 19:00'
+    daysGroup: 25/26/27/28/29/30
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/a-porta-maldita-e-desconhecido-juvenal-chococorn-hoovaranas-fragoria/2415353
+  - poster: 435132829_17894221089003023_2651911262092661999_n.jpg
+    city: São Paulo
+    date: '27/04/2024 19:00'
+    daysGroup: 25/26/27/28/29/30
+  - poster: 439823184_1187634459081334_7455982327054780566_n.jpeg
+    city: São Paulo
+    date: '27/04/2024 19:00'
+    daysGroup: 25/26/27/28/29/30
 ---
 
