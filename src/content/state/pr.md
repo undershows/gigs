@@ -57,5 +57,10 @@ gigs:
     city: Curitiba
     date: '01/06/2024 19:00'
     daysGroup: 01/02
+  - poster: 436236357_1918071078622944_7975291840926414566_n.jpg
+    city: Curitiba
+    date: '08/06/2024 19:00'
+    daysGroup: 07/08/09
+    ticketsUrl: 'https://www.sympla.com.br/evento/grind-alert-facada-void-it-greve-obitto-e-guro/2430812'
 ---
 
