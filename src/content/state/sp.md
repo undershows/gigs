@@ -352,5 +352,13 @@ gigs:
     city: São Paulo
     date: '28/04/2024 16:00'
     daysGroup: 25/26/27/28/29/30
+  - poster: 439292845_18264839767230291_3920773873305964167_n.jpg
+    city: São Paulo
+    date: '01/05/2024 16:00'
+    daysGroup: 01/02/03/04/05
+  - poster: 440234475_456382283583296_2978574112048395661_n.jpg
+    city: Ribeirão Pires
+    date: '11/05/2024 18:00'
+    daysGroup: 09/10/11/12
 ---
 

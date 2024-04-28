@@ -25,9 +25,13 @@ gigs:
     date: '11/05/2024 18:00'
     daysGroup: 10/11/12
   - poster: 437503749_970726501116343_6571573550964136458_n.jpeg
-    city: Guará
+    city: Brasília
     date: '30/10/2024 19:30'
     daysGroup: 10/11/12
     ticketsUrl: 'https://www.clubedoingresso.com/evento/petra&bride-brasilia'
+  - poster: 439908641_2720323088125674_8641876502173093975_n.jpg
+    city: Guará II
+    date: '25/05/2024 18:00'
+    daysGroup: 24/25/26
 ---
 
