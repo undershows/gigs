@@ -194,10 +194,6 @@ gigs:
     city: Itu
     date: '04/05/2024 18:00'
     daysGroup: 01/02/03/04/05
-  - poster: 437029264_7671629972860708_1864553285190868220_n.jpeg
-    city: Guarulhos
-    date: '28/04/2024 15:00'
-    daysGroup: 25/26/27/28/29/30
   - poster: 435068882_778319327277985_6163784455816232464_n.jpg
     city: São Paulo
     date: '25/05/2024 14:00'
@@ -226,10 +222,6 @@ gigs:
     city: São Paulo
     date: '13/07/2024 13:00'
     daysGroup: 12/13/14
-  - poster: 437329041_942441224556323_3830575192719907564_n.jpeg
-    city: Osasco
-    date: '28/04/2024 16:00'
-    daysGroup: 25/26/27/28/29/30
   - poster: 435073886_17893710843003023_8746314711742307530_n.jpg
     city: São Paulo
     date: '01/05/2024 17:00'
@@ -246,10 +238,6 @@ gigs:
     city: São José dos Campos
     date: '09/06/2024 17:00'
     daysGroup: 06/07/08/09
-  - poster: 437653175_1240455544027519_4913741972962090542_n.jpg
-    city: Bauru
-    date: '28/04/2024 19:00'
-    daysGroup: 25/26/27/28/29/30
   - poster: 437140533_440329581701593_3492624179838790896_n.jpeg
     city: São Paulo
     date: '25/05/2024 18:00'
@@ -266,10 +254,6 @@ gigs:
     city: São Paulo
     date: '17/08/2024 17:00'
     daysGroup: 16/17/18
-  - poster: 436858182_10211117130320152_122791574814969379_n.jpg
-    city: São Paulo
-    date: '28/04/2024 14:00'
-    daysGroup: 25/26/27/28/29/30
   - poster: 437094285_1212367209738228_4698661261880409353_n.jpeg
     city: Salto
     date: '11/05/2024 19:00'
@@ -347,10 +331,6 @@ gigs:
   - poster: test_front_3004.jpeg
     city: São Paulo
     date: '30/04/2024 18:00'
-    daysGroup: 25/26/27/28/29/30
-  - poster: FB_IMG_1714322224988.jpg
-    city: São Paulo
-    date: '28/04/2024 16:00'
     daysGroup: 25/26/27/28/29/30
   - poster: 439292845_18264839767230291_3920773873305964167_n.jpg
     city: São Paulo
