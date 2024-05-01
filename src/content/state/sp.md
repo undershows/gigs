@@ -202,6 +202,7 @@ gigs:
     city: São Paulo
     date: '05/05/2024 16:00'
     daysGroup: 01/02/03/04/05
+    ticketsUrl: 'https://www.hoppin.com.br/nexusmetalfest'
   - poster: 436430283_7819655121380711_7382755313066739064_n.jpg
     city: São Paulo
     date: '16/06/2024 11:00'
@@ -262,6 +263,7 @@ gigs:
     city: Santo André
     date: '10/05/2024 19:00'
     daysGroup: 09/10/11/12
+    ticketsUrl: 'https://www.sympla.com.br/evento/bayside-kings-mee-no-74club/2400867'
   - poster: 435981018_18424429372031134_3321863971839591384_n.jpg
     city: São Paulo
     date: '11/05/2024 20:00'
@@ -279,8 +281,9 @@ gigs:
     daysGroup: 01/02/03/04/05
   - poster: 437783126_1571167070462192_8668625496874683836_n.jpeg
     city: Limeira
-    date: '04/05/2024 22:30'
+    date: '04/05/2024 20:00'
     daysGroup: 01/02/03/04/05
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/golpedeestadoecarrobomba'
   - poster: 437777466_1228800888101198_4174846822614352208_n.jpg
     city: São Paulo
     date: '27/09/2024 18:00'
@@ -302,6 +305,7 @@ gigs:
     city: São Paulo
     date: '17/05/2024 22:00'
     daysGroup: 16/17/18/19
+    ticketsUrl: 'https://www.ingresse.com/hot-e-oreia/'
   - poster: festival_de_aco_24.jpeg
     city: São Paulo
     date: '01/06/2024 23:00'
@@ -328,5 +332,35 @@ gigs:
     city: Ribeirão Pires
     date: '11/05/2024 18:00'
     daysGroup: 09/10/11/12
+  - poster: 440850449_459070923208047_4645648664059275579_n.jpeg
+    city: Marília
+    date: '07/06/2024 22:00'
+    daysGroup: 06/07/08/09
+  - poster: 439999414_18314581612177795_5232124184329922849_n.jpg
+    city: São Paulo
+    date: '04/05/2024 19:00'
+    daysGroup: 01/02/03/04/05
+  - poster: 440869582_1256427679078067_6796898609263164949_n.jpg
+    city: São Paulo
+    date: '02/06/2024 16:00'
+    daysGroup: 01/02
+  - poster: 441142792_1000353281788302_6139203320182688011_n.jpeg
+    city: Piracicaba
+    date: '08/06/2024 19:00'
+    daysGroup: 06/07/08/09
+  - poster: 441133451_1134492241011998_6041109878863011541_n.jpg
+    city: Diadema
+    date: '05/05/2024 13:00'
+    daysGroup: 01/02/03/04/05
+    ticketsUrl: 'https://www.sympla.com.br/evento/7-anos-do-container-garotos-podres-dischavizer-dzk-grinding-reaction-etc/2440277'
+  - poster: 440851886_1168521934094574_4830113093716684269_n.jpeg
+    city: Ribeirão Pires
+    date: '01/06/2024 16:00'
+    daysGroup: 01/02
+  - poster: 80f9d5ad-a11a-4119-ba49-4b675b066417.jpeg
+    city: São Paulo
+    date: '07/06/2024 20:00'
+    daysGroup: 06/07/08/09
+    ticketsUrl: 'https://www.hoppin.com.br/smashitup'
 ---
 
