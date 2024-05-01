@@ -15,11 +15,6 @@ gigs:
     city: Ceilândia
     date: '01/05/2024 15:00'
     daysGroup: 01/02
-  - poster: 435347890_366005399728166_5525648491619331057_n.jpg
-    city: Brasília
-    date: '30/04/2024 19:00'
-    daysGroup: 26/27/28/29/30
-    ticketsUrl: 'https://www.clubedoingresso.com/evento/carcass-toinhabrasil'
   - poster: 435651721_2708078686016781_5142692081280534193_n.jpg
     city: Brasília
     date: '11/05/2024 18:00'

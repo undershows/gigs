@@ -186,5 +186,10 @@ gigs:
     date: '20/04/2024 17:00'
     daysGroup: 19/20/21
     ticketsUrl: 'https://www.sympla.com.br/evento/possuido-pelo-cao/2397092'
+  - poster: 435347890_366005399728166_5525648491619331057_n.jpg
+    city: Brasília
+    date: '30/04/2024 19:00'
+    daysGroup: 26/27/28/29/30
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/carcass-toinhabrasil'
 ---
 

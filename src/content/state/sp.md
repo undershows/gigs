@@ -114,10 +114,6 @@ gigs:
     date: '18/08/2024 19:00'
     daysGroup: 16/17/18
     ticketsUrl: 'https://www.ingresse.com/karate-sp/'
-  - poster: 434844137_2348320505499516_6172864610108233906_n.jpeg
-    city: Jacareí
-    date: '30/04/2024 18:00'
-    daysGroup: 25/26/27/28/29/30
   - poster: 434208852_302715996184044_2978831953778341169_n.jpeg
     city: São Paulo
     date: '16/05/2024 14:00'
@@ -294,10 +290,6 @@ gigs:
     city: Taubaté
     date: '17/05/2024 18:00'
     daysGroup: 16/17/18/19
-  - poster: 438715428_935449564987893_7569957354757054589_n.jpeg
-    city: Santos
-    date: '30/04/2024 21:00'
-    daysGroup: 25/26/27/28/29/30
   - poster: 438581858_1103751597407974_6926199836493968212_n.jpeg
     city: São Paulo
     date: '19/05/2024 14:00'
@@ -328,10 +320,6 @@ gigs:
     date: '18/05/2024 19:00'
     daysGroup: 16/17/18/19
     ticketsUrl: 'https://www.sympla.com.br/evento/inherence-cranula-e-void-it/2423117'
-  - poster: test_front_3004.jpeg
-    city: São Paulo
-    date: '30/04/2024 18:00'
-    daysGroup: 25/26/27/28/29/30
   - poster: 439292845_18264839767230291_3920773873305964167_n.jpg
     city: São Paulo
     date: '01/05/2024 16:00'

@@ -2913,5 +2913,17 @@ gigs:
     city: São Paulo
     date: '28/04/2024 16:00'
     daysGroup: 25/26/27/28/29/30
+  - poster: 434844137_2348320505499516_6172864610108233906_n.jpeg
+    city: Jacareí
+    date: '30/04/2024 18:00'
+    daysGroup: 25/26/27/28/29/30
+  - poster: 438715428_935449564987893_7569957354757054589_n.jpeg
+    city: Santos
+    date: '30/04/2024 21:00'
+    daysGroup: 25/26/27/28/29/30
+  - poster: test_front_3004.jpeg
+    city: São Paulo
+    date: '30/04/2024 18:00'
+    daysGroup: 25/26/27/28/29/30
 ---
 
