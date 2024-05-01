@@ -62,5 +62,9 @@ gigs:
     date: '08/06/2024 19:00'
     daysGroup: 07/08/09
     ticketsUrl: 'https://www.sympla.com.br/evento/grind-alert-facada-void-it-greve-obitto-e-guro/2430812'
+  - poster: df372a14-6541-427e-9ece-60f089ab267b.jpeg
+    city: Maringá
+    date: '01/05/2024 16:00'
+    daysGroup: 01/02
 ---
 
