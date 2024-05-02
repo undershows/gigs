@@ -264,5 +264,9 @@ gigs:
     city: Ponta Grossa
     date: '20/04/2024 18:00'
     daysGroup: 19/20/21
+  - poster: df372a14-6541-427e-9ece-60f089ab267b.jpeg
+    city: Maringá
+    date: '01/05/2024 16:00'
+    daysGroup: 01/02
 ---
 

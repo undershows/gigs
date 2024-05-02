@@ -58,5 +58,11 @@ gigs:
     daysGroup: 19/20/21
     ticketsUrl: >-
       https://www.sympla.com.br/evento/amen-corner-medicine-death-infested-blood-e-sodoma/2360774
+  - poster: 425745004_18303200899194446_8427464285493566082_n.jpg
+    city: João Pessoa
+    date: '01/05/2024 20:00'
+    daysGroup: 01/02
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/black-pantera-eskroeta-joao-pessoa-pb-vila-do-porto/2307154
 ---
 

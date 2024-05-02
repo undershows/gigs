@@ -11,10 +11,6 @@ gigs:
     city: Gama
     date: '07/09/2024 18:00'
     daysGroup: 06/07/08
-  - poster: 434856289_10231931225080249_3636235382429585795_n.jpg
-    city: Ceilândia
-    date: '01/05/2024 15:00'
-    daysGroup: 01/02
   - poster: 435651721_2708078686016781_5142692081280534193_n.jpg
     city: Brasília
     date: '11/05/2024 18:00'

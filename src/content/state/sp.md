@@ -157,10 +157,6 @@ gigs:
     city: São Paulo
     date: '05/05/2024 15:00'
     daysGroup: 01/02/03/04/05
-  - poster: 434880699_792143318991342_202738750191919940_n.jpg
-    city: Várzea Paulista
-    date: '01/05/2024 17:00'
-    daysGroup: 01/02/03/04/05
   - poster: 437023511_285023984648563_2002777941760385176_n.jpeg
     city: Santos
     date: '11/05/2024 20:00'
@@ -219,10 +215,6 @@ gigs:
     city: São Paulo
     date: '13/07/2024 13:00'
     daysGroup: 12/13/14
-  - poster: 435073886_17893710843003023_8746314711742307530_n.jpg
-    city: São Paulo
-    date: '01/05/2024 17:00'
-    daysGroup: 01/02/03/04/05
   - poster: 437789515_1186460232719430_2866805141690934471_n.jpg
     city: São Paulo
     date: '02/11/2024 16:00'
@@ -311,10 +303,6 @@ gigs:
     date: '01/06/2024 23:00'
     daysGroup: 01/02
     ticketsUrl: 'https://www.sympla.com.br/evento/inverno-de-aco-edicao-pre-fest/2429260'
-  - poster: 439105196_18251498536222869_8924769717621354214_n.jpg
-    city: Arujá
-    date: '01/05/2024 15:00'
-    daysGroup: 01/02/03/04/05
   - poster: 436301496_2715244248633558_460765244733301572_n.jpg
     city: Arujá
     date: '05/05/2024 15:00'
@@ -324,10 +312,6 @@ gigs:
     date: '18/05/2024 19:00'
     daysGroup: 16/17/18/19
     ticketsUrl: 'https://www.sympla.com.br/evento/inherence-cranula-e-void-it/2423117'
-  - poster: 439292845_18264839767230291_3920773873305964167_n.jpg
-    city: São Paulo
-    date: '01/05/2024 16:00'
-    daysGroup: 01/02/03/04/05
   - poster: 440234475_456382283583296_2978574112048395661_n.jpg
     city: Ribeirão Pires
     date: '11/05/2024 18:00'
@@ -352,7 +336,8 @@ gigs:
     city: Diadema
     date: '05/05/2024 13:00'
     daysGroup: 01/02/03/04/05
-    ticketsUrl: 'https://www.sympla.com.br/evento/7-anos-do-container-garotos-podres-dischavizer-dzk-grinding-reaction-etc/2440277'
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/7-anos-do-container-garotos-podres-dischavizer-dzk-grinding-reaction-etc/2440277
   - poster: 440851886_1168521934094574_4830113093716684269_n.jpeg
     city: Ribeirão Pires
     date: '01/06/2024 16:00'

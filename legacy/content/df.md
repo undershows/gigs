@@ -191,5 +191,9 @@ gigs:
     date: '30/04/2024 19:00'
     daysGroup: 26/27/28/29/30
     ticketsUrl: 'https://www.clubedoingresso.com/evento/carcass-toinhabrasil'
+  - poster: 434856289_10231931225080249_3636235382429585795_n.jpg
+    city: Ceilândia
+    date: '01/05/2024 15:00'
+    daysGroup: 01/02
 ---
 
