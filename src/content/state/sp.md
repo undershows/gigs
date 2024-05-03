@@ -251,6 +251,7 @@ gigs:
     city: Santo André
     date: '03/05/2024 20:00'
     daysGroup: 01/02/03/04/05
+    ticketsUrl: 'https://www.sympla.com.br/evento/basttardz-ma-maddiba-no-74club/2427047'
   - poster: 435134940_18427622596032461_9012676512503972161_n.jpg
     city: Santo André
     date: '10/05/2024 19:00'
