@@ -182,6 +182,7 @@ gigs:
     city: São Paulo
     date: '03/05/2024 21:00'
     daysGroup: 01/02/03/04/05
+    ticketsUrl: 'https://www.sympla.com.br/evento/a-porta-maldita-apresenta-applegate-a-olivia-naimaculada-na-rockambole/2411458'
   - poster: 435828875_789456899443321_2493933601507397163_n.jpeg
     city: Itu
     date: '04/05/2024 18:00'
