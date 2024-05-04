@@ -2941,5 +2941,21 @@ gigs:
     city: São Paulo
     date: '01/05/2024 16:00'
     daysGroup: 01/02/03/04/05
+  - poster: profetas_do_caos_tour.jpeg
+    city: Jundiaí
+    date: '03/05/2024 20:00'
+    daysGroup: 01/02/03/04/05
+    ticketsUrl: 'https://www.sympla.com.br/evento/nervochaos-carpatus-frade-negro/2365939'
+  - poster: 423716091_17963864072733369_1555135687417787264_n.jpg
+    city: São Paulo
+    date: '03/05/2024 21:00'
+    daysGroup: 01/02/03/04/05
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/a-porta-maldita-apresenta-applegate-a-olivia-naimaculada-na-rockambole/2411458
+  - poster: 437067887_18044995777725690_8659633210688041131_n.jpg
+    city: Santo André
+    date: '03/05/2024 20:00'
+    daysGroup: 01/02/03/04/05
+    ticketsUrl: 'https://www.sympla.com.br/evento/basttardz-ma-maddiba-no-74club/2427047'
 ---
 

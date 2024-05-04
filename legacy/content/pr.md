@@ -268,5 +268,10 @@ gigs:
     city: Maringá
     date: '01/05/2024 16:00'
     daysGroup: 01/02
+  - poster: 429861885_18331330837114615_8375132758476110631_n.jpg
+    city: Curitiba
+    date: '03/05/2024 18:00'
+    daysGroup: 03/04/05
+    ticketsUrl: 'https://meaple.com.br/bradorecords/lasso-em-curitiba'
 ---
 

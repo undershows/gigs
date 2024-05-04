@@ -36,11 +36,6 @@ gigs:
     date: '12/05/2024 17:00'
     daysGroup: 10/11/12
     ticketsUrl: 'https://pixta.me/u/manger-cadavre-em-curitiba'
-  - poster: 429861885_18331330837114615_8375132758476110631_n.jpg
-    city: Curitiba
-    date: '03/05/2024 18:00'
-    daysGroup: 03/04/05
-    ticketsUrl: 'https://meaple.com.br/bradorecords/lasso-em-curitiba'
   - poster: ponta_grossa_profetas_caos_24.jpeg
     city: Ponta Grossa
     date: '31/05/2024 19:00'

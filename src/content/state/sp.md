@@ -38,11 +38,6 @@ gigs:
     date: '18/05/2024 19:00'
     daysGroup: 16/17/18/19
     ticketsUrl: 'https://www.sympla.com.br/evento/grinders-deserdados-fuck-youth/2372389'
-  - poster: profetas_do_caos_tour.jpeg
-    city: Jundiaí
-    date: '03/05/2024 20:00'
-    daysGroup: 01/02/03/04/05
-    ticketsUrl: 'https://www.sympla.com.br/evento/nervochaos-carpatus-frade-negro/2365939'
   - poster: 432729476_1178864503556162_5594006283990413920_n.jpg
     city: Santo André
     date: '08/06/2024 20:00'
@@ -178,11 +173,6 @@ gigs:
     date: '11/05/2024 20:00'
     daysGroup: 09/10/11/12
     ticketsUrl: 'https://www.sympla.com.br/evento/festa-hell-oh-dear-autoramas/2414788'
-  - poster: 423716091_17963864072733369_1555135687417787264_n.jpg
-    city: São Paulo
-    date: '03/05/2024 21:00'
-    daysGroup: 01/02/03/04/05
-    ticketsUrl: 'https://www.sympla.com.br/evento/a-porta-maldita-apresenta-applegate-a-olivia-naimaculada-na-rockambole/2411458'
   - poster: 435828875_789456899443321_2493933601507397163_n.jpeg
     city: Itu
     date: '04/05/2024 18:00'
@@ -248,11 +238,6 @@ gigs:
     city: Salto
     date: '11/05/2024 19:00'
     daysGroup: 09/10/11/12
-  - poster: 437067887_18044995777725690_8659633210688041131_n.jpg
-    city: Santo André
-    date: '03/05/2024 20:00'
-    daysGroup: 01/02/03/04/05
-    ticketsUrl: 'https://www.sympla.com.br/evento/basttardz-ma-maddiba-no-74club/2427047'
   - poster: 435134940_18427622596032461_9012676512503972161_n.jpg
     city: Santo André
     date: '10/05/2024 19:00'
