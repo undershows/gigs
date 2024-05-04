@@ -258,6 +258,7 @@ gigs:
     city: São Paulo
     date: '04/05/2024 20:00'
     daysGroup: 01/02/03/04/05
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/infamousglory-laiglesiaborratxeria'
   - poster: 437783126_1571167070462192_8668625496874683836_n.jpeg
     city: Limeira
     date: '04/05/2024 20:00'
@@ -280,6 +281,7 @@ gigs:
     city: São Paulo
     date: '04/05/2024 19:00'
     daysGroup: 01/02/03/04/05
+    ticketsUrl: 'https://pixelticket.com.br/eventos/20545/nino-piantamar-lancamento-dvd-ao-vivo-em-sao-paulo'
   - poster: 436419684_18433178830041789_4534017904021547335_n.jpg
     city: São Paulo
     date: '17/05/2024 22:00'
@@ -311,6 +313,7 @@ gigs:
     city: São Paulo
     date: '04/05/2024 19:00'
     daysGroup: 01/02/03/04/05
+    ticketsUrl: 'https://www.sympla.com.br/evento/festa-mutante/2435879'
   - poster: 440869582_1256427679078067_6796898609263164949_n.jpg
     city: São Paulo
     date: '02/06/2024 16:00'
