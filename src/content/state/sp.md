@@ -12,11 +12,6 @@ gigs:
     city: Santo André
     date: '25/05/2024 16:00'
     daysGroup: 23/24/25/26
-  - poster: 430848187_18402781762067518_3419502131339350366_n_1080.jpg
-    city: São Paulo
-    date: '04/05/2024 19:00'
-    daysGroup: 01/02/03/04/05
-    ticketsUrl: 'https://www.sympla.com.br/evento/lasso-em-sao-paulo/2362579'
   - poster: 426488998_120207068767380040_3886440266274244029_n.jpg
     city: São Paulo
     date: '09/11/2024 18:00'
@@ -122,11 +117,6 @@ gigs:
     date: '22/06/2024 18:00'
     daysGroup: 21/22/23
     ticketsUrl: 'https://www.ingresse.com/the-obsessed/'
-  - poster: 435336920_962150009247806_8088327145214203831_n.jpg
-    city: Botucatu
-    date: '04/05/2024 20:00'
-    daysGroup: 01/02/03/04/05
-    ticketsUrl: 'https://www.megabilheteria.com/evento?id=20240320144949'
   - poster: 431532032_1182311719878107_5885739277133671317_n.jpg
     city: Diadema
     date: '09/06/2024 15:00'
@@ -173,18 +163,10 @@ gigs:
     date: '11/05/2024 20:00'
     daysGroup: 09/10/11/12
     ticketsUrl: 'https://www.sympla.com.br/evento/festa-hell-oh-dear-autoramas/2414788'
-  - poster: 435828875_789456899443321_2493933601507397163_n.jpeg
-    city: Itu
-    date: '04/05/2024 18:00'
-    daysGroup: 01/02/03/04/05
   - poster: 435068882_778319327277985_6163784455816232464_n.jpg
     city: São Paulo
     date: '25/05/2024 14:00'
     daysGroup: 23/24/25/26
-  - poster: 436332578_2075556882827086_4825454717417995325_n.jpeg
-    city: Sumaré
-    date: '04/05/2024 20:00'
-    daysGroup: 01/02/03/04/05
   - poster: 435115925_18016768277191359_148657608794497424_n.jpg
     city: São Paulo
     date: '05/05/2024 16:00'
@@ -198,10 +180,6 @@ gigs:
     city: São Paulo
     date: '18/05/2024 18:00'
     daysGroup: 16/17/18/19
-  - poster: 435120451_18317107702121660_8925803506965315760_n.jpg
-    city: São Paulo
-    date: '04/05/2024 13:00'
-    daysGroup: 01/02/03/04/05
   - poster: 437783461_794844275520482_8443482418657512528_n.jpeg
     city: São Paulo
     date: '13/07/2024 13:00'
@@ -254,16 +232,6 @@ gigs:
     date: '12/05/2024 16:00'
     daysGroup: 09/10/11/12
     ticketsUrl: 'https://www.clubedoingresso.com/evento/garatospodres-tribosbar'
-  - poster: 437081085_18054704248599743_922228528246256362_n.jpg
-    city: São Paulo
-    date: '04/05/2024 20:00'
-    daysGroup: 01/02/03/04/05
-    ticketsUrl: 'https://www.clubedoingresso.com/evento/infamousglory-laiglesiaborratxeria'
-  - poster: 437783126_1571167070462192_8668625496874683836_n.jpeg
-    city: Limeira
-    date: '04/05/2024 20:00'
-    daysGroup: 01/02/03/04/05
-    ticketsUrl: 'https://www.clubedoingresso.com/evento/golpedeestadoecarrobomba'
   - poster: 437777466_1228800888101198_4174846822614352208_n.jpg
     city: São Paulo
     date: '27/09/2024 18:00'
@@ -277,11 +245,6 @@ gigs:
     city: São Paulo
     date: '19/05/2024 14:00'
     daysGroup: 16/17/18/19
-  - poster: 437529637_375218925511161_8008040962232587011_n.jpg
-    city: São Paulo
-    date: '04/05/2024 19:00'
-    daysGroup: 01/02/03/04/05
-    ticketsUrl: 'https://pixelticket.com.br/eventos/20545/nino-piantamar-lancamento-dvd-ao-vivo-em-sao-paulo'
   - poster: 436419684_18433178830041789_4534017904021547335_n.jpg
     city: São Paulo
     date: '17/05/2024 22:00'
@@ -309,11 +272,6 @@ gigs:
     city: Marília
     date: '07/06/2024 22:00'
     daysGroup: 06/07/08/09
-  - poster: 439999414_18314581612177795_5232124184329922849_n.jpg
-    city: São Paulo
-    date: '04/05/2024 19:00'
-    daysGroup: 01/02/03/04/05
-    ticketsUrl: 'https://www.sympla.com.br/evento/festa-mutante/2435879'
   - poster: 440869582_1256427679078067_6796898609263164949_n.jpg
     city: São Paulo
     date: '02/06/2024 16:00'

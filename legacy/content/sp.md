@@ -2957,5 +2957,48 @@ gigs:
     date: '03/05/2024 20:00'
     daysGroup: 01/02/03/04/05
     ticketsUrl: 'https://www.sympla.com.br/evento/basttardz-ma-maddiba-no-74club/2427047'
+  - poster: 430848187_18402781762067518_3419502131339350366_n_1080.jpg
+    city: São Paulo
+    date: '04/05/2024 19:00'
+    daysGroup: 01/02/03/04/05
+    ticketsUrl: 'https://www.sympla.com.br/evento/lasso-em-sao-paulo/2362579'
+  - poster: 435336920_962150009247806_8088327145214203831_n.jpg
+    city: Botucatu
+    date: '04/05/2024 20:00'
+    daysGroup: 01/02/03/04/05
+    ticketsUrl: 'https://www.megabilheteria.com/evento?id=20240320144949'
+  - poster: 435828875_789456899443321_2493933601507397163_n.jpeg
+    city: Itu
+    date: '04/05/2024 18:00'
+    daysGroup: 01/02/03/04/05
+  - poster: 436332578_2075556882827086_4825454717417995325_n.jpeg
+    city: Sumaré
+    date: '04/05/2024 20:00'
+    daysGroup: 01/02/03/04/05
+  - poster: 435120451_18317107702121660_8925803506965315760_n.jpg
+    city: São Paulo
+    date: '04/05/2024 13:00'
+    daysGroup: 01/02/03/04/05
+  - poster: 437081085_18054704248599743_922228528246256362_n.jpg
+    city: São Paulo
+    date: '04/05/2024 20:00'
+    daysGroup: 01/02/03/04/05
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/infamousglory-laiglesiaborratxeria'
+  - poster: 437783126_1571167070462192_8668625496874683836_n.jpeg
+    city: Limeira
+    date: '04/05/2024 20:00'
+    daysGroup: 01/02/03/04/05
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/golpedeestadoecarrobomba'
+  - poster: 437529637_375218925511161_8008040962232587011_n.jpg
+    city: São Paulo
+    date: '04/05/2024 19:00'
+    daysGroup: 01/02/03/04/05
+    ticketsUrl: >-
+      https://pixelticket.com.br/eventos/20545/nino-piantamar-lancamento-dvd-ao-vivo-em-sao-paulo
+  - poster: 439999414_18314581612177795_5232124184329922849_n.jpg
+    city: São Paulo
+    date: '04/05/2024 19:00'
+    daysGroup: 01/02/03/04/05
+    ticketsUrl: 'https://www.sympla.com.br/evento/festa-mutante/2435879'
 ---
 

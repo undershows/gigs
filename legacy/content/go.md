@@ -84,5 +84,9 @@ gigs:
     city: Goiania
     date: '06/04/2024 14:00'
     daysGroup: 05/06/07
+  - poster: 438531540_6659754260794404_1809002724539063295_n.jpeg
+    city: Goiânia
+    date: '04/05/2024 20:00'
+    daysGroup: 03/04/05
 ---
 

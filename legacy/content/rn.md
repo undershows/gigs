@@ -135,5 +135,9 @@ gigs:
     daysGroup: 26/27/28
     ticketsUrl: >-
       https://www.sympla.com.br/evento/black-pantera-eskroeta-natal-rn-whiskritorio-pub/2307149
+  - poster: 438532849_1498047954140651_4286387312397503473_n.jpeg
+    city: Natal
+    date: '04/05/2024 16:20'
+    daysGroup: 03/04/05
 ---
 

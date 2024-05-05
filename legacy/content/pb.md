@@ -64,5 +64,10 @@ gigs:
     daysGroup: 01/02
     ticketsUrl: >-
       https://www.sympla.com.br/evento/black-pantera-eskroeta-joao-pessoa-pb-vila-do-porto/2307154
+  - poster: 436619759_416231167676224_111014281897624502_n.jpeg
+    city: João Pessoa
+    date: '04/05/2024 20:00'
+    daysGroup: 03/04/05
+    ticketsUrl: 'https://www.sympla.com.br/evento/kaos-na-caravela/2417525'
 ---
 
