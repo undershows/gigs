@@ -38,12 +38,6 @@ gigs:
     date: '08/06/2024 20:00'
     daysGroup: 06/07/08/09
     ticketsUrl: 'https://pixelticket.com.br/eventos/20278/nervochaos-e-satanatos'
-  - poster: FB_IMG_1711017057318-724x1024.jpg
-    city: Marília
-    date: '05/05/2024 18:00'
-    daysGroup: 01/02/03/04/05
-    ticketsUrl: >-
-      https://www.sympla.com.br/evento/nervochaos-carpatus-frade-negro-d-i-e/2366258
   - poster: 432856903_1179326466843299_3063550065245102428_n.jpg
     city: São Paulo
     date: '06/06/2024 17:00'
@@ -130,18 +124,10 @@ gigs:
     date: '16/08/2024 18:00'
     daysGroup: 16/17/18
     ticketsUrl: 'https://www.clubedoingresso.com/evento/nebula-saopaulo'
-  - poster: 435247080_794314575925607_4632190631731271000_n.jpeg
-    city: São José dos Campos
-    date: '05/05/2024 18:00'
-    daysGroup: 01/02/03/04/05
   - poster: 435246765_17878962312048719_1809705049119668091_n.jpg
     city: São Paulo
     date: '15/06/2024 20:00'
     daysGroup: 14/15/16
-  - poster: 434851897_1880298402406959_4123898199035041749_n.jpeg
-    city: São Paulo
-    date: '05/05/2024 15:00'
-    daysGroup: 01/02/03/04/05
   - poster: 437023511_285023984648563_2002777941760385176_n.jpeg
     city: Santos
     date: '11/05/2024 20:00'
@@ -152,12 +138,6 @@ gigs:
     daysGroup: 08/09/10
     ticketsUrl: >-
       https://www.sympla.com.br/evento/cirith-ungol-nightdemon-hellish-war-chumbo/2366428
-  - poster: 435236459_1460310031533635_8402540043601506060_n.jpeg
-    city: Taubaté
-    date: '05/05/2024 17:00'
-    daysGroup: 01/02/03/04/05
-    ticketsUrl: >-
-      https://www.sympla.com.br/evento/basttardz-caosmaria-e-beneath-em-taubate-lapa-public-house/2407874
   - poster: 436329389_932723381628528_527849210547003685_n.jpeg
     city: São Paulo
     date: '11/05/2024 20:00'
@@ -167,11 +147,6 @@ gigs:
     city: São Paulo
     date: '25/05/2024 14:00'
     daysGroup: 23/24/25/26
-  - poster: 435115925_18016768277191359_148657608794497424_n.jpg
-    city: São Paulo
-    date: '05/05/2024 16:00'
-    daysGroup: 01/02/03/04/05
-    ticketsUrl: 'https://www.hoppin.com.br/nexusmetalfest'
   - poster: 436430283_7819655121380711_7382755313066739064_n.jpg
     city: São Paulo
     date: '16/06/2024 11:00'
@@ -200,10 +175,6 @@ gigs:
     city: São Paulo
     date: '25/05/2024 18:00'
     daysGroup: 23/24/25/26
-  - poster: 436096268_10228932082361161_2865194601553687732_n.jpg
-    city: Santo André
-    date: '05/05/2024 16:00'
-    daysGroup: 01/02/03/04/05
   - poster: 435678766_10211117130360153_3424268382435079418_n.jpg
     city: São Paulo
     date: '11/05/2024 17:00'
@@ -255,10 +226,6 @@ gigs:
     date: '01/06/2024 23:00'
     daysGroup: 01/02
     ticketsUrl: 'https://www.sympla.com.br/evento/inverno-de-aco-edicao-pre-fest/2429260'
-  - poster: 436301496_2715244248633558_460765244733301572_n.jpg
-    city: Arujá
-    date: '05/05/2024 15:00'
-    daysGroup: 01/02/03/04/05
   - poster: 438941736_723771409957258_75836104643452385_n.jpeg
     city: São Paulo
     date: '18/05/2024 19:00'
@@ -280,12 +247,6 @@ gigs:
     city: Piracicaba
     date: '08/06/2024 19:00'
     daysGroup: 06/07/08/09
-  - poster: 441133451_1134492241011998_6041109878863011541_n.jpg
-    city: Diadema
-    date: '05/05/2024 13:00'
-    daysGroup: 01/02/03/04/05
-    ticketsUrl: >-
-      https://www.sympla.com.br/evento/7-anos-do-container-garotos-podres-dischavizer-dzk-grinding-reaction-etc/2440277
   - poster: 440851886_1168521934094574_4830113093716684269_n.jpeg
     city: Ribeirão Pires
     date: '01/06/2024 16:00'

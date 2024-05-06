@@ -3000,5 +3000,44 @@ gigs:
     date: '04/05/2024 19:00'
     daysGroup: 01/02/03/04/05
     ticketsUrl: 'https://www.sympla.com.br/evento/festa-mutante/2435879'
+  - poster: FB_IMG_1711017057318-724x1024.jpg
+    city: Marília
+    date: '05/05/2024 18:00'
+    daysGroup: 01/02/03/04/05
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/nervochaos-carpatus-frade-negro-d-i-e/2366258
+  - poster: 435247080_794314575925607_4632190631731271000_n.jpeg
+    city: São José dos Campos
+    date: '05/05/2024 18:00'
+    daysGroup: 01/02/03/04/05
+  - poster: 434851897_1880298402406959_4123898199035041749_n.jpeg
+    city: São Paulo
+    date: '05/05/2024 15:00'
+    daysGroup: 01/02/03/04/05
+  - poster: 435236459_1460310031533635_8402540043601506060_n.jpeg
+    city: Taubaté
+    date: '05/05/2024 17:00'
+    daysGroup: 01/02/03/04/05
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/basttardz-caosmaria-e-beneath-em-taubate-lapa-public-house/2407874
+  - poster: 435115925_18016768277191359_148657608794497424_n.jpg
+    city: São Paulo
+    date: '05/05/2024 16:00'
+    daysGroup: 01/02/03/04/05
+    ticketsUrl: 'https://www.hoppin.com.br/nexusmetalfest'
+  - poster: 436096268_10228932082361161_2865194601553687732_n.jpg
+    city: Santo André
+    date: '05/05/2024 16:00'
+    daysGroup: 01/02/03/04/05
+  - poster: 436301496_2715244248633558_460765244733301572_n.jpg
+    city: Arujá
+    date: '05/05/2024 15:00'
+    daysGroup: 01/02/03/04/05
+  - poster: 441133451_1134492241011998_6041109878863011541_n.jpg
+    city: Diadema
+    date: '05/05/2024 13:00'
+    daysGroup: 01/02/03/04/05
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/7-anos-do-container-garotos-podres-dischavizer-dzk-grinding-reaction-etc/2440277
 ---
 
