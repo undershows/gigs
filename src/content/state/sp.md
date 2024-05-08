@@ -256,5 +256,17 @@ gigs:
     date: '07/06/2024 20:00'
     daysGroup: 06/07/08/09
     ticketsUrl: 'https://www.hoppin.com.br/smashitup'
+  - poster: 441462734_976566667246127_6865553702100583784_n.jpg
+    city: Ribeirão Pires
+    date: '08/06/2024 18:00'
+    daysGroup: 06/07/08/09
+  - poster: 441276523_2728228674001782_6512665850214711989_n.jpg
+    city: São José dos Campos
+    date: '02/06/2024 16:00'
+    daysGroup: 01/02
+  - poster: image_123650291.JPG
+    city: São Paulo
+    date: '17/05/2024 19:00'
+    daysGroup: 16/17/18/19
 ---
 
