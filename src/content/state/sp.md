@@ -268,5 +268,9 @@ gigs:
     city: São Paulo
     date: '17/05/2024 19:00'
     daysGroup: 16/17/18/19
+  - poster: 438303691_7520148018070470_8192219138537072871_n.jpg
+    city: Santo André
+    date: '22/06/2024 20:00'
+    daysGroup: 21/22/23
 ---
 
