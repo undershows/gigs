@@ -68,7 +68,7 @@ gigs:
   - poster: 434149592_1112553236443371_1730872517776889531_n.jpg
     city: Batatais
     date: '15/06/2024 18:00'
-    daysGroup: 14/15/16
+    daysGroup: 13/14/15/16
   - poster: 434162759_1378769622792484_3285042354675201126_n.jpg
     city: São Paulo
     date: '01/06/2024 14:00'
@@ -95,8 +95,9 @@ gigs:
     ticketsUrl: 'https://www.ingresse.com/karate-sp/'
   - poster: 434208852_302715996184044_2978831953778341169_n.jpeg
     city: São Paulo
-    date: '16/05/2024 14:00'
+    date: '19/05/2024 14:00'
     daysGroup: 16/17/18/19
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/hammerfestival-saopaulo'
   - poster: 434334998_1373336246676381_4534883261129237858_n.jpeg
     city: Arujá
     date: '09/06/2024 16:00'
@@ -122,7 +123,7 @@ gigs:
   - poster: 435246765_17878962312048719_1809705049119668091_n.jpg
     city: São Paulo
     date: '15/06/2024 20:00'
-    daysGroup: 14/15/16
+    daysGroup: 13/14/15/16
   - poster: 437023511_285023984648563_2002777941760385176_n.jpeg
     city: Santos
     date: '11/05/2024 20:00'
@@ -145,7 +146,7 @@ gigs:
   - poster: 436430283_7819655121380711_7382755313066739064_n.jpg
     city: São Paulo
     date: '16/06/2024 11:00'
-    daysGroup: 14/15/16
+    daysGroup: 13/14/15/16
   - poster: 437055882_965982867970978_1393301522307534995_n.jpeg
     city: São Paulo
     date: '18/05/2024 18:00'
@@ -267,5 +268,107 @@ gigs:
     city: Santo André
     date: '22/06/2024 20:00'
     daysGroup: 21/22/23
+  - poster: 442140716_1104695720815693_4300683379565757359_n.jpeg
+    city: São Paulo
+    date: '11/05/2024 19:00'
+    daysGroup: 09/10/11/12
+  - poster: 441467705_1021403599985535_968873762114003751_n.jpg
+    city: Americana
+    date: '11/05/2024 16:00'
+    daysGroup: 09/10/11/12
+  - poster: 441887548_17883018084048719_5465247759848457786_n.jpg
+    city: São Paulo
+    date: '26/05/2024 17:00'
+    daysGroup: 23/24/25/26
+  - poster: 442445208_2764552633708795_5049092636386486648_n.jpeg
+    city: Diadema
+    date: '23/06/2024 20:00'
+    daysGroup: 21/22/23
+    ticketsUrl: 'https://articket.com.br/e/2143/garage-fuzz-chuva-negra-no-1100'
+  - poster: 441555984_290166870815829_7059904588523868058_n.jpeg
+    city: São Paulo
+    date: '30/05/2024 15:00'
+    daysGroup: 30/31
+  - poster: 441567394_2722561444564573_9028914761325985129_n.jpeg
+    city: Santos
+    date: '25/05/2024 21:00'
+    daysGroup: 23/24/25/26
+  - poster: 441564628_7782835651779235_3807320771494217195_n.jpeg
+    city: Sumaré
+    date: '11/05/2024 19:00'
+    daysGroup: 09/10/11/12
+  - poster: 442420162_1118488872745833_7235445872006840560_n.jpeg
+    city: Santos
+    date: '17/05/2024 21:00'
+    daysGroup: 16/17/18/19
+  - poster: 442137007_994312078851775_9140865591619313112_n.jpeg
+    city: São Sebastião
+    date: '15/06/2024 19:00'
+    daysGroup: 13/14/15/16
+  - poster: 441577687_1145063940020406_1731528657895129161_n.jpeg
+    city: São Carlos
+    date: '06/06/2024 18:00'
+    daysGroup: 06/07/08/09
+  - poster: 441127154_792081799541511_5000173471982161746_n.jpeg
+    city: São Paulo
+    date: '30/06/2024 17:00'
+    daysGroup: 28/29/30
+  - poster: 441491398_3691025934500176_1324694098910982033_n.jpeg
+    city: Suzano
+    date: '08/06/2024 19:00'
+    daysGroup: 06/07/08/09
+  - poster: 442416253_805138481130206_1327333783176922195_n.jpeg
+    city: Caçapava
+    date: '09/06/2024 13:00'
+    daysGroup: 06/07/08/09
+  - poster: 442412547_1482154889395714_4982639979988539808_n.jpeg
+    city: São Paulo
+    date: '07/07/2024 12:00'
+    daysGroup: 05/06/07
+    ticketsUrl: 'https://www.sympla.com.br/evento/synco-hc-festival-arena-show-sp/2450384'
+  - poster: 442157006_473935585222824_4649028713374626217_n.jpeg
+    city: São José dos Campos
+    date: '19/05/2024 17:00'
+    daysGroup: 16/17/18/19
+  - poster: 441710759_986529522842493_4816268216822266280_n.jpeg
+    city: São José dos Campos
+    date: '12/05/2024 17:00'
+    daysGroup: 09/10/11/12
+  - poster: 441384513_18436973761041789_7748907152528995580_n.jpg
+    city: São Paulo
+    date: '26/05/2024 17:00'
+    daysGroup: 23/24/25/26
+    ticketsUrl: 'https://www.ingresse.com/indie-brasil-fest/'
+  - poster: 442420972_1821335045032665_9018548818020384033_n.jpg
+    city: São Paulo
+    date: '13/06/2024 19:00'
+    daysGroup: 13/14/15/16
+  - poster: 441575863_964816735261479_1731140104779546834_n.jpg
+    city: São Paulo
+    date: '17/05/2024 20:00'
+    daysGroup: 16/17/18/19
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/flageladorwarsicknessemacabro'
+  - poster: 442416132_344009321654997_7691538293501868540_n.jpeg
+    city: São Paulo
+    date: '11/05/2024 17:00'
+    daysGroup: 09/10/11/12
+  - poster: 442412529_1475719253024197_5375320085600563537_n.jpeg
+    city: Sorocaba
+    date: '06/07/2024 15:00'
+    daysGroup: 05/06/07
+  - poster: 442432338_1585175692272727_6245637458366140102_n.jpeg
+    city: Osasco
+    date: '12/05/2024 16:00'
+    daysGroup: 09/10/11/12
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/garatospodres-tribosbar'
+  - poster: 8433947e-3b50-490f-a9f9-416323b5cf8e.jpeg
+    city: São Paulo
+    date: '16/05/2024 20:00'
+    daysGroup: 16/17/18/19
+  - poster: 440474250_2137530899935018_9186845276870816485_n.jpeg
+    city: Americana
+    date: '22/06/2024 20:00'
+    daysGroup: 21/22/23
+    ticketsUrl: 'https://www.sympla.com.br/evento/hup-apresenta-chuva-negra-caffeine-blues-allpacas-e-venlift/2443123'
 ---
 

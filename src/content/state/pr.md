@@ -59,5 +59,10 @@ gigs:
     daysGroup: 07/08/09
     ticketsUrl: >-
       https://www.sympla.com.br/evento/grind-alert-facada-void-it-greve-obitto-e-guro/2430812
+  - poster: 441581854_699336062222228_5613485213931510739_n.jpeg
+    city: Curitiba
+    date: '12/05/2024 19:00'
+    daysGroup: 10/11/12
+    ticketsUrl: 'https://www.sympla.com.br/evento/genocide-fest-iv-ereboros-abadon-misandra-e-psycho-decadence/2441439'
 ---
 

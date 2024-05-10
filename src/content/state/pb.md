@@ -15,5 +15,20 @@ gigs:
     city: João Pessoa
     date: '16/05/2024 19:00'
     daysGroup: 16/17/18/19
+    ticketsUrl: 'https://bilheto.com.br/comprar/2090/dead-fish-pb'
+  - poster: 441566215_454293713856713_8156097991920804917_n.jpg
+    city: João Pessoa
+    date: '23/05/2024 19:00'
+    daysGroup: 23/24/25/26
+    ticketsUrl: 'https://bilheto.com.br/comprar/2327/corja-brasil-tour-2024'
+  - poster: 436260161_18432197737027474_6409874397050609329_n.jpg
+    city: João Pessoa
+    date: '16/05/2024 20:00'
+    daysGroup: 16/17/18/19
+    ticketsUrl: 'https://www.sympla.com.br/evento/nordeste-fantastico-papangu-e-chico-correa/2459560'
+  - poster: 438868677_962902482000356_2558856399114075502_n.jpeg
+    city: João Pessoa
+    date: '11/05/2024 15:00'
+    daysGroup: 10/11/12
 ---
 
