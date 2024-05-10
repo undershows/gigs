@@ -16,9 +16,5 @@ gigs:
     date: '10/08/2024 19:00'
     daysGroup: 09/10/11
     ticketsUrl: 'https://bilheto.com.br/comprar/2381/motorcycles-metal-fest-v'
-  - poster: 436549312_1012784403749082_1766595500685029829_n.jpeg
-    city: Fortaleza
-    date: '09/05/2024 20:00'
-    daysGroup: 09/10/11/12
 ---
 

@@ -88,11 +88,6 @@ gigs:
     city: Mauá
     date: '24/05/2024 19:00'
     daysGroup: 23/24/25/26
-  - poster: 431580884_1216954796379331_6691154876655517417_n.jpg
-    city: São Paulo
-    date: '09/05/2024 19:00'
-    daysGroup: 09/10/11/12
-    ticketsUrl: 'https://www.ingresse.com/tortoise/'
   - poster: 425671209_2391517074570600_902858711512559910_n.jpg
     city: São Paulo
     date: '18/08/2024 19:00'

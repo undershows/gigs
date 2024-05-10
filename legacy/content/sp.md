@@ -3039,5 +3039,10 @@ gigs:
     daysGroup: 01/02/03/04/05
     ticketsUrl: >-
       https://www.sympla.com.br/evento/7-anos-do-container-garotos-podres-dischavizer-dzk-grinding-reaction-etc/2440277
+  - poster: 431580884_1216954796379331_6691154876655517417_n.jpg
+    city: São Paulo
+    date: '09/05/2024 19:00'
+    daysGroup: 09/10/11/12
+    ticketsUrl: 'https://www.ingresse.com/tortoise/'
 ---
 

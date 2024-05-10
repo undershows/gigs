@@ -62,5 +62,9 @@ gigs:
     date: '19/04/2024 20:00'
     daysGroup: 19/20/21
     ticketsUrl: 'https://www.sympla.com.br/evento/amen-corner/2327259'
+  - poster: 436549312_1012784403749082_1766595500685029829_n.jpeg
+    city: Fortaleza
+    date: '09/05/2024 20:00'
+    daysGroup: 09/10/11/12
 ---
 
