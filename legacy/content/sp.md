@@ -3044,5 +3044,10 @@ gigs:
     date: '09/05/2024 19:00'
     daysGroup: 09/10/11/12
     ticketsUrl: 'https://www.ingresse.com/tortoise/'
+  - poster: 435134940_18427622596032461_9012676512503972161_n.jpg
+    city: Santo André
+    date: '10/05/2024 19:00'
+    daysGroup: 09/10/11/12
+    ticketsUrl: 'https://www.sympla.com.br/evento/bayside-kings-mee-no-74club/2400867'
 ---
 

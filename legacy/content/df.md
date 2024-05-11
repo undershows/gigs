@@ -195,5 +195,10 @@ gigs:
     city: Ceilândia
     date: '01/05/2024 15:00'
     daysGroup: 01/02
+  - poster: 442248281_2111022535947731_2655622472766719383_n.jpeg
+    city: Guará
+    date: '10/05/2024 18:00'
+    daysGroup: 10/11/12
+    ticketsUrl: 'https://www.sympla.com.br/evento/independence-day/2454983'
 ---
 

@@ -10,10 +10,7 @@ gigs:
     city: Recife
     date: '03/08/2024 18:00'
     daysGroup: 02/03/04
-    ticketsUrl: 'https://www.sympla.com.br/evento/hellcife-extreme-festival-2024-recife-pe/2431814'
-  - poster: 442199863_3839993916323069_8374817342461524274_n.jpeg
-    city: Caruaru
-    date: '10/05/2024 18:00'
-    daysGroup: 10/11/12
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/hellcife-extreme-festival-2024-recife-pe/2431814
 ---
 

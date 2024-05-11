@@ -91,5 +91,9 @@ gigs:
     city: Caruaru
     date: '14/04/2024 17:00'
     daysGroup: 12/13/14
+  - poster: 442199863_3839993916323069_8374817342461524274_n.jpeg
+    city: Caruaru
+    date: '10/05/2024 18:00'
+    daysGroup: 10/11/12
 ---
 

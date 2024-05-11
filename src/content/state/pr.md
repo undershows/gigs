@@ -41,10 +41,6 @@ gigs:
     date: '31/05/2024 19:00'
     daysGroup: 30/31
     ticketsUrl: 'https://www.sympla.com.br/evento/nervochaos-orthostat-grotesco/2402137'
-  - poster: 435236252_2499727570224463_7179720844592016686_n.jpeg
-    city: Maringá
-    date: '10/05/2024 19:00'
-    daysGroup: 10/11/12
   - poster: 435746972_972092747467835_6931403172930494954_n.jpeg
     city: Curitiba
     date: '01/06/2024 19:00'
@@ -63,6 +59,7 @@ gigs:
     city: Curitiba
     date: '12/05/2024 19:00'
     daysGroup: 10/11/12
-    ticketsUrl: 'https://www.sympla.com.br/evento/genocide-fest-iv-ereboros-abadon-misandra-e-psycho-decadence/2441439'
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/genocide-fest-iv-ereboros-abadon-misandra-e-psycho-decadence/2441439
 ---
 

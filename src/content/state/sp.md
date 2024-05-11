@@ -183,11 +183,6 @@ gigs:
     city: Salto
     date: '11/05/2024 19:00'
     daysGroup: 09/10/11/12
-  - poster: 435134940_18427622596032461_9012676512503972161_n.jpg
-    city: Santo André
-    date: '10/05/2024 19:00'
-    daysGroup: 09/10/11/12
-    ticketsUrl: 'https://www.sympla.com.br/evento/bayside-kings-mee-no-74club/2400867'
   - poster: 435981018_18424429372031134_3321863971839591384_n.jpg
     city: São Paulo
     date: '11/05/2024 20:00'
@@ -369,6 +364,7 @@ gigs:
     city: Americana
     date: '22/06/2024 20:00'
     daysGroup: 21/22/23
-    ticketsUrl: 'https://www.sympla.com.br/evento/hup-apresenta-chuva-negra-caffeine-blues-allpacas-e-venlift/2443123'
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/hup-apresenta-chuva-negra-caffeine-blues-allpacas-e-venlift/2443123
 ---
 

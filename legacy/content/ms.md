@@ -52,5 +52,10 @@ gigs:
     city: Dourados
     date: '20/04/2024 22:00'
     daysGroup: 19/20/21
+  - poster: 435785685_18392552461076919_8058290156477705610_n.jpg
+    city: Dourados
+    date: '10/05/2024 21:00'
+    daysGroup: 09/10/11/12
+    ticketsUrl: 'https://articket.com.br/e/2044/baile-da-xk'
 ---
 
