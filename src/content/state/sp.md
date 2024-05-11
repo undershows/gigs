@@ -351,11 +351,6 @@ gigs:
     city: Sorocaba
     date: '06/07/2024 15:00'
     daysGroup: 05/06/07
-  - poster: 442432338_1585175692272727_6245637458366140102_n.jpeg
-    city: Osasco
-    date: '12/05/2024 16:00'
-    daysGroup: 09/10/11/12
-    ticketsUrl: 'https://www.clubedoingresso.com/evento/garatospodres-tribosbar'
   - poster: 8433947e-3b50-490f-a9f9-416323b5cf8e.jpeg
     city: São Paulo
     date: '16/05/2024 20:00'
