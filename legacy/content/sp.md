@@ -3049,5 +3049,53 @@ gigs:
     date: '10/05/2024 19:00'
     daysGroup: 09/10/11/12
     ticketsUrl: 'https://www.sympla.com.br/evento/bayside-kings-mee-no-74club/2400867'
+  - poster: 431800439_8225189384162781_6629888917573912482_n.jpg
+    city: São Paulo
+    date: '11/05/2024 17:00'
+    daysGroup: 09/10/11/12
+    ticketsUrl: 'https://www.sympla.com.br/evento/war-dance-fest/2355059'
+  - poster: 437023511_285023984648563_2002777941760385176_n.jpeg
+    city: Santos
+    date: '11/05/2024 20:00'
+    daysGroup: 09/10/11/12
+  - poster: 436329389_932723381628528_527849210547003685_n.jpeg
+    city: São Paulo
+    date: '11/05/2024 20:00'
+    daysGroup: 09/10/11/12
+    ticketsUrl: 'https://www.sympla.com.br/evento/festa-hell-oh-dear-autoramas/2414788'
+  - poster: 435678766_10211117130360153_3424268382435079418_n.jpg
+    city: São Paulo
+    date: '11/05/2024 17:00'
+    daysGroup: 09/10/11/12
+  - poster: 437094285_1212367209738228_4698661261880409353_n.jpeg
+    city: Salto
+    date: '11/05/2024 19:00'
+    daysGroup: 09/10/11/12
+  - poster: 435981018_18424429372031134_3321863971839591384_n.jpg
+    city: São Paulo
+    date: '11/05/2024 20:00'
+    daysGroup: 09/10/11/12
+    ticketsUrl: >-
+      https://www.clubedoingresso.com/evento/hammerheadblues-apnea-camelia-laiglesiaborratxeria
+  - poster: 440234475_456382283583296_2978574112048395661_n.jpg
+    city: Ribeirão Pires
+    date: '11/05/2024 18:00'
+    daysGroup: 09/10/11/12
+  - poster: 442140716_1104695720815693_4300683379565757359_n.jpeg
+    city: São Paulo
+    date: '11/05/2024 19:00'
+    daysGroup: 09/10/11/12
+  - poster: 441467705_1021403599985535_968873762114003751_n.jpg
+    city: Americana
+    date: '11/05/2024 16:00'
+    daysGroup: 09/10/11/12
+  - poster: 441564628_7782835651779235_3807320771494217195_n.jpeg
+    city: Sumaré
+    date: '11/05/2024 19:00'
+    daysGroup: 09/10/11/12
+  - poster: 442416132_344009321654997_7691538293501868540_n.jpeg
+    city: São Paulo
+    date: '11/05/2024 17:00'
+    daysGroup: 09/10/11/12
 ---
 

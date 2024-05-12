@@ -200,5 +200,9 @@ gigs:
     date: '10/05/2024 18:00'
     daysGroup: 10/11/12
     ticketsUrl: 'https://www.sympla.com.br/evento/independence-day/2454983'
+  - poster: 435651721_2708078686016781_5142692081280534193_n.jpg
+    city: Brasília
+    date: '11/05/2024 18:00'
+    daysGroup: 10/11/12
 ---
 

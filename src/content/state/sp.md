@@ -23,11 +23,6 @@ gigs:
     date: '09/06/2024 14:00'
     daysGroup: 06/07/08/09
     ticketsUrl: 'https://www.clubedoingresso.com/evento/possessed-venominc-sp'
-  - poster: 431800439_8225189384162781_6629888917573912482_n.jpg
-    city: São Paulo
-    date: '11/05/2024 17:00'
-    daysGroup: 09/10/11/12
-    ticketsUrl: 'https://www.sympla.com.br/evento/war-dance-fest/2355059'
   - poster: bb7bbd96-6775-46bf-9180-a3f1764db540.jpeg
     city: São Paulo
     date: '18/05/2024 19:00'
@@ -124,21 +119,12 @@ gigs:
     city: São Paulo
     date: '15/06/2024 20:00'
     daysGroup: 13/14/15/16
-  - poster: 437023511_285023984648563_2002777941760385176_n.jpeg
-    city: Santos
-    date: '11/05/2024 20:00'
-    daysGroup: 09/10/11/12
   - poster: 435113467_18219355696263705_2553179225496696992_n.jpg
     city: São Paulo
     date: '08/11/2024 19:00'
     daysGroup: 08/09/10
     ticketsUrl: >-
       https://www.sympla.com.br/evento/cirith-ungol-nightdemon-hellish-war-chumbo/2366428
-  - poster: 436329389_932723381628528_527849210547003685_n.jpeg
-    city: São Paulo
-    date: '11/05/2024 20:00'
-    daysGroup: 09/10/11/12
-    ticketsUrl: 'https://www.sympla.com.br/evento/festa-hell-oh-dear-autoramas/2414788'
   - poster: 435068882_778319327277985_6163784455816232464_n.jpg
     city: São Paulo
     date: '25/05/2024 14:00'
@@ -171,24 +157,10 @@ gigs:
     city: São Paulo
     date: '25/05/2024 18:00'
     daysGroup: 23/24/25/26
-  - poster: 435678766_10211117130360153_3424268382435079418_n.jpg
-    city: São Paulo
-    date: '11/05/2024 17:00'
-    daysGroup: 09/10/11/12
   - poster: 434863547_10211117130440155_6425648371688703187_n.jpg
     city: São Paulo
     date: '17/08/2024 17:00'
     daysGroup: 16/17/18
-  - poster: 437094285_1212367209738228_4698661261880409353_n.jpeg
-    city: Salto
-    date: '11/05/2024 19:00'
-    daysGroup: 09/10/11/12
-  - poster: 435981018_18424429372031134_3321863971839591384_n.jpg
-    city: São Paulo
-    date: '11/05/2024 20:00'
-    daysGroup: 09/10/11/12
-    ticketsUrl: >-
-      https://www.clubedoingresso.com/evento/hammerheadblues-apnea-camelia-laiglesiaborratxeria
   - poster: 437778543_924303099175973_5232971452945562942_n.jpeg
     city: Osasco
     date: '12/05/2024 16:00'
@@ -222,10 +194,6 @@ gigs:
     date: '18/05/2024 19:00'
     daysGroup: 16/17/18/19
     ticketsUrl: 'https://www.sympla.com.br/evento/inherence-cranula-e-void-it/2423117'
-  - poster: 440234475_456382283583296_2978574112048395661_n.jpg
-    city: Ribeirão Pires
-    date: '11/05/2024 18:00'
-    daysGroup: 09/10/11/12
   - poster: 440850449_459070923208047_4645648664059275579_n.jpeg
     city: Marília
     date: '07/06/2024 22:00'
@@ -263,14 +231,6 @@ gigs:
     city: Santo André
     date: '22/06/2024 20:00'
     daysGroup: 21/22/23
-  - poster: 442140716_1104695720815693_4300683379565757359_n.jpeg
-    city: São Paulo
-    date: '11/05/2024 19:00'
-    daysGroup: 09/10/11/12
-  - poster: 441467705_1021403599985535_968873762114003751_n.jpg
-    city: Americana
-    date: '11/05/2024 16:00'
-    daysGroup: 09/10/11/12
   - poster: 441887548_17883018084048719_5465247759848457786_n.jpg
     city: São Paulo
     date: '26/05/2024 17:00'
@@ -288,10 +248,6 @@ gigs:
     city: Santos
     date: '25/05/2024 21:00'
     daysGroup: 23/24/25/26
-  - poster: 441564628_7782835651779235_3807320771494217195_n.jpeg
-    city: Sumaré
-    date: '11/05/2024 19:00'
-    daysGroup: 09/10/11/12
   - poster: 442420162_1118488872745833_7235445872006840560_n.jpeg
     city: Santos
     date: '17/05/2024 21:00'
@@ -343,10 +299,6 @@ gigs:
     date: '17/05/2024 20:00'
     daysGroup: 16/17/18/19
     ticketsUrl: 'https://www.clubedoingresso.com/evento/flageladorwarsicknessemacabro'
-  - poster: 442416132_344009321654997_7691538293501868540_n.jpeg
-    city: São Paulo
-    date: '11/05/2024 17:00'
-    daysGroup: 09/10/11/12
   - poster: 442412529_1475719253024197_5375320085600563537_n.jpeg
     city: Sorocaba
     date: '06/07/2024 15:00'

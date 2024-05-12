@@ -38,10 +38,6 @@ gigs:
     date: '15/06/2024 13:00'
     daysGroup: 14/15/16
     ticketsUrl: 'https://www.sympla.com.br/evento/punk-no-park/2390041'
-  - poster: 436960563_1517048612185433_8696914794187093756_n.jpeg
-    city: Uberaba
-    date: '11/05/2024 18:00'
-    daysGroup: 12/13/14
   - poster: 437783465_976779797350894_906093469647491355_n.jpeg
     city: Belo Horizonte
     date: '11/08/2024 17:00'
@@ -61,7 +57,8 @@ gigs:
     city: Uberlândia
     date: '15/06/2024 18:00'
     daysGroup: 14/15/16
-    ticketsUrl: 'https://www.sympla.com.br/evento/bayside-kings-terceira-guerra-e-bandas-convidadas/2421024'
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/bayside-kings-terceira-guerra-e-bandas-convidadas/2421024
   - poster: 442419055_393999216948812_7195054113508055222_n.jpeg
     city: Belo Horizonte
     date: '18/05/2024 16:00'

@@ -147,5 +147,9 @@ gigs:
     date: '13/04/2024 14:00'
     daysGroup: 12/13/14
     ticketsUrl: 'https://www.vakinha.com.br/vaquinha/feminikaos-64-nunca-mais'
+  - poster: 436960563_1517048612185433_8696914794187093756_n.jpeg
+    city: Uberaba
+    date: '11/05/2024 18:00'
+    daysGroup: 12/13/14
 ---
 

@@ -69,5 +69,14 @@ gigs:
     date: '04/05/2024 20:00'
     daysGroup: 03/04/05
     ticketsUrl: 'https://www.sympla.com.br/evento/kaos-na-caravela/2417525'
+  - poster: 98b5f03e-4276-4cd1-98fd-6420061958b9.jpeg
+    city: João Pessoa
+    date: '11/05/2024 20:00'
+    daysGroup: 10/11/12
+    ticketsUrl: 'https://bilheto.com.br/comprar/2110/rancore-tour-relampago'
+  - poster: 438868677_962902482000356_2558856399114075502_n.jpeg
+    city: João Pessoa
+    date: '11/05/2024 15:00'
+    daysGroup: 10/11/12
 ---
 
