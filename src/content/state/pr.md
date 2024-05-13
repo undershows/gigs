@@ -50,5 +50,9 @@ gigs:
     daysGroup: 07/08/09
     ticketsUrl: >-
       https://www.sympla.com.br/evento/grind-alert-facada-void-it-greve-obitto-e-guro/2430812
+  - poster: 442419572_2466382310416631_1493304408406686685_n.jpeg
+    city: Londrina
+    date: '09/06/2024 16:00'
+    daysGroup: 07/08/09
 ---
 

@@ -63,5 +63,9 @@ gigs:
     city: Belo Horizonte
     date: '18/05/2024 16:00'
     daysGroup: 17/18/19
+  - poster: 441874425_7483837368368386_8324236825682531366_n.jpg
+    city: Divinópolis
+    date: '30/05/2024 17:00'
+    daysGroup: 30/31
 ---
 

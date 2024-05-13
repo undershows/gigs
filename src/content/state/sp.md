@@ -298,11 +298,37 @@ gigs:
     city: São Paulo
     date: '16/05/2024 20:00'
     daysGroup: 16/17/18/19
+    ticketsUrl: 'https://www.sympla.com.br/evento/test-no-porta-maldita-16-de-maio/2460864'
   - poster: 440474250_2137530899935018_9186845276870816485_n.jpeg
     city: Americana
     date: '22/06/2024 20:00'
     daysGroup: 21/22/23
     ticketsUrl: >-
       https://www.sympla.com.br/evento/hup-apresenta-chuva-negra-caffeine-blues-allpacas-e-venlift/2443123
+  - poster: c72631f1-6329-4f4f-b9d8-22cf05b43162.jpeg
+    city: São Paulo
+    date: '08/06/2024 17:00'
+    daysGroup: 06/07/08/09
+  - poster: 6c35885d-b9dd-41fe-9044-889065521199.jpeg
+    city: São Paulo
+    date: '09/06/2024 15:00'
+    daysGroup: 06/07/08/09
+  - poster: f73ef701-f612-4353-916f-3b7ecdaf9142.jpeg
+    city: São Paulo
+    date: '07/06/2024 20:00'
+    daysGroup: 06/07/08/09
+  - poster: 443512125_722493033176509_3692471432586929066_n.jpg
+    city: São Paulo
+    date: '28/07/2024 15:00'
+    daysGroup: 26/27/28
+  - poster: 443227665_1777146399448040_6471482339055535317_n.jpg
+    city: São Paulo
+    date: '26/05/2024 14:00'
+    daysGroup: 23/24/25/26
+    ticketsUrl: 'https://www.pensanoevento.com.br/shows/61688/hell-s-party'
+  - poster: 436254466_1373979990058596_3466062004140228624_n.jpeg
+    city: Santos
+    date: '22/06/2024 21:00'
+    daysGroup: 21/22/23
 ---
 
