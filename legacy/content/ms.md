@@ -57,5 +57,9 @@ gigs:
     date: '10/05/2024 21:00'
     daysGroup: 09/10/11/12
     ticketsUrl: 'https://articket.com.br/e/2044/baile-da-xk'
+  - poster: 440914400_1751627812073878_7443715381632503824_n.jpeg
+    city: Nova Alvorada do Sul
+    date: '12/05/2024 17:00'
+    daysGroup: 09/10/11/12
 ---
 

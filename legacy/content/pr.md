@@ -277,5 +277,16 @@ gigs:
     city: Maringá
     date: '10/05/2024 19:00'
     daysGroup: 10/11/12
+  - poster: 433139948_18101856568391710_3520622219393269903_n.jpg
+    city: Curitiba
+    date: '12/05/2024 17:00'
+    daysGroup: 10/11/12
+    ticketsUrl: 'https://pixta.me/u/manger-cadavre-em-curitiba'
+  - poster: 441581854_699336062222228_5613485213931510739_n.jpeg
+    city: Curitiba
+    date: '12/05/2024 19:00'
+    daysGroup: 10/11/12
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/genocide-fest-iv-ereboros-abadon-misandra-e-psycho-decadence/2441439
 ---
 

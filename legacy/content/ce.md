@@ -66,5 +66,9 @@ gigs:
     city: Fortaleza
     date: '09/05/2024 20:00'
     daysGroup: 09/10/11/12
+  - poster: 436352454_342202302189606_5654750610206445911_n.jpeg
+    city: Fortaleza
+    date: '12/05/2024 17:00'
+    daysGroup: 09/10/11/12
 ---
 

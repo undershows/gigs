@@ -145,5 +145,10 @@ gigs:
     date: '21/04/2024 15:00'
     daysGroup: 18/19/20/21/22/23
     ticketsUrl: 'https://www.sympla.com.br/evento/eskroeta-em-balneario-camboriu-sc/2384041'
+  - poster: 409786213_2624892904335360_9049694843368787838_n.jpg
+    city: Balneário Barra do Sul
+    date: '12/05/2024 19:00'
+    daysGroup: 10/11/12
+    ticketsUrl: 'https://www.bilheto.com.br/comprar/1970/necrocamping'
 ---
 

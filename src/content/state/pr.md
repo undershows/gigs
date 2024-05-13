@@ -31,11 +31,6 @@ gigs:
     date: '17/05/2024 21:00'
     daysGroup: 17/18/19/20/21
     ticketsUrl: 'https://www.bilheto.com.br/comprar/2255/nightfall-at-night-we-prey'
-  - poster: 433139948_18101856568391710_3520622219393269903_n.jpg
-    city: Curitiba
-    date: '12/05/2024 17:00'
-    daysGroup: 10/11/12
-    ticketsUrl: 'https://pixta.me/u/manger-cadavre-em-curitiba'
   - poster: ponta_grossa_profetas_caos_24.jpeg
     city: Ponta Grossa
     date: '31/05/2024 19:00'
@@ -55,11 +50,5 @@ gigs:
     daysGroup: 07/08/09
     ticketsUrl: >-
       https://www.sympla.com.br/evento/grind-alert-facada-void-it-greve-obitto-e-guro/2430812
-  - poster: 441581854_699336062222228_5613485213931510739_n.jpeg
-    city: Curitiba
-    date: '12/05/2024 19:00'
-    daysGroup: 10/11/12
-    ticketsUrl: >-
-      https://www.sympla.com.br/evento/genocide-fest-iv-ereboros-abadon-misandra-e-psycho-decadence/2441439
 ---
 

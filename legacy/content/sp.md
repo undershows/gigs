@@ -3097,5 +3097,14 @@ gigs:
     city: São Paulo
     date: '11/05/2024 17:00'
     daysGroup: 09/10/11/12
+  - poster: 437778543_924303099175973_5232971452945562942_n.jpeg
+    city: Osasco
+    date: '12/05/2024 16:00'
+    daysGroup: 09/10/11/12
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/garatospodres-tribosbar'
+  - poster: 441710759_986529522842493_4816268216822266280_n.jpeg
+    city: São José dos Campos
+    date: '12/05/2024 17:00'
+    daysGroup: 09/10/11/12
 ---
 

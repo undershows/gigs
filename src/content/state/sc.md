@@ -16,11 +16,6 @@ gigs:
     city: Dona Emma
     date: '21/06/2024 19:00'
     daysGroup: 21/22/23
-  - poster: 409786213_2624892904335360_9049694843368787838_n.jpg
-    city: Balneário Barra do Sul
-    date: '12/05/2024 19:00'
-    daysGroup: 10/11/12
-    ticketsUrl: 'https://www.bilheto.com.br/comprar/1970/necrocamping'
   - poster: enthroned-saobentodosul-2024-819x1024.jpg
     city: São Bento do Sul
     date: '23/06/2024 15:00'
@@ -39,6 +34,7 @@ gigs:
     city: Blumenau
     date: '14/06/2024 22:00'
     daysGroup: 14/15/16
-    ticketsUrl: 'https://www.sympla.com.br/evento/sangue-de-bode-budang-jovens-ateus-caebraenegrae/2457021'
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/sangue-de-bode-budang-jovens-ateus-caebraenegrae/2457021
 ---
 
