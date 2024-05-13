@@ -330,5 +330,9 @@ gigs:
     city: Santos
     date: '22/06/2024 21:00'
     daysGroup: 21/22/23
+  - poster: 14-06 santos_resized.jpg
+    city: Santos
+    date: '14/06/2024 21:00'
+    daysGroup: 13/14/15/16
 ---
 

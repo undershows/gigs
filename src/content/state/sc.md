@@ -30,11 +30,19 @@ gigs:
     city: Joinville
     date: '22/06/2024 15:00'
     daysGroup: 21/22/23
-  - poster: 434149592_1112553236443371_1730872517776889531_n.jpg
+  - poster: 441804202_2534441426728463_245274237350031093_n.jpg
     city: Blumenau
     date: '14/06/2024 22:00'
     daysGroup: 14/15/16
     ticketsUrl: >-
       https://www.sympla.com.br/evento/sangue-de-bode-budang-jovens-ateus-caebraenegrae/2457021
+  - poster: 19-05 Floripa_resized.jpg
+    city: Florianopólis
+    date: '19/05/2024 15:00'
+    daysGroup: 17/18/19
+  - poster: 21.06 urussanga_resized.jpg
+    city: Urussanga
+    date: '21/06/2024 15:00'
+    daysGroup: 21/22/23
 ---
 
