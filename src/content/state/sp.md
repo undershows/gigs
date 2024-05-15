@@ -21,7 +21,7 @@ gigs:
   - poster: 431525437_3692619941009419_5244187636168166923_n.jpg
     city: São Paulo
     date: '09/06/2024 14:00'
-    daysGroup: 06/07/08/09
+    daysGroup: 06/07/08/09/10
     ticketsUrl: 'https://www.clubedoingresso.com/evento/possessed-venominc-sp'
   - poster: bb7bbd96-6775-46bf-9180-a3f1764db540.jpeg
     city: São Paulo
@@ -31,12 +31,12 @@ gigs:
   - poster: 432729476_1178864503556162_5594006283990413920_n.jpg
     city: Santo André
     date: '08/06/2024 20:00'
-    daysGroup: 06/07/08/09
+    daysGroup: 06/07/08/09/10
     ticketsUrl: 'https://pixelticket.com.br/eventos/20278/nervochaos-e-satanatos'
   - poster: 432856903_1179326466843299_3063550065245102428_n.jpg
     city: São Paulo
-    date: '06/06/2024 17:00'
-    daysGroup: 06/07/08/09
+    date: '06/07/2024 17:00'
+    daysGroup: 05/06/07
     ticketsUrl: >-
       https://www.sympla.com.br/evento/sinister-vulture-ancestral-malediction-ereboros-podridao/2342064
   - poster: 432444639_944713857212696_6758194070716682199_n.jpg
@@ -96,7 +96,7 @@ gigs:
   - poster: 434334998_1373336246676381_4534883261129237858_n.jpeg
     city: Arujá
     date: '09/06/2024 16:00'
-    daysGroup: 06/07/08/09
+    daysGroup: 06/07/08/09/10
   - poster: 433238810_18424105069058543_3806178385128827588_n.jpg
     city: São Paulo
     date: '22/06/2024 18:00'
@@ -105,11 +105,11 @@ gigs:
   - poster: 431532032_1182311719878107_5885739277133671317_n.jpg
     city: Diadema
     date: '09/06/2024 15:00'
-    daysGroup: 06/07/08/09
+    daysGroup: 06/07/08/09/10
   - poster: 432974852_1182584793184133_2498448446273120772_n.jpg
     city: Jacareí
     date: '07/06/2024 18:00'
-    daysGroup: 06/07/08/09
+    daysGroup: 06/07/08/09/10
   - poster: 434993924_18425262817033374_8975603405320228347_n.jpg
     city: São Paulo
     date: '16/08/2024 18:00'
@@ -152,7 +152,8 @@ gigs:
   - poster: 437220302_300141169643694_7355523027824685401_n.jpeg
     city: São José dos Campos
     date: '09/06/2024 17:00'
-    daysGroup: 06/07/08/09
+    daysGroup: 06/07/08/09/10
+    ticketsUrl: https://www.sympla.com.br/evento/tonelada-dourados-ms-sujera-sp-xucro-sp-e-anversa-taubate-no-hocus-pocus/2444712'
   - poster: 437140533_440329581701593_3492624179838790896_n.jpeg
     city: São Paulo
     date: '25/05/2024 18:00'
@@ -192,7 +193,7 @@ gigs:
   - poster: 440850449_459070923208047_4645648664059275579_n.jpeg
     city: Marília
     date: '07/06/2024 22:00'
-    daysGroup: 06/07/08/09
+    daysGroup: 06/07/08/09/10
   - poster: 440869582_1256427679078067_6796898609263164949_n.jpg
     city: São Paulo
     date: '02/06/2024 16:00'
@@ -200,7 +201,7 @@ gigs:
   - poster: 441142792_1000353281788302_6139203320182688011_n.jpeg
     city: Piracicaba
     date: '08/06/2024 19:00'
-    daysGroup: 06/07/08/09
+    daysGroup: 06/07/08/09/10
   - poster: 440851886_1168521934094574_4830113093716684269_n.jpeg
     city: Ribeirão Pires
     date: '01/06/2024 16:00'
@@ -208,12 +209,12 @@ gigs:
   - poster: 80f9d5ad-a11a-4119-ba49-4b675b066417.jpeg
     city: São Paulo
     date: '07/06/2024 20:00'
-    daysGroup: 06/07/08/09
+    daysGroup: 06/07/08/09/10
     ticketsUrl: 'https://www.hoppin.com.br/smashitup'
   - poster: 441462734_976566667246127_6865553702100583784_n.jpg
     city: Ribeirão Pires
     date: '08/06/2024 18:00'
-    daysGroup: 06/07/08/09
+    daysGroup: 06/07/08/09/10
   - poster: 441276523_2728228674001782_6512665850214711989_n.jpg
     city: São José dos Campos
     date: '02/06/2024 16:00'
@@ -254,7 +255,7 @@ gigs:
   - poster: 441577687_1145063940020406_1731528657895129161_n.jpeg
     city: São Carlos
     date: '06/06/2024 18:00'
-    daysGroup: 06/07/08/09
+    daysGroup: 06/07/08/09/10
   - poster: 441127154_792081799541511_5000173471982161746_n.jpeg
     city: São Paulo
     date: '30/06/2024 17:00'
@@ -262,11 +263,11 @@ gigs:
   - poster: 441491398_3691025934500176_1324694098910982033_n.jpeg
     city: Suzano
     date: '08/06/2024 19:00'
-    daysGroup: 06/07/08/09
+    daysGroup: 06/07/08/09/10
   - poster: 442416253_805138481130206_1327333783176922195_n.jpeg
     city: Caçapava
     date: '09/06/2024 13:00'
-    daysGroup: 06/07/08/09
+    daysGroup: 06/07/08/09/10
   - poster: 442412547_1482154889395714_4982639979988539808_n.jpeg
     city: São Paulo
     date: '07/07/2024 12:00'
@@ -308,15 +309,15 @@ gigs:
   - poster: c72631f1-6329-4f4f-b9d8-22cf05b43162.jpeg
     city: São Paulo
     date: '08/06/2024 17:00'
-    daysGroup: 06/07/08/09
+    daysGroup: 06/07/08/09/10
   - poster: 6c35885d-b9dd-41fe-9044-889065521199.jpeg
     city: São Paulo
     date: '09/06/2024 15:00'
-    daysGroup: 06/07/08/09
+    daysGroup: 06/07/08/09/10
   - poster: f73ef701-f612-4353-916f-3b7ecdaf9142.jpeg
     city: São Paulo
     date: '07/06/2024 20:00'
-    daysGroup: 06/07/08/09
+    daysGroup: 06/07/08/09/10
   - poster: 443512125_722493033176509_3692471432586929066_n.jpg
     city: São Paulo
     date: '28/07/2024 15:00'
@@ -334,5 +335,10 @@ gigs:
     city: Santos
     date: '14/06/2024 21:00'
     daysGroup: 13/14/15/16
+  - poster: a21a7601-6397-488c-a66e-e050cdf2ec80.jpeg
+    city: São Paulo
+    date: '10/06/2024 19:00'
+    daysGroup: 06/07/08/09/10
+    ticketsUrl: 'https://www.sympla.com.br/central-undergroung---facada-__2467268'
 ---
 
