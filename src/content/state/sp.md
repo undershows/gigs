@@ -345,5 +345,9 @@ gigs:
     date: '13/06/2024 19:00'
     daysGroup: 13/14/15/16
     ticketsUrl: 'https://www.clubedoingresso.com/evento/enthroned-nervochaos-introtyl-thedamnnation'
+  - poster: 25540f78-a5aa-4218-9b6a-662b99649a2c.jpeg
+    city: São Paulo
+    date: '17/05/2024 19:00'
+    daysGroup: 16/17/18/19
 ---
 
