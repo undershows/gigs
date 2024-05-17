@@ -7,5 +7,9 @@ gigs:
     date: '18/10/2024 18:00'
     daysGroup: 18/19/20
     ticketsUrl: 'https://bilheto.com.br/comprar/2142/napalm-death'
+  - poster: 441500848_7542531292489770_2425550683688185421_n.jpg
+    city: Belém
+    date: '11/07/2024 19:00'
+    daysGroup: 11/12/13/14
 ---
 

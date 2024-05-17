@@ -177,7 +177,7 @@ gigs:
     daysGroup: 16/17/18/19
     ticketsUrl: 'https://www.ingresse.com/hot-e-oreia/'
   - poster: festival_de_aco_24.jpeg
-    city: São Paulo
+    city: Ubatuba
     date: '01/06/2024 23:00'
     daysGroup: 01/02
     ticketsUrl: 'https://www.sympla.com.br/evento/inverno-de-aco-edicao-pre-fest/2429260'
@@ -340,6 +340,19 @@ gigs:
   - poster: 25540f78-a5aa-4218-9b6a-662b99649a2c.jpeg
     city: São Paulo
     date: '17/05/2024 19:00'
+    daysGroup: 16/17/18/19
+  - poster: 442412836_1494830838104492_3440376552001385388_n.jpeg
+    city: São Paulo
+    date: '01/06/2024 13:59'
+    daysGroup: 01/02
+  - poster: 443820036_936890094801960_1377953221247676146_n.jpeg
+    city: Santo André
+    date: '18/05/2024 19:00'
+    daysGroup: 16/17/18/19
+    ticketsUrl: 'https://pixelticket.com.br/eventos/20816/acao-direta-e-riot-wolves/ingressos'
+  - poster: 442678778_1120289479243640_888923812036413356_n.jpg
+    city: São Paulo
+    date: '19/05/2024 16:00'
     daysGroup: 16/17/18/19
 ---
 

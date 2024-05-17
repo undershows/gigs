@@ -57,6 +57,10 @@ gigs:
   - poster: 15-06 guarapuava_resized.jpg
     city: Guarapuava
     date: '15/06/2024 20:00'
-    daysGroup: 14/15/16   
+    daysGroup: 14/15/16
+  - poster: 443240108_268472159679749_603287528850706211_n.jpeg
+    city: Londrina
+    date: '25/08/2024 16:00'
+    daysGroup: 23/24/25
 ---
 
