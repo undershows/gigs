@@ -39,11 +39,6 @@ gigs:
     daysGroup: 05/06/07
     ticketsUrl: >-
       https://www.sympla.com.br/evento/sinister-vulture-ancestral-malediction-ereboros-podridao/2342064
-  - poster: 432444639_944713857212696_6758194070716682199_n.jpg
-    city: São Paulo
-    date: '16/05/2024 19:00'
-    daysGroup: 16/17/18/19
-    ticketsUrl: 'https://www.sympla.com.br/evento/nightfall-grave-desecrator-heia/2366424'
   - poster: 431968120_1177325603710052_6102780045514853272_n.jpg
     city: Ribeirão Preto
     date: '23/05/2024 16:00'
@@ -153,7 +148,8 @@ gigs:
     city: São José dos Campos
     date: '09/06/2024 17:00'
     daysGroup: 06/07/08/09/10
-    ticketsUrl: https://www.sympla.com.br/evento/tonelada-dourados-ms-sujera-sp-xucro-sp-e-anversa-taubate-no-hocus-pocus/2444712'
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/tonelada-dourados-ms-sujera-sp-xucro-sp-e-anversa-taubate-no-hocus-pocus/2444712'
   - poster: 437140533_440329581701593_3492624179838790896_n.jpeg
     city: São Paulo
     date: '25/05/2024 18:00'
@@ -295,11 +291,6 @@ gigs:
     city: Sorocaba
     date: '06/07/2024 15:00'
     daysGroup: 05/06/07
-  - poster: 8433947e-3b50-490f-a9f9-416323b5cf8e.jpeg
-    city: São Paulo
-    date: '16/05/2024 20:00'
-    daysGroup: 16/17/18/19
-    ticketsUrl: 'https://www.sympla.com.br/evento/test-no-porta-maldita-16-de-maio/2460864'
   - poster: 440474250_2137530899935018_9186845276870816485_n.jpeg
     city: Americana
     date: '22/06/2024 20:00'
@@ -344,7 +335,8 @@ gigs:
     city: São Paulo
     date: '13/06/2024 19:00'
     daysGroup: 13/14/15/16
-    ticketsUrl: 'https://www.clubedoingresso.com/evento/enthroned-nervochaos-introtyl-thedamnnation'
+    ticketsUrl: >-
+      https://www.clubedoingresso.com/evento/enthroned-nervochaos-introtyl-thedamnnation
   - poster: 25540f78-a5aa-4218-9b6a-662b99649a2c.jpeg
     city: São Paulo
     date: '17/05/2024 19:00'

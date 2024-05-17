@@ -78,5 +78,10 @@ gigs:
     city: João Pessoa
     date: '11/05/2024 15:00'
     daysGroup: 10/11/12
+  - poster: 437407496_996942598718510_8326491939220337999_n.jpeg
+    city: João Pessoa
+    date: '16/05/2024 19:00'
+    daysGroup: 16/17/18/19
+    ticketsUrl: 'https://bilheto.com.br/comprar/2090/dead-fish-pb'
 ---
 

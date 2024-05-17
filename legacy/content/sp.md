@@ -3106,5 +3106,15 @@ gigs:
     city: São José dos Campos
     date: '12/05/2024 17:00'
     daysGroup: 09/10/11/12
+  - poster: 432444639_944713857212696_6758194070716682199_n.jpg
+    city: São Paulo
+    date: '16/05/2024 19:00'
+    daysGroup: 16/17/18/19
+    ticketsUrl: 'https://www.sympla.com.br/evento/nightfall-grave-desecrator-heia/2366424'
+  - poster: 8433947e-3b50-490f-a9f9-416323b5cf8e.jpeg
+    city: São Paulo
+    date: '16/05/2024 20:00'
+    daysGroup: 16/17/18/19
+    ticketsUrl: 'https://www.sympla.com.br/evento/test-no-porta-maldita-16-de-maio/2460864'
 ---
 
