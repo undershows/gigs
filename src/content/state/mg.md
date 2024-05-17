@@ -72,5 +72,10 @@ gigs:
     date: '21/06/2024 20:00'
     daysGroup: 21/22/23
     ticketsUrl: 'https://www.clubedoingresso.com/evento/theobsessed-belohorizonte'
+  - poster: 443264667_308423785638935_2876623972053956162_n.jpeg
+    city: Belo Horizonte
+    date: '17/07/2024 19:30'
+    daysGroup: 18/19/20/21/22
+    ticketsUrl: 'https://showpass.com.br/comprar/1389/suicidal-tendencies'
 ---
 

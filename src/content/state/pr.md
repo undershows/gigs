@@ -62,5 +62,14 @@ gigs:
     city: Londrina
     date: '25/08/2024 16:00'
     daysGroup: 23/24/25
+  - poster: 441605742_18308379910194446_1461893274679447226_n.jpg
+    city: Curitiba
+    date: '14/07/2024 16:00'
+    daysGroup: 12/13/14
+    ticketsUrl: 'https://showpass.com.br/comprar/1387/suicidal-tendencies'
+  - poster: 441554637_1115824793026716_2720957721498400715_n.jpeg
+    city: Maringá
+    date: '25/05/2024 20:00'
+    daysGroup: 22/23/24/25/26
 ---
 

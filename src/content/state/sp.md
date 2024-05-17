@@ -380,5 +380,27 @@ gigs:
     city: São Paulo
     date: '19/05/2024 15:30'
     daysGroup: 16/17/18/19
+  - poster: 443842530_196622243545933_8901709976229108812_n.jpeg
+    city: Sorocaba
+    date: '25/05/2024 13:00'
+    daysGroup: 23/24/25/26
+  - poster: 443239876_1576322903151683_2413380049904022986_n.jpeg
+    city: Campinas
+    date: '20/07/2024 18:00'
+    daysGroup: 19/20/21
+    ticketsUrl: 'https://www.sympla.com.br/evento/desalmado-cras-vantas-em-campinas/2350526'
+  - poster: 443861069_1514410949486756_4905585314616957778_n.jpeg
+    city: Piracicaba
+    date: '20/07/2024 19:00'
+    daysGroup: 19/20/21
+  - poster: 441577084_18233067664256110_8538061083469361289_n.jpg
+    city: São Paulo
+    date: '22/06/2024 17:00'
+    daysGroup: 21/22/23
+    ticketsUrl: 'https://jaiclub.hoppin.com.br/exterminiogig'
+  - poster: 436236261_947771150687644_4792954332015894619_n.jpg
+    city: São Paulo
+    date: '17/05/2024 17:00'
+    daysGroup: 16/17/18/19
 ---
 

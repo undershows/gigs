@@ -20,5 +20,10 @@ gigs:
     city: Guará II
     date: '25/05/2024 18:00'
     daysGroup: 24/25/26
+  - poster: 443823803_8120903731271078_7046276098393168945_n.jpeg
+    city: Brasília
+    date: '14/07/2024 18:00'
+    daysGroup: 12/13/14
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/angra-cyclesofpaintour'
 ---
 
