@@ -354,5 +354,31 @@ gigs:
     city: São Paulo
     date: '19/05/2024 16:00'
     daysGroup: 16/17/18/19
+  - poster: 443228508_1117716446183859_6325831038949983939_n.jpeg
+    city: São Paulo
+    date: '18/05/2024 15:30'
+    daysGroup: 16/17/18/19
+  - poster: 443253103_850971570399462_4277316412673646296_n.jpeg
+    city: São Paulo
+    date: '24/05/2024 22:00'
+    daysGroup: 23/24/25/26
+  - poster: 443844137_308241835709538_4092223016429060800_n.jpeg
+    city: São Paulo
+    date: '21/07/2024 17:15'
+    daysGroup: 19/20/21
+    ticketsUrl: 'https://bilheto.com.br/comprar/2406/metal-relics-on-the-road'
+  - poster: 444769974_419689904192742_5993289408973847219_n.jpeg
+    city: São Paulo
+    date: '26/05/2024 14:00'
+    daysGroup: 23/24/25/26
+  - poster: 444528371_941248801078430_5729388421674254042_n.jpeg
+    city: São Paulo
+    date: '27/10/2024 15:00'
+    daysGroup: 25/26/27
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/upfront-festival'
+  - poster: 444789924_3549439805367895_4486232490937927084_n.jpeg
+    city: São Paulo
+    date: '19/05/2024 15:30'
+    daysGroup: 16/17/18/19
 ---
 

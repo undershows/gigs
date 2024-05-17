@@ -17,5 +17,9 @@ gigs:
     date: '18/05/2024 20:00'
     daysGroup: 17/18/19
     ticketsUrl: 'https://bilheto.com.br/comprar/2044/dead-fish-ce'
+  - poster: 442686767_334881376288896_3266201238944480530_n.jpeg
+    city: Fortaleza
+    date: '17/05/2024 19:00'
+    daysGroup: 17/18/19
 ---
 
