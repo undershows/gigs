@@ -3116,5 +3116,35 @@ gigs:
     date: '16/05/2024 20:00'
     daysGroup: 16/17/18/19
     ticketsUrl: 'https://www.sympla.com.br/evento/test-no-porta-maldita-16-de-maio/2460864'
+  - poster: 437772995_422385533769821_8691543084420185017_n.jpeg
+    city: Taubaté
+    date: '17/05/2024 18:00'
+    daysGroup: 16/17/18/19
+  - poster: 436419684_18433178830041789_4534017904021547335_n.jpg
+    city: São Paulo
+    date: '17/05/2024 22:00'
+    daysGroup: 16/17/18/19
+    ticketsUrl: 'https://www.ingresse.com/hot-e-oreia/'
+  - poster: image_123650291.JPG
+    city: São Paulo
+    date: '17/05/2024 19:00'
+    daysGroup: 16/17/18/19
+  - poster: 442420162_1118488872745833_7235445872006840560_n.jpeg
+    city: Santos
+    date: '17/05/2024 21:00'
+    daysGroup: 16/17/18/19
+  - poster: 441575863_964816735261479_1731140104779546834_n.jpg
+    city: São Paulo
+    date: '17/05/2024 20:00'
+    daysGroup: 16/17/18/19
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/flageladorwarsicknessemacabro'
+  - poster: 25540f78-a5aa-4218-9b6a-662b99649a2c.jpeg
+    city: São Paulo
+    date: '17/05/2024 19:00'
+    daysGroup: 16/17/18/19
+  - poster: 436236261_947771150687644_4792954332015894619_n.jpg
+    city: São Paulo
+    date: '17/05/2024 17:00'
+    daysGroup: 16/17/18/19
 ---
 

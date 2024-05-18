@@ -288,5 +288,10 @@ gigs:
     daysGroup: 10/11/12
     ticketsUrl: >-
       https://www.sympla.com.br/evento/genocide-fest-iv-ereboros-abadon-misandra-e-psycho-decadence/2441439
+  - poster: 432465865_814011864087572_5081129233823292216_n.jpg
+    city: Curitiba
+    date: '17/05/2024 21:00'
+    daysGroup: 17/18/19/20/21
+    ticketsUrl: 'https://www.bilheto.com.br/comprar/2255/nightfall-at-night-we-prey'
 ---
 

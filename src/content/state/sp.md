@@ -163,19 +163,10 @@ gigs:
     date: '27/09/2024 18:00'
     daysGroup: 27/28/29
     ticketsUrl: 'https://www.clubedoingresso.com/evento/gorillabiscuits-saopaulo'
-  - poster: 437772995_422385533769821_8691543084420185017_n.jpeg
-    city: Taubaté
-    date: '17/05/2024 18:00'
-    daysGroup: 16/17/18/19
   - poster: 438581858_1103751597407974_6926199836493968212_n.jpeg
     city: São Paulo
     date: '19/05/2024 14:00'
     daysGroup: 16/17/18/19
-  - poster: 436419684_18433178830041789_4534017904021547335_n.jpg
-    city: São Paulo
-    date: '17/05/2024 22:00'
-    daysGroup: 16/17/18/19
-    ticketsUrl: 'https://www.ingresse.com/hot-e-oreia/'
   - poster: festival_de_aco_24.jpeg
     city: Ubatuba
     date: '01/06/2024 23:00'
@@ -215,10 +206,6 @@ gigs:
     city: São José dos Campos
     date: '02/06/2024 16:00'
     daysGroup: 01/02
-  - poster: image_123650291.JPG
-    city: São Paulo
-    date: '17/05/2024 19:00'
-    daysGroup: 16/17/18/19
   - poster: 438303691_7520148018070470_8192219138537072871_n.jpg
     city: Santo André
     date: '22/06/2024 20:00'
@@ -240,10 +227,6 @@ gigs:
     city: Santos
     date: '25/05/2024 21:00'
     daysGroup: 23/24/25/26
-  - poster: 442420162_1118488872745833_7235445872006840560_n.jpeg
-    city: Santos
-    date: '17/05/2024 21:00'
-    daysGroup: 16/17/18/19
   - poster: 442137007_994312078851775_9140865591619313112_n.jpeg
     city: São Sebastião
     date: '15/06/2024 19:00'
@@ -282,11 +265,6 @@ gigs:
     city: São Paulo
     date: '13/06/2024 19:00'
     daysGroup: 13/14/15/16
-  - poster: 441575863_964816735261479_1731140104779546834_n.jpg
-    city: São Paulo
-    date: '17/05/2024 20:00'
-    daysGroup: 16/17/18/19
-    ticketsUrl: 'https://www.clubedoingresso.com/evento/flageladorwarsicknessemacabro'
   - poster: 442412529_1475719253024197_5375320085600563537_n.jpeg
     city: Sorocaba
     date: '06/07/2024 15:00'
@@ -337,10 +315,6 @@ gigs:
     daysGroup: 13/14/15/16
     ticketsUrl: >-
       https://www.clubedoingresso.com/evento/enthroned-nervochaos-introtyl-thedamnnation
-  - poster: 25540f78-a5aa-4218-9b6a-662b99649a2c.jpeg
-    city: São Paulo
-    date: '17/05/2024 19:00'
-    daysGroup: 16/17/18/19
   - poster: 442412836_1494830838104492_3440376552001385388_n.jpeg
     city: São Paulo
     date: '01/06/2024 13:59'
@@ -349,7 +323,8 @@ gigs:
     city: Santo André
     date: '18/05/2024 19:00'
     daysGroup: 16/17/18/19
-    ticketsUrl: 'https://pixelticket.com.br/eventos/20816/acao-direta-e-riot-wolves/ingressos'
+    ticketsUrl: >-
+      https://pixelticket.com.br/eventos/20816/acao-direta-e-riot-wolves/ingressos
   - poster: 442678778_1120289479243640_888923812036413356_n.jpg
     city: São Paulo
     date: '19/05/2024 16:00'
@@ -398,9 +373,5 @@ gigs:
     date: '22/06/2024 17:00'
     daysGroup: 21/22/23
     ticketsUrl: 'https://jaiclub.hoppin.com.br/exterminiogig'
-  - poster: 436236261_947771150687644_4792954332015894619_n.jpg
-    city: São Paulo
-    date: '17/05/2024 17:00'
-    daysGroup: 16/17/18/19
 ---
 

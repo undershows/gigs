@@ -26,11 +26,6 @@ gigs:
     date: '22/05/2024 19:00'
     daysGroup: 22/23/24/25/26
     ticketsUrl: 'https://www.sympla.com.br/evento/nightfall-heia-hereticae/2370470'
-  - poster: 432465865_814011864087572_5081129233823292216_n.jpg
-    city: Curitiba
-    date: '17/05/2024 21:00'
-    daysGroup: 17/18/19/20/21
-    ticketsUrl: 'https://www.bilheto.com.br/comprar/2255/nightfall-at-night-we-prey'
   - poster: ponta_grossa_profetas_caos_24.jpeg
     city: Ponta Grossa
     date: '31/05/2024 19:00'

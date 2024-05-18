@@ -139,5 +139,10 @@ gigs:
     city: Natal
     date: '04/05/2024 16:20'
     daysGroup: 03/04/05
+  - poster: 423944266_1385153785538459_1906618903585378950_n.jpg
+    city: Natal
+    date: '17/05/2024 20:00'
+    daysGroup: 17/18/19
+    ticketsUrl: 'https://www.bilheto.com.br/comprar/2043/dead-fish-rn'
 ---
 
