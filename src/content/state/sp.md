@@ -23,11 +23,6 @@ gigs:
     date: '09/06/2024 14:00'
     daysGroup: 06/07/08/09/10
     ticketsUrl: 'https://www.clubedoingresso.com/evento/possessed-venominc-sp'
-  - poster: bb7bbd96-6775-46bf-9180-a3f1764db540.jpeg
-    city: São Paulo
-    date: '18/05/2024 19:00'
-    daysGroup: 16/17/18/19
-    ticketsUrl: 'https://www.sympla.com.br/evento/grinders-deserdados-fuck-youth/2372389'
   - poster: 432729476_1178864503556162_5594006283990413920_n.jpg
     city: Santo André
     date: '08/06/2024 20:00'
@@ -128,10 +123,6 @@ gigs:
     city: São Paulo
     date: '16/06/2024 11:00'
     daysGroup: 13/14/15/16
-  - poster: 437055882_965982867970978_1393301522307534995_n.jpeg
-    city: São Paulo
-    date: '18/05/2024 18:00'
-    daysGroup: 16/17/18/19
   - poster: 437783461_794844275520482_8443482418657512528_n.jpeg
     city: São Paulo
     date: '13/07/2024 13:00'
@@ -140,10 +131,6 @@ gigs:
     city: São Paulo
     date: '02/11/2024 16:00'
     daysGroup: 01/02/03
-  - poster: 435746963_857036286182602_744712184721632671_n.jpeg
-    city: Santos
-    date: '18/05/2024 21:00'
-    daysGroup: 16/17/18/19
   - poster: 437220302_300141169643694_7355523027824685401_n.jpeg
     city: São José dos Campos
     date: '09/06/2024 17:00'
@@ -172,11 +159,6 @@ gigs:
     date: '01/06/2024 23:00'
     daysGroup: 01/02
     ticketsUrl: 'https://www.sympla.com.br/evento/inverno-de-aco-edicao-pre-fest/2429260'
-  - poster: 438941736_723771409957258_75836104643452385_n.jpeg
-    city: São Paulo
-    date: '18/05/2024 19:00'
-    daysGroup: 16/17/18/19
-    ticketsUrl: 'https://www.sympla.com.br/evento/inherence-cranula-e-void-it/2423117'
   - poster: 440850449_459070923208047_4645648664059275579_n.jpeg
     city: Marília
     date: '07/06/2024 22:00'
@@ -319,19 +301,9 @@ gigs:
     city: São Paulo
     date: '01/06/2024 13:59'
     daysGroup: 01/02
-  - poster: 443820036_936890094801960_1377953221247676146_n.jpeg
-    city: Santo André
-    date: '18/05/2024 19:00'
-    daysGroup: 16/17/18/19
-    ticketsUrl: >-
-      https://pixelticket.com.br/eventos/20816/acao-direta-e-riot-wolves/ingressos
   - poster: 442678778_1120289479243640_888923812036413356_n.jpg
     city: São Paulo
     date: '19/05/2024 16:00'
-    daysGroup: 16/17/18/19
-  - poster: 443228508_1117716446183859_6325831038949983939_n.jpeg
-    city: São Paulo
-    date: '18/05/2024 15:30'
     daysGroup: 16/17/18/19
   - poster: 443253103_850971570399462_4277316412673646296_n.jpeg
     city: São Paulo

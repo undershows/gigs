@@ -21,11 +21,6 @@ gigs:
     date: '23/06/2024 15:00'
     daysGroup: 21/22/23
     ticketsUrl: 'https://bilheto.com.br/comprar/2227/oracle-ov-void'
-  - poster: 53596061260_6d8853db65.jpg
-    city: Blumenau
-    date: '18/05/2024 21:00'
-    daysGroup: 17/18/19
-    ticketsUrl: 'https://bilheto.com.br/comprar/2256/nightfall-at-night-we-prey'
   - poster: 433956836_1182285273214085_4792184424622239707_n.jpg
     city: Joinville
     date: '22/06/2024 15:00'
@@ -48,6 +43,7 @@ gigs:
     city: Florianopólis
     date: '15/06/2024 22:00'
     daysGroup: 14/15/16
-    ticketsUrl: 'https://www.sympla.com.br/evento/budang-jovens-ateus-cabranegra-e-sangue-de-bode/2455925'
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/budang-jovens-ateus-cabranegra-e-sangue-de-bode/2455925
 ---
 

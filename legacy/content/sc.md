@@ -150,5 +150,10 @@ gigs:
     date: '12/05/2024 19:00'
     daysGroup: 10/11/12
     ticketsUrl: 'https://www.bilheto.com.br/comprar/1970/necrocamping'
+  - poster: 53596061260_6d8853db65.jpg
+    city: Blumenau
+    date: '18/05/2024 21:00'
+    daysGroup: 17/18/19
+    ticketsUrl: 'https://bilheto.com.br/comprar/2256/nightfall-at-night-we-prey'
 ---
 

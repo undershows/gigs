@@ -3146,5 +3146,33 @@ gigs:
     city: São Paulo
     date: '17/05/2024 17:00'
     daysGroup: 16/17/18/19
+  - poster: bb7bbd96-6775-46bf-9180-a3f1764db540.jpeg
+    city: São Paulo
+    date: '18/05/2024 19:00'
+    daysGroup: 16/17/18/19
+    ticketsUrl: 'https://www.sympla.com.br/evento/grinders-deserdados-fuck-youth/2372389'
+  - poster: 437055882_965982867970978_1393301522307534995_n.jpeg
+    city: São Paulo
+    date: '18/05/2024 18:00'
+    daysGroup: 16/17/18/19
+  - poster: 435746963_857036286182602_744712184721632671_n.jpeg
+    city: Santos
+    date: '18/05/2024 21:00'
+    daysGroup: 16/17/18/19
+  - poster: 438941736_723771409957258_75836104643452385_n.jpeg
+    city: São Paulo
+    date: '18/05/2024 19:00'
+    daysGroup: 16/17/18/19
+    ticketsUrl: 'https://www.sympla.com.br/evento/inherence-cranula-e-void-it/2423117'
+  - poster: 443820036_936890094801960_1377953221247676146_n.jpeg
+    city: Santo André
+    date: '18/05/2024 19:00'
+    daysGroup: 16/17/18/19
+    ticketsUrl: >-
+      https://pixelticket.com.br/eventos/20816/acao-direta-e-riot-wolves/ingressos
+  - poster: 443228508_1117716446183859_6325831038949983939_n.jpeg
+    city: São Paulo
+    date: '18/05/2024 15:30'
+    daysGroup: 16/17/18/19
 ---
 

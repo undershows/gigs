@@ -151,5 +151,9 @@ gigs:
     city: Uberaba
     date: '11/05/2024 18:00'
     daysGroup: 12/13/14
+  - poster: 442419055_393999216948812_7195054113508055222_n.jpeg
+    city: Belo Horizonte
+    date: '18/05/2024 16:00'
+    daysGroup: 17/18/19
 ---
 

@@ -59,10 +59,6 @@ gigs:
     daysGroup: 14/15/16
     ticketsUrl: >-
       https://www.sympla.com.br/evento/bayside-kings-terceira-guerra-e-bandas-convidadas/2421024
-  - poster: 442419055_393999216948812_7195054113508055222_n.jpeg
-    city: Belo Horizonte
-    date: '18/05/2024 16:00'
-    daysGroup: 17/18/19
   - poster: 441874425_7483837368368386_8324236825682531366_n.jpg
     city: Divinópolis
     date: '30/05/2024 17:00'

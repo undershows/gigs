@@ -54,5 +54,9 @@ gigs:
     date: '04/05/2024 19:00'
     daysGroup: 03/04/05
     ticketsUrl: 'https://www.zig.tickets/eventos/hard-metal-fest'
+  - poster: IMG-20240510-WA0034.jpg
+    city: Vitória
+    date: '18/05/2024 19:00'
+    daysGroup: 17/18/19
 ---
 
