@@ -155,5 +155,9 @@ gigs:
     date: '18/05/2024 21:00'
     daysGroup: 17/18/19
     ticketsUrl: 'https://bilheto.com.br/comprar/2256/nightfall-at-night-we-prey'
+  - poster: 19-05 Floripa_resized.jpg
+    city: Florianopólis
+    date: '19/05/2024 15:00'
+    daysGroup: 17/18/19
 ---
 

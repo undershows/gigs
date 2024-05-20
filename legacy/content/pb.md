@@ -89,5 +89,9 @@ gigs:
     daysGroup: 16/17/18/19
     ticketsUrl: >-
       https://www.sympla.com.br/evento/nordeste-fantastico-papangu-e-chico-correa/2459560
+  - poster: 434211353_412279761446638_384983414865489427_n.jpeg
+    city: João Pessoa
+    date: '19/05/2024 18:00'
+    daysGroup: 16/17/18/19
 ---
 

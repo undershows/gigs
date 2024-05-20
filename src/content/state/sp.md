@@ -78,11 +78,6 @@ gigs:
     date: '18/08/2024 19:00'
     daysGroup: 16/17/18
     ticketsUrl: 'https://www.ingresse.com/karate-sp/'
-  - poster: 434208852_302715996184044_2978831953778341169_n.jpeg
-    city: São Paulo
-    date: '19/05/2024 14:00'
-    daysGroup: 16/17/18/19
-    ticketsUrl: 'https://www.clubedoingresso.com/evento/hammerfestival-saopaulo'
   - poster: 434334998_1373336246676381_4534883261129237858_n.jpeg
     city: Arujá
     date: '09/06/2024 16:00'
@@ -150,10 +145,6 @@ gigs:
     date: '27/09/2024 18:00'
     daysGroup: 27/28/29
     ticketsUrl: 'https://www.clubedoingresso.com/evento/gorillabiscuits-saopaulo'
-  - poster: 438581858_1103751597407974_6926199836493968212_n.jpeg
-    city: São Paulo
-    date: '19/05/2024 14:00'
-    daysGroup: 16/17/18/19
   - poster: festival_de_aco_24.jpeg
     city: Ubatuba
     date: '01/06/2024 23:00'
@@ -234,10 +225,6 @@ gigs:
     date: '07/07/2024 12:00'
     daysGroup: 05/06/07
     ticketsUrl: 'https://www.sympla.com.br/evento/synco-hc-festival-arena-show-sp/2450384'
-  - poster: 442157006_473935585222824_4649028713374626217_n.jpeg
-    city: São José dos Campos
-    date: '19/05/2024 17:00'
-    daysGroup: 16/17/18/19
   - poster: 441384513_18436973761041789_7748907152528995580_n.jpg
     city: São Paulo
     date: '26/05/2024 17:00'
@@ -301,10 +288,6 @@ gigs:
     city: São Paulo
     date: '01/06/2024 13:59'
     daysGroup: 01/02
-  - poster: 442678778_1120289479243640_888923812036413356_n.jpg
-    city: São Paulo
-    date: '19/05/2024 16:00'
-    daysGroup: 16/17/18/19
   - poster: 443253103_850971570399462_4277316412673646296_n.jpeg
     city: São Paulo
     date: '24/05/2024 22:00'
@@ -323,10 +306,6 @@ gigs:
     date: '27/10/2024 15:00'
     daysGroup: 25/26/27
     ticketsUrl: 'https://www.clubedoingresso.com/evento/upfront-festival'
-  - poster: 444789924_3549439805367895_4486232490937927084_n.jpeg
-    city: São Paulo
-    date: '19/05/2024 15:30'
-    daysGroup: 16/17/18/19
   - poster: 443842530_196622243545933_8901709976229108812_n.jpeg
     city: Sorocaba
     date: '25/05/2024 13:00'

@@ -3174,5 +3174,26 @@ gigs:
     city: São Paulo
     date: '18/05/2024 15:30'
     daysGroup: 16/17/18/19
+  - poster: 434208852_302715996184044_2978831953778341169_n.jpeg
+    city: São Paulo
+    date: '19/05/2024 14:00'
+    daysGroup: 16/17/18/19
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/hammerfestival-saopaulo'
+  - poster: 438581858_1103751597407974_6926199836493968212_n.jpeg
+    city: São Paulo
+    date: '19/05/2024 14:00'
+    daysGroup: 16/17/18/19
+  - poster: 442157006_473935585222824_4649028713374626217_n.jpeg
+    city: São José dos Campos
+    date: '19/05/2024 17:00'
+    daysGroup: 16/17/18/19
+  - poster: 442678778_1120289479243640_888923812036413356_n.jpg
+    city: São Paulo
+    date: '19/05/2024 16:00'
+    daysGroup: 16/17/18/19
+  - poster: 444789924_3549439805367895_4486232490937927084_n.jpeg
+    city: São Paulo
+    date: '19/05/2024 15:30'
+    daysGroup: 16/17/18/19
 ---
 

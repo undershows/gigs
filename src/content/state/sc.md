@@ -31,10 +31,6 @@ gigs:
     daysGroup: 14/15/16
     ticketsUrl: >-
       https://www.sympla.com.br/evento/sangue-de-bode-budang-jovens-ateus-caebraenegrae/2457021
-  - poster: 19-05 Floripa_resized.jpg
-    city: Florianopólis
-    date: '19/05/2024 15:00'
-    daysGroup: 17/18/19
   - poster: 21.06 urussanga_resized.jpg
     city: Urussanga
     date: '21/06/2024 15:00'
