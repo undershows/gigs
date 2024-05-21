@@ -324,9 +324,5 @@ gigs:
     date: '22/06/2024 17:00'
     daysGroup: 21/22/23
     ticketsUrl: 'https://jaiclub.hoppin.com.br/exterminiogig'
-  - poster: 2024-05-20-Test.jpg
-    city: Sorocaba
-    date: '20/05/2024 19:00'
-    daysGroup: 20/21
 ---
 
