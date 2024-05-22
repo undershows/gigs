@@ -293,5 +293,9 @@ gigs:
     date: '17/05/2024 21:00'
     daysGroup: 17/18/19/20/21
     ticketsUrl: 'https://www.bilheto.com.br/comprar/2255/nightfall-at-night-we-prey'
+  - poster: 432767887_1176856680423611_6803058206802818995_n.jpg
+    city: Foz do Iguaçu
+    date: '21/05/2024 19:00'
+    daysGroup: 17/18/19/20/21
 ---
 

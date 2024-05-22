@@ -17,10 +17,6 @@ gigs:
     city: Foz do Iguaçu
     date: '18/06/2024 19:00'
     daysGroup: 18/19/20/21/22/23
-  - poster: 432767887_1176856680423611_6803058206802818995_n.jpg
-    city: Foz do Iguaçu
-    date: '21/05/2024 19:00'
-    daysGroup: 17/18/19/20/21
   - poster: 431443953_1177307620378517_7929714719649563570_n.jpg
     city: Maringá
     date: '22/05/2024 19:00'
