@@ -297,5 +297,10 @@ gigs:
     city: Foz do Iguaçu
     date: '21/05/2024 19:00'
     daysGroup: 17/18/19/20/21
+  - poster: 431443953_1177307620378517_7929714719649563570_n.jpg
+    city: Maringá
+    date: '22/05/2024 19:00'
+    daysGroup: 22/23/24/25/26
+    ticketsUrl: 'https://www.sympla.com.br/evento/nightfall-heia-hereticae/2370470'
 ---
 

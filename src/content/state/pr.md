@@ -17,11 +17,6 @@ gigs:
     city: Foz do Iguaçu
     date: '18/06/2024 19:00'
     daysGroup: 18/19/20/21/22/23
-  - poster: 431443953_1177307620378517_7929714719649563570_n.jpg
-    city: Maringá
-    date: '22/05/2024 19:00'
-    daysGroup: 22/23/24/25/26
-    ticketsUrl: 'https://www.sympla.com.br/evento/nightfall-heia-hereticae/2370470'
   - poster: ponta_grossa_profetas_caos_24.jpeg
     city: Ponta Grossa
     date: '31/05/2024 19:00'
