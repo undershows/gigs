@@ -332,5 +332,13 @@ gigs:
     city: Agudos
     date: '08/06/2024 17:00'
     daysGroup: 06/07/08/09/10
+  - poster: e0bf7910-df0d-43cc-b23f-941389d36f44.jpeg
+    city: Bauru
+    date: '13/07/2024 20:00'
+    daysGroup: 12/13/14
+  - poster: b3ceab36-2f29-4d97-931d-9efb2d120dce.jpeg
+    city: Bauru
+    date: '24/05/2024 20:00'
+    daysGroup: 23/24/25/26
 ---
 
