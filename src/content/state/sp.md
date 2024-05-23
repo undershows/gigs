@@ -324,5 +324,13 @@ gigs:
     date: '22/06/2024 17:00'
     daysGroup: 21/22/23
     ticketsUrl: 'https://jaiclub.hoppin.com.br/exterminiogig'
+  - poster: 436303579_464756655911335_1440819847848775630_n.png
+    city: Agudos
+    date: '26/05/2024 16:00'
+    daysGroup: 23/24/25/26
+  - poster: 436294905_7754246784655472_5535509289413915176_n.png
+    city: Agudos
+    date: '08/06/2024 17:00'
+    daysGroup: 06/07/08/09/10
 ---
 
