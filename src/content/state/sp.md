@@ -34,11 +34,6 @@ gigs:
     daysGroup: 05/06/07
     ticketsUrl: >-
       https://www.sympla.com.br/evento/sinister-vulture-ancestral-malediction-ereboros-podridao/2342064
-  - poster: 431968120_1177325603710052_6102780045514853272_n.jpg
-    city: Ribeirão Preto
-    date: '23/05/2024 16:00'
-    daysGroup: 23/24/25/26
-    ticketsUrl: 'https://www.sympla.com.br/evento/nightfall-heia-desdominus/2382644'
   - poster: 432754637_1149028929348083_6900827881406581498_n.jpg
     city: São Paulo
     date: '22/06/2024 20:00'

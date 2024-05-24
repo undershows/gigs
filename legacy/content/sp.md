@@ -3199,5 +3199,10 @@ gigs:
     city: Sorocaba
     date: '20/05/2024 19:00'
     daysGroup: 20/21
+  - poster: 431968120_1177325603710052_6102780045514853272_n.jpg
+    city: Ribeirão Preto
+    date: '23/05/2024 16:00'
+    daysGroup: 23/24/25/26
+    ticketsUrl: 'https://www.sympla.com.br/evento/nightfall-heia-desdominus/2382644'
 ---
 
