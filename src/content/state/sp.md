@@ -105,6 +105,7 @@ gigs:
     city: São Paulo
     date: '25/05/2024 14:00'
     daysGroup: 23/24/25/26
+    ticketsUrl: 'https://www.sympla.com.br/evento/flicts-punho-de-mahin-vatos/2441890'
   - poster: 436430283_7819655121380711_7382755313066739064_n.jpg
     city: São Paulo
     date: '16/06/2024 11:00'
