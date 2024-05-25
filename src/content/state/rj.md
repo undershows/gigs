@@ -54,5 +54,10 @@ gigs:
     date: '12/07/2024 18:00'
     daysGroup: 12/13/14
     ticketsUrl: 'https://showpass.com.br/comprar/1388/suicidal-tendencies'
+  - poster: 445777209_959645752617434_3496959487867518759_n.jpeg
+    city: Rio de Janeiro
+    date: '25/05/2024 19:00'
+    daysGroup: 24/25/26
+    ticketsUrl: 'https://www.sympla.com.br/evento/25-05-black-magic-fest-vazio-sp-sangue-de-bode-doer-profana-resto-mityma/2399695'
 ---
 
