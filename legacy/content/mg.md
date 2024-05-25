@@ -155,5 +155,10 @@ gigs:
     city: Belo Horizonte
     date: '18/05/2024 16:00'
     daysGroup: 17/18/19
+  - poster: 392872616_797040089118083_1924924707324349995_n.jpg
+    city: Belo Horizonte
+    date: '24/05/2024 19:00'
+    daysGroup: 24/25/26
+    ticketsUrl: 'https://www.sympla.com.br/evento/nightfall-em-belo-horizonte/2347608'
 ---
 

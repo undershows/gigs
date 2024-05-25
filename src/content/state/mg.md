@@ -7,11 +7,6 @@ gigs:
     date: '07/07/2024 16:00'
     daysGroup: 05/06/07
     ticketsUrl: 'https://www.sympla.com.br/evento/sinister-em-belo-horizonte/2350307'
-  - poster: 392872616_797040089118083_1924924707324349995_n.jpg
-    city: Belo Horizonte
-    date: '24/05/2024 19:00'
-    daysGroup: 24/25/26
-    ticketsUrl: 'https://www.sympla.com.br/evento/nightfall-em-belo-horizonte/2347608'
   - poster: 434208354_7427187434033836_8990653153994090888_n.jpeg
     city: Belo Horizonte
     date: '08/06/2024 16:00'

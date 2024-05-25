@@ -64,10 +64,6 @@ gigs:
     daysGroup: 01/02
     ticketsUrl: >-
       https://www.sympla.com.br/evento/show-cras-sp-nameless-god-sp-sodade-sp-vantas-cps/2392574
-  - poster: 433112849_18283214812166315_88871365544501493_n.jpg
-    city: Mauá
-    date: '24/05/2024 19:00'
-    daysGroup: 23/24/25/26
   - poster: 425671209_2391517074570600_902858711512559910_n.jpg
     city: São Paulo
     date: '18/08/2024 19:00'
@@ -283,10 +279,6 @@ gigs:
     city: São Paulo
     date: '01/06/2024 13:59'
     daysGroup: 01/02
-  - poster: 443253103_850971570399462_4277316412673646296_n.jpeg
-    city: São Paulo
-    date: '24/05/2024 22:00'
-    daysGroup: 23/24/25/26
   - poster: 443844137_308241835709538_4092223016429060800_n.jpeg
     city: São Paulo
     date: '21/07/2024 17:15'
@@ -331,9 +323,5 @@ gigs:
     city: Bauru
     date: '13/07/2024 20:00'
     daysGroup: 12/13/14
-  - poster: b3ceab36-2f29-4d97-931d-9efb2d120dce.jpeg
-    city: Bauru
-    date: '24/05/2024 20:00'
-    daysGroup: 23/24/25/26
 ---
 

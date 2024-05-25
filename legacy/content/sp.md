@@ -3204,5 +3204,17 @@ gigs:
     date: '23/05/2024 16:00'
     daysGroup: 23/24/25/26
     ticketsUrl: 'https://www.sympla.com.br/evento/nightfall-heia-desdominus/2382644'
+  - poster: 433112849_18283214812166315_88871365544501493_n.jpg
+    city: Mauá
+    date: '24/05/2024 19:00'
+    daysGroup: 23/24/25/26
+  - poster: 443253103_850971570399462_4277316412673646296_n.jpeg
+    city: São Paulo
+    date: '24/05/2024 22:00'
+    daysGroup: 23/24/25/26
+  - poster: b3ceab36-2f29-4d97-931d-9efb2d120dce.jpeg
+    city: Bauru
+    date: '24/05/2024 20:00'
+    daysGroup: 23/24/25/26
 ---
 
