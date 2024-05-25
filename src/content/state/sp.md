@@ -324,5 +324,18 @@ gigs:
     city: Bauru
     date: '13/07/2024 20:00'
     daysGroup: 12/13/14
+  - poster: 438118175_1006800307730963_5439434071533060370_n.jpg
+    city: São Paulo
+    date: '16/06/2024 14:00'
+    daysGroup: 13/14/15/16
+  - poster: 446217292_828556425439093_3944928494405814725_n.jpeg
+    city: São Paulo
+    date: '31/08/2024 19:00'
+    daysGroup: 30/31
+    ticketsUrl: 'https://pixelticket.com.br/eventos/21180/cachorro-louco'
+  - poster: 446098285_389956544015770_8255705884148407553_n.jpeg
+    city: Diadema
+    date: '26/05/2024 15:00'
+    daysGroup: 23/24/25/26
 ---
 
