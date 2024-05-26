@@ -235,11 +235,6 @@ gigs:
     city: São Paulo
     date: '28/07/2024 15:00'
     daysGroup: 26/27/28
-  - poster: 443227665_1777146399448040_6471482339055535317_n.jpg
-    city: São Paulo
-    date: '26/05/2024 14:00'
-    daysGroup: 23/24/25/26
-    ticketsUrl: 'https://www.pensanoevento.com.br/shows/61688/hell-s-party'
   - poster: 436254466_1373979990058596_3466062004140228624_n.jpeg
     city: Santos
     date: '22/06/2024 21:00'
