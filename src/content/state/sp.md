@@ -345,6 +345,7 @@ gigs:
     city: Diadema
     date: '26/05/2024 17:00'
     daysGroup: 23/24/25/26
+    ticketsUrl: 'https://articket.com.br/e/2051/dance-of-days-paura-grinders'
   - poster: 445628630_1816762252185727_4250229665639367747_n.jpeg
     city: Ribeirão Pires
     date: '26/05/2024 18:00'
@@ -353,9 +354,5 @@ gigs:
     city: São Paulo
     date: '26/05/2024 15:30'
     daysGroup: 23/24/25/26
-  - poster: 446500702_337301422795204_6009726902095525424_n.jpeg
-    city: São Paulo
-    date: '30/05/2024 15:00'
-    daysGroup: 30/31
 ---
 
