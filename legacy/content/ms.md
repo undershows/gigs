@@ -61,5 +61,9 @@ gigs:
     city: Nova Alvorada do Sul
     date: '12/05/2024 17:00'
     daysGroup: 09/10/11/12
+  - poster: 440683504_803772921647643_6120712067160529879_n.jpeg
+    city: Campo Grande
+    date: '25/05/2024 20:00'
+    daysGroup: 24/25/26
 ---
 

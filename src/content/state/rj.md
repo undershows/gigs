@@ -30,12 +30,6 @@ gigs:
     city: Campos dos Goytacazes
     date: '02/06/2024 18:00'
     daysGroup: 01/02
-  - poster: 435633611_339836855758023_3350968860374496667_n.jpeg
-    city: Rio de Janeiro
-    date: '25/05/2024 20:00'
-    daysGroup: 24/25/26
-    ticketsUrl: >-
-      https://www.eventim.com.br/event/shamangra-no-circo-voador-circo-voador-18550579/
   - poster: 437585101_982226573302565_2687781348344977087_n.jpeg
     city: Campos dos Goytacazes
     date: '13/07/2024 18:00'
@@ -48,16 +42,12 @@ gigs:
     city: Rio de Janeiro
     date: '08/06/2024 19:00'
     daysGroup: 07/08/09
-    ticketsUrl: 'https://www.sympla.com.br/evento/audio-rebel-texuga-trash-no-star-klitoria-e-mototaxi-08-06/2455167'
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/audio-rebel-texuga-trash-no-star-klitoria-e-mototaxi-08-06/2455167
   - poster: 441577445_18308379901194446_6411940555776409954_n.jpg
     city: Rio de Janeiro
     date: '12/07/2024 18:00'
     daysGroup: 12/13/14
     ticketsUrl: 'https://showpass.com.br/comprar/1388/suicidal-tendencies'
-  - poster: 445777209_959645752617434_3496959487867518759_n.jpeg
-    city: Rio de Janeiro
-    date: '25/05/2024 19:00'
-    daysGroup: 24/25/26
-    ticketsUrl: 'https://www.sympla.com.br/evento/25-05-black-magic-fest-vazio-sp-sangue-de-bode-doer-profana-resto-mityma/2399695'
 ---
 

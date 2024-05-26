@@ -193,5 +193,17 @@ gigs:
     date: '20/04/2024 21:00'
     daysGroup: 19/20/21
     ticketsUrl: 'https://www.sympla.com.br/evento/podridao-baga-bicuda/2329123'
+  - poster: 435633611_339836855758023_3350968860374496667_n.jpeg
+    city: Rio de Janeiro
+    date: '25/05/2024 20:00'
+    daysGroup: 24/25/26
+    ticketsUrl: >-
+      https://www.eventim.com.br/event/shamangra-no-circo-voador-circo-voador-18550579/
+  - poster: 445777209_959645752617434_3496959487867518759_n.jpeg
+    city: Rio de Janeiro
+    date: '25/05/2024 19:00'
+    daysGroup: 24/25/26
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/25-05-black-magic-fest-vazio-sp-sangue-de-bode-doer-profana-resto-mityma/2399695
 ---
 

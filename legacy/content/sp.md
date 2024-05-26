@@ -3216,5 +3216,26 @@ gigs:
     city: Bauru
     date: '24/05/2024 20:00'
     daysGroup: 23/24/25/26
+  - poster: 428618466_1922614351547886_3553769102855542818_n.jpg
+    city: Santo André
+    date: '25/05/2024 16:00'
+    daysGroup: 23/24/25/26
+  - poster: 435068882_778319327277985_6163784455816232464_n.jpg
+    city: São Paulo
+    date: '25/05/2024 14:00'
+    daysGroup: 23/24/25/26
+    ticketsUrl: 'https://www.sympla.com.br/evento/flicts-punho-de-mahin-vatos/2441890'
+  - poster: 437140533_440329581701593_3492624179838790896_n.jpeg
+    city: São Paulo
+    date: '25/05/2024 18:00'
+    daysGroup: 23/24/25/26
+  - poster: 441567394_2722561444564573_9028914761325985129_n.jpeg
+    city: Santos
+    date: '25/05/2024 21:00'
+    daysGroup: 23/24/25/26
+  - poster: 443842530_196622243545933_8901709976229108812_n.jpeg
+    city: Sorocaba
+    date: '25/05/2024 13:00'
+    daysGroup: 23/24/25/26
 ---
 

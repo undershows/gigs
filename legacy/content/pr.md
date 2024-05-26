@@ -302,5 +302,9 @@ gigs:
     date: '22/05/2024 19:00'
     daysGroup: 22/23/24/25/26
     ticketsUrl: 'https://www.sympla.com.br/evento/nightfall-heia-hereticae/2370470'
+  - poster: 441554637_1115824793026716_2720957721498400715_n.jpeg
+    city: Maringá
+    date: '25/05/2024 20:00'
+    daysGroup: 22/23/24/25/26
 ---
 

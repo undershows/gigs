@@ -8,10 +8,6 @@ gigs:
     daysGroup: 26/27/28
     ticketsUrl: >-
       https://www.sympla.com.br/evento/sadistic-intent-usa-chakal-mg-spiritual-hate-sp/2337890
-  - poster: 428618466_1922614351547886_3553769102855542818_n.jpg
-    city: Santo André
-    date: '25/05/2024 16:00'
-    daysGroup: 23/24/25/26
   - poster: 426488998_120207068767380040_3886440266274244029_n.jpg
     city: São Paulo
     date: '09/11/2024 18:00'
@@ -101,11 +97,6 @@ gigs:
     daysGroup: 08/09/10
     ticketsUrl: >-
       https://www.sympla.com.br/evento/cirith-ungol-nightdemon-hellish-war-chumbo/2366428
-  - poster: 435068882_778319327277985_6163784455816232464_n.jpg
-    city: São Paulo
-    date: '25/05/2024 14:00'
-    daysGroup: 23/24/25/26
-    ticketsUrl: 'https://www.sympla.com.br/evento/flicts-punho-de-mahin-vatos/2441890'
   - poster: 436430283_7819655121380711_7382755313066739064_n.jpg
     city: São Paulo
     date: '16/06/2024 11:00'
@@ -124,10 +115,6 @@ gigs:
     daysGroup: 06/07/08/09/10
     ticketsUrl: >-
       https://www.sympla.com.br/evento/tonelada-dourados-ms-sujera-sp-xucro-sp-e-anversa-taubate-no-hocus-pocus/2444712'
-  - poster: 437140533_440329581701593_3492624179838790896_n.jpeg
-    city: São Paulo
-    date: '25/05/2024 18:00'
-    daysGroup: 23/24/25/26
   - poster: 434863547_10211117130440155_6425648371688703187_n.jpg
     city: São Paulo
     date: '17/08/2024 17:00'
@@ -188,10 +175,6 @@ gigs:
     city: São Paulo
     date: '30/05/2024 15:00'
     daysGroup: 30/31
-  - poster: 441567394_2722561444564573_9028914761325985129_n.jpeg
-    city: Santos
-    date: '25/05/2024 21:00'
-    daysGroup: 23/24/25/26
   - poster: 442137007_994312078851775_9140865591619313112_n.jpeg
     city: São Sebastião
     date: '15/06/2024 19:00'
@@ -294,10 +277,6 @@ gigs:
     date: '27/10/2024 15:00'
     daysGroup: 25/26/27
     ticketsUrl: 'https://www.clubedoingresso.com/evento/upfront-festival'
-  - poster: 443842530_196622243545933_8901709976229108812_n.jpeg
-    city: Sorocaba
-    date: '25/05/2024 13:00'
-    daysGroup: 23/24/25/26
   - poster: 443239876_1576322903151683_2413380049904022986_n.jpeg
     city: Campinas
     date: '20/07/2024 18:00'
