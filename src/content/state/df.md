@@ -21,5 +21,10 @@ gigs:
     date: '14/07/2024 18:00'
     daysGroup: 12/13/14
     ticketsUrl: 'https://www.clubedoingresso.com/evento/angra-cyclesofpaintour'
+  - poster: 445725777_864577365403876_7373432412544597057_n.jpeg
+    city: Brasília
+    date: '20/07/2024 20:00'
+    daysGroup: 19/20/21
+    ticketsUrl: 'https://www.furandoafila.com.br/comprar/4738/ritual-alquimico-evento-de-metal'
 ---
 

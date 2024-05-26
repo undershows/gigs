@@ -316,5 +316,50 @@ gigs:
     city: Diadema
     date: '26/05/2024 15:00'
     daysGroup: 23/24/25/26
+  - poster: 445169807_1006935201098176_7195495008056937146_n.jpeg
+    city: São Paulo
+    date: '23/06/2024 20:00'
+    daysGroup: 21/22/23
+  - poster: 445793074_789740659918597_5671565892280068137_n.jpeg
+    city: Campinas
+    date: '26/05/2024 17:00'
+    daysGroup: 23/24/25/26
+  - poster: 443717468_1566271617268692_3107278503458235140_n.jpg
+    city: São Paulo
+    date: '09/06/2024 16:00'
+    daysGroup: 06/07/08/09/10
+  - poster: 442442914_951747043623388_1695877922759876538_n.jpg
+    city: São Paulo
+    date: '26/05/2024 15:00'
+    daysGroup: 23/24/25/26
+  - poster: 441710280_18099671062408876_2852609203284333627_n.jpg
+    city: Ribeirão Pires
+    date: '30/05/2024 16:00'
+    daysGroup: 30/31
+  - poster: 445488530_25514979268116759_3900857326441034376_n.jpeg
+    city: São José dos Campos
+    date: '26/05/2024 19:00'
+    daysGroup: 23/24/25/26
+  - poster: 445720315_441251565180823_5753306269446409383_n.jpeg
+    city: São Paulo
+    date: '04/08/2024 14:00'
+    daysGroup: 02/03/04
+    ticketsUrl: 'https://pixelticket.com.br/eventos/15799/oxigenio-festival-2024'
+  - poster: 445635431_988561172793563_1723873386654607323_n.jpeg
+    city: Diadema
+    date: '26/05/2024 17:00'
+    daysGroup: 23/24/25/26
+  - poster: 445628630_1816762252185727_4250229665639367747_n.jpeg
+    city: Ribeirão Pires
+    date: '26/05/2024 18:00'
+    daysGroup: 23/24/25/26
+  - poster: 446514514_1609704316489801_2041218881086511752_n.jpeg
+    city: São Paulo
+    date: '26/05/2024 15:30'
+    daysGroup: 23/24/25/26
+  - poster: 446500702_337301422795204_6009726902095525424_n.jpeg
+    city: São Paulo
+    date: '30/05/2024 15:00'
+    daysGroup: 30/31
 ---
 
