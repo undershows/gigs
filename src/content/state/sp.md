@@ -346,10 +346,6 @@ gigs:
     date: '26/05/2024 17:00'
     daysGroup: 23/24/25/26
     ticketsUrl: 'https://articket.com.br/e/2051/dance-of-days-paura-grinders'
-  - poster: 445628630_1816762252185727_4250229665639367747_n.jpeg
-    city: Ribeirão Pires
-    date: '26/05/2024 18:00'
-    daysGroup: 23/24/25/26
   - poster: 446514514_1609704316489801_2041218881086511752_n.jpeg
     city: São Paulo
     date: '26/05/2024 15:30'
