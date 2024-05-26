@@ -319,6 +319,7 @@ gigs:
     city: Campinas
     date: '26/05/2024 17:00'
     daysGroup: 23/24/25/26
+    ticketsUrl: 'https://www.sympla.com.br/evento/garage-fuzz-no-bdz-bandas/2469320'
   - poster: 443717468_1566271617268692_3107278503458235140_n.jpg
     city: São Paulo
     date: '09/06/2024 16:00'
