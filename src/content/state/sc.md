@@ -41,10 +41,5 @@ gigs:
     daysGroup: 14/15/16
     ticketsUrl: >-
       https://www.sympla.com.br/evento/budang-jovens-ateus-cabranegra-e-sangue-de-bode/2455925
-  - poster: 446268327_317227341477933_7983019714041462824_n.jpeg
-    city: Blumenau
-    date: '26/05/2024 16:00'
-    daysGroup: 23/24/25/26
-    ticketsUrl: 'https://bilheto.com.br/comprar/2359/black-pantera-blumenau'
 ---
 

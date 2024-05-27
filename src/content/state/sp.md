@@ -162,10 +162,6 @@ gigs:
     city: Santo André
     date: '22/06/2024 20:00'
     daysGroup: 21/22/23
-  - poster: 441887548_17883018084048719_5465247759848457786_n.jpg
-    city: São Paulo
-    date: '26/05/2024 17:00'
-    daysGroup: 23/24/25/26
   - poster: 442445208_2764552633708795_5049092636386486648_n.jpeg
     city: Diadema
     date: '23/06/2024 20:00'
@@ -200,11 +196,6 @@ gigs:
     date: '07/07/2024 12:00'
     daysGroup: 05/06/07
     ticketsUrl: 'https://www.sympla.com.br/evento/synco-hc-festival-arena-show-sp/2450384'
-  - poster: 441384513_18436973761041789_7748907152528995580_n.jpg
-    city: São Paulo
-    date: '26/05/2024 17:00'
-    daysGroup: 23/24/25/26
-    ticketsUrl: 'https://www.ingresse.com/indie-brasil-fest/'
   - poster: 442420972_1821335045032665_9018548818020384033_n.jpg
     city: São Paulo
     date: '13/06/2024 19:00'
@@ -263,10 +254,6 @@ gigs:
     date: '21/07/2024 17:15'
     daysGroup: 19/20/21
     ticketsUrl: 'https://bilheto.com.br/comprar/2406/metal-relics-on-the-road'
-  - poster: 444769974_419689904192742_5993289408973847219_n.jpeg
-    city: São Paulo
-    date: '26/05/2024 14:00'
-    daysGroup: 23/24/25/26
   - poster: 444528371_941248801078430_5729388421674254042_n.jpeg
     city: São Paulo
     date: '27/10/2024 15:00'
@@ -286,10 +273,6 @@ gigs:
     date: '22/06/2024 17:00'
     daysGroup: 21/22/23
     ticketsUrl: 'https://jaiclub.hoppin.com.br/exterminiogig'
-  - poster: 436303579_464756655911335_1440819847848775630_n.png
-    city: Agudos
-    date: '26/05/2024 16:00'
-    daysGroup: 23/24/25/26
   - poster: 436294905_7754246784655472_5535509289413915176_n.png
     city: Agudos
     date: '08/06/2024 17:00'
@@ -307,48 +290,22 @@ gigs:
     date: '31/08/2024 19:00'
     daysGroup: 30/31
     ticketsUrl: 'https://pixelticket.com.br/eventos/21180/cachorro-louco'
-  - poster: 446098285_389956544015770_8255705884148407553_n.jpeg
-    city: Diadema
-    date: '26/05/2024 15:00'
-    daysGroup: 23/24/25/26
   - poster: 445169807_1006935201098176_7195495008056937146_n.jpeg
     city: São Paulo
     date: '23/06/2024 20:00'
     daysGroup: 21/22/23
-  - poster: 445793074_789740659918597_5671565892280068137_n.jpeg
-    city: Campinas
-    date: '26/05/2024 17:00'
-    daysGroup: 23/24/25/26
-    ticketsUrl: 'https://www.sympla.com.br/evento/garage-fuzz-no-bdz-bandas/2469320'
   - poster: 443717468_1566271617268692_3107278503458235140_n.jpg
     city: São Paulo
     date: '09/06/2024 16:00'
     daysGroup: 06/07/08/09/10
-  - poster: 442442914_951747043623388_1695877922759876538_n.jpg
-    city: São Paulo
-    date: '26/05/2024 15:00'
-    daysGroup: 23/24/25/26
   - poster: 441710280_18099671062408876_2852609203284333627_n.jpg
     city: Ribeirão Pires
     date: '30/05/2024 16:00'
     daysGroup: 30/31
-  - poster: 445488530_25514979268116759_3900857326441034376_n.jpeg
-    city: São José dos Campos
-    date: '26/05/2024 19:00'
-    daysGroup: 23/24/25/26
   - poster: 445720315_441251565180823_5753306269446409383_n.jpeg
     city: São Paulo
     date: '04/08/2024 14:00'
     daysGroup: 02/03/04
     ticketsUrl: 'https://pixelticket.com.br/eventos/15799/oxigenio-festival-2024'
-  - poster: 445635431_988561172793563_1723873386654607323_n.jpeg
-    city: Diadema
-    date: '26/05/2024 17:00'
-    daysGroup: 23/24/25/26
-    ticketsUrl: 'https://articket.com.br/e/2051/dance-of-days-paura-grinders'
-  - poster: 446514514_1609704316489801_2041218881086511752_n.jpeg
-    city: São Paulo
-    date: '26/05/2024 15:30'
-    daysGroup: 23/24/25/26
 ---
 

@@ -159,5 +159,10 @@ gigs:
     city: Florianopólis
     date: '19/05/2024 15:00'
     daysGroup: 17/18/19
+  - poster: 446268327_317227341477933_7983019714041462824_n.jpeg
+    city: Blumenau
+    date: '26/05/2024 16:00'
+    daysGroup: 23/24/25/26
+    ticketsUrl: 'https://bilheto.com.br/comprar/2359/black-pantera-blumenau'
 ---
 

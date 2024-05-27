@@ -160,5 +160,10 @@ gigs:
     date: '24/05/2024 19:00'
     daysGroup: 24/25/26
     ticketsUrl: 'https://www.sympla.com.br/evento/nightfall-em-belo-horizonte/2347608'
+  - poster: 432766433_1180675900041689_8714343605943988387_n.jpg
+    city: Uberlândia
+    date: '26/05/2024 17:00'
+    daysGroup: 24/25/26
+    ticketsUrl: 'https://www.sympla.com.br/evento/nightfall-heia-khormoundeggom/2391583'
 ---
 

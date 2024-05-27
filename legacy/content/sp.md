@@ -3237,5 +3237,48 @@ gigs:
     city: Sorocaba
     date: '25/05/2024 13:00'
     daysGroup: 23/24/25/26
+  - poster: 441887548_17883018084048719_5465247759848457786_n.jpg
+    city: São Paulo
+    date: '26/05/2024 17:00'
+    daysGroup: 23/24/25/26
+  - poster: 441384513_18436973761041789_7748907152528995580_n.jpg
+    city: São Paulo
+    date: '26/05/2024 17:00'
+    daysGroup: 23/24/25/26
+    ticketsUrl: 'https://www.ingresse.com/indie-brasil-fest/'
+  - poster: 444769974_419689904192742_5993289408973847219_n.jpeg
+    city: São Paulo
+    date: '26/05/2024 14:00'
+    daysGroup: 23/24/25/26
+  - poster: 436303579_464756655911335_1440819847848775630_n.png
+    city: Agudos
+    date: '26/05/2024 16:00'
+    daysGroup: 23/24/25/26
+  - poster: 446098285_389956544015770_8255705884148407553_n.jpeg
+    city: Diadema
+    date: '26/05/2024 15:00'
+    daysGroup: 23/24/25/26
+  - poster: 445793074_789740659918597_5671565892280068137_n.jpeg
+    city: Campinas
+    date: '26/05/2024 17:00'
+    daysGroup: 23/24/25/26
+    ticketsUrl: 'https://www.sympla.com.br/evento/garage-fuzz-no-bdz-bandas/2469320'
+  - poster: 442442914_951747043623388_1695877922759876538_n.jpg
+    city: São Paulo
+    date: '26/05/2024 15:00'
+    daysGroup: 23/24/25/26
+  - poster: 445488530_25514979268116759_3900857326441034376_n.jpeg
+    city: São José dos Campos
+    date: '26/05/2024 19:00'
+    daysGroup: 23/24/25/26
+  - poster: 445635431_988561172793563_1723873386654607323_n.jpeg
+    city: Diadema
+    date: '26/05/2024 17:00'
+    daysGroup: 23/24/25/26
+    ticketsUrl: 'https://articket.com.br/e/2051/dance-of-days-paura-grinders'
+  - poster: 446514514_1609704316489801_2041218881086511752_n.jpeg
+    city: São Paulo
+    date: '26/05/2024 15:30'
+    daysGroup: 23/24/25/26
 ---
 

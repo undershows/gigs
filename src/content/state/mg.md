@@ -17,11 +17,6 @@ gigs:
     date: '08/10/2024 18:00'
     daysGroup: 04/05/06/07/08
     ticketsUrl: 'https://www.bilheto.com.br/comprar/2265/lucifer-mg'
-  - poster: 432766433_1180675900041689_8714343605943988387_n.jpg
-    city: Uberlândia
-    date: '26/05/2024 17:00'
-    daysGroup: 24/25/26
-    ticketsUrl: 'https://www.sympla.com.br/evento/nightfall-heia-khormoundeggom/2391583'
   - poster: 435520828_240322389103482_7218125887247694332_n.jpeg
     city: Belo Horizonte
     date: '01/06/2024 21:00'
