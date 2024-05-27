@@ -109,6 +109,7 @@ gigs:
     city: São Paulo
     date: '02/11/2024 16:00'
     daysGroup: 01/02/03
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/weareone2024-saopaulo'
   - poster: 437220302_300141169643694_7355523027824685401_n.jpeg
     city: São José dos Campos
     date: '09/06/2024 17:00'
@@ -318,6 +319,10 @@ gigs:
   - poster: 7dc81374-982d-464d-810b-94a46320eaca.jpeg
     city: São José dos Campos
     date: '22/06/2024 16:00'
+    daysGroup: 21/22/23
+  - poster: 446477435_927606032456335_3314713777620922619_n.jpeg
+    city: São Paulo
+    date: '23/06/2024 15:00'
     daysGroup: 21/22/23
 ---
 
