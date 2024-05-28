@@ -171,7 +171,7 @@ gigs:
   - poster: 441555984_290166870815829_7059904588523868058_n.jpeg
     city: São Paulo
     date: '30/05/2024 15:00'
-    daysGroup: 30/31
+    daysGroup: 29/30/31
   - poster: 442137007_994312078851775_9140865591619313112_n.jpeg
     city: São Sebastião
     date: '15/06/2024 19:00'
@@ -302,7 +302,7 @@ gigs:
   - poster: 441710280_18099671062408876_2852609203284333627_n.jpg
     city: Ribeirão Pires
     date: '30/05/2024 16:00'
-    daysGroup: 30/31
+    daysGroup: 29/30/31
   - poster: 445720315_441251565180823_5753306269446409383_n.jpeg
     city: São Paulo
     date: '04/08/2024 14:00'
@@ -324,5 +324,30 @@ gigs:
     city: São Paulo
     date: '23/06/2024 15:00'
     daysGroup: 21/22/23
+  - poster: 446483619_415181458150069_1836675879976894676_n.jpeg
+    city: Santos
+    date: '01/06/2024 21:00'
+    daysGroup: 01/02
+  - poster: 441881853_18441453238000548_1367017910570092798_n.jpg
+    city: São Paulo
+    date: '22/06/2024 19:00'
+    daysGroup: 21/22/23
+    ticketsUrl: 'https://pixelticket.com.br/eventos/21205/zander-hateen-excluidos'
+  - poster: 441881972_17885618871048719_5395255534465157933_n.jpg
+    city: São Paulo
+    date: '29/05/2024 19:00'
+    daysGroup: 29/30/31
+  - poster: 446196032_462262402950412_1314001609918183432_n.jpeg
+    city: São José dos Campos
+    date: '28/06/2024 21:00'
+    daysGroup: 28/29/30
+  - poster: 446468460_770670704877811_7005544506978245247_n.jpeg
+    city: Marília
+    date: '22/09/2024 18:00'
+    daysGroup: 20/21/22
+  - poster: 441117946_989420779417300_8811737969350110387_n.jpg
+    city: São Paulo
+    date: '15/06/2024 19:00'
+    daysGroup: 13/14/15/16
 ---
 

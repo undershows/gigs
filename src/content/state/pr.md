@@ -53,5 +53,15 @@ gigs:
     date: '14/07/2024 16:00'
     daysGroup: 12/13/14
     ticketsUrl: 'https://showpass.com.br/comprar/1387/suicidal-tendencies'
+  - poster: 441876900_18435849616032461_215286836180158536_n.jpg
+    city: Curitiba
+    date: '01/06/2024 19:00'
+    daysGroup: 01/02
+    ticketsUrl: 'https://meaple.com.br/belvedere/bayside-kings'
+  - poster: 446335784_3689910458002527_5668914656845091720_n.jpg
+    city: Curitiba
+    date: '29/06/2024 21:00'
+    daysGroup: 28/29/30
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/menoresatos-curitiba'
 ---
 
