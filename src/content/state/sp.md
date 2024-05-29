@@ -416,5 +416,10 @@ gigs:
     city: São Paulo
     date: '02/06/2024 12:00'
     daysGroup: 01/02
+  - poster: 443716159_991162119136111_579685341191391161_n.jpg
+    city: São Paulo
+    date: '08/06/2024 19:00'
+    daysGroup: 06/07/08/09/10
+    ticketsUrl: 'https://www.sympla.com.br/evento/evento-terreno-estranho-bandas-wry-e-skydown/2475502'
 ---
 
