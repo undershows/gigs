@@ -31,5 +31,10 @@ gigs:
     date: '08/06/2024 17:00'
     daysGroup: 08/09/10
     ticketsUrl: 'https://www.sympla.com.br/evento/mosh-rock-fest/2473667'
+  - poster: 446118080_840846404730063_5880459279541188525_n.jpeg
+    city: Brasília
+    date: '08/06/2024 20:00'
+    daysGroup: 08/09/10
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/edufalaschi-brasilia'
 ---
 

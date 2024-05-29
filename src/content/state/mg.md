@@ -63,5 +63,13 @@ gigs:
     date: '17/07/2024 19:30'
     daysGroup: 18/19/20/21/22
     ticketsUrl: 'https://showpass.com.br/comprar/1389/suicidal-tendencies'
+  - poster: 446477220_1136685620975656_6274499609663691985_n.jpeg
+    city: Betim
+    date: '30/05/2024 20:00'
+    daysGroup: 30/31
+  - poster: 446485230_1864564113994403_3139997340408274214_n.jpeg
+    city: Belo Horizonte
+    date: '01/06/2024 15:00'
+    daysGroup: 01/02
 ---
 

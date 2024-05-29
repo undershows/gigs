@@ -49,5 +49,9 @@ gigs:
     date: '12/07/2024 18:00'
     daysGroup: 12/13/14
     ticketsUrl: 'https://showpass.com.br/comprar/1388/suicidal-tendencies'
+  - poster: 446483620_840900261392107_7267039377642298183_n.jpeg
+    city: Teresópolis
+    date: '16/06/2024 15:00'
+    daysGroup: 14/15/16
 ---
 

@@ -349,5 +349,72 @@ gigs:
     city: São Paulo
     date: '15/06/2024 19:00'
     daysGroup: 13/14/15/16
+  - poster: 446515599_1388303788554733_7329755273539832290_n.jpeg
+    city: São Paulo
+    date: '09/06/2024 17:00'
+    daysGroup: 06/07/08/09/10
+  - poster: 444485746_18336991114142715_3067054112375769484_n.jpg
+    city: São Paulo
+    date: '01/06/2024 20:00'
+    daysGroup: 01/02
+  - poster: 446501114_2141202042939092_1417775848871820635_n.jpeg
+    city: São Paulo
+    date: '19/07/2024 19:00'
+    daysGroup: 19/20/21
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/andralls-chaoslace-die-voidit'
+  - poster: 446485231_1494281977855273_1591334783293928732_n.jpeg
+    city: São Paulo
+    date: '30/06/2024 16:00'
+    daysGroup: 28/29/30
+  - poster: 446243209_2130048130706703_4850577832800133920_n.jpg
+    city: São Paulo
+    date: '01/06/2024 22:00'
+    daysGroup: 01/02
+  - poster: 446477428_876055107687964_2163020499752477530_n.jpeg
+    city: São Paulo
+    date: '15/06/2024 22:00'
+    daysGroup: 13/14/15/16
+  - poster: 446196022_750974833914845_1775194026717803467_n.jpeg
+    city: Americana
+    date: '05/07/2024 20:00'
+    daysGroup: 05/06/07
+    ticketsUrl: 'https://www.sympla.com.br/evento/hup-apresenta-garage-fuzz-gagged-e-brand-new-face/2486350'
+  - poster: 446128388_1019513789538353_3593697401582642740_n.jpeg
+    city: Campinas
+    date: '08/06/2024 22:00'
+    daysGroup: 06/07/08/09/10
+    ticketsUrl: 'https://www.sympla.com.br/evento/garotos-podres-fest-submundo-2-lote/2450014'
+  - poster: 446492867_777574211217452_4638755969945597107_n.jpeg
+    city: Santos
+    date: '31/05/2024 21:00'
+    daysGroup: 29/30/31
+  - poster: 441877596_17885689833048719_1376645153608859515_n.jpg
+    city: São Paulo
+    date: '08/06/2024 22:00'
+    daysGroup: 06/07/08/09/10
+  - poster: 446236294_1153921969194740_1525128938087763276_n.jpeg
+    city: Campinas
+    date: '06/07/2024 12:00'
+    daysGroup: 05/06/07
+  - poster: 446220052_848872433745595_5688123091744660949_n.jpeg
+    city: Itaquaquecetuba
+    date: '02/06/2024 14:00'
+    daysGroup: 01/02
+  - poster: 446501145_814718947277448_7086654423223239464_n.jpeg
+    city: Leme
+    date: '17/08/2024 14:00'
+    daysGroup: 16/17/18
+  - poster: 442447919_816118560581245_4703060034069015962_n.jpg
+    city: São Paulo
+    date: '01/06/2024 19:00'
+    daysGroup: 01/02
+  - poster: 447029065_8311548382208111_7964867357810887817_n.jpg
+    city: Santo André
+    date: '29/05/2024 20:00'
+    daysGroup: 29/30/31
+  - poster: 447010974_8311549578874658_7779173629191172929_n.jpg
+    city: São Paulo
+    date: '02/06/2024 12:00'
+    daysGroup: 01/02
 ---
 
