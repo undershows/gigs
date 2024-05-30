@@ -436,5 +436,51 @@ gigs:
     date: '12/07/2024 19:00'
     daysGroup: 12/13/14
     ticketsUrl: 'https://www.sympla.com.br/evento/hiatus-be-ao-vivo-no-74club/2458338'
+  - poster: 446944175_432678969516576_6657313224045009087_n.jpeg
+    city: São Paulo
+    date: '02/06/2024 18:00'
+    daysGroup: 01/02
+  - poster: 447067137_1091121305314754_952804088786393138_n.jpeg
+    city: São Paulo
+    date: '22/06/2024 19:00'
+    daysGroup: 21/22/23
+  - poster: 446350401_755261026775941_5117074098869142669_n.jpeg
+    city: São Paulo
+    date: '15/06/2024 17:00'
+    daysGroup: 13/14/15/16
+  - poster: 446788952_1017845876340411_6522131388900353823_n.jpeg
+    city: Piracicaba
+    date: '01/06/2024 18:00'
+    daysGroup: 01/02
+  - poster: 446347125_335081212736077_3796952661927701953_n.jpeg
+    city: Ferraz de Vasconcelos
+    date: '28/07/2024 14:00'
+    daysGroup: 26/27/28
+  - poster: 441887414_18029651627100666_1932935894379338275_n.jpg
+    city: Americana
+    date: '31/05/2024 19:00'
+    daysGroup: 29/30/31
+  - poster: 446118918_1205794130407473_8861313052591431307_n.jpeg
+    city: Araras
+    date: '09/06/2024 15:00'
+    daysGroup: 06/07/08/09/10
+  - poster: 446580871_478567264648581_7516732606353216824_n.jpeg
+    city: São Paulo
+    date: '22/06/2024 19:00'
+    daysGroup: 21/22/23
+    ticketsUrl: 'https://www.sympla.com.br/evento/flicts-acao-direta/2478720'
+  - poster: 447068395_820236722898007_3405684055028277812_n.jpeg
+    city: São Paulo
+    date: '21/06/2024 19:00'
+    daysGroup: 21/22/23
+  - poster: 446521935_1012802200265711_2603777966107633237_n.jpeg
+    city: Guarulhos
+    date: '28/07/2024 15:00'
+    daysGroup: 26/27/28
+  - poster: 441639120_18419060950064712_7463606075541089945_n.jpg
+    city: São Paulo
+    date: '14/06/2024 18:00'
+    daysGroup: 13/14/15/16
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/chuvanegra-casaaurea'
 ---
 
