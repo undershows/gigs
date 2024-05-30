@@ -53,5 +53,10 @@ gigs:
     city: Teresópolis
     date: '16/06/2024 15:00'
     daysGroup: 14/15/16
+  - poster: 445404804_18336408049139591_3599385635484417662_n.jpg
+    city: Rio de Janeiro
+    date: '06/07/2024 22:00'
+    daysGroup: 05/06/07
+    ticketsUrl: 'https://www.sympla.com.br/evento/e-eu-que-era-emo-rj-edicao-junina-menores-atos-10-anos-de-animalia/2488487'
 ---
 
