@@ -253,7 +253,7 @@ gigs:
   - poster: 443844137_308241835709538_4092223016429060800_n.jpeg
     city: São Paulo
     date: '21/07/2024 17:15'
-    daysGroup: 19/20/21
+    daysGroup: 18/19/20/21
     ticketsUrl: 'https://bilheto.com.br/comprar/2406/metal-relics-on-the-road'
   - poster: 444528371_941248801078430_5729388421674254042_n.jpeg
     city: São Paulo
@@ -263,12 +263,12 @@ gigs:
   - poster: 443239876_1576322903151683_2413380049904022986_n.jpeg
     city: Campinas
     date: '20/07/2024 18:00'
-    daysGroup: 19/20/21
+    daysGroup: 18/19/20/21
     ticketsUrl: 'https://www.sympla.com.br/evento/desalmado-cras-vantas-em-campinas/2350526'
   - poster: 443861069_1514410949486756_4905585314616957778_n.jpeg
     city: Piracicaba
     date: '20/07/2024 19:00'
-    daysGroup: 19/20/21
+    daysGroup: 18/19/20/21
   - poster: 441577084_18233067664256110_8538061083469361289_n.jpg
     city: São Paulo
     date: '22/06/2024 17:00'
@@ -315,7 +315,7 @@ gigs:
   - poster: 222c4490-188a-4f23-bca8-9dc3a2820883.jpeg
     city: Jacareí
     date: '20/07/2024 18:00'
-    daysGroup: 19/20/21
+    daysGroup: 18/19/20/21
   - poster: 7dc81374-982d-464d-810b-94a46320eaca.jpeg
     city: São José dos Campos
     date: '22/06/2024 16:00'
@@ -360,7 +360,7 @@ gigs:
   - poster: 446501114_2141202042939092_1417775848871820635_n.jpeg
     city: São Paulo
     date: '19/07/2024 19:00'
-    daysGroup: 19/20/21
+    daysGroup: 18/19/20/21
     ticketsUrl: 'https://www.clubedoingresso.com/evento/andralls-chaoslace-die-voidit'
   - poster: 446485231_1494281977855273_1591334783293928732_n.jpeg
     city: São Paulo
@@ -421,5 +421,20 @@ gigs:
     date: '08/06/2024 19:00'
     daysGroup: 06/07/08/09/10
     ticketsUrl: 'https://www.sympla.com.br/evento/evento-terreno-estranho-bandas-wry-e-skydown/2475502'
+  - poster: e0acd4f6-e9e9-4e8e-a909-34bad933316c.jpeg
+    city: São Paulo
+    date: '13/07/2024 19:00'
+    daysGroup: 12/13/14
+    ticketsUrl: 'https://www.sympla.com.br/evento/hiatus-invasores-de-cerebros-possuido-pelo-cao-dischavizer-distravatravaa/2489020'
+  - poster: b405c928-427c-4d41-b242-1bb12cc88359.jpeg
+    city: Campinas
+    date: '18/07/2024 18:00'
+    daysGroup: 18/19/20/21
+    ticketsUrl: 'https://www.sympla.com.br/evento/hiatus-be-ao-vivo-no-woodstock-music-bar-detesto-boca-podre/2459465'
+  - poster: 8bae537e-6ccf-4186-a99c-178cd082af95.jpeg
+    city: Santo André
+    date: '12/07/2024 19:00'
+    daysGroup: 12/13/14
+    ticketsUrl: 'https://www.sympla.com.br/evento/hiatus-be-ao-vivo-no-74club/2458338'
 ---
 

@@ -71,5 +71,10 @@ gigs:
     city: Belo Horizonte
     date: '01/06/2024 15:00'
     daysGroup: 01/02
+  - poster: f7432901-bf5d-43d2-82b2-cffbdf1043a3.jpeg
+    city: Belo Horizonte
+    date: '20/07/2024 16:00'
+    daysGroup: 19/20/21
+    ticketsUrl: 'https://www.sympla.com.br/evento/metalpunk-overkill-hiatus-social-chaos-zeugma-infamous-glory-sangue-de-bode-payback/2481459'
 ---
 
