@@ -3280,5 +3280,13 @@ gigs:
     city: São Paulo
     date: '26/05/2024 15:30'
     daysGroup: 23/24/25/26
+  - poster: 441881972_17885618871048719_5395255534465157933_n.jpg
+    city: São Paulo
+    date: '29/05/2024 19:00'
+    daysGroup: 29/30/31
+  - poster: 447029065_8311548382208111_7964867357810887817_n.jpg
+    city: Santo André
+    date: '29/05/2024 20:00'
+    daysGroup: 29/30/31
 ---
 

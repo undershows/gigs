@@ -333,10 +333,6 @@ gigs:
     date: '22/06/2024 19:00'
     daysGroup: 21/22/23
     ticketsUrl: 'https://pixelticket.com.br/eventos/21205/zander-hateen-excluidos'
-  - poster: 441881972_17885618871048719_5395255534465157933_n.jpg
-    city: São Paulo
-    date: '29/05/2024 19:00'
-    daysGroup: 29/30/31
   - poster: 446196032_462262402950412_1314001609918183432_n.jpeg
     city: São José dos Campos
     date: '28/06/2024 21:00'
@@ -378,12 +374,14 @@ gigs:
     city: Americana
     date: '05/07/2024 20:00'
     daysGroup: 05/06/07
-    ticketsUrl: 'https://www.sympla.com.br/evento/hup-apresenta-garage-fuzz-gagged-e-brand-new-face/2486350'
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/hup-apresenta-garage-fuzz-gagged-e-brand-new-face/2486350
   - poster: 446128388_1019513789538353_3593697401582642740_n.jpeg
     city: Campinas
     date: '08/06/2024 22:00'
     daysGroup: 06/07/08/09/10
-    ticketsUrl: 'https://www.sympla.com.br/evento/garotos-podres-fest-submundo-2-lote/2450014'
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/garotos-podres-fest-submundo-2-lote/2450014
   - poster: 446492867_777574211217452_4638755969945597107_n.jpeg
     city: Santos
     date: '31/05/2024 21:00'
@@ -408,10 +406,6 @@ gigs:
     city: São Paulo
     date: '01/06/2024 19:00'
     daysGroup: 01/02
-  - poster: 447029065_8311548382208111_7964867357810887817_n.jpg
-    city: Santo André
-    date: '29/05/2024 20:00'
-    daysGroup: 29/30/31
   - poster: 447010974_8311549578874658_7779173629191172929_n.jpg
     city: São Paulo
     date: '02/06/2024 12:00'
@@ -420,17 +414,20 @@ gigs:
     city: São Paulo
     date: '08/06/2024 19:00'
     daysGroup: 06/07/08/09/10
-    ticketsUrl: 'https://www.sympla.com.br/evento/evento-terreno-estranho-bandas-wry-e-skydown/2475502'
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/evento-terreno-estranho-bandas-wry-e-skydown/2475502
   - poster: e0acd4f6-e9e9-4e8e-a909-34bad933316c.jpeg
     city: São Paulo
     date: '13/07/2024 19:00'
     daysGroup: 12/13/14
-    ticketsUrl: 'https://www.sympla.com.br/evento/hiatus-invasores-de-cerebros-possuido-pelo-cao-dischavizer-distravatravaa/2489020'
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/hiatus-invasores-de-cerebros-possuido-pelo-cao-dischavizer-distravatravaa/2489020
   - poster: b405c928-427c-4d41-b242-1bb12cc88359.jpeg
     city: Campinas
     date: '18/07/2024 18:00'
     daysGroup: 18/19/20/21
-    ticketsUrl: 'https://www.sympla.com.br/evento/hiatus-be-ao-vivo-no-woodstock-music-bar-detesto-boca-podre/2459465'
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/hiatus-be-ao-vivo-no-woodstock-music-bar-detesto-boca-podre/2459465
   - poster: 8bae537e-6ccf-4186-a99c-178cd082af95.jpeg
     city: Santo André
     date: '12/07/2024 19:00'

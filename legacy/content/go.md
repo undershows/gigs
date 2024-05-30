@@ -92,5 +92,11 @@ gigs:
     city: Goiânia
     date: '12/05/2024 15:00'
     daysGroup: 10/11/12
+  - poster: a8a338ed17-Folder.jpg
+    city: Goiania
+    date: '29/05/2024 20:00'
+    daysGroup: 29/30/31
+    ticketsUrl: >-
+      https://www.usinadoingresso.com.br/#/evento/9796/29-05-2024-dead-fish-goiania
 ---
 
