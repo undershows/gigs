@@ -49,10 +49,6 @@ gigs:
     daysGroup: 14/15/16
     ticketsUrl: >-
       https://www.sympla.com.br/evento/bayside-kings-terceira-guerra-e-bandas-convidadas/2421024
-  - poster: 441874425_7483837368368386_8324236825682531366_n.jpg
-    city: Divinópolis
-    date: '30/05/2024 17:00'
-    daysGroup: 30/31
   - poster: 441533407_18429671200047511_4746993641444425812_n.jpg
     city: Belo Horizonte
     date: '21/06/2024 20:00'
@@ -75,6 +71,7 @@ gigs:
     city: Belo Horizonte
     date: '20/07/2024 16:00'
     daysGroup: 19/20/21
-    ticketsUrl: 'https://www.sympla.com.br/evento/metalpunk-overkill-hiatus-social-chaos-zeugma-infamous-glory-sangue-de-bode-payback/2481459'
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/metalpunk-overkill-hiatus-social-chaos-zeugma-infamous-glory-sangue-de-bode-payback/2481459
 ---
 

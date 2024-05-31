@@ -168,10 +168,6 @@ gigs:
     date: '23/06/2024 20:00'
     daysGroup: 21/22/23/24
     ticketsUrl: 'https://articket.com.br/e/2143/garage-fuzz-chuva-negra-no-1100'
-  - poster: 441555984_290166870815829_7059904588523868058_n.jpeg
-    city: São Paulo
-    date: '30/05/2024 15:00'
-    daysGroup: 29/30/31
   - poster: 442137007_994312078851775_9140865591619313112_n.jpeg
     city: São Sebastião
     date: '15/06/2024 19:00'
@@ -299,10 +295,6 @@ gigs:
     city: São Paulo
     date: '09/06/2024 16:00'
     daysGroup: 06/07/08/09/10
-  - poster: 441710280_18099671062408876_2852609203284333627_n.jpg
-    city: Ribeirão Pires
-    date: '30/05/2024 16:00'
-    daysGroup: 29/30/31
   - poster: 445720315_441251565180823_5753306269446409383_n.jpeg
     city: São Paulo
     date: '04/08/2024 14:00'
@@ -511,9 +503,5 @@ gigs:
     city: Praia Grande
     date: '01/06/2024 20:00'
     daysGroup: 01/02/03
-  - poster: 441542647_18227862619279041_3159262119271120539_n.jpg
-    city: São Paulo
-    date: '30/05/2024 22:00'
-    daysGroup: 29/30/31
 ---
 

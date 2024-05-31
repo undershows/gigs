@@ -165,5 +165,9 @@ gigs:
     date: '26/05/2024 17:00'
     daysGroup: 24/25/26
     ticketsUrl: 'https://www.sympla.com.br/evento/nightfall-heia-khormoundeggom/2391583'
+  - poster: 441874425_7483837368368386_8324236825682531366_n.jpg
+    city: Divinópolis
+    date: '30/05/2024 17:00'
+    daysGroup: 30/31
 ---
 

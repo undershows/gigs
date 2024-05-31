@@ -3288,5 +3288,17 @@ gigs:
     city: Santo André
     date: '29/05/2024 20:00'
     daysGroup: 29/30/31
+  - poster: 441555984_290166870815829_7059904588523868058_n.jpeg
+    city: São Paulo
+    date: '30/05/2024 15:00'
+    daysGroup: 29/30/31
+  - poster: 441710280_18099671062408876_2852609203284333627_n.jpg
+    city: Ribeirão Pires
+    date: '30/05/2024 16:00'
+    daysGroup: 29/30/31
+  - poster: 441542647_18227862619279041_3159262119271120539_n.jpg
+    city: São Paulo
+    date: '30/05/2024 22:00'
+    daysGroup: 29/30/31
 ---
 
