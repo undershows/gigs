@@ -503,5 +503,15 @@ gigs:
     city: Praia Grande
     date: '01/06/2024 20:00'
     daysGroup: 01/02/03
+  - poster: 441887769_18435830206033374_7945754807142491033_n.jpg
+    city: São Paulo
+    date: '06/06/2024 20:00'
+    daysGroup: 06/07/08/09/10
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/newmodelarmy-acusticoespecial-sp'
+  - poster: 441866837_18435830254033374_6976657816878663546_n.jpg
+    city: São Paulo
+    date: '08/06/2024 17:00'
+    daysGroup: 06/07/08/09/10
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/newmodelarmy-show-sp'
 ---
 
