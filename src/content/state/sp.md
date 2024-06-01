@@ -373,10 +373,6 @@ gigs:
     daysGroup: 06/07/08/09/10
     ticketsUrl: >-
       https://www.sympla.com.br/evento/garotos-podres-fest-submundo-2-lote/2450014
-  - poster: 446492867_777574211217452_4638755969945597107_n.jpeg
-    city: Santos
-    date: '31/05/2024 21:00'
-    daysGroup: 29/30/31
   - poster: 441877596_17885689833048719_1376645153608859515_n.jpg
     city: São Paulo
     date: '08/06/2024 22:00'
@@ -444,10 +440,6 @@ gigs:
     city: Ferraz de Vasconcelos
     date: '28/07/2024 14:00'
     daysGroup: 26/27/28
-  - poster: 441887414_18029651627100666_1932935894379338275_n.jpg
-    city: Americana
-    date: '31/05/2024 19:00'
-    daysGroup: 29/30/31
   - poster: 446118918_1205794130407473_8861313052591431307_n.jpeg
     city: Araras
     date: '09/06/2024 15:00'

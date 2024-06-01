@@ -169,5 +169,9 @@ gigs:
     city: Divinópolis
     date: '30/05/2024 17:00'
     daysGroup: 30/31
+  - poster: 446477220_1136685620975656_6274499609663691985_n.jpeg
+    city: Betim
+    date: '31/05/2024 20:00'
+    daysGroup: 30/31
 ---
 

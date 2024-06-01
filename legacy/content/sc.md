@@ -164,5 +164,10 @@ gigs:
     date: '26/05/2024 16:00'
     daysGroup: 23/24/25/26
     ticketsUrl: 'https://bilheto.com.br/comprar/2359/black-pantera-blumenau'
+  - poster: 441867953_18435599455032461_7426183473070381716_n.jpg
+    city: Blumenau
+    date: '31/05/2024 22:00'
+    daysGroup: 29/30/31
+    ticketsUrl: 'https://meaple.com.br/produja1/bayside-kings-em-sc'
 ---
 

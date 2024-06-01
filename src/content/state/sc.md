@@ -41,11 +41,6 @@ gigs:
     daysGroup: 14/15/16
     ticketsUrl: >-
       https://www.sympla.com.br/evento/budang-jovens-ateus-cabranegra-e-sangue-de-bode/2455925
-  - poster: 441867953_18435599455032461_7426183473070381716_n.jpg
-    city: Blumenau
-    date: '31/05/2024 22:00'
-    daysGroup: 29/30/31
-    ticketsUrl: 'https://meaple.com.br/produja1/bayside-kings-em-sc'
   - poster: 446206767_990907145928795_2809639399592623670_n.jpg
     city: Florianopólis
     date: '28/06/2024 21:00'

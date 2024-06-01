@@ -17,11 +17,6 @@ gigs:
     city: Foz do Iguaçu
     date: '18/06/2024 19:00'
     daysGroup: 18/19/20/21/22/23
-  - poster: ponta_grossa_profetas_caos_24.jpeg
-    city: Ponta Grossa
-    date: '31/05/2024 19:00'
-    daysGroup: 30/31
-    ticketsUrl: 'https://www.sympla.com.br/evento/nervochaos-orthostat-grotesco/2402137'
   - poster: 435746972_972092747467835_6931403172930494954_n.jpeg
     city: Curitiba
     date: '01/06/2024 19:00'

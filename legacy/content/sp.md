@@ -3300,5 +3300,13 @@ gigs:
     city: São Paulo
     date: '30/05/2024 22:00'
     daysGroup: 29/30/31
+  - poster: 446492867_777574211217452_4638755969945597107_n.jpeg
+    city: Santos
+    date: '31/05/2024 21:00'
+    daysGroup: 29/30/31
+  - poster: 441887414_18029651627100666_1932935894379338275_n.jpg
+    city: Americana
+    date: '31/05/2024 19:00'
+    daysGroup: 29/30/31
 ---
 

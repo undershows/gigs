@@ -306,5 +306,10 @@ gigs:
     city: Maringá
     date: '25/05/2024 20:00'
     daysGroup: 22/23/24/25/26
+  - poster: ponta_grossa_profetas_caos_24.jpeg
+    city: Ponta Grossa
+    date: '31/05/2024 19:00'
+    daysGroup: 30/31
+    ticketsUrl: 'https://www.sympla.com.br/evento/nervochaos-orthostat-grotesco/2402137'
 ---
 
