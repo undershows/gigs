@@ -58,8 +58,6 @@ gigs:
     city: São Paulo
     date: '02/06/2024 17:00'
     daysGroup: 01/02/03
-    ticketsUrl: >-
-      https://www.sympla.com.br/evento/show-cras-sp-nameless-god-sp-sodade-sp-vantas-cps/2392574
   - poster: 425671209_2391517074570600_902858711512559910_n.jpg
     city: São Paulo
     date: '18/08/2024 19:00'
@@ -138,6 +136,7 @@ gigs:
     city: São Paulo
     date: '02/06/2024 16:00'
     daysGroup: 01/02/03
+    ticketsUrl: 'https://www.sympla.com.br/evento/banda-de-berrinho-1-edicao/2447947'
   - poster: 441142792_1000353281788302_6139203320182688011_n.jpeg
     city: Piracicaba
     date: '08/06/2024 19:00'
