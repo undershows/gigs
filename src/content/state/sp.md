@@ -482,18 +482,22 @@ gigs:
     city: São Paulo
     date: '03/06/2024 19:00'
     daysGroup: 01/02/03
+    ticketsUrl: 'https://www.sympla.com.br/evento/test-curadoria-do-medo/2488842'
   - poster: 037ba027-2aec-4037-bc4c-5c9fab9bfd51-2.jpeg
     city: São Paulo
     date: '10/06/2024 19:00'
     daysGroup: 06/07/08/09/10
+    ticketsUrl: 'https://www.sympla.com.br/evento/test-curadoria-do-medo/2490119'
   - poster: 037ba027-2aec-4037-bc4c-5c9fab9bfd51-3.jpeg
     city: São Paulo
     date: '17/06/2024 19:00'
     daysGroup: 13/14/15/16/17
+    ticketsUrl: 'https://www.sympla.com.br/evento/test-curadoria-do-medo/2490123'
   - poster: 037ba027-2aec-4037-bc4c-5c9fab9bfd51-4.jpeg
     city: São Paulo
     date: '24/06/2024 19:00'
     daysGroup: 21/22/23/24
+    ticketsUrl: 'https://www.sympla.com.br/evento/test-curadoria-do-medo/2490124'
   - poster: 446934769_819418522990496_8154413411849041631_n.jpeg
     city: Várzea Paulista
     date: '16/06/2024 16:00'
