@@ -79,5 +79,9 @@ gigs:
     date: '18/05/2024 20:00'
     daysGroup: 17/18/19
     ticketsUrl: 'https://bilheto.com.br/comprar/2044/dead-fish-ce'
+  - poster: gigpunk_raizessubversivas_junho24.jpeg
+    city: Fortaleza
+    date: '01/06/2024 21:00'
+    daysGroup: 01/02
 ---
 

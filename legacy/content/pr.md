@@ -311,5 +311,18 @@ gigs:
     date: '31/05/2024 19:00'
     daysGroup: 30/31
     ticketsUrl: 'https://www.sympla.com.br/evento/nervochaos-orthostat-grotesco/2402137'
+  - poster: 435746972_972092747467835_6931403172930494954_n.jpeg
+    city: Curitiba
+    date: '01/06/2024 19:00'
+    daysGroup: 01/02
+  - poster: 438896898_7497673583633765_4814071160461561682_n.jpg
+    city: Curitiba
+    date: '01/06/2024 19:00'
+    daysGroup: 01/02
+  - poster: 441876900_18435849616032461_215286836180158536_n.jpg
+    city: Curitiba
+    date: '01/06/2024 19:00'
+    daysGroup: 01/02
+    ticketsUrl: 'https://meaple.com.br/belvedere/bayside-kings'
 ---
 

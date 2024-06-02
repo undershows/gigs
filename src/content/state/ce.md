@@ -12,9 +12,5 @@ gigs:
     date: '10/08/2024 19:00'
     daysGroup: 09/10/11
     ticketsUrl: 'https://bilheto.com.br/comprar/2381/motorcycles-metal-fest-v'
-  - poster: gigpunk_raizessubversivas_junho24.jpeg
-    city: Fortaleza
-    date: '01/06/2024 21:00'
-    daysGroup: 01/02
 ---
 

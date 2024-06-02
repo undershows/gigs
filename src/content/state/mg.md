@@ -17,12 +17,6 @@ gigs:
     date: '08/10/2024 18:00'
     daysGroup: 04/05/06/07/08
     ticketsUrl: 'https://www.bilheto.com.br/comprar/2265/lucifer-mg'
-  - poster: 435520828_240322389103482_7218125887247694332_n.jpeg
-    city: Belo Horizonte
-    date: '01/06/2024 21:00'
-    daysGroup: 01/02
-    ticketsUrl: >-
-      https://www.sympla.com.br/evento/dark-age-8-edicao-com-plastique-noir-mais-djs-stark-e-brainiak/2406002
   - poster: 435511028_344095994786401_4976039761927980713_n.jpeg
     city: Belo Horizonte
     date: '15/06/2024 13:00'
@@ -59,10 +53,6 @@ gigs:
     date: '17/07/2024 19:30'
     daysGroup: 18/19/20/21/22
     ticketsUrl: 'https://showpass.com.br/comprar/1389/suicidal-tendencies'
-  - poster: 446485230_1864564113994403_3139997340408274214_n.jpeg
-    city: Belo Horizonte
-    date: '01/06/2024 15:00'
-    daysGroup: 01/02
   - poster: f7432901-bf5d-43d2-82b2-cffbdf1043a3.jpeg
     city: Belo Horizonte
     date: '20/07/2024 16:00'

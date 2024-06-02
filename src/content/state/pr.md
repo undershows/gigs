@@ -17,14 +17,6 @@ gigs:
     city: Foz do Iguaçu
     date: '18/06/2024 19:00'
     daysGroup: 18/19/20/21/22/23
-  - poster: 435746972_972092747467835_6931403172930494954_n.jpeg
-    city: Curitiba
-    date: '01/06/2024 19:00'
-    daysGroup: 01/02
-  - poster: 438896898_7497673583633765_4814071160461561682_n.jpg
-    city: Curitiba
-    date: '01/06/2024 19:00'
-    daysGroup: 01/02
   - poster: 436236357_1918071078622944_7975291840926414566_n.jpg
     city: Curitiba
     date: '08/06/2024 19:00'
@@ -48,11 +40,6 @@ gigs:
     date: '14/07/2024 16:00'
     daysGroup: 12/13/14
     ticketsUrl: 'https://showpass.com.br/comprar/1387/suicidal-tendencies'
-  - poster: 441876900_18435849616032461_215286836180158536_n.jpg
-    city: Curitiba
-    date: '01/06/2024 19:00'
-    daysGroup: 01/02
-    ticketsUrl: 'https://meaple.com.br/belvedere/bayside-kings'
   - poster: 446335784_3689910458002527_5668914656845091720_n.jpg
     city: Curitiba
     date: '29/06/2024 21:00'

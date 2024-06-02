@@ -173,5 +173,15 @@ gigs:
     city: Betim
     date: '31/05/2024 20:00'
     daysGroup: 30/31
+  - poster: 435520828_240322389103482_7218125887247694332_n.jpeg
+    city: Belo Horizonte
+    date: '01/06/2024 21:00'
+    daysGroup: 01/02
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/dark-age-8-edicao-com-plastique-noir-mais-djs-stark-e-brainiak/2406002
+  - poster: 446485230_1864564113994403_3139997340408274214_n.jpeg
+    city: Belo Horizonte
+    date: '01/06/2024 15:00'
+    daysGroup: 01/02
 ---
 

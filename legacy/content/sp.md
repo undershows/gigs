@@ -3308,5 +3308,50 @@ gigs:
     city: Americana
     date: '31/05/2024 19:00'
     daysGroup: 29/30/31
+  - poster: 434162759_1378769622792484_3285042354675201126_n.jpg
+    city: São Paulo
+    date: '01/06/2024 16:00'
+    daysGroup: 01/02/03
+  - poster: festival_de_aco_24.jpeg
+    city: Ubatuba
+    date: '01/06/2024 23:00'
+    daysGroup: 01/02/03
+    ticketsUrl: 'https://www.sympla.com.br/evento/inverno-de-aco-edicao-pre-fest/2429260'
+  - poster: 440851886_1168521934094574_4830113093716684269_n.jpeg
+    city: Ribeirão Pires
+    date: '01/06/2024 16:00'
+    daysGroup: 01/02/03
+  - poster: 442412836_1494830838104492_3440376552001385388_n.jpeg
+    city: São Paulo
+    date: '01/06/2024 13:59'
+    daysGroup: 01/02/03
+  - poster: 446483619_415181458150069_1836675879976894676_n.jpeg
+    city: Santos
+    date: '01/06/2024 21:00'
+    daysGroup: 01/02/03
+  - poster: 444485746_18336991114142715_3067054112375769484_n.jpg
+    city: São Paulo
+    date: '01/06/2024 20:00'
+    daysGroup: 01/02/03
+  - poster: 446243209_2130048130706703_4850577832800133920_n.jpg
+    city: São Paulo
+    date: '01/06/2024 22:00'
+    daysGroup: 01/02/03
+  - poster: 442447919_816118560581245_4703060034069015962_n.jpg
+    city: São Paulo
+    date: '01/06/2024 19:00'
+    daysGroup: 01/02/03
+  - poster: 446788952_1017845876340411_6522131388900353823_n.jpeg
+    city: Piracicaba
+    date: '01/06/2024 18:00'
+    daysGroup: 01/02/03
+  - poster: 1ad0e992-3e31-4261-a454-139e9f9f7144.jpeg
+    city: São Paulo
+    date: '01/06/2024 20:00'
+    daysGroup: 01/02/03
+  - poster: 441867865_18318368905177795_6814056118897228620_n.jpg
+    city: Praia Grande
+    date: '01/06/2024 20:00'
+    daysGroup: 01/02/03
 ---
 

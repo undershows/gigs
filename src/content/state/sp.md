@@ -45,10 +45,6 @@ gigs:
     city: Batatais
     date: '15/06/2024 18:00'
     daysGroup: 13/14/15/16/17
-  - poster: 434162759_1378769622792484_3285042354675201126_n.jpg
-    city: São Paulo
-    date: '01/06/2024 16:00'
-    daysGroup: 01/02/03
   - poster: 434209815_3693726360945612_4649749239957905202_n.jpeg
     city: São Paulo
     date: '06/10/2024 14:00'
@@ -123,11 +119,6 @@ gigs:
     date: '27/09/2024 18:00'
     daysGroup: 27/28/29
     ticketsUrl: 'https://www.clubedoingresso.com/evento/gorillabiscuits-saopaulo'
-  - poster: festival_de_aco_24.jpeg
-    city: Ubatuba
-    date: '01/06/2024 23:00'
-    daysGroup: 01/02/03
-    ticketsUrl: 'https://www.sympla.com.br/evento/inverno-de-aco-edicao-pre-fest/2429260'
   - poster: 440850449_459070923208047_4645648664059275579_n.jpeg
     city: Marília
     date: '07/06/2024 22:00'
@@ -141,10 +132,6 @@ gigs:
     city: Piracicaba
     date: '08/06/2024 19:00'
     daysGroup: 06/07/08/09/10
-  - poster: 440851886_1168521934094574_4830113093716684269_n.jpeg
-    city: Ribeirão Pires
-    date: '01/06/2024 16:00'
-    daysGroup: 01/02/03
   - poster: 80f9d5ad-a11a-4119-ba49-4b675b066417.jpeg
     city: São Paulo
     date: '07/06/2024 20:00'
@@ -241,10 +228,6 @@ gigs:
     daysGroup: 13/14/15/16/17
     ticketsUrl: >-
       https://www.clubedoingresso.com/evento/enthroned-nervochaos-introtyl-thedamnnation
-  - poster: 442412836_1494830838104492_3440376552001385388_n.jpeg
-    city: São Paulo
-    date: '01/06/2024 13:59'
-    daysGroup: 01/02/03
   - poster: 443844137_308241835709538_4092223016429060800_n.jpeg
     city: São Paulo
     date: '21/07/2024 17:15'
@@ -315,10 +298,6 @@ gigs:
     city: São Paulo
     date: '23/06/2024 15:00'
     daysGroup: 21/22/23/24
-  - poster: 446483619_415181458150069_1836675879976894676_n.jpeg
-    city: Santos
-    date: '01/06/2024 21:00'
-    daysGroup: 01/02/03
   - poster: 441881853_18441453238000548_1367017910570092798_n.jpg
     city: São Paulo
     date: '22/06/2024 19:00'
@@ -340,10 +319,6 @@ gigs:
     city: São Paulo
     date: '09/06/2024 17:00'
     daysGroup: 06/07/08/09/10
-  - poster: 444485746_18336991114142715_3067054112375769484_n.jpg
-    city: São Paulo
-    date: '01/06/2024 20:00'
-    daysGroup: 01/02/03
   - poster: 446501114_2141202042939092_1417775848871820635_n.jpeg
     city: São Paulo
     date: '19/07/2024 19:00'
@@ -353,10 +328,6 @@ gigs:
     city: São Paulo
     date: '30/06/2024 16:00'
     daysGroup: 28/29/30
-  - poster: 446243209_2130048130706703_4850577832800133920_n.jpg
-    city: São Paulo
-    date: '01/06/2024 22:00'
-    daysGroup: 01/02/03
   - poster: 446477428_876055107687964_2163020499752477530_n.jpeg
     city: São Paulo
     date: '15/06/2024 22:00'
@@ -389,10 +360,6 @@ gigs:
     city: Leme
     date: '17/08/2024 14:00'
     daysGroup: 16/17/18
-  - poster: 442447919_816118560581245_4703060034069015962_n.jpg
-    city: São Paulo
-    date: '01/06/2024 19:00'
-    daysGroup: 01/02/03
   - poster: 447010974_8311549578874658_7779173629191172929_n.jpg
     city: São Paulo
     date: '02/06/2024 12:00'
@@ -432,10 +399,6 @@ gigs:
     city: São Paulo
     date: '15/06/2024 17:00'
     daysGroup: 13/14/15/16/17
-  - poster: 446788952_1017845876340411_6522131388900353823_n.jpeg
-    city: Piracicaba
-    date: '01/06/2024 18:00'
-    daysGroup: 01/02/03
   - poster: 446347125_335081212736077_3796952661927701953_n.jpeg
     city: Ferraz de Vasconcelos
     date: '28/07/2024 14:00'
@@ -462,10 +425,6 @@ gigs:
     date: '14/06/2024 18:00'
     daysGroup: 13/14/15/16/17
     ticketsUrl: 'https://www.clubedoingresso.com/evento/chuvanegra-casaaurea'
-  - poster: 1ad0e992-3e31-4261-a454-139e9f9f7144.jpeg
-    city: São Paulo
-    date: '01/06/2024 20:00'
-    daysGroup: 01/02/03
   - poster: bd8c8eaf-68a2-4c65-b800-4b481deb5911.jpeg
     city: São Paulo
     date: '02/06/2024 15:00'
@@ -494,10 +453,6 @@ gigs:
     city: Várzea Paulista
     date: '16/06/2024 16:00'
     daysGroup: 13/14/15/16/17
-  - poster: 441867865_18318368905177795_6814056118897228620_n.jpg
-    city: Praia Grande
-    date: '01/06/2024 20:00'
-    daysGroup: 01/02/03
   - poster: 441887769_18435830206033374_7945754807142491033_n.jpg
     city: São Paulo
     date: '06/06/2024 20:00'
