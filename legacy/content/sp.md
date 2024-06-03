@@ -3353,5 +3353,34 @@ gigs:
     city: Praia Grande
     date: '01/06/2024 20:00'
     daysGroup: 01/02/03
+  - poster: 434168056_943240643661144_5416283988617408824_n.jpeg
+    city: São Paulo
+    date: '02/06/2024 17:00'
+    daysGroup: 01/02/03
+  - poster: 440869582_1256427679078067_6796898609263164949_n.jpg
+    city: São Paulo
+    date: '02/06/2024 16:00'
+    daysGroup: 01/02/03
+    ticketsUrl: 'https://www.sympla.com.br/evento/banda-de-berrinho-1-edicao/2447947'
+  - poster: 441276523_2728228674001782_6512665850214711989_n.jpg
+    city: São José dos Campos
+    date: '02/06/2024 16:00'
+    daysGroup: 01/02/03
+  - poster: 446220052_848872433745595_5688123091744660949_n.jpeg
+    city: Itaquaquecetuba
+    date: '02/06/2024 14:00'
+    daysGroup: 01/02/03
+  - poster: 447010974_8311549578874658_7779173629191172929_n.jpg
+    city: São Paulo
+    date: '02/06/2024 12:00'
+    daysGroup: 01/02/03
+  - poster: 446944175_432678969516576_6657313224045009087_n.jpeg
+    city: São Paulo
+    date: '02/06/2024 18:00'
+    daysGroup: 01/02/03
+  - poster: bd8c8eaf-68a2-4c65-b800-4b481deb5911.jpeg
+    city: São Paulo
+    date: '02/06/2024 15:00'
+    daysGroup: 01/02/03
 ---
 

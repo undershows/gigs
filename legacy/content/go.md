@@ -98,5 +98,11 @@ gigs:
     daysGroup: 29/30/31
     ticketsUrl: >-
       https://www.usinadoingresso.com.br/#/evento/9796/29-05-2024-dead-fish-goiania
+  - poster: 7c0fe0c43a-Folder.jpg
+    city: Anápolis
+    date: '02/06/2024 16:00'
+    daysGroup: 01/02
+    ticketsUrl: >-
+      https://www.usinadoingresso.com.br/#/evento/4886/02-06-2024-dead-fish-anapolis
 ---
 

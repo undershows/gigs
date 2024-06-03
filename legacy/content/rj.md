@@ -205,5 +205,9 @@ gigs:
     daysGroup: 24/25/26
     ticketsUrl: >-
       https://www.sympla.com.br/evento/25-05-black-magic-fest-vazio-sp-sangue-de-bode-doer-profana-resto-mityma/2399695
+  - poster: 434831567_18039095095747581_8180138755589724152_n.jpg
+    city: Campos dos Goytacazes
+    date: '02/06/2024 18:00'
+    daysGroup: 01/02
 ---
 

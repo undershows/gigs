@@ -26,10 +26,6 @@ gigs:
     daysGroup: 07/08/09
     ticketsUrl: >-
       https://www.sympla.com.br/evento/07-06-turbulencia-cerebral-fest-facada-presto-baga-uzomi-teoria-do-caos/2402164
-  - poster: 434831567_18039095095747581_8180138755589724152_n.jpg
-    city: Campos dos Goytacazes
-    date: '02/06/2024 18:00'
-    daysGroup: 01/02
   - poster: 437585101_982226573302565_2687781348344977087_n.jpeg
     city: Campos dos Goytacazes
     date: '13/07/2024 18:00'
@@ -57,11 +53,13 @@ gigs:
     city: Rio de Janeiro
     date: '06/07/2024 22:00'
     daysGroup: 05/06/07
-    ticketsUrl: 'https://www.sympla.com.br/evento/e-eu-que-era-emo-rj-edicao-junina-menores-atos-10-anos-de-animalia/2488487'
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/e-eu-que-era-emo-rj-edicao-junina-menores-atos-10-anos-de-animalia/2488487
   - poster: 441876270_18435830257033374_1976362861021740839_n.jpg
     city: Rio de Janeiro
     date: '09/06/2024 18:00'
     daysGroup: 07/08/09
-    ticketsUrl: 'https://www.eventim.com.br/event/new-model-army-no-circo-voador-circo-voador-18227342/'
+    ticketsUrl: >-
+      https://www.eventim.com.br/event/new-model-army-no-circo-voador-circo-voador-18227342/
 ---
 

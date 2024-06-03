@@ -50,10 +50,6 @@ gigs:
     date: '06/10/2024 14:00'
     daysGroup: 04/05/06
     ticketsUrl: 'https://www.bilheto.com.br/comprar/2266/lucifer-sp'
-  - poster: 434168056_943240643661144_5416283988617408824_n.jpeg
-    city: São Paulo
-    date: '02/06/2024 17:00'
-    daysGroup: 01/02/03
   - poster: 425671209_2391517074570600_902858711512559910_n.jpg
     city: São Paulo
     date: '18/08/2024 19:00'
@@ -123,11 +119,6 @@ gigs:
     city: Marília
     date: '07/06/2024 22:00'
     daysGroup: 06/07/08/09/10
-  - poster: 440869582_1256427679078067_6796898609263164949_n.jpg
-    city: São Paulo
-    date: '02/06/2024 16:00'
-    daysGroup: 01/02/03
-    ticketsUrl: 'https://www.sympla.com.br/evento/banda-de-berrinho-1-edicao/2447947'
   - poster: 441142792_1000353281788302_6139203320182688011_n.jpeg
     city: Piracicaba
     date: '08/06/2024 19:00'
@@ -141,10 +132,6 @@ gigs:
     city: Ribeirão Pires
     date: '08/06/2024 18:00'
     daysGroup: 06/07/08/09/10
-  - poster: 441276523_2728228674001782_6512665850214711989_n.jpg
-    city: São José dos Campos
-    date: '02/06/2024 16:00'
-    daysGroup: 01/02/03
   - poster: 438303691_7520148018070470_8192219138537072871_n.jpg
     city: Santo André
     date: '22/06/2024 20:00'
@@ -352,18 +339,10 @@ gigs:
     city: Campinas
     date: '06/07/2024 12:00'
     daysGroup: 05/06/07
-  - poster: 446220052_848872433745595_5688123091744660949_n.jpeg
-    city: Itaquaquecetuba
-    date: '02/06/2024 14:00'
-    daysGroup: 01/02/03
   - poster: 446501145_814718947277448_7086654423223239464_n.jpeg
     city: Leme
     date: '17/08/2024 14:00'
     daysGroup: 16/17/18
-  - poster: 447010974_8311549578874658_7779173629191172929_n.jpg
-    city: São Paulo
-    date: '02/06/2024 12:00'
-    daysGroup: 01/02/03
   - poster: 443716159_991162119136111_579685341191391161_n.jpg
     city: São Paulo
     date: '08/06/2024 19:00'
@@ -387,10 +366,6 @@ gigs:
     date: '12/07/2024 19:00'
     daysGroup: 12/13/14
     ticketsUrl: 'https://www.sympla.com.br/evento/hiatus-be-ao-vivo-no-74club/2458338'
-  - poster: 446944175_432678969516576_6657313224045009087_n.jpeg
-    city: São Paulo
-    date: '02/06/2024 18:00'
-    daysGroup: 01/02/03
   - poster: 447067137_1091121305314754_952804088786393138_n.jpeg
     city: São Paulo
     date: '22/06/2024 19:00'
@@ -425,10 +400,6 @@ gigs:
     date: '14/06/2024 18:00'
     daysGroup: 13/14/15/16/17
     ticketsUrl: 'https://www.clubedoingresso.com/evento/chuvanegra-casaaurea'
-  - poster: bd8c8eaf-68a2-4c65-b800-4b481deb5911.jpeg
-    city: São Paulo
-    date: '02/06/2024 15:00'
-    daysGroup: 01/02/03
   - poster: 037ba027-2aec-4037-bc4c-5c9fab9bfd51-1.jpeg
     city: São Paulo
     date: '03/06/2024 19:00'
