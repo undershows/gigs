@@ -152,7 +152,7 @@ gigs:
   - poster: 441127154_792081799541511_5000173471982161746_n.jpeg
     city: São Paulo
     date: '30/06/2024 17:00'
-    daysGroup: 28/29/30
+    daysGroup: 27/28/29/30
   - poster: 441491398_3691025934500176_1324694098910982033_n.jpeg
     city: Suzano
     date: '08/06/2024 19:00'
@@ -293,7 +293,7 @@ gigs:
   - poster: 446196032_462262402950412_1314001609918183432_n.jpeg
     city: São José dos Campos
     date: '28/06/2024 21:00'
-    daysGroup: 28/29/30
+    daysGroup: 27/28/29/30
   - poster: 446468460_770670704877811_7005544506978245247_n.jpeg
     city: Marília
     date: '22/09/2024 18:00'
@@ -314,7 +314,7 @@ gigs:
   - poster: 446485231_1494281977855273_1591334783293928732_n.jpeg
     city: São Paulo
     date: '30/06/2024 16:00'
-    daysGroup: 28/29/30
+    daysGroup: 27/28/29/30
   - poster: 446477428_876055107687964_2163020499752477530_n.jpeg
     city: São Paulo
     date: '15/06/2024 22:00'
@@ -434,5 +434,10 @@ gigs:
     date: '08/06/2024 17:00'
     daysGroup: 06/07/08/09/10
     ticketsUrl: 'https://www.clubedoingresso.com/evento/newmodelarmy-show-sp'
+  - poster: nervochaos_sp_270624.jpeg
+    city: São Paulo
+    date: '27/06/2024 21:00'
+    daysGroup: 27/28/29/30
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/nervochaos-themetalbar'
 ---
 
