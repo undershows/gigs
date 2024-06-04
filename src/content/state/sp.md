@@ -400,11 +400,6 @@ gigs:
     date: '14/06/2024 18:00'
     daysGroup: 13/14/15/16/17
     ticketsUrl: 'https://www.clubedoingresso.com/evento/chuvanegra-casaaurea'
-  - poster: 037ba027-2aec-4037-bc4c-5c9fab9bfd51-1.jpeg
-    city: São Paulo
-    date: '03/06/2024 19:00'
-    daysGroup: 01/02/03
-    ticketsUrl: 'https://www.sympla.com.br/evento/test-curadoria-do-medo/2488842'
   - poster: 037ba027-2aec-4037-bc4c-5c9fab9bfd51-2.jpeg
     city: São Paulo
     date: '10/06/2024 19:00'
