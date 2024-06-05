@@ -59,5 +59,10 @@ gigs:
     daysGroup: 19/20/21
     ticketsUrl: >-
       https://www.sympla.com.br/evento/metalpunk-overkill-hiatus-social-chaos-zeugma-infamous-glory-sangue-de-bode-payback/2481459
+  - poster: 447811755_446522374689278_4217227997775555951_n.jpeg
+    city: Belo Horizonte
+    date: '07/09/2024 14:00'
+    daysGroup: 19/20/21
+    ticketsUrl: 'https://www.sympla.com.br/evento/brutal-devastation-2024/2491685'
 ---
 

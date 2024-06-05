@@ -50,5 +50,14 @@ gigs:
     date: '07/06/2024 20:00'
     daysGroup: 07/08/09
     ticketsUrl: 'https://www.clubedoingresso.com/evento/newmodelarmy-show-curitiba'
+  - poster: 445202716_18439256863021049_6834363384289214338_n.jpg
+    city: Maringá
+    date: '08/06/2024 20:00'
+    daysGroup: 07/08/09
+  - poster: 447705759_18439910632025079_2323678721400223584_n.jpg
+    city: Curitiba
+    date: '24/11/2024 12:00'
+    daysGroup: 22/23/24
+    ticketsUrl: 'https://pixelticket.com.br/eventos/21273/festival-musica-e-atitude-em-curitiba'
 ---
 

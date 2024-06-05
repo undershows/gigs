@@ -33,7 +33,7 @@ gigs:
   - poster: 432754637_1149028929348083_6900827881406581498_n.jpg
     city: São Paulo
     date: '22/06/2024 20:00'
-    daysGroup: 21/22/23/24
+    daysGroup: 19/20/21/22/23/24
     ticketsUrl: >-
       https://www.sympla.com.br/evento/a-porta-maldita-lotico-intrinsic-nameless-gods/2388432
   - poster: 432940679_18247484830217161_8515167532375950925_n.jpg
@@ -62,7 +62,7 @@ gigs:
   - poster: 433238810_18424105069058543_3806178385128827588_n.jpg
     city: São Paulo
     date: '22/06/2024 18:00'
-    daysGroup: 21/22/23/24
+    daysGroup: 19/20/21/22/23/24
     ticketsUrl: 'https://www.ingresse.com/the-obsessed/'
   - poster: 431532032_1182311719878107_5885739277133671317_n.jpg
     city: Diadema
@@ -135,11 +135,11 @@ gigs:
   - poster: 438303691_7520148018070470_8192219138537072871_n.jpg
     city: Santo André
     date: '22/06/2024 20:00'
-    daysGroup: 21/22/23/24
+    daysGroup: 19/20/21/22/23/24
   - poster: 442445208_2764552633708795_5049092636386486648_n.jpeg
     city: Diadema
     date: '23/06/2024 20:00'
-    daysGroup: 21/22/23/24
+    daysGroup: 19/20/21/22/23/24
     ticketsUrl: 'https://articket.com.br/e/2143/garage-fuzz-chuva-negra-no-1100'
   - poster: 442137007_994312078851775_9140865591619313112_n.jpeg
     city: São Sebastião
@@ -177,7 +177,7 @@ gigs:
   - poster: 440474250_2137530899935018_9186845276870816485_n.jpeg
     city: Americana
     date: '22/06/2024 20:00'
-    daysGroup: 21/22/23/24
+    daysGroup: 19/20/21/22/23/24
     ticketsUrl: >-
       https://www.sympla.com.br/evento/hup-apresenta-chuva-negra-caffeine-blues-allpacas-e-venlift/2443123
   - poster: c72631f1-6329-4f4f-b9d8-22cf05b43162.jpeg
@@ -199,7 +199,7 @@ gigs:
   - poster: 436254466_1373979990058596_3466062004140228624_n.jpeg
     city: Santos
     date: '22/06/2024 21:00'
-    daysGroup: 21/22/23/24
+    daysGroup: 19/20/21/22/23/24
   - poster: 14-06 santos_resized.jpg
     city: Santos
     date: '14/06/2024 21:00'
@@ -237,7 +237,7 @@ gigs:
   - poster: 441577084_18233067664256110_8538061083469361289_n.jpg
     city: São Paulo
     date: '22/06/2024 17:00'
-    daysGroup: 21/22/23/24
+    daysGroup: 19/20/21/22/23/24
     ticketsUrl: 'https://jaiclub.hoppin.com.br/exterminiogig'
   - poster: 436294905_7754246784655472_5535509289413915176_n.png
     city: Agudos
@@ -259,7 +259,7 @@ gigs:
   - poster: 445169807_1006935201098176_7195495008056937146_n.jpeg
     city: São Paulo
     date: '23/06/2024 20:00'
-    daysGroup: 21/22/23/24
+    daysGroup: 19/20/21/22/23/24
   - poster: 443717468_1566271617268692_3107278503458235140_n.jpg
     city: São Paulo
     date: '09/06/2024 16:00'
@@ -280,15 +280,15 @@ gigs:
   - poster: 7dc81374-982d-464d-810b-94a46320eaca.jpeg
     city: São José dos Campos
     date: '22/06/2024 16:00'
-    daysGroup: 21/22/23/24
+    daysGroup: 19/20/21/22/23/24
   - poster: 446477435_927606032456335_3314713777620922619_n.jpeg
     city: São Paulo
     date: '23/06/2024 15:00'
-    daysGroup: 21/22/23/24
+    daysGroup: 19/20/21/22/23/24
   - poster: 441881853_18441453238000548_1367017910570092798_n.jpg
     city: São Paulo
     date: '22/06/2024 19:00'
-    daysGroup: 21/22/23/24
+    daysGroup: 19/20/21/22/23/24
     ticketsUrl: 'https://pixelticket.com.br/eventos/21205/zander-hateen-excluidos'
   - poster: 446196032_462262402950412_1314001609918183432_n.jpeg
     city: São José dos Campos
@@ -369,7 +369,7 @@ gigs:
   - poster: 447067137_1091121305314754_952804088786393138_n.jpeg
     city: São Paulo
     date: '22/06/2024 19:00'
-    daysGroup: 21/22/23/24
+    daysGroup: 19/20/21/22/23/24
   - poster: 446350401_755261026775941_5117074098869142669_n.jpeg
     city: São Paulo
     date: '15/06/2024 17:00'
@@ -385,12 +385,12 @@ gigs:
   - poster: 446580871_478567264648581_7516732606353216824_n.jpeg
     city: São Paulo
     date: '22/06/2024 19:00'
-    daysGroup: 21/22/23/24
+    daysGroup: 19/20/21/22/23/24
     ticketsUrl: 'https://www.sympla.com.br/evento/flicts-acao-direta/2478720'
   - poster: 447068395_820236722898007_3405684055028277812_n.jpeg
     city: São Paulo
     date: '21/06/2024 19:00'
-    daysGroup: 21/22/23/24
+    daysGroup: 19/20/21/22/23/24
   - poster: 446521935_1012802200265711_2603777966107633237_n.jpeg
     city: Guarulhos
     date: '28/07/2024 15:00'
@@ -413,7 +413,7 @@ gigs:
   - poster: 037ba027-2aec-4037-bc4c-5c9fab9bfd51-4.jpeg
     city: São Paulo
     date: '24/06/2024 19:00'
-    daysGroup: 21/22/23/24
+    daysGroup: 19/20/21/22/23/24
     ticketsUrl: 'https://www.sympla.com.br/evento/test-curadoria-do-medo/2490124'
   - poster: 446934769_819418522990496_8154413411849041631_n.jpeg
     city: Várzea Paulista
@@ -434,5 +434,77 @@ gigs:
     date: '27/06/2024 21:00'
     daysGroup: 27/28/29/30
     ticketsUrl: 'https://www.clubedoingresso.com/evento/nervochaos-themetalbar'
+  - poster: 447269022_18329686360193458_946902599648820156_n.jpg
+    city: São Paulo
+    date: '23/06/2024 14:00'
+    daysGroup: 19/20/21/22/23/24
+  - poster: 447781220_362213233140627_3793805026720577620_n.jpeg
+    city: São Paulo
+    date: '16/06/2024 12:00'
+    daysGroup: 13/14/15/16/17
+  - poster: 444976297_2750499115108071_4298562109583175765_n.jpg
+    city: Mauá
+    date: '15/06/2024 12:00'
+    daysGroup: 13/14/15/16/17
+  - poster: 444946663_18419801041071768_4429571988375480427_n.jpg
+    city: São Paulo
+    date: '16/06/2024 15:00'
+    daysGroup: 13/14/15/16/17
+  - poster: 441875719_18077826988490397_706554210340265725_n.jpg
+    city: São Paulo
+    date: '15/06/2024 18:00'
+    daysGroup: 13/14/15/16/17
+  - poster: 444759096_2750020971822552_3952267255271470844_n.jpg
+    city: Santo André
+    date: '08/06/2024 19:00'
+    daysGroup: 06/07/08/09/10
+  - poster: 441876998_18436328866033374_7572348452534085444_n.jpg
+    city: São Paulo
+    date: '19/10/2024 16:00'
+    daysGroup: 18/19/20
+  - poster: 447770430_981585619862588_704791221239071241_n.jpeg
+    city: Mogi Guaçu
+    date: '20/06/2024 20:00'
+    daysGroup: 19/20/21/22/23/24
+  - poster: 447648388_309700802193547_262838486000243316_n.jpeg
+    city: Jundiaí
+    date: '19/06/2024 19:00'
+    daysGroup: 19/20/21/22/23/24
+  - poster: 443240525_3791889017803407_1561486575764875992_n.jpeg
+    city: São José dos Campos
+    date: '23/06/2024 17:00'
+    daysGroup: 19/20/21/22/23/24
+  - poster: 444944765_18437343556032461_4105974104307778521_n.jpg
+    city: São Paulo
+    date: '08/06/2024 18:00'
+    daysGroup: 06/07/08/09/10
+  - poster: 447912251_962978068861305_6895429639845586915_n.jpeg
+    city: São Paulo
+    date: '13/10/2024 13:00'
+    daysGroup: 11/12/13
+  - poster: 447603750_434352819383039_5757548734642006144_n.jpeg
+    city: Ribeirão Pires
+    date: '09/06/2024 12:00'
+    daysGroup: 06/07/08/09/10
+  - poster: 447548039_8202457033177597_343579549868488274_n.jpeg
+    city: Osasco
+    date: '08/06/2024 18:00'
+    daysGroup: 06/07/08/09/10
+  - poster: 441903347_18319109389177795_1263532429288617704_n.jpg
+    city: Santo André
+    date: '08/06/2024 18:00'
+    daysGroup: 06/07/08/09/10
+  - poster: 447919946_1491096328142439_5254821105493906163_n.jpg
+    city: São Paulo
+    date: '15/06/2024 15:00'
+    daysGroup: 13/14/15/16/17
+  - poster: 444487702_2750771008414215_1594293608065210207_n.jpg
+    city: Diadema
+    date: '23/06/2024 20:00'
+    daysGroup: 19/20/21/22/23/24
+  - poster: 444928445_2750498998441416_2679712235536649912_n.jpg
+    city: Diadema
+    date: '16/06/2024 18:00'
+    daysGroup: 13/14/15/16/17
 ---
 

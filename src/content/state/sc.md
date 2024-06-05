@@ -46,5 +46,13 @@ gigs:
     date: '28/06/2024 21:00'
     daysGroup: 28/29/30
     ticketsUrl: 'https://www.clubedoingresso.com/evento/menoresatos-florianopolis'
+  - poster: 441875786_18124962007359064_5708522215644312971_n.jpg
+    city: Jaraguá do Sul
+    date: '16/06/2024 16:00'
+    daysGroup: 14/15/16
+  - poster: 447913932_1756668884742166_767162404256722660_n.jpeg
+    city: Florianopólis
+    date: '30/08/2024 20:00'
+    daysGroup: 29/30
 ---
 

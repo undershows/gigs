@@ -61,5 +61,9 @@ gigs:
     daysGroup: 07/08/09
     ticketsUrl: >-
       https://www.eventim.com.br/event/new-model-army-no-circo-voador-circo-voador-18227342/
+  - poster: 441868006_18436342888040798_5917204385706538042_n.jpg
+    city: Rio de Janeiro
+    date: '06/07/2024 19:00'
+    daysGroup: 05/06/07
 ---
 
