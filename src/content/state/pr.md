@@ -54,6 +54,7 @@ gigs:
     city: Maringá
     date: '08/06/2024 20:00'
     daysGroup: 07/08/09
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/soundofnoise'
   - poster: 447705759_18439910632025079_2323678721400223584_n.jpg
     city: Curitiba
     date: '24/11/2024 12:00'
