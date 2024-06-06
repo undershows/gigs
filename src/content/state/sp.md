@@ -156,6 +156,7 @@ gigs:
     city: Caçapava
     date: '09/06/2024 13:00'
     daysGroup: 06/07/08/09/10
+    ticketsUrl: 'https://www.sympla.com.br/evento/09-06-sindmetal-rock-fest-com-garotos-podres/2462013'
   - poster: 442412547_1482154889395714_4982639979988539808_n.jpeg
     city: São Paulo
     date: '07/07/2024 12:00'
