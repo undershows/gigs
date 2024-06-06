@@ -471,8 +471,9 @@ gigs:
     daysGroup: 19/20/21/22/23/24
   - poster: 444944765_18437343556032461_4105974104307778521_n.jpg
     city: São Paulo
-    date: '08/06/2024 18:00'
+    date: '08/06/2024 14:00'
     daysGroup: 06/07/08/09/10
+    ticketsUrl: 'https://www.picpass.com.br/Eventos/NFR-FESTIVAL-com-Bayside-Kings----bandas/57'
   - poster: 447912251_962978068861305_6895429639845586915_n.jpeg
     city: São Paulo
     date: '13/10/2024 13:00'
