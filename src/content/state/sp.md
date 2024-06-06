@@ -100,7 +100,7 @@ gigs:
     date: '09/06/2024 17:00'
     daysGroup: 06/07/08/09/10
     ticketsUrl: >-
-      https://www.sympla.com.br/evento/tonelada-dourados-ms-sujera-sp-xucro-sp-e-anversa-taubate-no-hocus-pocus/2444712'
+      https://www.sympla.com.br/evento/tonelada-dourados-ms-sujera-sp-e-anversa-taubate-no-hocus-pocus/2444712'
   - poster: 434863547_10211117130440155_6425648371688703187_n.jpg
     city: São Paulo
     date: '17/08/2024 17:00'
