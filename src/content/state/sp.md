@@ -72,11 +72,6 @@ gigs:
     city: Jacareí
     date: '07/06/2024 18:00'
     daysGroup: 06/07/08/09/10
-  - poster: 434993924_18425262817033374_8975603405320228347_n.jpg
-    city: São Paulo
-    date: '16/08/2024 18:00'
-    daysGroup: 16/17/18
-    ticketsUrl: 'https://www.clubedoingresso.com/evento/nebula-saopaulo'
   - poster: 435246765_17878962312048719_1809705049119668091_n.jpg
     city: São Paulo
     date: '15/06/2024 20:00'
