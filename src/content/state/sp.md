@@ -140,10 +140,6 @@ gigs:
     city: São Sebastião
     date: '15/06/2024 19:00'
     daysGroup: 13/14/15/16/17
-  - poster: 441577687_1145063940020406_1731528657895129161_n.jpeg
-    city: São Carlos
-    date: '06/06/2024 18:00'
-    daysGroup: 06/07/08/09/10
   - poster: 441127154_792081799541511_5000173471982161746_n.jpeg
     city: São Paulo
     date: '30/06/2024 17:00'
@@ -156,7 +152,8 @@ gigs:
     city: Caçapava
     date: '09/06/2024 13:00'
     daysGroup: 06/07/08/09/10
-    ticketsUrl: 'https://www.sympla.com.br/evento/09-06-sindmetal-rock-fest-com-garotos-podres/2462013'
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/09-06-sindmetal-rock-fest-com-garotos-podres/2462013
   - poster: 442412547_1482154889395714_4982639979988539808_n.jpeg
     city: São Paulo
     date: '07/07/2024 12:00'
@@ -415,11 +412,6 @@ gigs:
     city: Várzea Paulista
     date: '16/06/2024 16:00'
     daysGroup: 13/14/15/16/17
-  - poster: 441887769_18435830206033374_7945754807142491033_n.jpg
-    city: São Paulo
-    date: '06/06/2024 20:00'
-    daysGroup: 06/07/08/09/10
-    ticketsUrl: 'https://www.clubedoingresso.com/evento/newmodelarmy-acusticoespecial-sp'
   - poster: 441866837_18435830254033374_6976657816878663546_n.jpg
     city: São Paulo
     date: '08/06/2024 17:00'
@@ -474,7 +466,8 @@ gigs:
     city: São Paulo
     date: '08/06/2024 14:00'
     daysGroup: 06/07/08/09/10
-    ticketsUrl: 'https://www.picpass.com.br/Eventos/NFR-FESTIVAL-com-Bayside-Kings----bandas/57'
+    ticketsUrl: >-
+      https://www.picpass.com.br/Eventos/NFR-FESTIVAL-com-Bayside-Kings----bandas/57
   - poster: 447912251_962978068861305_6895429639845586915_n.jpeg
     city: São Paulo
     date: '13/10/2024 13:00'

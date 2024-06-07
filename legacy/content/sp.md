@@ -3387,5 +3387,14 @@ gigs:
     date: '03/06/2024 19:00'
     daysGroup: 01/02/03
     ticketsUrl: 'https://www.sympla.com.br/evento/test-curadoria-do-medo/2488842'
+  - poster: 441577687_1145063940020406_1731528657895129161_n.jpeg
+    city: São Carlos
+    date: '06/06/2024 18:00'
+    daysGroup: 06/07/08/09/10
+  - poster: 441887769_18435830206033374_7945754807142491033_n.jpg
+    city: São Paulo
+    date: '06/06/2024 20:00'
+    daysGroup: 06/07/08/09/10
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/newmodelarmy-acusticoespecial-sp'
 ---
 
