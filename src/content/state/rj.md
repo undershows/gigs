@@ -20,12 +20,6 @@ gigs:
     date: '22/06/2024 20:00'
     daysGroup: 21/22/23
     ticketsUrl: 'https://articket.com.br/e/1948/bayside-kings-plastic-fire'
-  - poster: 434311395_297145870071211_4018158603546264430_n.jpeg
-    city: Rio de Janeiro
-    date: '07/06/2024 19:00'
-    daysGroup: 07/08/09
-    ticketsUrl: >-
-      https://www.sympla.com.br/evento/07-06-turbulencia-cerebral-fest-facada-presto-baga-uzomi-teoria-do-caos/2402164
   - poster: 437585101_982226573302565_2687781348344977087_n.jpeg
     city: Campos dos Goytacazes
     date: '13/07/2024 18:00'

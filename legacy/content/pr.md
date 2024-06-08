@@ -324,5 +324,10 @@ gigs:
     date: '01/06/2024 19:00'
     daysGroup: 01/02
     ticketsUrl: 'https://meaple.com.br/belvedere/bayside-kings'
+  - poster: 441877625_18435830215033374_8840770355605358373_n.jpg
+    city: Curitiba
+    date: '07/06/2024 20:00'
+    daysGroup: 07/08/09
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/newmodelarmy-show-curitiba'
 ---
 

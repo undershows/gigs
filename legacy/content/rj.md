@@ -209,5 +209,11 @@ gigs:
     city: Campos dos Goytacazes
     date: '02/06/2024 18:00'
     daysGroup: 01/02
+  - poster: 434311395_297145870071211_4018158603546264430_n.jpeg
+    city: Rio de Janeiro
+    date: '07/06/2024 19:00'
+    daysGroup: 07/08/09
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/07-06-turbulencia-cerebral-fest-facada-presto-baga-uzomi-teoria-do-caos/2402164
 ---
 

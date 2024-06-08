@@ -16,9 +16,5 @@ gigs:
     city: Fortaleza
     date: '08/06/2024 21:00'
     daysGroup: 07/08/09
-  - poster: 447798827_1148523482856676_5913686818699888150_n.jpeg
-    city: Fortaleza
-    date: '07/06/2024 21:00'
-    daysGroup: 07/08/09
 ---
 

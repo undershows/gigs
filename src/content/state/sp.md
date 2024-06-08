@@ -68,10 +68,6 @@ gigs:
     city: Diadema
     date: '09/06/2024 15:00'
     daysGroup: 06/07/08/09/10
-  - poster: 432974852_1182584793184133_2498448446273120772_n.jpg
-    city: Jacareí
-    date: '07/06/2024 18:00'
-    daysGroup: 06/07/08/09/10
   - poster: 435246765_17878962312048719_1809705049119668091_n.jpg
     city: São Paulo
     date: '15/06/2024 20:00'
@@ -110,19 +106,10 @@ gigs:
     date: '27/09/2024 18:00'
     daysGroup: 27/28/29
     ticketsUrl: 'https://www.clubedoingresso.com/evento/gorillabiscuits-saopaulo'
-  - poster: 440850449_459070923208047_4645648664059275579_n.jpeg
-    city: Marília
-    date: '07/06/2024 22:00'
-    daysGroup: 06/07/08/09/10
   - poster: 441142792_1000353281788302_6139203320182688011_n.jpeg
     city: Piracicaba
     date: '08/06/2024 19:00'
     daysGroup: 06/07/08/09/10
-  - poster: 80f9d5ad-a11a-4119-ba49-4b675b066417.jpeg
-    city: São Paulo
-    date: '07/06/2024 20:00'
-    daysGroup: 06/07/08/09/10
-    ticketsUrl: 'https://www.hoppin.com.br/smashitup'
   - poster: 441462734_976566667246127_6865553702100583784_n.jpg
     city: Ribeirão Pires
     date: '08/06/2024 18:00'
@@ -180,10 +167,6 @@ gigs:
   - poster: 6c35885d-b9dd-41fe-9044-889065521199.jpeg
     city: São Paulo
     date: '09/06/2024 15:00'
-    daysGroup: 06/07/08/09/10
-  - poster: f73ef701-f612-4353-916f-3b7ecdaf9142.jpeg
-    city: São Paulo
-    date: '07/06/2024 20:00'
     daysGroup: 06/07/08/09/10
   - poster: 443512125_722493033176509_3692471432586929066_n.jpg
     city: São Paulo

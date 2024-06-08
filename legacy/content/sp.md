@@ -3396,5 +3396,22 @@ gigs:
     date: '06/06/2024 20:00'
     daysGroup: 06/07/08/09/10
     ticketsUrl: 'https://www.clubedoingresso.com/evento/newmodelarmy-acusticoespecial-sp'
+  - poster: 432974852_1182584793184133_2498448446273120772_n.jpg
+    city: Jacareí
+    date: '07/06/2024 18:00'
+    daysGroup: 06/07/08/09/10
+  - poster: 440850449_459070923208047_4645648664059275579_n.jpeg
+    city: Marília
+    date: '07/06/2024 22:00'
+    daysGroup: 06/07/08/09/10
+  - poster: 80f9d5ad-a11a-4119-ba49-4b675b066417.jpeg
+    city: São Paulo
+    date: '07/06/2024 20:00'
+    daysGroup: 06/07/08/09/10
+    ticketsUrl: 'https://www.hoppin.com.br/smashitup'
+  - poster: f73ef701-f612-4353-916f-3b7ecdaf9142.jpeg
+    city: São Paulo
+    date: '07/06/2024 20:00'
+    daysGroup: 06/07/08/09/10
 ---
 
