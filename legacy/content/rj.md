@@ -215,5 +215,11 @@ gigs:
     daysGroup: 07/08/09
     ticketsUrl: >-
       https://www.sympla.com.br/evento/07-06-turbulencia-cerebral-fest-facada-presto-baga-uzomi-teoria-do-caos/2402164
+  - poster: 436221509_7660129830723046_4913783524253906325_n.jpg
+    city: Rio de Janeiro
+    date: '08/06/2024 19:00'
+    daysGroup: 07/08/09
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/audio-rebel-texuga-trash-no-star-klitoria-e-mototaxi-08-06/2455167
 ---
 

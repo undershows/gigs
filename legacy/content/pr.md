@@ -329,5 +329,16 @@ gigs:
     date: '07/06/2024 20:00'
     daysGroup: 07/08/09
     ticketsUrl: 'https://www.clubedoingresso.com/evento/newmodelarmy-show-curitiba'
+  - poster: 436236357_1918071078622944_7975291840926414566_n.jpg
+    city: Curitiba
+    date: '08/06/2024 19:00'
+    daysGroup: 07/08/09
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/grind-alert-facada-void-it-greve-obitto-e-guro/2430812
+  - poster: 445202716_18439256863021049_6834363384289214338_n.jpg
+    city: Maringá
+    date: '08/06/2024 20:00'
+    daysGroup: 07/08/09
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/soundofnoise'
 ---
 

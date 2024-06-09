@@ -28,12 +28,6 @@ gigs:
     city: Rio de Janeiro
     date: '01/11/2024 19:00'
     daysGroup: 01/02/03
-  - poster: 436221509_7660129830723046_4913783524253906325_n.jpg
-    city: Rio de Janeiro
-    date: '08/06/2024 19:00'
-    daysGroup: 07/08/09
-    ticketsUrl: >-
-      https://www.sympla.com.br/evento/audio-rebel-texuga-trash-no-star-klitoria-e-mototaxi-08-06/2455167
   - poster: 441577445_18308379901194446_6411940555776409954_n.jpg
     city: Rio de Janeiro
     date: '12/07/2024 18:00'

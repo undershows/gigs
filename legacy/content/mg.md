@@ -183,5 +183,10 @@ gigs:
     city: Belo Horizonte
     date: '01/06/2024 15:00'
     daysGroup: 01/02
+  - poster: 434208354_7427187434033836_8990653153994090888_n.jpeg
+    city: Belo Horizonte
+    date: '08/06/2024 16:00'
+    daysGroup: 06/07/08/09
+    ticketsUrl: 'https://www.ingressosfansociety.com.br/comprar/11/rails-of-hell-666'
 ---
 

@@ -25,16 +25,7 @@ gigs:
     city: Brasília
     date: '20/07/2024 20:00'
     daysGroup: 19/20/21
-    ticketsUrl: 'https://www.furandoafila.com.br/comprar/4738/ritual-alquimico-evento-de-metal'
-  - poster: 446477265_387021143694072_149914565405072249_n.jpeg
-    city: Gama
-    date: '08/06/2024 17:00'
-    daysGroup: 08/09/10
-    ticketsUrl: 'https://www.sympla.com.br/evento/mosh-rock-fest/2473667'
-  - poster: 446118080_840846404730063_5880459279541188525_n.jpeg
-    city: Brasília
-    date: '08/06/2024 20:00'
-    daysGroup: 08/09/10
-    ticketsUrl: 'https://www.clubedoingresso.com/evento/edufalaschi-brasilia'
+    ticketsUrl: >-
+      https://www.furandoafila.com.br/comprar/4738/ritual-alquimico-evento-de-metal
 ---
 

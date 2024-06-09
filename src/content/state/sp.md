@@ -19,11 +19,6 @@ gigs:
     date: '09/06/2024 14:00'
     daysGroup: 06/07/08/09/10
     ticketsUrl: 'https://www.clubedoingresso.com/evento/possessed-venominc-sp'
-  - poster: 432729476_1178864503556162_5594006283990413920_n.jpg
-    city: Santo André
-    date: '08/06/2024 20:00'
-    daysGroup: 06/07/08/09/10
-    ticketsUrl: 'https://pixelticket.com.br/eventos/20278/nervochaos-e-satanatos'
   - poster: 432856903_1179326466843299_3063550065245102428_n.jpg
     city: São Paulo
     date: '06/07/2024 17:00'
@@ -106,14 +101,6 @@ gigs:
     date: '27/09/2024 18:00'
     daysGroup: 27/28/29
     ticketsUrl: 'https://www.clubedoingresso.com/evento/gorillabiscuits-saopaulo'
-  - poster: 441142792_1000353281788302_6139203320182688011_n.jpeg
-    city: Piracicaba
-    date: '08/06/2024 19:00'
-    daysGroup: 06/07/08/09/10
-  - poster: 441462734_976566667246127_6865553702100583784_n.jpg
-    city: Ribeirão Pires
-    date: '08/06/2024 18:00'
-    daysGroup: 06/07/08/09/10
   - poster: 438303691_7520148018070470_8192219138537072871_n.jpg
     city: Santo André
     date: '22/06/2024 20:00'
@@ -131,10 +118,6 @@ gigs:
     city: São Paulo
     date: '30/06/2024 17:00'
     daysGroup: 27/28/29/30
-  - poster: 441491398_3691025934500176_1324694098910982033_n.jpeg
-    city: Suzano
-    date: '08/06/2024 19:00'
-    daysGroup: 06/07/08/09/10
   - poster: 442416253_805138481130206_1327333783176922195_n.jpeg
     city: Caçapava
     date: '09/06/2024 13:00'
@@ -160,10 +143,6 @@ gigs:
     daysGroup: 19/20/21/22/23/24
     ticketsUrl: >-
       https://www.sympla.com.br/evento/hup-apresenta-chuva-negra-caffeine-blues-allpacas-e-venlift/2443123
-  - poster: c72631f1-6329-4f4f-b9d8-22cf05b43162.jpeg
-    city: São Paulo
-    date: '08/06/2024 17:00'
-    daysGroup: 06/07/08/09/10
   - poster: 6c35885d-b9dd-41fe-9044-889065521199.jpeg
     city: São Paulo
     date: '09/06/2024 15:00'
@@ -215,10 +194,6 @@ gigs:
     date: '22/06/2024 17:00'
     daysGroup: 19/20/21/22/23/24
     ticketsUrl: 'https://jaiclub.hoppin.com.br/exterminiogig'
-  - poster: 436294905_7754246784655472_5535509289413915176_n.png
-    city: Agudos
-    date: '08/06/2024 17:00'
-    daysGroup: 06/07/08/09/10
   - poster: e0bf7910-df0d-43cc-b23f-941389d36f44.jpeg
     city: Bauru
     date: '13/07/2024 20:00'
@@ -301,16 +276,6 @@ gigs:
     daysGroup: 05/06/07
     ticketsUrl: >-
       https://www.sympla.com.br/evento/hup-apresenta-garage-fuzz-gagged-e-brand-new-face/2486350
-  - poster: 446128388_1019513789538353_3593697401582642740_n.jpeg
-    city: Campinas
-    date: '08/06/2024 22:00'
-    daysGroup: 06/07/08/09/10
-    ticketsUrl: >-
-      https://www.sympla.com.br/evento/garotos-podres-fest-submundo-2-lote/2450014
-  - poster: 441877596_17885689833048719_1376645153608859515_n.jpg
-    city: São Paulo
-    date: '08/06/2024 22:00'
-    daysGroup: 06/07/08/09/10
   - poster: 446236294_1153921969194740_1525128938087763276_n.jpeg
     city: Campinas
     date: '06/07/2024 12:00'
@@ -319,12 +284,6 @@ gigs:
     city: Leme
     date: '17/08/2024 14:00'
     daysGroup: 16/17/18
-  - poster: 443716159_991162119136111_579685341191391161_n.jpg
-    city: São Paulo
-    date: '08/06/2024 19:00'
-    daysGroup: 06/07/08/09/10
-    ticketsUrl: >-
-      https://www.sympla.com.br/evento/evento-terreno-estranho-bandas-wry-e-skydown/2475502
   - poster: e0acd4f6-e9e9-4e8e-a909-34bad933316c.jpeg
     city: São Paulo
     date: '13/07/2024 19:00'
@@ -395,11 +354,6 @@ gigs:
     city: Várzea Paulista
     date: '16/06/2024 16:00'
     daysGroup: 13/14/15/16/17
-  - poster: 441866837_18435830254033374_6976657816878663546_n.jpg
-    city: São Paulo
-    date: '08/06/2024 17:00'
-    daysGroup: 06/07/08/09/10
-    ticketsUrl: 'https://www.clubedoingresso.com/evento/newmodelarmy-show-sp'
   - poster: nervochaos_sp_270624.jpeg
     city: São Paulo
     date: '27/06/2024 21:00'
@@ -425,10 +379,6 @@ gigs:
     city: São Paulo
     date: '15/06/2024 18:00'
     daysGroup: 13/14/15/16/17
-  - poster: 444759096_2750020971822552_3952267255271470844_n.jpg
-    city: Santo André
-    date: '08/06/2024 19:00'
-    daysGroup: 06/07/08/09/10
   - poster: 441876998_18436328866033374_7572348452534085444_n.jpg
     city: São Paulo
     date: '19/10/2024 16:00'
@@ -445,12 +395,6 @@ gigs:
     city: São José dos Campos
     date: '23/06/2024 17:00'
     daysGroup: 19/20/21/22/23/24
-  - poster: 444944765_18437343556032461_4105974104307778521_n.jpg
-    city: São Paulo
-    date: '08/06/2024 14:00'
-    daysGroup: 06/07/08/09/10
-    ticketsUrl: >-
-      https://www.picpass.com.br/Eventos/NFR-FESTIVAL-com-Bayside-Kings----bandas/57
   - poster: 447912251_962978068861305_6895429639845586915_n.jpeg
     city: São Paulo
     date: '13/10/2024 13:00'
@@ -458,14 +402,6 @@ gigs:
   - poster: 447603750_434352819383039_5757548734642006144_n.jpeg
     city: Ribeirão Pires
     date: '09/06/2024 12:00'
-    daysGroup: 06/07/08/09/10
-  - poster: 447548039_8202457033177597_343579549868488274_n.jpeg
-    city: Osasco
-    date: '08/06/2024 18:00'
-    daysGroup: 06/07/08/09/10
-  - poster: 441903347_18319109389177795_1263532429288617704_n.jpg
-    city: Santo André
-    date: '08/06/2024 18:00'
     daysGroup: 06/07/08/09/10
   - poster: 447919946_1491096328142439_5254821105493906163_n.jpg
     city: São Paulo

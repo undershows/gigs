@@ -17,12 +17,6 @@ gigs:
     city: Foz do Iguaçu
     date: '18/06/2024 19:00'
     daysGroup: 18/19/20/21/22/23
-  - poster: 436236357_1918071078622944_7975291840926414566_n.jpg
-    city: Curitiba
-    date: '08/06/2024 19:00'
-    daysGroup: 07/08/09
-    ticketsUrl: >-
-      https://www.sympla.com.br/evento/grind-alert-facada-void-it-greve-obitto-e-guro/2430812
   - poster: 442419572_2466382310416631_1493304408406686685_n.jpeg
     city: Londrina
     date: '09/06/2024 16:00'
@@ -45,11 +39,6 @@ gigs:
     date: '29/06/2024 21:00'
     daysGroup: 28/29/30
     ticketsUrl: 'https://www.clubedoingresso.com/evento/menoresatos-curitiba'
-  - poster: 445202716_18439256863021049_6834363384289214338_n.jpg
-    city: Maringá
-    date: '08/06/2024 20:00'
-    daysGroup: 07/08/09
-    ticketsUrl: 'https://www.clubedoingresso.com/evento/soundofnoise'
   - poster: 447705759_18439910632025079_2323678721400223584_n.jpg
     city: Curitiba
     date: '24/11/2024 12:00'
