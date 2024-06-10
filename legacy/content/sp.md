@@ -3477,5 +3477,50 @@ gigs:
     city: Santo André
     date: '08/06/2024 18:00'
     daysGroup: 06/07/08/09/10
+  - poster: 431525437_3692619941009419_5244187636168166923_n.jpg
+    city: São Paulo
+    date: '09/06/2024 14:00'
+    daysGroup: 06/07/08/09/10
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/possessed-venominc-sp'
+  - poster: 434334998_1373336246676381_4534883261129237858_n.jpeg
+    city: Arujá
+    date: '09/06/2024 16:00'
+    daysGroup: 06/07/08/09/10
+  - poster: 431532032_1182311719878107_5885739277133671317_n.jpg
+    city: Diadema
+    date: '09/06/2024 15:00'
+    daysGroup: 06/07/08/09/10
+  - poster: 437220302_300141169643694_7355523027824685401_n.jpeg
+    city: São José dos Campos
+    date: '09/06/2024 17:00'
+    daysGroup: 06/07/08/09/10
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/tonelada-dourados-ms-sujera-sp-e-anversa-taubate-no-hocus-pocus/2444712'
+  - poster: 442416253_805138481130206_1327333783176922195_n.jpeg
+    city: Caçapava
+    date: '09/06/2024 13:00'
+    daysGroup: 06/07/08/09/10
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/09-06-sindmetal-rock-fest-com-garotos-podres/2462013
+  - poster: 6c35885d-b9dd-41fe-9044-889065521199.jpeg
+    city: São Paulo
+    date: '09/06/2024 15:00'
+    daysGroup: 06/07/08/09/10
+  - poster: 443717468_1566271617268692_3107278503458235140_n.jpg
+    city: Osasco
+    date: '09/06/2024 16:00'
+    daysGroup: 06/07/08/09/10
+  - poster: 446515599_1388303788554733_7329755273539832290_n.jpeg
+    city: São Paulo
+    date: '09/06/2024 17:00'
+    daysGroup: 06/07/08/09/10
+  - poster: 446118918_1205794130407473_8861313052591431307_n.jpeg
+    city: Araras
+    date: '09/06/2024 15:00'
+    daysGroup: 06/07/08/09/10
+  - poster: 447603750_434352819383039_5757548734642006144_n.jpeg
+    city: Ribeirão Pires
+    date: '09/06/2024 12:00'
+    daysGroup: 06/07/08/09/10
 ---
 

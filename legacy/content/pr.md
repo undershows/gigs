@@ -340,5 +340,9 @@ gigs:
     date: '08/06/2024 20:00'
     daysGroup: 07/08/09
     ticketsUrl: 'https://www.clubedoingresso.com/evento/soundofnoise'
+  - poster: 442419572_2466382310416631_1493304408406686685_n.jpeg
+    city: Londrina
+    date: '09/06/2024 16:00'
+    daysGroup: 07/08/09
 ---
 

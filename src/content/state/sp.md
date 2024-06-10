@@ -14,11 +14,6 @@ gigs:
     daysGroup: 08/09/10
     ticketsUrl: >-
       https://www.clubedoingresso.com/evento/asphyx-thetroopsofdoom-evilcult-saopaulo
-  - poster: 431525437_3692619941009419_5244187636168166923_n.jpg
-    city: São Paulo
-    date: '09/06/2024 14:00'
-    daysGroup: 06/07/08/09/10
-    ticketsUrl: 'https://www.clubedoingresso.com/evento/possessed-venominc-sp'
   - poster: 432856903_1179326466843299_3063550065245102428_n.jpg
     city: São Paulo
     date: '06/07/2024 17:00'
@@ -50,19 +45,11 @@ gigs:
     date: '18/08/2024 19:00'
     daysGroup: 16/17/18
     ticketsUrl: 'https://www.ingresse.com/karate-sp/'
-  - poster: 434334998_1373336246676381_4534883261129237858_n.jpeg
-    city: Arujá
-    date: '09/06/2024 16:00'
-    daysGroup: 06/07/08/09/10
   - poster: 433238810_18424105069058543_3806178385128827588_n.jpg
     city: São Paulo
     date: '22/06/2024 18:00'
     daysGroup: 19/20/21/22/23/24
     ticketsUrl: 'https://www.ingresse.com/the-obsessed/'
-  - poster: 431532032_1182311719878107_5885739277133671317_n.jpg
-    city: Diadema
-    date: '09/06/2024 15:00'
-    daysGroup: 06/07/08/09/10
   - poster: 435246765_17878962312048719_1809705049119668091_n.jpg
     city: São Paulo
     date: '15/06/2024 20:00'
@@ -86,12 +73,6 @@ gigs:
     date: '02/11/2024 16:00'
     daysGroup: 01/02/03
     ticketsUrl: 'https://www.clubedoingresso.com/evento/weareone2024-saopaulo'
-  - poster: 437220302_300141169643694_7355523027824685401_n.jpeg
-    city: São José dos Campos
-    date: '09/06/2024 17:00'
-    daysGroup: 06/07/08/09/10
-    ticketsUrl: >-
-      https://www.sympla.com.br/evento/tonelada-dourados-ms-sujera-sp-e-anversa-taubate-no-hocus-pocus/2444712'
   - poster: 434863547_10211117130440155_6425648371688703187_n.jpg
     city: São Paulo
     date: '17/08/2024 17:00'
@@ -118,12 +99,6 @@ gigs:
     city: São Paulo
     date: '30/06/2024 17:00'
     daysGroup: 27/28/29/30
-  - poster: 442416253_805138481130206_1327333783176922195_n.jpeg
-    city: Caçapava
-    date: '09/06/2024 13:00'
-    daysGroup: 06/07/08/09/10
-    ticketsUrl: >-
-      https://www.sympla.com.br/evento/09-06-sindmetal-rock-fest-com-garotos-podres/2462013
   - poster: 442412547_1482154889395714_4982639979988539808_n.jpeg
     city: São Paulo
     date: '07/07/2024 12:00'
@@ -143,10 +118,6 @@ gigs:
     daysGroup: 19/20/21/22/23/24
     ticketsUrl: >-
       https://www.sympla.com.br/evento/hup-apresenta-chuva-negra-caffeine-blues-allpacas-e-venlift/2443123
-  - poster: 6c35885d-b9dd-41fe-9044-889065521199.jpeg
-    city: São Paulo
-    date: '09/06/2024 15:00'
-    daysGroup: 06/07/08/09/10
   - poster: 443512125_722493033176509_3692471432586929066_n.jpg
     city: São Paulo
     date: '28/07/2024 15:00'
@@ -211,10 +182,6 @@ gigs:
     city: São Paulo
     date: '23/06/2024 20:00'
     daysGroup: 19/20/21/22/23/24
-  - poster: 443717468_1566271617268692_3107278503458235140_n.jpg
-    city: Osasco
-    date: '09/06/2024 16:00'
-    daysGroup: 06/07/08/09/10
   - poster: 445720315_441251565180823_5753306269446409383_n.jpeg
     city: São Paulo
     date: '04/08/2024 14:00'
@@ -253,10 +220,6 @@ gigs:
     city: São Paulo
     date: '15/06/2024 19:00'
     daysGroup: 13/14/15/16/17
-  - poster: 446515599_1388303788554733_7329755273539832290_n.jpeg
-    city: São Paulo
-    date: '09/06/2024 17:00'
-    daysGroup: 06/07/08/09/10
   - poster: 446501114_2141202042939092_1417775848871820635_n.jpeg
     city: São Paulo
     date: '19/07/2024 19:00'
@@ -313,10 +276,6 @@ gigs:
     city: Ferraz de Vasconcelos
     date: '28/07/2024 14:00'
     daysGroup: 26/27/28
-  - poster: 446118918_1205794130407473_8861313052591431307_n.jpeg
-    city: Araras
-    date: '09/06/2024 15:00'
-    daysGroup: 06/07/08/09/10
   - poster: 446580871_478567264648581_7516732606353216824_n.jpeg
     city: São Paulo
     date: '22/06/2024 19:00'
@@ -399,10 +358,6 @@ gigs:
     city: São Paulo
     date: '13/10/2024 13:00'
     daysGroup: 11/12/13
-  - poster: 447603750_434352819383039_5757548734642006144_n.jpeg
-    city: Ribeirão Pires
-    date: '09/06/2024 12:00'
-    daysGroup: 06/07/08/09/10
   - poster: 447919946_1491096328142439_5254821105493906163_n.jpg
     city: São Paulo
     date: '15/06/2024 15:00'

@@ -17,10 +17,6 @@ gigs:
     city: Foz do Iguaçu
     date: '18/06/2024 19:00'
     daysGroup: 18/19/20/21/22/23
-  - poster: 442419572_2466382310416631_1493304408406686685_n.jpeg
-    city: Londrina
-    date: '09/06/2024 16:00'
-    daysGroup: 07/08/09
   - poster: 15-06 guarapuava_resized.jpg
     city: Guarapuava
     date: '15/06/2024 20:00'
