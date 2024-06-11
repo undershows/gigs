@@ -130,11 +130,6 @@ gigs:
     city: Santos
     date: '14/06/2024 21:00'
     daysGroup: 13/14/15/16/17
-  - poster: a21a7601-6397-488c-a66e-e050cdf2ec80.jpeg
-    city: São Paulo
-    date: '10/06/2024 19:00'
-    daysGroup: 06/07/08/09/10
-    ticketsUrl: 'https://www.sympla.com.br/central-undergroung---facada-__2467268'
   - poster: enthroned_junho_2024.jpg
     city: São Paulo
     date: '13/06/2024 19:00'
@@ -294,11 +289,6 @@ gigs:
     date: '14/06/2024 18:00'
     daysGroup: 13/14/15/16/17
     ticketsUrl: 'https://www.clubedoingresso.com/evento/chuvanegra-casaaurea'
-  - poster: 037ba027-2aec-4037-bc4c-5c9fab9bfd51-2.jpeg
-    city: São Paulo
-    date: '10/06/2024 19:00'
-    daysGroup: 06/07/08/09/10
-    ticketsUrl: 'https://www.sympla.com.br/evento/test-curadoria-do-medo/2490119'
   - poster: 037ba027-2aec-4037-bc4c-5c9fab9bfd51-3.jpeg
     city: São Paulo
     date: '17/06/2024 19:00'
