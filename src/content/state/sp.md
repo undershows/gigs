@@ -360,5 +360,25 @@ gigs:
     city: Diadema
     date: '16/06/2024 18:00'
     daysGroup: 13/14/15/16/17
+  - poster: b24d2298-d939-46ab-a8a7-5285e1794fd5.jpeg
+    city: São Paulo
+    date: '21/07/2024 18:00'
+    daysGroup: 18/19/20/21
+  - poster: d3529268-53b5-4d28-b1b1-abadf9ceb183.jpeg
+    city: São Paulo
+    date: '10/08/2024 19:00'
+    daysGroup: 09/10/11
+  - poster: 7ee81d4e-0555-4c4c-944a-736f74f66575.jpeg
+    city: São Paulo
+    date: '20/06/2024 20:00'
+    daysGroup: 19/20/21/22/23/24
+  - poster: 4831b65f-6ca8-4c2c-84c4-007e8559c57d.jpeg
+    city: Birigui
+    date: '20/07/2024 19:00'
+    daysGroup: 18/19/20/21
+  - poster: 446196032_462262402950412_1314001609918183432_n.jpeg
+    city: Bauru
+    date: '29/06/2024 16:00'
+    daysGroup: 27/28/29/30
 ---
 
