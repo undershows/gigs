@@ -376,7 +376,7 @@ gigs:
     city: Birigui
     date: '20/07/2024 19:00'
     daysGroup: 18/19/20/21
-  - poster: 446196032_462262402950412_1314001609918183432_n.jpeg
+  - poster: 499a5720-2804-4c3f-b339-599d277d704f.jpeg
     city: Bauru
     date: '29/06/2024 16:00'
     daysGroup: 27/28/29/30
