@@ -8,7 +8,7 @@ gigs:
     daysGroup: 05/06/07
     ticketsUrl: 'https://bilheto.com.br/comprar/2168/sinister'
   - poster: 428632659_798352212320204_6476687353376032331_n.jpg
-    city: Florianopólis
+    city: Florianópolis
     date: '16/06/2024 16:00'
     daysGroup: 14/15/16
     ticketsUrl: 'https://bilheto.com.br/comprar/2167/the-burning-dawn'
@@ -36,13 +36,13 @@ gigs:
     date: '21/06/2024 15:00'
     daysGroup: 21/22/23
   - poster: 441577622_18125053966359064_7764563190173908122_n.jpg
-    city: Florianopólis
+    city: Florianópolis
     date: '15/06/2024 22:00'
     daysGroup: 14/15/16
     ticketsUrl: >-
       https://www.sympla.com.br/evento/budang-jovens-ateus-cabranegra-e-sangue-de-bode/2455925
   - poster: 446206767_990907145928795_2809639399592623670_n.jpg
-    city: Florianopólis
+    city: Florianópolis
     date: '28/06/2024 21:00'
     daysGroup: 28/29/30
     ticketsUrl: 'https://www.clubedoingresso.com/evento/menoresatos-florianopolis'
@@ -51,8 +51,12 @@ gigs:
     date: '16/06/2024 16:00'
     daysGroup: 14/15/16
   - poster: 447913932_1756668884742166_767162404256722660_n.jpeg
-    city: Florianopólis
+    city: Florianópolis
     date: '30/08/2024 20:00'
     daysGroup: 29/30
+  - poster: 441923742_17864107791151247_714051510622046706_n.jpg
+    city: Florianópolis
+    date: '11/08/2024 16:00'
+    daysGroup: 09/10/11
 ---
 

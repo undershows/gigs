@@ -17,7 +17,7 @@ gigs:
   - poster: 432856903_1179326466843299_3063550065245102428_n.jpg
     city: São Paulo
     date: '06/07/2024 17:00'
-    daysGroup: 05/06/07
+    daysGroup: 05/06/07/08
     ticketsUrl: >-
       https://www.sympla.com.br/evento/sinister-vulture-ancestral-malediction-ereboros-podridao/2342064
   - poster: 432754637_1149028929348083_6900827881406581498_n.jpg
@@ -102,7 +102,7 @@ gigs:
   - poster: 442412547_1482154889395714_4982639979988539808_n.jpeg
     city: São Paulo
     date: '07/07/2024 12:00'
-    daysGroup: 05/06/07
+    daysGroup: 05/06/07/08
     ticketsUrl: 'https://www.sympla.com.br/evento/synco-hc-festival-arena-show-sp/2450384'
   - poster: 442420972_1821335045032665_9018548818020384033_n.jpg
     city: São Paulo
@@ -111,7 +111,7 @@ gigs:
   - poster: 442412529_1475719253024197_5375320085600563537_n.jpeg
     city: Sorocaba
     date: '06/07/2024 15:00'
-    daysGroup: 05/06/07
+    daysGroup: 05/06/07/08
   - poster: 440474250_2137530899935018_9186845276870816485_n.jpeg
     city: Americana
     date: '22/06/2024 20:00'
@@ -231,13 +231,13 @@ gigs:
   - poster: 446196022_750974833914845_1775194026717803467_n.jpeg
     city: Americana
     date: '05/07/2024 20:00'
-    daysGroup: 05/06/07
+    daysGroup: 05/06/07/08
     ticketsUrl: >-
       https://www.sympla.com.br/evento/hup-apresenta-garage-fuzz-gagged-e-brand-new-face/2486350
   - poster: 446236294_1153921969194740_1525128938087763276_n.jpeg
     city: Campinas
     date: '06/07/2024 12:00'
-    daysGroup: 05/06/07
+    daysGroup: 05/06/07/08
   - poster: 446501145_814718947277448_7086654423223239464_n.jpeg
     city: Leme
     date: '17/08/2024 14:00'
@@ -379,6 +379,54 @@ gigs:
   - poster: 499a5720-2804-4c3f-b339-599d277d704f.jpeg
     city: Bauru
     date: '29/06/2024 16:00'
+    daysGroup: 27/28/29/30
+  - poster: 447916124_812190807229081_4092717067564889723_n.jpeg
+    city: São Paulo
+    date: '08/07/2024 19:00'
+    daysGroup: 05/06/07/08
+  - poster: 448180098_293894490485126_4116573440983436130_n.jpg
+    city: Várzea Paulista
+    date: '10/08/2024 19:00'
+    daysGroup: 09/10/11
+  - poster: 448350782_1286737662699405_8562312255424207282_n.jpeg
+    city: Santos
+    date: '21/06/2024 20:00'
+    daysGroup: 19/20/21/22/23/24
+  - poster: 448108908_777421607933646_428381068373563277_n.jpeg
+    city: Arujá
+    date: '29/06/2024 19:00'
+    daysGroup: 27/28/29/30
+  - poster: 448337858_1695920044277917_9187260849956268335_n.jpeg
+    city: Araraquara
+    date: '14/07/2024 16:00'
+    daysGroup: 12/13/14
+  - poster: 447822910_17902938104993993_648795934986216937_n.jpg
+    city: Diadema
+    date: '30/06/2024 14:00'
+    daysGroup: 27/28/29/30
+  - poster: 441921069_18319969873177795_2799550717097907083_n.jpg
+    city: Guarulhos
+    date: '15/06/2024 20:00'
+    daysGroup: 13/14/15/16/17
+  - poster: 448343074_988744899122126_2613919681988410905_n.jpeg
+    city: Santo André
+    date: '29/06/2024 19:00'
+    daysGroup: 27/28/29/30
+  - poster: 448278046_18081446122482751_4590865016595676714_n.jpg
+    city: São Paulo
+    date: '06/07/2024 18:00'
+    daysGroup: 05/06/07/08
+  - poster: 448173229_1484693458840651_7794978762278094927_n.jpeg
+    city: Taubaté
+    date: '14/06/2024 19:00'
+    daysGroup: 13/14/15/16/17
+  - poster: 448149142_369990116093251_4815280488128477142_n.jpeg
+    city: São Paulo
+    date: '14/06/2024 17:00'
+    daysGroup: 13/14/15/16/17
+  - poster: 448236099_1641087443293752_8817569042801397772_n.jpeg
+    city: Santos
+    date: '29/06/2024 21:00'
     daysGroup: 27/28/29/30
 ---
 
