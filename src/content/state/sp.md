@@ -126,6 +126,7 @@ gigs:
     city: Santos
     date: '14/06/2024 21:00'
     daysGroup: 13/14/15/16/17
+    ticketsUrl: 'https://www.caminhodomaringressos.com.br/evento/1080/prophecies-of-sin-tour-2024/'
   - poster: 443844137_308241835709538_4092223016429060800_n.jpeg
     city: São Paulo
     date: '21/07/2024 17:15'
