@@ -104,10 +104,6 @@ gigs:
     date: '07/07/2024 12:00'
     daysGroup: 05/06/07/08
     ticketsUrl: 'https://www.sympla.com.br/evento/synco-hc-festival-arena-show-sp/2450384'
-  - poster: 442420972_1821335045032665_9018548818020384033_n.jpg
-    city: São Paulo
-    date: '13/06/2024 19:00'
-    daysGroup: 13/14/15/16/17
   - poster: 442412529_1475719253024197_5375320085600563537_n.jpeg
     city: Sorocaba
     date: '06/07/2024 15:00'
@@ -130,12 +126,6 @@ gigs:
     city: Santos
     date: '14/06/2024 21:00'
     daysGroup: 13/14/15/16/17
-  - poster: enthroned_junho_2024.jpg
-    city: São Paulo
-    date: '13/06/2024 19:00'
-    daysGroup: 13/14/15/16/17
-    ticketsUrl: >-
-      https://www.clubedoingresso.com/evento/enthroned-nervochaos-introtyl-thedamnnation
   - poster: 443844137_308241835709538_4092223016429060800_n.jpeg
     city: São Paulo
     date: '21/07/2024 17:15'

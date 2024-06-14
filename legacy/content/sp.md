@@ -3532,5 +3532,15 @@ gigs:
     date: '10/06/2024 19:00'
     daysGroup: 06/07/08/09/10
     ticketsUrl: 'https://www.sympla.com.br/evento/test-curadoria-do-medo/2490119'
+  - poster: 442420972_1821335045032665_9018548818020384033_n.jpg
+    city: São Paulo
+    date: '13/06/2024 19:00'
+    daysGroup: 13/14/15/16/17
+  - poster: enthroned_junho_2024.jpg
+    city: São Paulo
+    date: '13/06/2024 19:00'
+    daysGroup: 13/14/15/16/17
+    ticketsUrl: >-
+      https://www.clubedoingresso.com/evento/enthroned-nervochaos-introtyl-thedamnnation
 ---
 
