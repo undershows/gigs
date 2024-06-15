@@ -12,7 +12,7 @@ gigs:
     date: '08/10/2024 18:00'
     daysGroup: 04/05/06/07/08
     ticketsUrl: 'https://www.bilheto.com.br/comprar/2265/lucifer-mg'
-  - poster: 435511028_344095994786401_4976039761927980713_n.jpeg
+  - poster: 435511028_344095994786401_4976039761927980713_n.jp g
     city: Belo Horizonte
     date: '15/06/2024 13:00'
     daysGroup: 14/15/16
