@@ -253,6 +253,7 @@ gigs:
     city: São Paulo
     date: '15/06/2024 17:00'
     daysGroup: 13/14/15/16/17
+    ticketsUrl: 'https://www.sympla.com.br/evento/subversao-2-edicao/2450443'
   - poster: 446347125_335081212736077_3796952661927701953_n.jpeg
     city: Ferraz de Vasconcelos
     date: '28/07/2024 14:00'
