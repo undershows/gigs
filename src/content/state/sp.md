@@ -401,5 +401,9 @@ gigs:
     city: Santos
     date: '29/06/2024 21:00'
     daysGroup: 27/28/29/30
+  - poster: e9231d3a-43c6-4988-9731-e1596754725e.jpeg
+    city: São Paulo
+    date: '15/06/2024 19:00'
+    daysGroup: 13/14/15/16/17
 ---
 
