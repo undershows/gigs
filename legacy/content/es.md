@@ -63,5 +63,9 @@ gigs:
     date: '08/06/2024 18:00'
     daysGroup: 07/08/09
     ticketsUrl: 'https://www.zig.tickets/eventos/laja-party'
+  - poster: 445034593_18028917335318060_262395100455508874_n.jpg
+    city: Vitória
+    date: '14/06/2024 20:00'
+    daysGroup: 14/15/16
 ---
 

@@ -3542,5 +3542,24 @@ gigs:
     daysGroup: 13/14/15/16/17
     ticketsUrl: >-
       https://www.clubedoingresso.com/evento/enthroned-nervochaos-introtyl-thedamnnation
+  - poster: 14-06 santos_resized.jpg
+    city: Santos
+    date: '14/06/2024 21:00'
+    daysGroup: 13/14/15/16/17
+    ticketsUrl: >-
+      https://www.caminhodomaringressos.com.br/evento/1080/prophecies-of-sin-tour-2024/
+  - poster: 441639120_18419060950064712_7463606075541089945_n.jpg
+    city: São Paulo
+    date: '14/06/2024 18:00'
+    daysGroup: 13/14/15/16/17
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/chuvanegra-casaaurea'
+  - poster: 448173229_1484693458840651_7794978762278094927_n.jpeg
+    city: Taubaté
+    date: '14/06/2024 19:00'
+    daysGroup: 13/14/15/16/17
+  - poster: 448149142_369990116093251_4815280488128477142_n.jpeg
+    city: São Paulo
+    date: '14/06/2024 17:00'
+    daysGroup: 13/14/15/16/17
 ---
 

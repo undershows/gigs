@@ -122,11 +122,6 @@ gigs:
     city: Santos
     date: '22/06/2024 21:00'
     daysGroup: 19/20/21/22/23/24
-  - poster: 14-06 santos_resized.jpg
-    city: Santos
-    date: '14/06/2024 21:00'
-    daysGroup: 13/14/15/16/17
-    ticketsUrl: 'https://www.caminhodomaringressos.com.br/evento/1080/prophecies-of-sin-tour-2024/'
   - poster: 443844137_308241835709538_4092223016429060800_n.jpeg
     city: São Paulo
     date: '21/07/2024 17:15'
@@ -275,11 +270,6 @@ gigs:
     city: Guarulhos
     date: '28/07/2024 15:00'
     daysGroup: 26/27/28
-  - poster: 441639120_18419060950064712_7463606075541089945_n.jpg
-    city: São Paulo
-    date: '14/06/2024 18:00'
-    daysGroup: 13/14/15/16/17
-    ticketsUrl: 'https://www.clubedoingresso.com/evento/chuvanegra-casaaurea'
   - poster: 037ba027-2aec-4037-bc4c-5c9fab9bfd51-3.jpeg
     city: São Paulo
     date: '17/06/2024 19:00'
@@ -407,14 +397,6 @@ gigs:
     city: São Paulo
     date: '06/07/2024 18:00'
     daysGroup: 05/06/07/08
-  - poster: 448173229_1484693458840651_7794978762278094927_n.jpeg
-    city: Taubaté
-    date: '14/06/2024 19:00'
-    daysGroup: 13/14/15/16/17
-  - poster: 448149142_369990116093251_4815280488128477142_n.jpeg
-    city: São Paulo
-    date: '14/06/2024 17:00'
-    daysGroup: 13/14/15/16/17
   - poster: 448236099_1641087443293752_8817569042801397772_n.jpeg
     city: Santos
     date: '29/06/2024 21:00'

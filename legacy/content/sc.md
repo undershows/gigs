@@ -169,5 +169,11 @@ gigs:
     date: '31/05/2024 22:00'
     daysGroup: 29/30/31
     ticketsUrl: 'https://meaple.com.br/produja1/bayside-kings-em-sc'
+  - poster: 441804202_2534441426728463_245274237350031093_n.jpg
+    city: Blumenau
+    date: '14/06/2024 22:00'
+    daysGroup: 14/15/16
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/sangue-de-bode-budang-jovens-ateus-caebraenegrae/2457021
 ---
 
