@@ -201,6 +201,7 @@ gigs:
     city: São Paulo
     date: '15/06/2024 19:00'
     daysGroup: 13/14/15/16/17
+    ticketsUrl: 'https://pixelticket.com.br/eventos/20811/menores-atos-10-anos-de-animalia'
   - poster: 446501114_2141202042939092_1417775848871820635_n.jpeg
     city: São Paulo
     date: '19/07/2024 19:00'
