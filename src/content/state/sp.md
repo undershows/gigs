@@ -407,5 +407,10 @@ gigs:
     city: São Paulo
     date: '15/06/2024 19:00'
     daysGroup: 13/14/15/16/17
+  - poster: e1871e0f-70e7-40de-a82e-7d12d046d300.jpeg
+    city: Santo André
+    date: '28/06/2024 19:00'
+    daysGroup: 27/28/29/30
+    ticketsUrl: 'https://www.sympla.com.br/evento/test-batto-flavio-lazzarin-bateriaaa-ao-vivo-no-74club/2509518'
 ---
 
