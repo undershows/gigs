@@ -31,10 +31,6 @@ gigs:
     date: '09/08/2024 19:00'
     daysGroup: 09/10/11
     ticketsUrl: 'https://bilheto.com.br/comprar/2028/batushka-em-limeira'
-  - poster: 434149592_1112553236443371_1730872517776889531_n.jpg
-    city: Batatais
-    date: '15/06/2024 18:00'
-    daysGroup: 13/14/15/16/17
   - poster: 434209815_3693726360945612_4649749239957905202_n.jpeg
     city: São Paulo
     date: '06/10/2024 14:00'
@@ -50,10 +46,6 @@ gigs:
     date: '22/06/2024 18:00'
     daysGroup: 19/20/21/22/23/24
     ticketsUrl: 'https://www.ingresse.com/the-obsessed/'
-  - poster: 435246765_17878962312048719_1809705049119668091_n.jpg
-    city: São Paulo
-    date: '15/06/2024 20:00'
-    daysGroup: 13/14/15/16/17
   - poster: 435113467_18219355696263705_2553179225496696992_n.jpg
     city: São Paulo
     date: '08/11/2024 19:00'
@@ -87,10 +79,6 @@ gigs:
     date: '23/06/2024 20:00'
     daysGroup: 19/20/21/22/23/24
     ticketsUrl: 'https://articket.com.br/e/2143/garage-fuzz-chuva-negra-no-1100'
-  - poster: 442137007_994312078851775_9140865591619313112_n.jpeg
-    city: São Sebastião
-    date: '15/06/2024 19:00'
-    daysGroup: 13/14/15/16/17
   - poster: 441127154_792081799541511_5000173471982161746_n.jpeg
     city: São Paulo
     date: '30/06/2024 17:00'
@@ -193,11 +181,6 @@ gigs:
     city: Marília
     date: '22/09/2024 18:00'
     daysGroup: 20/21/22
-  - poster: 441117946_989420779417300_8811737969350110387_n.jpg
-    city: São Paulo
-    date: '15/06/2024 19:00'
-    daysGroup: 13/14/15/16/17
-    ticketsUrl: 'https://pixelticket.com.br/eventos/20811/menores-atos-10-anos-de-animalia'
   - poster: 446501114_2141202042939092_1417775848871820635_n.jpeg
     city: São Paulo
     date: '19/07/2024 19:00'
@@ -207,10 +190,6 @@ gigs:
     city: São Paulo
     date: '30/06/2024 16:00'
     daysGroup: 27/28/29/30
-  - poster: 446477428_876055107687964_2163020499752477530_n.jpeg
-    city: São Paulo
-    date: '15/06/2024 22:00'
-    daysGroup: 13/14/15/16/17
   - poster: 446196022_750974833914845_1775194026717803467_n.jpeg
     city: Americana
     date: '05/07/2024 20:00'
@@ -246,11 +225,6 @@ gigs:
     city: São Paulo
     date: '22/06/2024 19:00'
     daysGroup: 19/20/21/22/23/24
-  - poster: 446350401_755261026775941_5117074098869142669_n.jpeg
-    city: São Paulo
-    date: '15/06/2024 17:00'
-    daysGroup: 13/14/15/16/17
-    ticketsUrl: 'https://www.sympla.com.br/evento/subversao-2-edicao/2450443'
   - poster: 446347125_335081212736077_3796952661927701953_n.jpeg
     city: Ferraz de Vasconcelos
     date: '28/07/2024 14:00'
@@ -295,17 +269,9 @@ gigs:
     city: São Paulo
     date: '16/06/2024 12:00'
     daysGroup: 13/14/15/16/17
-  - poster: 444976297_2750499115108071_4298562109583175765_n.jpg
-    city: Mauá
-    date: '15/06/2024 12:00'
-    daysGroup: 13/14/15/16/17
   - poster: 444946663_18419801041071768_4429571988375480427_n.jpg
     city: São Paulo
     date: '16/06/2024 15:00'
-    daysGroup: 13/14/15/16/17
-  - poster: 441875719_18077826988490397_706554210340265725_n.jpg
-    city: São Paulo
-    date: '15/06/2024 18:00'
     daysGroup: 13/14/15/16/17
   - poster: 441876998_18436328866033374_7572348452534085444_n.jpg
     city: São Paulo
@@ -327,10 +293,6 @@ gigs:
     city: São Paulo
     date: '13/10/2024 13:00'
     daysGroup: 11/12/13
-  - poster: 447919946_1491096328142439_5254821105493906163_n.jpg
-    city: São Paulo
-    date: '15/06/2024 15:00'
-    daysGroup: 13/14/15/16/17
   - poster: 444487702_2750771008414215_1594293608065210207_n.jpg
     city: Diadema
     date: '23/06/2024 20:00'
@@ -383,10 +345,6 @@ gigs:
     city: Diadema
     date: '30/06/2024 14:00'
     daysGroup: 27/28/29/30
-  - poster: 441921069_18319969873177795_2799550717097907083_n.jpg
-    city: Guarulhos
-    date: '15/06/2024 20:00'
-    daysGroup: 13/14/15/16/17
   - poster: 448343074_988744899122126_2613919681988410905_n.jpeg
     city: Santo André
     date: '29/06/2024 19:00'
@@ -399,14 +357,11 @@ gigs:
     city: Santos
     date: '29/06/2024 21:00'
     daysGroup: 27/28/29/30
-  - poster: e9231d3a-43c6-4988-9731-e1596754725e.jpeg
-    city: São Paulo
-    date: '15/06/2024 19:00'
-    daysGroup: 13/14/15/16/17
   - poster: e1871e0f-70e7-40de-a82e-7d12d046d300.jpeg
     city: Santo André
     date: '28/06/2024 19:00'
     daysGroup: 27/28/29/30
-    ticketsUrl: 'https://www.sympla.com.br/evento/test-batto-flavio-lazzarin-bateriaaa-ao-vivo-no-74club/2509518'
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/test-batto-flavio-lazzarin-bateriaaa-ao-vivo-no-74club/2509518
 ---
 

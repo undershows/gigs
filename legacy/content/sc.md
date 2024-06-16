@@ -175,5 +175,11 @@ gigs:
     daysGroup: 14/15/16
     ticketsUrl: >-
       https://www.sympla.com.br/evento/sangue-de-bode-budang-jovens-ateus-caebraenegrae/2457021
+  - poster: 441577622_18125053966359064_7764563190173908122_n.jpg
+    city: Florianópolis
+    date: '15/06/2024 22:00'
+    daysGroup: 14/15/16
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/budang-jovens-ateus-cabranegra-e-sangue-de-bode/2455925
 ---
 

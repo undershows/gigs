@@ -344,5 +344,9 @@ gigs:
     city: Londrina
     date: '09/06/2024 16:00'
     daysGroup: 07/08/09
+  - poster: 15-06 guarapuava_resized.jpg
+    city: Guarapuava
+    date: '15/06/2024 20:00'
+    daysGroup: 14/15/16
 ---
 

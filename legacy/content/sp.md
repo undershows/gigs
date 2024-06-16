@@ -3561,5 +3561,51 @@ gigs:
     city: São Paulo
     date: '14/06/2024 17:00'
     daysGroup: 13/14/15/16/17
+  - poster: 434149592_1112553236443371_1730872517776889531_n.jpg
+    city: Batatais
+    date: '15/06/2024 18:00'
+    daysGroup: 13/14/15/16/17
+  - poster: 435246765_17878962312048719_1809705049119668091_n.jpg
+    city: São Paulo
+    date: '15/06/2024 20:00'
+    daysGroup: 13/14/15/16/17
+  - poster: 442137007_994312078851775_9140865591619313112_n.jpeg
+    city: São Sebastião
+    date: '15/06/2024 19:00'
+    daysGroup: 13/14/15/16/17
+  - poster: 441117946_989420779417300_8811737969350110387_n.jpg
+    city: São Paulo
+    date: '15/06/2024 19:00'
+    daysGroup: 13/14/15/16/17
+    ticketsUrl: 'https://pixelticket.com.br/eventos/20811/menores-atos-10-anos-de-animalia'
+  - poster: 446477428_876055107687964_2163020499752477530_n.jpeg
+    city: São Paulo
+    date: '15/06/2024 22:00'
+    daysGroup: 13/14/15/16/17
+  - poster: 446350401_755261026775941_5117074098869142669_n.jpeg
+    city: São Paulo
+    date: '15/06/2024 17:00'
+    daysGroup: 13/14/15/16/17
+    ticketsUrl: 'https://www.sympla.com.br/evento/subversao-2-edicao/2450443'
+  - poster: 444976297_2750499115108071_4298562109583175765_n.jpg
+    city: Mauá
+    date: '15/06/2024 12:00'
+    daysGroup: 13/14/15/16/17
+  - poster: 441875719_18077826988490397_706554210340265725_n.jpg
+    city: São Paulo
+    date: '15/06/2024 18:00'
+    daysGroup: 13/14/15/16/17
+  - poster: 447919946_1491096328142439_5254821105493906163_n.jpg
+    city: São Paulo
+    date: '15/06/2024 15:00'
+    daysGroup: 13/14/15/16/17
+  - poster: 441921069_18319969873177795_2799550717097907083_n.jpg
+    city: Guarulhos
+    date: '15/06/2024 20:00'
+    daysGroup: 13/14/15/16/17
+  - poster: e9231d3a-43c6-4988-9731-e1596754725e.jpeg
+    city: São Paulo
+    date: '15/06/2024 19:00'
+    daysGroup: 13/14/15/16/17
 ---
 
