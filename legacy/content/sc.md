@@ -181,5 +181,14 @@ gigs:
     daysGroup: 14/15/16
     ticketsUrl: >-
       https://www.sympla.com.br/evento/budang-jovens-ateus-cabranegra-e-sangue-de-bode/2455925
+  - poster: 428632659_798352212320204_6476687353376032331_n.jpg
+    city: Florianópolis
+    date: '16/06/2024 16:00'
+    daysGroup: 14/15/16
+    ticketsUrl: 'https://bilheto.com.br/comprar/2167/the-burning-dawn'
+  - poster: 441875786_18124962007359064_5708522215644312971_n.jpg
+    city: Jaraguá do Sul
+    date: '16/06/2024 16:00'
+    daysGroup: 14/15/16
 ---
 

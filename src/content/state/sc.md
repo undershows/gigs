@@ -7,11 +7,6 @@ gigs:
     date: '05/07/2024 18:00'
     daysGroup: 05/06/07
     ticketsUrl: 'https://bilheto.com.br/comprar/2168/sinister'
-  - poster: 428632659_798352212320204_6476687353376032331_n.jpg
-    city: Florianópolis
-    date: '16/06/2024 16:00'
-    daysGroup: 14/15/16
-    ticketsUrl: 'https://bilheto.com.br/comprar/2167/the-burning-dawn'
   - poster: 430144588_799608852194540_3968061267463551909_n.jpg
     city: Dona Emma
     date: '21/06/2024 19:00'
@@ -34,10 +29,6 @@ gigs:
     date: '28/06/2024 21:00'
     daysGroup: 28/29/30
     ticketsUrl: 'https://www.clubedoingresso.com/evento/menoresatos-florianopolis'
-  - poster: 441875786_18124962007359064_5708522215644312971_n.jpg
-    city: Jaraguá do Sul
-    date: '16/06/2024 16:00'
-    daysGroup: 14/15/16
   - poster: 447913932_1756668884742166_767162404256722660_n.jpeg
     city: Florianópolis
     date: '30/08/2024 20:00'

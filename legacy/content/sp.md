@@ -3607,5 +3607,29 @@ gigs:
     city: São Paulo
     date: '15/06/2024 19:00'
     daysGroup: 13/14/15/16/17
+  - poster: 438118175_1006800307730963_5439434071533060370_n.jpg
+    city: São Paulo
+    date: '16/06/2024 14:00'
+    daysGroup: 13/14/15/16/17
+  - poster: 5138900a-4534-4670-8c12-f3ad4792fa4c.jpeg
+    city: São Paulo
+    date: '16/06/2024 16:00'
+    daysGroup: 13/14/15/16/17
+  - poster: 446934769_819418522990496_8154413411849041631_n.jpeg
+    city: Várzea Paulista
+    date: '16/06/2024 16:00'
+    daysGroup: 13/14/15/16/17
+  - poster: 447781220_362213233140627_3793805026720577620_n.jpeg
+    city: São Paulo
+    date: '16/06/2024 12:00'
+    daysGroup: 13/14/15/16/17
+  - poster: 444946663_18419801041071768_4429571988375480427_n.jpg
+    city: São Paulo
+    date: '16/06/2024 15:00'
+    daysGroup: 13/14/15/16/17
+  - poster: 444928445_2750498998441416_2679712235536649912_n.jpg
+    city: Diadema
+    date: '16/06/2024 18:00'
+    daysGroup: 13/14/15/16/17
 ---
 

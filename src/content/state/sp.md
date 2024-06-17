@@ -134,10 +134,6 @@ gigs:
     city: Bauru
     date: '13/07/2024 20:00'
     daysGroup: 12/13/14
-  - poster: 438118175_1006800307730963_5439434071533060370_n.jpg
-    city: São Paulo
-    date: '16/06/2024 14:00'
-    daysGroup: 13/14/15/16/17
   - poster: 446217292_828556425439093_3944928494405814725_n.jpeg
     city: São Paulo
     date: '31/08/2024 19:00'
@@ -152,10 +148,6 @@ gigs:
     date: '04/08/2024 14:00'
     daysGroup: 02/03/04
     ticketsUrl: 'https://pixelticket.com.br/eventos/15799/oxigenio-festival-2024'
-  - poster: 5138900a-4534-4670-8c12-f3ad4792fa4c.jpeg
-    city: São Paulo
-    date: '16/06/2024 16:00'
-    daysGroup: 13/14/15/16/17
   - poster: 222c4490-188a-4f23-bca8-9dc3a2820883.jpeg
     city: Jacareí
     date: '20/07/2024 18:00'
@@ -252,10 +244,6 @@ gigs:
     date: '24/06/2024 19:00'
     daysGroup: 19/20/21/22/23/24
     ticketsUrl: 'https://www.sympla.com.br/evento/test-curadoria-do-medo/2490124'
-  - poster: 446934769_819418522990496_8154413411849041631_n.jpeg
-    city: Várzea Paulista
-    date: '16/06/2024 16:00'
-    daysGroup: 13/14/15/16/17
   - poster: nervochaos_sp_270624.jpeg
     city: São Paulo
     date: '27/06/2024 21:00'
@@ -265,14 +253,6 @@ gigs:
     city: São Paulo
     date: '23/06/2024 14:00'
     daysGroup: 19/20/21/22/23/24
-  - poster: 447781220_362213233140627_3793805026720577620_n.jpeg
-    city: São Paulo
-    date: '16/06/2024 12:00'
-    daysGroup: 13/14/15/16/17
-  - poster: 444946663_18419801041071768_4429571988375480427_n.jpg
-    city: São Paulo
-    date: '16/06/2024 15:00'
-    daysGroup: 13/14/15/16/17
   - poster: 441876998_18436328866033374_7572348452534085444_n.jpg
     city: São Paulo
     date: '19/10/2024 16:00'
@@ -297,10 +277,6 @@ gigs:
     city: Diadema
     date: '23/06/2024 20:00'
     daysGroup: 19/20/21/22/23/24
-  - poster: 444928445_2750498998441416_2679712235536649912_n.jpg
-    city: Diadema
-    date: '16/06/2024 18:00'
-    daysGroup: 13/14/15/16/17
   - poster: b24d2298-d939-46ab-a8a7-5285e1794fd5.jpeg
     city: São Paulo
     date: '21/07/2024 18:00'

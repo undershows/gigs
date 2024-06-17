@@ -227,5 +227,9 @@ gigs:
     daysGroup: 07/08/09
     ticketsUrl: >-
       https://www.eventim.com.br/event/new-model-army-no-circo-voador-circo-voador-18227342/
+  - poster: 446483620_840900261392107_7267039377642298183_n.jpeg
+    city: Teresópolis
+    date: '16/06/2024 15:00'
+    daysGroup: 14/15/16
 ---
 
