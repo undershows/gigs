@@ -3631,5 +3631,10 @@ gigs:
     city: Diadema
     date: '16/06/2024 18:00'
     daysGroup: 13/14/15/16/17
+  - poster: 037ba027-2aec-4037-bc4c-5c9fab9bfd51-3.jpeg
+    city: São Paulo
+    date: '17/06/2024 19:00'
+    daysGroup: 13/14/15/16/17
+    ticketsUrl: 'https://www.sympla.com.br/evento/test-curadoria-do-medo/2490123'
 ---
 
