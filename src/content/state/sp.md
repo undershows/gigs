@@ -334,5 +334,52 @@ gigs:
     daysGroup: 27/28/29/30
     ticketsUrl: >-
       https://www.sympla.com.br/evento/test-batto-flavio-lazzarin-bateriaaa-ao-vivo-no-74club/2509518
+  - poster: 448530678_18325807492121660_7376303376978290223_n.jpg
+    city: São Paulo
+    date: '14/07/2024 14:00'
+    daysGroup: 12/13/14
+  - poster: 58fe5591-8643-4a84-9a45-4b88dbc713b3.jpeg
+    city: Agudos
+    date: '06/07/2024 12:00'
+    daysGroup: 05/06/07/08
+  - poster: 448559475_1393058804617635_4411518421752553849_n.jpeg
+    city: São Paulo
+    date: '30/06/2024 15:00'
+    daysGroup: 27/28/29/30
+  - poster: 448558579_2223934391298313_3776003095385969582_n.jpg
+    city: São Paulo
+    date: '23/06/2024 17:00'
+    daysGroup: 19/20/21/22/23/24
+    ticketsUrl: 'https://www.sympla.com.br/evento/rio-do-meio-records-apresenta-under-fucking-control-fest/2468184'
+  - poster: 448598417_819194146949664_3447202128431175180_n.jpeg
+    city: São Paulo
+    date: '28/09/2024 15:00'
+    daysGroup: 27/28/29
+  - poster: 448781933_403609956006422_6850884362533269199_n.jpeg
+    city: São Paulo
+    date: '13/07/2024 20:00'
+    daysGroup: 12/13/14
+    ticketsUrl: 'https://www.sympla.com.br/evento/a-porta-maldita-personas-a-queda-de-ofelia-de-carne-e-flor/2513892'
+  - poster: 448560696_449042014428665_4487767788764471820_n.jpeg
+    city: Araras
+    date: '22/06/2024 19:00'
+    daysGroup: 19/20/21/22/23/24
+  - poster: 448598135_457595216991896_4953406488677237483_n.jpeg
+    city: Santos
+    date: '05/07/2024 21:00'
+    daysGroup: 05/06/07/08
+  - poster: 448410243_775779514540392_4679043372263992941_n.jpeg
+    city: São Paulo
+    date: '13/07/2024 20:30'
+    daysGroup: 12/13/14
+  - poster: 448524371_2729902517165285_277287239481593466_n.jpeg
+    city: São Paulo
+    date: '21/06/2024 19:00'
+    daysGroup: 19/20/21/22/23/24
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/discharge-saopaulo'
+  - poster: 448525833_881386550699498_3233835795414812362_n.jpeg
+    city: São Paulo
+    date: '29/06/2024 19:00'
+    daysGroup: 27/28/29/30
 ---
 
