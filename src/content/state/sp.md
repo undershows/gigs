@@ -381,5 +381,42 @@ gigs:
     city: São Paulo
     date: '29/06/2024 19:00'
     daysGroup: 27/28/29/30
+  - poster: 448596210_1031432548402311_4270624394271010845_n.jpeg
+    city: São Paulo
+    date: '22/06/2024 21:00'
+    daysGroup: 19/20/21/22/23/24
+  - poster: 448609144_1712291969302170_6153003956246941509_n.jpeg
+    city: São Paulo
+    date: '28/06/2024 20:00'
+    daysGroup: 27/28/29/30
+    ticketsUrl: 'https://www.sympla.com.br/evento/a-porta-maldita-animais-jardim-depressa-gibaa-mizimo/2510732'
+  - poster: 448670020_971819701616122_2281387537639636541_n.jpg
+    city: São Paulo
+    date: '19/06/2024 17:00'
+    daysGroup: 19/20/21/22/23/24
+  - poster: 448586316_390541970670453_3544070453345819849_n.jpeg
+    city: São Paulo
+    date: '05/07/2024 18:00'
+    daysGroup: 05/06/07/08
+  - poster: 448614123_1874323839737102_4833350796076723419_n.jpeg
+    city: São Paulo
+    date: '23/06/2024 15:00'
+    daysGroup: 19/20/21/22/23/24
+  - poster: 448539785_987591936111968_5228688742296726764_n.jpeg
+    city: São Paulo
+    date: '22/06/2024 18:00'
+    daysGroup: 19/20/21/22/23/24
+  - poster: 448495913_18031549943100666_3477413078852535628_n.jpg
+    city: Americana
+    date: '22/06/2024 20:00'
+    daysGroup: 19/20/21/22/23/24
+  - poster: 448640806_18042959554808148_4943041118160947566_n.jpg
+    city: São Paulo
+    date: '29/06/2024 18:00'
+    daysGroup: 27/28/29/30
+  - poster: 448599317_1640538466785595_3127943531310200509_n.jpeg
+    city: Itu
+    date: '28/06/2024 19:00'
+    daysGroup: 27/28/29/30
 ---
 

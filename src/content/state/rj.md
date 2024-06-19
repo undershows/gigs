@@ -14,7 +14,7 @@ gigs:
   - poster: 430063560_8225190384162681_3096312461952379744_n.jpg
     city: Rio de Janeiro
     date: '25/08/2024 20:00'
-    daysGroup: 25/26/27
+    daysGroup: 23/24/25
   - poster: 434016589_1877951889378221_6366716932807969737_n.jpeg
     city: Rio de Janeiro
     date: '22/06/2024 20:00'
@@ -43,5 +43,20 @@ gigs:
     city: Rio de Janeiro
     date: '06/07/2024 19:00'
     daysGroup: 05/06/07
+  - poster: 447783682_18268646881209755_6332888464804749624_n.jpg
+    city: Rio de Janeiro
+    date: '24/08/2024 20:00'
+    daysGroup: 23/24/25
+    ticketsUrl: 'https://articket.com.br/e/2272/surra-no-rio-de-janeiro'
+  - poster: 448592007_17919872603928459_6067949027374026206_n.jpg
+    city: Rio de Janeiro
+    date: '21/09/2024 18:00'
+    daysGroup: 20/21/22
+    ticketsUrl: 'https://www.sympla.com.br/evento/ines-e-morta-tempos-de-morte/2515170'
+  - poster: 448354829_1129907261423006_2998188825287650683_n.jpeg
+    city: Rio de Janeiro
+    date: '22/06/2024 21:00'
+    daysGroup: 21/22/23
+    ticketsUrl: 'https://www.sympla.com.br/evento/vacanti-ph-mazza-nebulosa-no-pecado-mora-ao-lado/2513788'
 ---
 

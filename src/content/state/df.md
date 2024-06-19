@@ -27,5 +27,9 @@ gigs:
     daysGroup: 19/20/21
     ticketsUrl: >-
       https://www.furandoafila.com.br/comprar/4738/ritual-alquimico-evento-de-metal
+  - poster: 448491981_440001172221904_5457781451653640542_n.jpeg
+    city: Taguatinga
+    date: '14/07/2024 14:00'
+    daysGroup: 12/13/14
 ---
 

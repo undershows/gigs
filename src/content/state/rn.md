@@ -10,5 +10,9 @@ gigs:
     city: Natal
     date: '13/09/2024 20:00'
     daysGroup: 13/14/15
+  - poster: 448666443_431571073169644_7459075536875658086_n.jpeg
+    city: Natal
+    date: '06/07/2024 20:00'
+    daysGroup: 05/06/07
 ---
 
