@@ -348,5 +348,9 @@ gigs:
     city: Guarapuava
     date: '15/06/2024 20:00'
     daysGroup: 14/15/16
+  - poster: enthroned_foz_do_iguacu.jpeg
+    city: Foz do Iguaçu
+    date: '18/06/2024 19:00'
+    daysGroup: 18/19/20/21/22/23
 ---
 

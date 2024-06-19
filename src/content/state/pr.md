@@ -13,10 +13,6 @@ gigs:
     daysGroup: 18/19/20/21/22/23
     ticketsUrl: >-
       https://www.sympla.com.br/evento/enthroned-nervochaos-introtyl-holder/2372974
-  - poster: enthroned_foz_do_iguacu.jpeg
-    city: Foz do Iguaçu
-    date: '18/06/2024 19:00'
-    daysGroup: 18/19/20/21/22/23
   - poster: 443240108_268472159679749_603287528850706211_n.jpeg
     city: Londrina
     date: '25/08/2024 16:00'
@@ -41,6 +37,7 @@ gigs:
     city: Londrina
     date: '04/07/2024 22:00'
     daysGroup: 04/05/06/07
-    ticketsUrl: 'https://www.sympla.com.br/evento/sinister-diretamente-da-holanda-com-os-convidados-locais-guro/2507992'
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/sinister-diretamente-da-holanda-com-os-convidados-locais-guro/2507992
 ---
 
