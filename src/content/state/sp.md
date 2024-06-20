@@ -426,5 +426,17 @@ gigs:
     city: São José dos Campos
     date: '04/08/2024 18:00'
     daysGroup: 02/03/04
+  - poster: 448347409_788158903416461_5380914246380334053_n.jpeg
+    city: Osasco
+    date: '07/07/2024 17:00'
+    daysGroup: 05/06/07/08
+  - poster: 448716011_428525233342310_2954090019216484008_n.jpeg
+    city: São Paulo
+    date: '20/07/2024 20:00'
+    daysGroup: 18/19/20/21
+  - poster: 440862858_408271162114895_4001026373223064857_n.jpg
+    city: São José dos Campos
+    date: '28/07/2024 17:00'
+    daysGroup: 26/27/28
 ---
 
