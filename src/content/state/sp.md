@@ -418,5 +418,13 @@ gigs:
     city: Itu
     date: '28/06/2024 19:00'
     daysGroup: 27/28/29/30
+  - poster: 448472918_2762624123895570_2648964722289704490_n.jpg
+    city: Várzea Paulista
+    date: '13/07/2024 16:00'
+    daysGroup: 12/13/14
+  - poster: 448814228_10161732244639516_6595458316708930083_n.jpg
+    city: São José dos Campos
+    date: '04/08/2024 18:00'
+    daysGroup: 02/03/04
 ---
 
