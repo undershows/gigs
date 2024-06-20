@@ -256,10 +256,6 @@ gigs:
     city: Mogi Guaçu
     date: '20/06/2024 20:00'
     daysGroup: 19/20/21/22/23/24
-  - poster: 447648388_309700802193547_262838486000243316_n.jpeg
-    city: Jundiaí
-    date: '19/06/2024 19:00'
-    daysGroup: 19/20/21/22/23/24
   - poster: 443240525_3791889017803407_1561486575764875992_n.jpeg
     city: São José dos Campos
     date: '23/06/2024 17:00'
@@ -350,7 +346,8 @@ gigs:
     city: São Paulo
     date: '23/06/2024 17:00'
     daysGroup: 19/20/21/22/23/24
-    ticketsUrl: 'https://www.sympla.com.br/evento/rio-do-meio-records-apresenta-under-fucking-control-fest/2468184'
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/rio-do-meio-records-apresenta-under-fucking-control-fest/2468184
   - poster: 448598417_819194146949664_3447202128431175180_n.jpeg
     city: São Paulo
     date: '28/09/2024 15:00'
@@ -359,7 +356,8 @@ gigs:
     city: São Paulo
     date: '13/07/2024 20:00'
     daysGroup: 12/13/14
-    ticketsUrl: 'https://www.sympla.com.br/evento/a-porta-maldita-personas-a-queda-de-ofelia-de-carne-e-flor/2513892'
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/a-porta-maldita-personas-a-queda-de-ofelia-de-carne-e-flor/2513892
   - poster: 448560696_449042014428665_4487767788764471820_n.jpeg
     city: Araras
     date: '22/06/2024 19:00'
@@ -389,11 +387,8 @@ gigs:
     city: São Paulo
     date: '28/06/2024 20:00'
     daysGroup: 27/28/29/30
-    ticketsUrl: 'https://www.sympla.com.br/evento/a-porta-maldita-animais-jardim-depressa-gibaa-mizimo/2510732'
-  - poster: 448670020_971819701616122_2281387537639636541_n.jpg
-    city: São Paulo
-    date: '19/06/2024 17:00'
-    daysGroup: 19/20/21/22/23/24
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/a-porta-maldita-animais-jardim-depressa-gibaa-mizimo/2510732
   - poster: 448586316_390541970670453_3544070453345819849_n.jpeg
     city: São Paulo
     date: '05/07/2024 18:00'

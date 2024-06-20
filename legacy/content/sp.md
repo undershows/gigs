@@ -3636,5 +3636,13 @@ gigs:
     date: '17/06/2024 19:00'
     daysGroup: 13/14/15/16/17
     ticketsUrl: 'https://www.sympla.com.br/evento/test-curadoria-do-medo/2490123'
+  - poster: 447648388_309700802193547_262838486000243316_n.jpeg
+    city: Jundiaí
+    date: '19/06/2024 19:00'
+    daysGroup: 19/20/21/22/23/24
+  - poster: 448670020_971819701616122_2281387537639636541_n.jpg
+    city: São Paulo
+    date: '19/06/2024 17:00'
+    daysGroup: 19/20/21/22/23/24
 ---
 
