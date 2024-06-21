@@ -292,6 +292,7 @@ gigs:
     city: Santos
     date: '21/06/2024 20:00'
     daysGroup: 19/20/21/22/23/24
+    ticketsUrl: 'https://www.sympla.com.br/evento/emogaze-1-edicao-santos-jonabug-colina-capote-seaport-e-envelope-nuclear/2487921'
   - poster: 448108908_777421607933646_428381068373563277_n.jpeg
     city: Arujá
     date: '29/06/2024 19:00'

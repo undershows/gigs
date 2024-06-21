@@ -7,10 +7,6 @@ gigs:
     date: '05/07/2024 18:00'
     daysGroup: 05/06/07
     ticketsUrl: 'https://bilheto.com.br/comprar/2168/sinister'
-  - poster: 430144588_799608852194540_3968061267463551909_n.jpg
-    city: Dona Emma
-    date: '21/06/2024 19:00'
-    daysGroup: 21/22/23
   - poster: enthroned-saobentodosul-2024-819x1024.jpg
     city: São Bento do Sul
     date: '23/06/2024 15:00'
@@ -22,8 +18,9 @@ gigs:
     daysGroup: 21/22/23
   - poster: 21.06 urussanga_resized.jpg
     city: Urussanga
-    date: '21/06/2024 15:00'
+    date: '21/06/2024 21:00'
     daysGroup: 21/22/23
+    ticketsUrl: 'https://bilheto.com.br/comprar/2376/walpurgis-night'
   - poster: 446206767_990907145928795_2809639399592623670_n.jpg
     city: Florianópolis
     date: '28/06/2024 21:00'
