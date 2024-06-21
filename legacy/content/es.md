@@ -67,5 +67,9 @@ gigs:
     city: Vitória
     date: '14/06/2024 20:00'
     daysGroup: 14/15/16
+  - poster: 5186aad1-3308-4245-b298-09a2d704b4d2.jpeg
+    city: Guaçuí
+    date: '20/06/2024 20:00'
+    daysGroup: 20/21/22/23
 ---
 

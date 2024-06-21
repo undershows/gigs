@@ -3644,5 +3644,13 @@ gigs:
     city: São Paulo
     date: '19/06/2024 17:00'
     daysGroup: 19/20/21/22/23/24
+  - poster: 447770430_981585619862588_704791221239071241_n.jpeg
+    city: Mogi Guaçu
+    date: '20/06/2024 20:00'
+    daysGroup: 19/20/21/22/23/24
+  - poster: 7ee81d4e-0555-4c4c-944a-736f74f66575.jpeg
+    city: São Paulo
+    date: '20/06/2024 20:00'
+    daysGroup: 19/20/21/22/23/24
 ---
 

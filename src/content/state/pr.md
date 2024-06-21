@@ -2,11 +2,6 @@
 abbr: PR
 name: Paraná
 gigs:
-  - poster: 428611066_797140522441373_7763513656686433665_n.jpg
-    city: Curitiba
-    date: '20/06/2024 21:00'
-    daysGroup: 18/19/20/21/22/23
-    ticketsUrl: 'https://bilheto.com.br/comprar/2155/satanic-gathering'
   - poster: 443240108_268472159679749_603287528850706211_n.jpeg
     city: Londrina
     date: '25/08/2024 16:00'

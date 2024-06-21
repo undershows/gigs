@@ -358,5 +358,10 @@ gigs:
     daysGroup: 18/19/20/21/22/23
     ticketsUrl: >-
       https://www.sympla.com.br/evento/enthroned-nervochaos-introtyl-holder/2372974
+  - poster: 428611066_797140522441373_7763513656686433665_n.jpg
+    city: Curitiba
+    date: '20/06/2024 21:00'
+    daysGroup: 18/19/20/21/22/23
+    ticketsUrl: 'https://bilheto.com.br/comprar/2155/satanic-gathering'
 ---
 

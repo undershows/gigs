@@ -252,10 +252,6 @@ gigs:
     city: São Paulo
     date: '19/10/2024 16:00'
     daysGroup: 18/19/20
-  - poster: 447770430_981585619862588_704791221239071241_n.jpeg
-    city: Mogi Guaçu
-    date: '20/06/2024 20:00'
-    daysGroup: 19/20/21/22/23/24
   - poster: 443240525_3791889017803407_1561486575764875992_n.jpeg
     city: São José dos Campos
     date: '23/06/2024 17:00'
@@ -276,10 +272,6 @@ gigs:
     city: São Paulo
     date: '10/08/2024 19:00'
     daysGroup: 09/10/11
-  - poster: 7ee81d4e-0555-4c4c-944a-736f74f66575.jpeg
-    city: São Paulo
-    date: '20/06/2024 20:00'
-    daysGroup: 19/20/21/22/23/24
   - poster: 4831b65f-6ca8-4c2c-84c4-007e8559c57d.jpeg
     city: Birigui
     date: '20/07/2024 19:00'
