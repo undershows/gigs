@@ -226,10 +226,6 @@ gigs:
     date: '22/06/2024 19:00'
     daysGroup: 19/20/21/22/23/24
     ticketsUrl: 'https://www.sympla.com.br/evento/flicts-acao-direta/2478720'
-  - poster: 447068395_820236722898007_3405684055028277812_n.jpeg
-    city: São Paulo
-    date: '21/06/2024 19:00'
-    daysGroup: 19/20/21/22/23/24
   - poster: 446521935_1012802200265711_2603777966107633237_n.jpeg
     city: Guarulhos
     date: '28/07/2024 15:00'
@@ -288,11 +284,6 @@ gigs:
     city: Várzea Paulista
     date: '10/08/2024 19:00'
     daysGroup: 09/10/11
-  - poster: 448350782_1286737662699405_8562312255424207282_n.jpeg
-    city: Santos
-    date: '21/06/2024 20:00'
-    daysGroup: 19/20/21/22/23/24
-    ticketsUrl: 'https://www.sympla.com.br/evento/emogaze-1-edicao-santos-jonabug-colina-capote-seaport-e-envelope-nuclear/2487921'
   - poster: 448108908_777421607933646_428381068373563277_n.jpeg
     city: Arujá
     date: '29/06/2024 19:00'
@@ -363,11 +354,6 @@ gigs:
     city: São Paulo
     date: '13/07/2024 20:30'
     daysGroup: 12/13/14
-  - poster: 448524371_2729902517165285_277287239481593466_n.jpeg
-    city: São Paulo
-    date: '21/06/2024 19:00'
-    daysGroup: 19/20/21/22/23/24
-    ticketsUrl: 'https://www.clubedoingresso.com/evento/discharge-saopaulo'
   - poster: 448525833_881386550699498_3233835795414812362_n.jpeg
     city: São Paulo
     date: '29/06/2024 19:00'

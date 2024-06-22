@@ -33,11 +33,6 @@ gigs:
     daysGroup: 01/02/03
     ticketsUrl: >-
       https://www.sympla.com.br/evento/bayside-kings-terceira-guerra-e-bandas-convidadas/2421024
-  - poster: 441533407_18429671200047511_4746993641444425812_n.jpg
-    city: Belo Horizonte
-    date: '21/06/2024 20:00'
-    daysGroup: 21/22/23
-    ticketsUrl: 'https://www.clubedoingresso.com/evento/theobsessed-belohorizonte'
   - poster: 443264667_308423785638935_2876623972053956162_n.jpeg
     city: Belo Horizonte
     date: '17/07/2024 19:30'

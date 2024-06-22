@@ -8,10 +8,6 @@ gigs:
     daysGroup: 20/21/22/23
     ticketsUrl: >-
       https://www.clubedoingresso.com/evento/garotospodres-gritandohc-danceofdays
-  - poster: 447998490_1504315357154223_3943910276118619442_n.jpeg
-    city: Cachoeiro de Itapemirim
-    date: '21/06/2024 20:00'
-    daysGroup: 20/21/22/23
   - poster: 448550416_3771071889816525_2386338228556710053_n.jpeg
     city: Vila Velha
     date: '22/06/2024 14:00'

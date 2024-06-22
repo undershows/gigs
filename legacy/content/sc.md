@@ -190,5 +190,10 @@ gigs:
     city: Jaraguá do Sul
     date: '16/06/2024 16:00'
     daysGroup: 14/15/16
+  - poster: 21.06 urussanga_resized.jpg
+    city: Urussanga
+    date: '21/06/2024 21:00'
+    daysGroup: 21/22/23
+    ticketsUrl: 'https://bilheto.com.br/comprar/2376/walpurgis-night'
 ---
 

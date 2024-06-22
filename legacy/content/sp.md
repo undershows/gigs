@@ -3652,5 +3652,20 @@ gigs:
     city: São Paulo
     date: '20/06/2024 20:00'
     daysGroup: 19/20/21/22/23/24
+  - poster: 447068395_820236722898007_3405684055028277812_n.jpeg
+    city: São Paulo
+    date: '21/06/2024 19:00'
+    daysGroup: 19/20/21/22/23/24
+  - poster: 448350782_1286737662699405_8562312255424207282_n.jpeg
+    city: Santos
+    date: '21/06/2024 20:00'
+    daysGroup: 19/20/21/22/23/24
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/emogaze-1-edicao-santos-jonabug-colina-capote-seaport-e-envelope-nuclear/2487921
+  - poster: 448524371_2729902517165285_277287239481593466_n.jpeg
+    city: São Paulo
+    date: '21/06/2024 19:00'
+    daysGroup: 19/20/21/22/23/24
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/discharge-saopaulo'
 ---
 

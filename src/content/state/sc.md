@@ -16,11 +16,6 @@ gigs:
     city: Joinville
     date: '22/06/2024 15:00'
     daysGroup: 21/22/23
-  - poster: 21.06 urussanga_resized.jpg
-    city: Urussanga
-    date: '21/06/2024 21:00'
-    daysGroup: 21/22/23
-    ticketsUrl: 'https://bilheto.com.br/comprar/2376/walpurgis-night'
   - poster: 446206767_990907145928795_2809639399592623670_n.jpg
     city: Florianópolis
     date: '28/06/2024 21:00'
@@ -38,6 +33,7 @@ gigs:
     city: Florianópolis
     date: '14/07/2024 20:00'
     daysGroup: 12/13/14
-    ticketsUrl: 'https://www.sympla.com.br/evento/surra-em-florianopolis-show-de-lancamento-do-album-falha-critica/2507519'
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/surra-em-florianopolis-show-de-lancamento-do-album-falha-critica/2507519
 ---
 

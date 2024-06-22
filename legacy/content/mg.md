@@ -193,5 +193,10 @@ gigs:
     date: '15/06/2024 13:00'
     daysGroup: 14/15/16
     ticketsUrl: 'https://www.sympla.com.br/evento/punk-no-park/2390041'
+  - poster: 441533407_18429671200047511_4746993641444425812_n.jpg
+    city: Belo Horizonte
+    date: '21/06/2024 20:00'
+    daysGroup: 21/22/23
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/theobsessed-belohorizonte'
 ---
 
