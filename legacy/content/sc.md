@@ -195,5 +195,9 @@ gigs:
     date: '21/06/2024 21:00'
     daysGroup: 21/22/23
     ticketsUrl: 'https://bilheto.com.br/comprar/2376/walpurgis-night'
+  - poster: 433956836_1182285273214085_4792184424622239707_n.jpg
+    city: Joinville
+    date: '22/06/2024 15:00'
+    daysGroup: 21/22/23
 ---
 

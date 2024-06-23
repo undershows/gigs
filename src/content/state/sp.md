@@ -20,12 +20,6 @@ gigs:
     daysGroup: 05/06/07/08
     ticketsUrl: >-
       https://www.sympla.com.br/evento/sinister-vulture-ancestral-malediction-ereboros-podridao/2342064
-  - poster: 432754637_1149028929348083_6900827881406581498_n.jpg
-    city: São Paulo
-    date: '22/06/2024 20:00'
-    daysGroup: 19/20/21/22/23/24
-    ticketsUrl: >-
-      https://www.sympla.com.br/evento/a-porta-maldita-lotico-intrinsic-nameless-gods/2388432
   - poster: 432940679_18247484830217161_8515167532375950925_n.jpg
     city: Limeira
     date: '09/08/2024 19:00'
@@ -41,11 +35,6 @@ gigs:
     date: '18/08/2024 19:00'
     daysGroup: 16/17/18
     ticketsUrl: 'https://www.ingresse.com/karate-sp/'
-  - poster: 433238810_18424105069058543_3806178385128827588_n.jpg
-    city: São Paulo
-    date: '22/06/2024 18:00'
-    daysGroup: 19/20/21/22/23/24
-    ticketsUrl: 'https://www.ingresse.com/the-obsessed/'
   - poster: 435113467_18219355696263705_2553179225496696992_n.jpg
     city: São Paulo
     date: '08/11/2024 19:00'
@@ -70,10 +59,6 @@ gigs:
     date: '27/09/2024 18:00'
     daysGroup: 27/28/29
     ticketsUrl: 'https://www.clubedoingresso.com/evento/gorillabiscuits-saopaulo'
-  - poster: 438303691_7520148018070470_8192219138537072871_n.jpg
-    city: Santo André
-    date: '22/06/2024 20:00'
-    daysGroup: 19/20/21/22/23/24
   - poster: 442445208_2764552633708795_5049092636386486648_n.jpeg
     city: Diadema
     date: '23/06/2024 20:00'
@@ -92,20 +77,10 @@ gigs:
     city: Sorocaba
     date: '06/07/2024 15:00'
     daysGroup: 05/06/07/08
-  - poster: 440474250_2137530899935018_9186845276870816485_n.jpeg
-    city: Americana
-    date: '22/06/2024 20:00'
-    daysGroup: 19/20/21/22/23/24
-    ticketsUrl: >-
-      https://www.sympla.com.br/evento/hup-apresenta-chuva-negra-caffeine-blues-allpacas-e-venlift/2443123
   - poster: 443512125_722493033176509_3692471432586929066_n.jpg
     city: São Paulo
     date: '28/07/2024 15:00'
     daysGroup: 26/27/28
-  - poster: 436254466_1373979990058596_3466062004140228624_n.jpeg
-    city: Santos
-    date: '22/06/2024 21:00'
-    daysGroup: 19/20/21/22/23/24
   - poster: 443844137_308241835709538_4092223016429060800_n.jpeg
     city: São Paulo
     date: '21/07/2024 17:15'
@@ -125,11 +100,6 @@ gigs:
     city: Piracicaba
     date: '20/07/2024 19:00'
     daysGroup: 18/19/20/21
-  - poster: 441577084_18233067664256110_8538061083469361289_n.jpg
-    city: São Paulo
-    date: '22/06/2024 17:00'
-    daysGroup: 19/20/21/22/23/24
-    ticketsUrl: 'https://jaiclub.hoppin.com.br/exterminiogig'
   - poster: e0bf7910-df0d-43cc-b23f-941389d36f44.jpeg
     city: Bauru
     date: '13/07/2024 20:00'
@@ -152,19 +122,10 @@ gigs:
     city: Jacareí
     date: '20/07/2024 18:00'
     daysGroup: 18/19/20/21
-  - poster: 7dc81374-982d-464d-810b-94a46320eaca.jpeg
-    city: São José dos Campos
-    date: '22/06/2024 16:00'
-    daysGroup: 19/20/21/22/23/24
   - poster: 446477435_927606032456335_3314713777620922619_n.jpeg
     city: São Paulo
     date: '23/06/2024 15:00'
     daysGroup: 19/20/21/22/23/24
-  - poster: 441881853_18441453238000548_1367017910570092798_n.jpg
-    city: São Paulo
-    date: '22/06/2024 19:00'
-    daysGroup: 19/20/21/22/23/24
-    ticketsUrl: 'https://pixelticket.com.br/eventos/21205/zander-hateen-excluidos'
   - poster: 446196032_462262402950412_1314001609918183432_n.jpeg
     city: São José dos Campos
     date: '28/06/2024 21:00'
@@ -213,19 +174,10 @@ gigs:
     date: '12/07/2024 19:00'
     daysGroup: 12/13/14
     ticketsUrl: 'https://www.sympla.com.br/evento/hiatus-be-ao-vivo-no-74club/2458338'
-  - poster: 447067137_1091121305314754_952804088786393138_n.jpeg
-    city: São Paulo
-    date: '22/06/2024 19:00'
-    daysGroup: 19/20/21/22/23/24
   - poster: 446347125_335081212736077_3796952661927701953_n.jpeg
     city: Ferraz de Vasconcelos
     date: '28/07/2024 14:00'
     daysGroup: 26/27/28
-  - poster: 446580871_478567264648581_7516732606353216824_n.jpeg
-    city: São Paulo
-    date: '22/06/2024 19:00'
-    daysGroup: 19/20/21/22/23/24
-    ticketsUrl: 'https://www.sympla.com.br/evento/flicts-acao-direta/2478720'
   - poster: 446521935_1012802200265711_2603777966107633237_n.jpeg
     city: Guarulhos
     date: '28/07/2024 15:00'
@@ -342,10 +294,6 @@ gigs:
     daysGroup: 12/13/14
     ticketsUrl: >-
       https://www.sympla.com.br/evento/a-porta-maldita-personas-a-queda-de-ofelia-de-carne-e-flor/2513892
-  - poster: 448560696_449042014428665_4487767788764471820_n.jpeg
-    city: Araras
-    date: '22/06/2024 19:00'
-    daysGroup: 19/20/21/22/23/24
   - poster: 448598135_457595216991896_4953406488677237483_n.jpeg
     city: Santos
     date: '05/07/2024 21:00'
@@ -358,10 +306,6 @@ gigs:
     city: São Paulo
     date: '29/06/2024 19:00'
     daysGroup: 27/28/29/30
-  - poster: 448596210_1031432548402311_4270624394271010845_n.jpeg
-    city: São Paulo
-    date: '22/06/2024 21:00'
-    daysGroup: 19/20/21/22/23/24
   - poster: 448609144_1712291969302170_6153003956246941509_n.jpeg
     city: São Paulo
     date: '28/06/2024 20:00'
@@ -375,14 +319,6 @@ gigs:
   - poster: 448614123_1874323839737102_4833350796076723419_n.jpeg
     city: São Paulo
     date: '23/06/2024 15:00'
-    daysGroup: 19/20/21/22/23/24
-  - poster: 448539785_987591936111968_5228688742296726764_n.jpeg
-    city: São Paulo
-    date: '22/06/2024 18:00'
-    daysGroup: 19/20/21/22/23/24
-  - poster: 448495913_18031549943100666_3477413078852535628_n.jpg
-    city: Americana
-    date: '22/06/2024 20:00'
     daysGroup: 19/20/21/22/23/24
   - poster: 448640806_18042959554808148_4943041118160947566_n.jpg
     city: São Paulo

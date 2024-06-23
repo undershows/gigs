@@ -231,5 +231,16 @@ gigs:
     city: Teresópolis
     date: '16/06/2024 15:00'
     daysGroup: 14/15/16
+  - poster: 434016589_1877951889378221_6366716932807969737_n.jpeg
+    city: Rio de Janeiro
+    date: '22/06/2024 20:00'
+    daysGroup: 21/22/23
+    ticketsUrl: 'https://articket.com.br/e/1948/bayside-kings-plastic-fire'
+  - poster: 448354829_1129907261423006_2998188825287650683_n.jpeg
+    city: Rio de Janeiro
+    date: '22/06/2024 21:00'
+    daysGroup: 21/22/23
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/vacanti-ph-mazza-nebulosa-no-pecado-mora-ao-lado/2513788
 ---
 

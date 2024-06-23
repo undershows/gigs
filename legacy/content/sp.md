@@ -3667,5 +3667,69 @@ gigs:
     date: '21/06/2024 19:00'
     daysGroup: 19/20/21/22/23/24
     ticketsUrl: 'https://www.clubedoingresso.com/evento/discharge-saopaulo'
+  - poster: 432754637_1149028929348083_6900827881406581498_n.jpg
+    city: São Paulo
+    date: '22/06/2024 20:00'
+    daysGroup: 19/20/21/22/23/24
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/a-porta-maldita-lotico-intrinsic-nameless-gods/2388432
+  - poster: 433238810_18424105069058543_3806178385128827588_n.jpg
+    city: São Paulo
+    date: '22/06/2024 18:00'
+    daysGroup: 19/20/21/22/23/24
+    ticketsUrl: 'https://www.ingresse.com/the-obsessed/'
+  - poster: 438303691_7520148018070470_8192219138537072871_n.jpg
+    city: Santo André
+    date: '22/06/2024 20:00'
+    daysGroup: 19/20/21/22/23/24
+  - poster: 440474250_2137530899935018_9186845276870816485_n.jpeg
+    city: Americana
+    date: '22/06/2024 20:00'
+    daysGroup: 19/20/21/22/23/24
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/hup-apresenta-chuva-negra-caffeine-blues-allpacas-e-venlift/2443123
+  - poster: 436254466_1373979990058596_3466062004140228624_n.jpeg
+    city: Santos
+    date: '22/06/2024 21:00'
+    daysGroup: 19/20/21/22/23/24
+  - poster: 441577084_18233067664256110_8538061083469361289_n.jpg
+    city: São Paulo
+    date: '22/06/2024 17:00'
+    daysGroup: 19/20/21/22/23/24
+    ticketsUrl: 'https://jaiclub.hoppin.com.br/exterminiogig'
+  - poster: 7dc81374-982d-464d-810b-94a46320eaca.jpeg
+    city: São José dos Campos
+    date: '22/06/2024 16:00'
+    daysGroup: 19/20/21/22/23/24
+  - poster: 441881853_18441453238000548_1367017910570092798_n.jpg
+    city: São Paulo
+    date: '22/06/2024 19:00'
+    daysGroup: 19/20/21/22/23/24
+    ticketsUrl: 'https://pixelticket.com.br/eventos/21205/zander-hateen-excluidos'
+  - poster: 447067137_1091121305314754_952804088786393138_n.jpeg
+    city: São Paulo
+    date: '22/06/2024 19:00'
+    daysGroup: 19/20/21/22/23/24
+  - poster: 446580871_478567264648581_7516732606353216824_n.jpeg
+    city: São Paulo
+    date: '22/06/2024 19:00'
+    daysGroup: 19/20/21/22/23/24
+    ticketsUrl: 'https://www.sympla.com.br/evento/flicts-acao-direta/2478720'
+  - poster: 448560696_449042014428665_4487767788764471820_n.jpeg
+    city: Araras
+    date: '22/06/2024 19:00'
+    daysGroup: 19/20/21/22/23/24
+  - poster: 448596210_1031432548402311_4270624394271010845_n.jpeg
+    city: São Paulo
+    date: '22/06/2024 21:00'
+    daysGroup: 19/20/21/22/23/24
+  - poster: 448539785_987591936111968_5228688742296726764_n.jpeg
+    city: São Paulo
+    date: '22/06/2024 18:00'
+    daysGroup: 19/20/21/22/23/24
+  - poster: 448495913_18031549943100666_3477413078852535628_n.jpg
+    city: Americana
+    date: '22/06/2024 20:00'
+    daysGroup: 19/20/21/22/23/24
 ---
 
