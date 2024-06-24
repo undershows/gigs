@@ -59,11 +59,6 @@ gigs:
     date: '27/09/2024 18:00'
     daysGroup: 27/28/29
     ticketsUrl: 'https://www.clubedoingresso.com/evento/gorillabiscuits-saopaulo'
-  - poster: 442445208_2764552633708795_5049092636386486648_n.jpeg
-    city: Diadema
-    date: '23/06/2024 20:00'
-    daysGroup: 19/20/21/22/23/24
-    ticketsUrl: 'https://articket.com.br/e/2143/garage-fuzz-chuva-negra-no-1100'
   - poster: 441127154_792081799541511_5000173471982161746_n.jpeg
     city: São Paulo
     date: '30/06/2024 17:00'
@@ -109,10 +104,6 @@ gigs:
     date: '31/08/2024 19:00'
     daysGroup: 30/31
     ticketsUrl: 'https://pixelticket.com.br/eventos/21180/cachorro-louco'
-  - poster: 445169807_1006935201098176_7195495008056937146_n.jpeg
-    city: São Paulo
-    date: '23/06/2024 20:00'
-    daysGroup: 19/20/21/22/23/24
   - poster: 445720315_441251565180823_5753306269446409383_n.jpeg
     city: São Paulo
     date: '04/08/2024 14:00'
@@ -122,10 +113,6 @@ gigs:
     city: Jacareí
     date: '20/07/2024 18:00'
     daysGroup: 18/19/20/21
-  - poster: 446477435_927606032456335_3314713777620922619_n.jpeg
-    city: São Paulo
-    date: '23/06/2024 15:00'
-    daysGroup: 19/20/21/22/23/24
   - poster: 446196032_462262402950412_1314001609918183432_n.jpeg
     city: São José dos Campos
     date: '28/06/2024 21:00'
@@ -192,26 +179,14 @@ gigs:
     date: '27/06/2024 21:00'
     daysGroup: 27/28/29/30
     ticketsUrl: 'https://www.clubedoingresso.com/evento/nervochaos-themetalbar'
-  - poster: 447269022_18329686360193458_946902599648820156_n.jpg
-    city: São Paulo
-    date: '23/06/2024 14:00'
-    daysGroup: 19/20/21/22/23/24
   - poster: 441876998_18436328866033374_7572348452534085444_n.jpg
     city: São Paulo
     date: '19/10/2024 16:00'
     daysGroup: 18/19/20
-  - poster: 443240525_3791889017803407_1561486575764875992_n.jpeg
-    city: São José dos Campos
-    date: '23/06/2024 17:00'
-    daysGroup: 19/20/21/22/23/24
   - poster: 447912251_962978068861305_6895429639845586915_n.jpeg
     city: São Paulo
     date: '13/10/2024 13:00'
     daysGroup: 11/12/13
-  - poster: 444487702_2750771008414215_1594293608065210207_n.jpg
-    city: Diadema
-    date: '23/06/2024 20:00'
-    daysGroup: 19/20/21/22/23/24
   - poster: b24d2298-d939-46ab-a8a7-5285e1794fd5.jpeg
     city: São Paulo
     date: '21/07/2024 18:00'
@@ -278,12 +253,6 @@ gigs:
     city: São Paulo
     date: '30/06/2024 15:00'
     daysGroup: 27/28/29/30
-  - poster: 448558579_2223934391298313_3776003095385969582_n.jpg
-    city: São Paulo
-    date: '23/06/2024 17:00'
-    daysGroup: 19/20/21/22/23/24
-    ticketsUrl: >-
-      https://www.sympla.com.br/evento/rio-do-meio-records-apresenta-under-fucking-control-fest/2468184
   - poster: 448598417_819194146949664_3447202128431175180_n.jpeg
     city: São Paulo
     date: '28/09/2024 15:00'
@@ -316,10 +285,6 @@ gigs:
     city: São Paulo
     date: '05/07/2024 18:00'
     daysGroup: 05/06/07/08
-  - poster: 448614123_1874323839737102_4833350796076723419_n.jpeg
-    city: São Paulo
-    date: '23/06/2024 15:00'
-    daysGroup: 19/20/21/22/23/24
   - poster: 448640806_18042959554808148_4943041118160947566_n.jpg
     city: São Paulo
     date: '29/06/2024 18:00'

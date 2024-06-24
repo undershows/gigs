@@ -199,5 +199,10 @@ gigs:
     city: Joinville
     date: '22/06/2024 15:00'
     daysGroup: 21/22/23
+  - poster: enthroned-saobentodosul-2024-819x1024.jpg
+    city: São Bento do Sul
+    date: '23/06/2024 15:00'
+    daysGroup: 21/22/23
+    ticketsUrl: 'https://bilheto.com.br/comprar/2227/oracle-ov-void'
 ---
 

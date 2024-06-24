@@ -3731,5 +3731,40 @@ gigs:
     city: Americana
     date: '22/06/2024 20:00'
     daysGroup: 19/20/21/22/23/24
+  - poster: 442445208_2764552633708795_5049092636386486648_n.jpeg
+    city: Diadema
+    date: '23/06/2024 20:00'
+    daysGroup: 19/20/21/22/23/24
+    ticketsUrl: 'https://articket.com.br/e/2143/garage-fuzz-chuva-negra-no-1100'
+  - poster: 445169807_1006935201098176_7195495008056937146_n.jpeg
+    city: São Paulo
+    date: '23/06/2024 20:00'
+    daysGroup: 19/20/21/22/23/24
+  - poster: 446477435_927606032456335_3314713777620922619_n.jpeg
+    city: São Paulo
+    date: '23/06/2024 15:00'
+    daysGroup: 19/20/21/22/23/24
+  - poster: 447269022_18329686360193458_946902599648820156_n.jpg
+    city: São Paulo
+    date: '23/06/2024 14:00'
+    daysGroup: 19/20/21/22/23/24
+  - poster: 443240525_3791889017803407_1561486575764875992_n.jpeg
+    city: São José dos Campos
+    date: '23/06/2024 17:00'
+    daysGroup: 19/20/21/22/23/24
+  - poster: 444487702_2750771008414215_1594293608065210207_n.jpg
+    city: Diadema
+    date: '23/06/2024 20:00'
+    daysGroup: 19/20/21/22/23/24
+  - poster: 448558579_2223934391298313_3776003095385969582_n.jpg
+    city: São Paulo
+    date: '23/06/2024 17:00'
+    daysGroup: 19/20/21/22/23/24
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/rio-do-meio-records-apresenta-under-fucking-control-fest/2468184
+  - poster: 448614123_1874323839737102_4833350796076723419_n.jpeg
+    city: São Paulo
+    date: '23/06/2024 15:00'
+    daysGroup: 19/20/21/22/23/24
 ---
 

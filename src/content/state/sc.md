@@ -7,11 +7,6 @@ gigs:
     date: '05/07/2024 18:00'
     daysGroup: 05/06/07
     ticketsUrl: 'https://bilheto.com.br/comprar/2168/sinister'
-  - poster: enthroned-saobentodosul-2024-819x1024.jpg
-    city: São Bento do Sul
-    date: '23/06/2024 15:00'
-    daysGroup: 21/22/23
-    ticketsUrl: 'https://bilheto.com.br/comprar/2227/oracle-ov-void'
   - poster: 446206767_990907145928795_2809639399592623670_n.jpg
     city: Florianópolis
     date: '28/06/2024 21:00'
