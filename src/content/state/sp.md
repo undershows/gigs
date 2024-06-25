@@ -169,11 +169,6 @@ gigs:
     city: Guarulhos
     date: '28/07/2024 15:00'
     daysGroup: 26/27/28
-  - poster: 037ba027-2aec-4037-bc4c-5c9fab9bfd51-4.jpeg
-    city: São Paulo
-    date: '24/06/2024 19:00'
-    daysGroup: 19/20/21/22/23/24
-    ticketsUrl: 'https://www.sympla.com.br/evento/test-curadoria-do-medo/2490124'
   - poster: nervochaos_sp_270624.jpeg
     city: São Paulo
     date: '27/06/2024 21:00'
