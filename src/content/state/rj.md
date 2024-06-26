@@ -48,5 +48,9 @@ gigs:
     date: '21/09/2024 18:00'
     daysGroup: 20/21/22
     ticketsUrl: 'https://www.sympla.com.br/evento/ines-e-morta-tempos-de-morte/2515170'
+  - poster: 449061633_10223895593874736_516879772113105600_n.jpg
+    city: Campos dos Goytacazes
+    date: '19/10/2024 19:00'
+    daysGroup: 18/19/20
 ---
 

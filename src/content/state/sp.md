@@ -222,6 +222,7 @@ gigs:
     city: Santo André
     date: '29/06/2024 19:00'
     daysGroup: 27/28/29/30
+    ticketsUrl: 'https://www.sympla.com.br/evento/statues-on-fire-malvina-rj-ao-vivo-no-74club/2506967'
   - poster: 448278046_18081446122482751_4590865016595676714_n.jpg
     city: São Paulo
     date: '06/07/2024 18:00'
@@ -308,5 +309,34 @@ gigs:
     city: São José dos Campos
     date: '28/07/2024 17:00'
     daysGroup: 26/27/28
+  - poster: 449143892_7868228796570661_3536881096090656640_n.jpg
+    city: São Paulo
+    date: '06/07/2024 19:00'
+    daysGroup: 05/06/07/08
+  - poster: 449259576_10225109160941175_7704962453038519587_n.jpg
+    city: São Paulo
+    date: '07/07/2024 17:00'
+    daysGroup: 05/06/07/08
+  - poster: 449144599_10228690681029393_7357446237428905282_n.jpg
+    city: São Paulo
+    date: '29/06/2024 23:00'
+    daysGroup: 27/28/29/30
+  - poster: 449015070_7737989956287551_4592641998775012726_n.jpg
+    city: Várzea Paulista
+    date: '06/07/2024 16:00'
+    daysGroup: 05/06/07/08
+  - poster: 440582032_822044689767712_1096191521271486113_n.jpg
+    city: São Bernardo do Campo
+    date: '29/06/2024 20:00'
+    daysGroup: 27/28/29/30
+  - poster: 438329611_1578216459622646_5900753006498485093_n.jpg
+    city: São Paulo
+    date: '07/07/2024 15:00'
+    daysGroup: 05/06/07/08
+    ticketsUrl: 'https://www.hoppin.com.br/pesujus'
+  - poster: 448171074_432024369742533_3762598279642293901_n.jpg
+    city: Cordeirópolis
+    date: '14/07/2024 13:00'
+    daysGroup: 12/13/14
 ---
 
