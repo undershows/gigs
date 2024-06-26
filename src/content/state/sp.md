@@ -102,7 +102,7 @@ gigs:
   - poster: 446217292_828556425439093_3944928494405814725_n.jpeg
     city: São Paulo
     date: '31/08/2024 19:00'
-    daysGroup: 30/31
+    daysGroup: 28/29/30/31
     ticketsUrl: 'https://pixelticket.com.br/eventos/21180/cachorro-louco'
   - poster: 445720315_441251565180823_5753306269446409383_n.jpeg
     city: São Paulo
@@ -338,5 +338,13 @@ gigs:
     city: Cordeirópolis
     date: '14/07/2024 13:00'
     daysGroup: 12/13/14
+  - poster: bd7d4e55-64e9-460a-8a49-ab22a2e817dc.jpeg
+    city: São Paulo
+    date: '28/08/2024 18:00'
+    daysGroup: 28/29/30/31
+  - poster: 448979164_10228667670534145_8075372831227689104_n.jpg
+    city: São Paulo
+    date: '31/08/2024 16:00'
+    daysGroup: 28/29/30/31
 ---
 
