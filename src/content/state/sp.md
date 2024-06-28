@@ -169,11 +169,6 @@ gigs:
     city: Guarulhos
     date: '28/07/2024 15:00'
     daysGroup: 26/27/28
-  - poster: nervochaos_sp_270624.jpeg
-    city: São Paulo
-    date: '27/06/2024 21:00'
-    daysGroup: 27/28/29/30
-    ticketsUrl: 'https://www.clubedoingresso.com/evento/nervochaos-themetalbar'
   - poster: 441876998_18436328866033374_7572348452534085444_n.jpg
     city: São Paulo
     date: '19/10/2024 16:00'
@@ -222,7 +217,8 @@ gigs:
     city: Santo André
     date: '29/06/2024 19:00'
     daysGroup: 27/28/29/30
-    ticketsUrl: 'https://www.sympla.com.br/evento/statues-on-fire-malvina-rj-ao-vivo-no-74club/2506967'
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/statues-on-fire-malvina-rj-ao-vivo-no-74club/2506967
   - poster: 448278046_18081446122482751_4590865016595676714_n.jpg
     city: São Paulo
     date: '06/07/2024 18:00'

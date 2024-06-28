@@ -3771,5 +3771,10 @@ gigs:
     date: '24/06/2024 19:00'
     daysGroup: 19/20/21/22/23/24
     ticketsUrl: 'https://www.sympla.com.br/evento/test-curadoria-do-medo/2490124'
+  - poster: nervochaos_sp_270624.jpeg
+    city: São Paulo
+    date: '27/06/2024 21:00'
+    daysGroup: 27/28/29/30
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/nervochaos-themetalbar'
 ---
 
