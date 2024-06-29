@@ -113,10 +113,6 @@ gigs:
     city: Jacareí
     date: '20/07/2024 18:00'
     daysGroup: 18/19/20/21
-  - poster: 446196032_462262402950412_1314001609918183432_n.jpeg
-    city: São José dos Campos
-    date: '28/06/2024 21:00'
-    daysGroup: 27/28/29/30
   - poster: 446468460_770670704877811_7005544506978245247_n.jpeg
     city: Marília
     date: '22/09/2024 18:00'
@@ -227,12 +223,6 @@ gigs:
     city: Santos
     date: '29/06/2024 21:00'
     daysGroup: 27/28/29/30
-  - poster: e1871e0f-70e7-40de-a82e-7d12d046d300.jpeg
-    city: Santo André
-    date: '28/06/2024 19:00'
-    daysGroup: 27/28/29/30
-    ticketsUrl: >-
-      https://www.sympla.com.br/evento/test-batto-flavio-lazzarin-bateriaaa-ao-vivo-no-74club/2509518
   - poster: 448530678_18325807492121660_7376303376978290223_n.jpg
     city: São Paulo
     date: '14/07/2024 14:00'
@@ -267,12 +257,6 @@ gigs:
     city: São Paulo
     date: '29/06/2024 19:00'
     daysGroup: 27/28/29/30
-  - poster: 448609144_1712291969302170_6153003956246941509_n.jpeg
-    city: São Paulo
-    date: '28/06/2024 20:00'
-    daysGroup: 27/28/29/30
-    ticketsUrl: >-
-      https://www.sympla.com.br/evento/a-porta-maldita-animais-jardim-depressa-gibaa-mizimo/2510732
   - poster: 448586316_390541970670453_3544070453345819849_n.jpeg
     city: São Paulo
     date: '05/07/2024 18:00'
@@ -280,10 +264,6 @@ gigs:
   - poster: 448640806_18042959554808148_4943041118160947566_n.jpg
     city: São Paulo
     date: '29/06/2024 18:00'
-    daysGroup: 27/28/29/30
-  - poster: 448599317_1640538466785595_3127943531310200509_n.jpeg
-    city: Itu
-    date: '28/06/2024 19:00'
     daysGroup: 27/28/29/30
   - poster: 448472918_2762624123895570_2648964722289704490_n.jpg
     city: Várzea Paulista

@@ -7,11 +7,6 @@ gigs:
     date: '05/07/2024 18:00'
     daysGroup: 05/06/07
     ticketsUrl: 'https://bilheto.com.br/comprar/2168/sinister'
-  - poster: 446206767_990907145928795_2809639399592623670_n.jpg
-    city: Florianópolis
-    date: '28/06/2024 21:00'
-    daysGroup: 28/29/30
-    ticketsUrl: 'https://www.clubedoingresso.com/evento/menoresatos-florianopolis'
   - poster: 447913932_1756668884742166_767162404256722660_n.jpeg
     city: Florianópolis
     date: '30/08/2024 20:00'

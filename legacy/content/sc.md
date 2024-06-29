@@ -204,5 +204,10 @@ gigs:
     date: '23/06/2024 15:00'
     daysGroup: 21/22/23
     ticketsUrl: 'https://bilheto.com.br/comprar/2227/oracle-ov-void'
+  - poster: 446206767_990907145928795_2809639399592623670_n.jpg
+    city: Florianópolis
+    date: '28/06/2024 21:00'
+    daysGroup: 28/29/30
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/menoresatos-florianopolis'
 ---
 

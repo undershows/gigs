@@ -3776,5 +3776,25 @@ gigs:
     date: '27/06/2024 21:00'
     daysGroup: 27/28/29/30
     ticketsUrl: 'https://www.clubedoingresso.com/evento/nervochaos-themetalbar'
+  - poster: 446196032_462262402950412_1314001609918183432_n.jpeg
+    city: São José dos Campos
+    date: '28/06/2024 21:00'
+    daysGroup: 27/28/29/30
+  - poster: e1871e0f-70e7-40de-a82e-7d12d046d300.jpeg
+    city: Santo André
+    date: '28/06/2024 19:00'
+    daysGroup: 27/28/29/30
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/test-batto-flavio-lazzarin-bateriaaa-ao-vivo-no-74club/2509518
+  - poster: 448609144_1712291969302170_6153003956246941509_n.jpeg
+    city: São Paulo
+    date: '28/06/2024 20:00'
+    daysGroup: 27/28/29/30
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/a-porta-maldita-animais-jardim-depressa-gibaa-mizimo/2510732
+  - poster: 448599317_1640538466785595_3127943531310200509_n.jpeg
+    city: Itu
+    date: '28/06/2024 19:00'
+    daysGroup: 27/28/29/30
 ---
 
