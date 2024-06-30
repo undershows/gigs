@@ -3796,5 +3796,39 @@ gigs:
     city: Itu
     date: '28/06/2024 19:00'
     daysGroup: 27/28/29/30
+  - poster: 499a5720-2804-4c3f-b339-599d277d704f.jpeg
+    city: Bauru
+    date: '29/06/2024 16:00'
+    daysGroup: 27/28/29/30
+  - poster: 448108908_777421607933646_428381068373563277_n.jpeg
+    city: Arujá
+    date: '29/06/2024 19:00'
+    daysGroup: 27/28/29/30
+  - poster: 448343074_988744899122126_2613919681988410905_n.jpeg
+    city: Santo André
+    date: '29/06/2024 19:00'
+    daysGroup: 27/28/29/30
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/statues-on-fire-malvina-rj-ao-vivo-no-74club/2506967
+  - poster: 448236099_1641087443293752_8817569042801397772_n.jpeg
+    city: Santos
+    date: '29/06/2024 21:00'
+    daysGroup: 27/28/29/30
+  - poster: 448525833_881386550699498_3233835795414812362_n.jpeg
+    city: São Paulo
+    date: '29/06/2024 19:00'
+    daysGroup: 27/28/29/30
+  - poster: 448640806_18042959554808148_4943041118160947566_n.jpg
+    city: São Paulo
+    date: '29/06/2024 18:00'
+    daysGroup: 27/28/29/30
+  - poster: 449144599_10228690681029393_7357446237428905282_n.jpg
+    city: São Paulo
+    date: '29/06/2024 23:00'
+    daysGroup: 27/28/29/30
+  - poster: 440582032_822044689767712_1096191521271486113_n.jpg
+    city: São Bernardo do Campo
+    date: '29/06/2024 20:00'
+    daysGroup: 27/28/29/30
 ---
 

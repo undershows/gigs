@@ -11,11 +11,6 @@ gigs:
     date: '14/07/2024 16:00'
     daysGroup: 12/13/14
     ticketsUrl: 'https://showpass.com.br/comprar/1387/suicidal-tendencies'
-  - poster: 446335784_3689910458002527_5668914656845091720_n.jpg
-    city: Curitiba
-    date: '29/06/2024 21:00'
-    daysGroup: 28/29/30
-    ticketsUrl: 'https://www.clubedoingresso.com/evento/menoresatos-curitiba'
   - poster: 447705759_18439910632025079_2323678721400223584_n.jpg
     city: Curitiba
     date: '24/11/2024 12:00'

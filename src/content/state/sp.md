@@ -185,10 +185,6 @@ gigs:
     city: Birigui
     date: '20/07/2024 19:00'
     daysGroup: 18/19/20/21
-  - poster: 499a5720-2804-4c3f-b339-599d277d704f.jpeg
-    city: Bauru
-    date: '29/06/2024 16:00'
-    daysGroup: 27/28/29/30
   - poster: 447916124_812190807229081_4092717067564889723_n.jpeg
     city: São Paulo
     date: '08/07/2024 19:00'
@@ -197,10 +193,6 @@ gigs:
     city: Várzea Paulista
     date: '10/08/2024 19:00'
     daysGroup: 09/10/11
-  - poster: 448108908_777421607933646_428381068373563277_n.jpeg
-    city: Arujá
-    date: '29/06/2024 19:00'
-    daysGroup: 27/28/29/30
   - poster: 448337858_1695920044277917_9187260849956268335_n.jpeg
     city: Araraquara
     date: '14/07/2024 16:00'
@@ -209,20 +201,10 @@ gigs:
     city: Diadema
     date: '30/06/2024 14:00'
     daysGroup: 27/28/29/30
-  - poster: 448343074_988744899122126_2613919681988410905_n.jpeg
-    city: Santo André
-    date: '29/06/2024 19:00'
-    daysGroup: 27/28/29/30
-    ticketsUrl: >-
-      https://www.sympla.com.br/evento/statues-on-fire-malvina-rj-ao-vivo-no-74club/2506967
   - poster: 448278046_18081446122482751_4590865016595676714_n.jpg
     city: São Paulo
     date: '06/07/2024 18:00'
     daysGroup: 05/06/07/08
-  - poster: 448236099_1641087443293752_8817569042801397772_n.jpeg
-    city: Santos
-    date: '29/06/2024 21:00'
-    daysGroup: 27/28/29/30
   - poster: 448530678_18325807492121660_7376303376978290223_n.jpg
     city: São Paulo
     date: '14/07/2024 14:00'
@@ -253,18 +235,10 @@ gigs:
     city: São Paulo
     date: '13/07/2024 20:30'
     daysGroup: 12/13/14
-  - poster: 448525833_881386550699498_3233835795414812362_n.jpeg
-    city: São Paulo
-    date: '29/06/2024 19:00'
-    daysGroup: 27/28/29/30
   - poster: 448586316_390541970670453_3544070453345819849_n.jpeg
     city: São Paulo
     date: '05/07/2024 18:00'
     daysGroup: 05/06/07/08
-  - poster: 448640806_18042959554808148_4943041118160947566_n.jpg
-    city: São Paulo
-    date: '29/06/2024 18:00'
-    daysGroup: 27/28/29/30
   - poster: 448472918_2762624123895570_2648964722289704490_n.jpg
     city: Várzea Paulista
     date: '13/07/2024 16:00'
@@ -293,18 +267,10 @@ gigs:
     city: São Paulo
     date: '07/07/2024 17:00'
     daysGroup: 05/06/07/08
-  - poster: 449144599_10228690681029393_7357446237428905282_n.jpg
-    city: São Paulo
-    date: '29/06/2024 23:00'
-    daysGroup: 27/28/29/30
   - poster: 449015070_7737989956287551_4592641998775012726_n.jpg
     city: Várzea Paulista
     date: '06/07/2024 16:00'
     daysGroup: 05/06/07/08
-  - poster: 440582032_822044689767712_1096191521271486113_n.jpg
-    city: São Bernardo do Campo
-    date: '29/06/2024 20:00'
-    daysGroup: 27/28/29/30
   - poster: 438329611_1578216459622646_5900753006498485093_n.jpg
     city: São Paulo
     date: '07/07/2024 15:00'

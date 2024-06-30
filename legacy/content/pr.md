@@ -363,5 +363,10 @@ gigs:
     date: '20/06/2024 21:00'
     daysGroup: 18/19/20/21/22/23
     ticketsUrl: 'https://bilheto.com.br/comprar/2155/satanic-gathering'
+  - poster: 446335784_3689910458002527_5668914656845091720_n.jpg
+    city: Curitiba
+    date: '29/06/2024 21:00'
+    daysGroup: 28/29/30
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/menoresatos-curitiba'
 ---
 
