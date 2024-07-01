@@ -59,10 +59,6 @@ gigs:
     date: '27/09/2024 18:00'
     daysGroup: 27/28/29
     ticketsUrl: 'https://www.clubedoingresso.com/evento/gorillabiscuits-saopaulo'
-  - poster: 441127154_792081799541511_5000173471982161746_n.jpeg
-    city: São Paulo
-    date: '30/06/2024 17:00'
-    daysGroup: 27/28/29/30
   - poster: 442412547_1482154889395714_4982639979988539808_n.jpeg
     city: São Paulo
     date: '07/07/2024 12:00'
@@ -122,10 +118,6 @@ gigs:
     date: '19/07/2024 19:00'
     daysGroup: 18/19/20/21
     ticketsUrl: 'https://www.clubedoingresso.com/evento/andralls-chaoslace-die-voidit'
-  - poster: 446485231_1494281977855273_1591334783293928732_n.jpeg
-    city: São Paulo
-    date: '30/06/2024 16:00'
-    daysGroup: 27/28/29/30
   - poster: 446196022_750974833914845_1775194026717803467_n.jpeg
     city: Americana
     date: '05/07/2024 20:00'
@@ -197,10 +189,6 @@ gigs:
     city: Araraquara
     date: '14/07/2024 16:00'
     daysGroup: 12/13/14
-  - poster: 447822910_17902938104993993_648795934986216937_n.jpg
-    city: Diadema
-    date: '30/06/2024 14:00'
-    daysGroup: 27/28/29/30
   - poster: 448278046_18081446122482751_4590865016595676714_n.jpg
     city: São Paulo
     date: '06/07/2024 18:00'
@@ -213,10 +201,6 @@ gigs:
     city: Agudos
     date: '06/07/2024 12:00'
     daysGroup: 05/06/07/08
-  - poster: 448559475_1393058804617635_4411518421752553849_n.jpeg
-    city: São Paulo
-    date: '30/06/2024 15:00'
-    daysGroup: 27/28/29/30
   - poster: 448598417_819194146949664_3447202128431175180_n.jpeg
     city: São Paulo
     date: '28/09/2024 15:00'
@@ -292,9 +276,5 @@ gigs:
     city: São Paulo
     date: '10/08/2024 19:00'
     daysGroup: 09/10/11
-  - poster: 448921110_432656869606978_4371070720254113563_n.jpg
-    city: São Paulo
-    date: '30/06/2024 15:00'
-    daysGroup: 27/28/29/30
 ---
 

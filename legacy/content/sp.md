@@ -3830,5 +3830,25 @@ gigs:
     city: São Bernardo do Campo
     date: '29/06/2024 20:00'
     daysGroup: 27/28/29/30
+  - poster: 441127154_792081799541511_5000173471982161746_n.jpeg
+    city: São Paulo
+    date: '30/06/2024 17:00'
+    daysGroup: 27/28/29/30
+  - poster: 446485231_1494281977855273_1591334783293928732_n.jpeg
+    city: São Paulo
+    date: '30/06/2024 16:00'
+    daysGroup: 27/28/29/30
+  - poster: 447822910_17902938104993993_648795934986216937_n.jpg
+    city: Diadema
+    date: '30/06/2024 14:00'
+    daysGroup: 27/28/29/30
+  - poster: 448559475_1393058804617635_4411518421752553849_n.jpeg
+    city: São Paulo
+    date: '30/06/2024 15:00'
+    daysGroup: 27/28/29/30
+  - poster: 448921110_432656869606978_4371070720254113563_n.jpg
+    city: São Paulo
+    date: '30/06/2024 15:00'
+    daysGroup: 27/28/29/30
 ---
 
