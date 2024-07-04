@@ -17,7 +17,7 @@ gigs:
   - poster: 432856903_1179326466843299_3063550065245102428_n.jpg
     city: São Paulo
     date: '06/07/2024 17:00'
-    daysGroup: 05/06/07/08
+    daysGroup: 05/06/07/08/09
     ticketsUrl: >-
       https://www.sympla.com.br/evento/sinister-vulture-ancestral-malediction-ereboros-podridao/2342064
   - poster: 432940679_18247484830217161_8515167532375950925_n.jpg
@@ -62,12 +62,12 @@ gigs:
   - poster: 442412547_1482154889395714_4982639979988539808_n.jpeg
     city: São Paulo
     date: '07/07/2024 12:00'
-    daysGroup: 05/06/07/08
+    daysGroup: 05/06/07/08/09
     ticketsUrl: 'https://www.sympla.com.br/evento/synco-hc-festival-arena-show-sp/2450384'
   - poster: 442412529_1475719253024197_5375320085600563537_n.jpeg
     city: Sorocaba
     date: '06/07/2024 15:00'
-    daysGroup: 05/06/07/08
+    daysGroup: 05/06/07/08/09
   - poster: 443512125_722493033176509_3692471432586929066_n.jpg
     city: São Paulo
     date: '28/07/2024 15:00'
@@ -121,13 +121,13 @@ gigs:
   - poster: 446196022_750974833914845_1775194026717803467_n.jpeg
     city: Americana
     date: '05/07/2024 20:00'
-    daysGroup: 05/06/07/08
+    daysGroup: 05/06/07/08/09
     ticketsUrl: >-
       https://www.sympla.com.br/evento/hup-apresenta-garage-fuzz-gagged-e-brand-new-face/2486350
   - poster: 446236294_1153921969194740_1525128938087763276_n.jpeg
     city: Campinas
     date: '06/07/2024 12:00'
-    daysGroup: 05/06/07/08
+    daysGroup: 05/06/07/08/09
   - poster: 446501145_814718947277448_7086654423223239464_n.jpeg
     city: Leme
     date: '17/08/2024 14:00'
@@ -180,7 +180,7 @@ gigs:
   - poster: 447916124_812190807229081_4092717067564889723_n.jpeg
     city: São Paulo
     date: '08/07/2024 19:00'
-    daysGroup: 05/06/07/08
+    daysGroup: 05/06/07/08/09
   - poster: 448180098_293894490485126_4116573440983436130_n.jpg
     city: Várzea Paulista
     date: '10/08/2024 19:00'
@@ -192,7 +192,7 @@ gigs:
   - poster: 448278046_18081446122482751_4590865016595676714_n.jpg
     city: São Paulo
     date: '06/07/2024 18:00'
-    daysGroup: 05/06/07/08
+    daysGroup: 05/06/07/08/09
   - poster: 448530678_18325807492121660_7376303376978290223_n.jpg
     city: São Paulo
     date: '14/07/2024 14:00'
@@ -200,7 +200,7 @@ gigs:
   - poster: 58fe5591-8643-4a84-9a45-4b88dbc713b3.jpeg
     city: Agudos
     date: '06/07/2024 12:00'
-    daysGroup: 05/06/07/08
+    daysGroup: 05/06/07/08/09
   - poster: 448598417_819194146949664_3447202128431175180_n.jpeg
     city: São Paulo
     date: '28/09/2024 15:00'
@@ -214,7 +214,7 @@ gigs:
   - poster: 448598135_457595216991896_4953406488677237483_n.jpeg
     city: Santos
     date: '05/07/2024 21:00'
-    daysGroup: 05/06/07/08
+    daysGroup: 05/06/07/08/09
   - poster: 448410243_775779514540392_4679043372263992941_n.jpeg
     city: São Paulo
     date: '13/07/2024 20:30'
@@ -222,7 +222,7 @@ gigs:
   - poster: 448586316_390541970670453_3544070453345819849_n.jpeg
     city: São Paulo
     date: '05/07/2024 18:00'
-    daysGroup: 05/06/07/08
+    daysGroup: 05/06/07/08/09
   - poster: 448472918_2762624123895570_2648964722289704490_n.jpg
     city: Várzea Paulista
     date: '13/07/2024 16:00'
@@ -234,7 +234,7 @@ gigs:
   - poster: 448347409_788158903416461_5380914246380334053_n.jpeg
     city: Osasco
     date: '07/07/2024 17:00'
-    daysGroup: 05/06/07/08
+    daysGroup: 05/06/07/08/09
   - poster: 448716011_428525233342310_2954090019216484008_n.jpeg
     city: São Paulo
     date: '20/07/2024 20:00'
@@ -246,19 +246,19 @@ gigs:
   - poster: 449143892_7868228796570661_3536881096090656640_n.jpg
     city: São Paulo
     date: '06/07/2024 19:00'
-    daysGroup: 05/06/07/08
+    daysGroup: 05/06/07/08/09
   - poster: 449259576_10225109160941175_7704962453038519587_n.jpg
     city: São Paulo
     date: '07/07/2024 17:00'
-    daysGroup: 05/06/07/08
+    daysGroup: 05/06/07/08/09
   - poster: 449015070_7737989956287551_4592641998775012726_n.jpg
     city: Várzea Paulista
     date: '06/07/2024 16:00'
-    daysGroup: 05/06/07/08
+    daysGroup: 05/06/07/08/09
   - poster: 438329611_1578216459622646_5900753006498485093_n.jpg
     city: São Paulo
     date: '07/07/2024 15:00'
-    daysGroup: 05/06/07/08
+    daysGroup: 05/06/07/08/09
     ticketsUrl: 'https://www.hoppin.com.br/pesujus'
   - poster: 448171074_432024369742533_3762598279642293901_n.jpg
     city: Cordeirópolis
@@ -268,6 +268,7 @@ gigs:
     city: São Paulo
     date: '28/08/2024 18:00'
     daysGroup: 28/29/30/31
+    ticketsUrl: 'https://www.sympla.com.br/evento/undershows-fest-ii/2525435'
   - poster: 448979164_10228667670534145_8075372831227689104_n.jpg
     city: São Paulo
     date: '31/08/2024 16:00'
@@ -276,5 +277,69 @@ gigs:
     city: São Paulo
     date: '10/08/2024 19:00'
     daysGroup: 09/10/11
+  - poster: 96664d81-0f7c-478b-85e9-3f9ecee732fc.jpeg
+    city: Birigui
+    date: '24/08/2024 17:00'
+    daysGroup: 23/24/25
+  - poster: 449692742_7760186757422034_2190397917287295167_n.jpg
+    city: São Paulo
+    date: '26/07/2024 19:00'
+    daysGroup: 26/27/28
+  - poster: 449695704_8550133925034541_8693441574735638179_n.jpg
+    city: Santo André
+    date: '06/07/2024 16:00'
+    daysGroup: 05/06/07/08/09
+  - poster: 449780310_8550134911701109_8091989469628762966_n.jpg
+    city: São Paulo
+    date: '07/07/2024 12:00'
+    daysGroup: 05/06/07/08/09
+  - poster: b77432a2-b76b-403f-88e0-3ece5b56621c.jpg
+    city: São Paulo
+    date: '02/08/2024 19:00'
+    daysGroup: 02/03/04
+  - poster: afbf54bc-72a2-4b91-a144-ed981b8277eb.jpeg
+    city: Bauru
+    date: '05/07/2024 22:00'
+    daysGroup: 05/06/07/08/09
+  - poster: f763ffe6-e63c-4c7a-9546-af2c528e6940.jpeg
+    city: Praia Grande
+    date: '17/08/2024 20:00'
+    daysGroup: 16/17/18
+  - poster: ea971fb8-9d25-48bf-8841-07f2338a7567.jpeg
+    city: Sumaré
+    date: '06/07/2024 19:00'
+    daysGroup: 05/06/07/08/09
+  - poster: c50942e4-ecf4-4a19-810d-e4b4f7b2a893.jpeg
+    city: São Paulo
+    date: '07/07/2024 13:00'
+    daysGroup: 05/06/07/08/09
+  - poster: 3835aa28-e74d-40f8-827f-c1dfc911fbb0.jpeg
+    city: São Paulo
+    date: '15/09/2024 15:00'
+    daysGroup: 13/14/15
+  - poster: 5004a369-b1bf-4c12-8dac-1b41a403eee5.jpeg
+    city: Diadema
+    date: '20/07/2024 13:00'
+    daysGroup: 18/19/20/21
+  - poster: 515ffe89-59df-479f-a151-6f7ad0cccb4f.jpeg
+    city: Osasco
+    date: '14/07/2024 16:00'
+    daysGroup: 12/13/14
+  - poster: 445783584_1164436861647515_3945608713123131870_n.jpeg
+    city: Pindamonhangaba
+    date: '27/07/2024 16:00'
+    daysGroup: 26/27/28
+  - poster: 965fe37b-7c57-4d1e-9f34-aa024e25c346.jpeg
+    city: São Paulo
+    date: '09/07/2024 18:00'
+    daysGroup: 05/06/07/08/09
+  - poster: c787b156-e803-41e2-91c2-ca4870d1f2d7.jpeg
+    city: São Paulo
+    date: '13/07/2024 19:00'
+    daysGroup: 12/13/14
+  - poster: 0b7dff06-dd16-4c09-827c-09a6cb2500ba.jpeg
+    city: São Paulo
+    date: '06/07/2024 18:00'
+    daysGroup: 05/06/07/08/09
 ---
 

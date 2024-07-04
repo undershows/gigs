@@ -49,5 +49,9 @@ gigs:
     date: '07/09/2024 14:00'
     daysGroup: 19/20/21
     ticketsUrl: 'https://www.sympla.com.br/evento/brutal-devastation-2024/2491685'
+  - poster: 17770a9f-7912-4afc-a8ed-7b6ac68131d3.jpeg
+    city: Belo Horizonte
+    date: '13/07/2024 13:00'
+    daysGroup: 12/13/14
 ---
 
