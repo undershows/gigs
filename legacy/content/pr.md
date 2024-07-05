@@ -368,5 +368,11 @@ gigs:
     date: '29/06/2024 21:00'
     daysGroup: 28/29/30
     ticketsUrl: 'https://www.clubedoingresso.com/evento/menoresatos-curitiba'
+  - poster: 448541078_1523933451862740_2296158386346448305_n.jpeg
+    city: Londrina
+    date: '04/07/2024 22:00'
+    daysGroup: 04/05/06/07
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/sinister-diretamente-da-holanda-com-os-convidados-locais-guro/2507992
 ---
 
