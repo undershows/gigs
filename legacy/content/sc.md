@@ -209,5 +209,10 @@ gigs:
     date: '28/06/2024 21:00'
     daysGroup: 28/29/30
     ticketsUrl: 'https://www.clubedoingresso.com/evento/menoresatos-florianopolis'
+  - poster: 432896082_1179326436843302_5353833939571368188_n.jpg
+    city: Joinville
+    date: '05/07/2024 18:00'
+    daysGroup: 05/06/07
+    ticketsUrl: 'https://bilheto.com.br/comprar/2168/sinister'
 ---
 

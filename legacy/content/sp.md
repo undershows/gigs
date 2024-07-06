@@ -3850,5 +3850,23 @@ gigs:
     city: São Paulo
     date: '30/06/2024 15:00'
     daysGroup: 27/28/29/30
+  - poster: 446196022_750974833914845_1775194026717803467_n.jpeg
+    city: Americana
+    date: '05/07/2024 20:00'
+    daysGroup: 05/06/07/08/09
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/hup-apresenta-garage-fuzz-gagged-e-brand-new-face/2486350
+  - poster: 448598135_457595216991896_4953406488677237483_n.jpeg
+    city: Santos
+    date: '05/07/2024 21:00'
+    daysGroup: 05/06/07/08/09
+  - poster: 448586316_390541970670453_3544070453345819849_n.jpeg
+    city: São Paulo
+    date: '05/07/2024 18:00'
+    daysGroup: 05/06/07/08/09
+  - poster: afbf54bc-72a2-4b91-a144-ed981b8277eb.jpeg
+    city: Bauru
+    date: '05/07/2024 22:00'
+    daysGroup: 05/06/07/08/09
 ---
 

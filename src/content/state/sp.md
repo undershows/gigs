@@ -118,12 +118,6 @@ gigs:
     date: '19/07/2024 19:00'
     daysGroup: 18/19/20/21
     ticketsUrl: 'https://www.clubedoingresso.com/evento/andralls-chaoslace-die-voidit'
-  - poster: 446196022_750974833914845_1775194026717803467_n.jpeg
-    city: Americana
-    date: '05/07/2024 20:00'
-    daysGroup: 05/06/07/08/09
-    ticketsUrl: >-
-      https://www.sympla.com.br/evento/hup-apresenta-garage-fuzz-gagged-e-brand-new-face/2486350
   - poster: 446236294_1153921969194740_1525128938087763276_n.jpeg
     city: Campinas
     date: '06/07/2024 12:00'
@@ -211,18 +205,10 @@ gigs:
     daysGroup: 12/13/14
     ticketsUrl: >-
       https://www.sympla.com.br/evento/a-porta-maldita-personas-a-queda-de-ofelia-de-carne-e-flor/2513892
-  - poster: 448598135_457595216991896_4953406488677237483_n.jpeg
-    city: Santos
-    date: '05/07/2024 21:00'
-    daysGroup: 05/06/07/08/09
   - poster: 448410243_775779514540392_4679043372263992941_n.jpeg
     city: São Paulo
     date: '13/07/2024 20:30'
     daysGroup: 12/13/14
-  - poster: 448586316_390541970670453_3544070453345819849_n.jpeg
-    city: São Paulo
-    date: '05/07/2024 18:00'
-    daysGroup: 05/06/07/08/09
   - poster: 448472918_2762624123895570_2648964722289704490_n.jpg
     city: Várzea Paulista
     date: '13/07/2024 16:00'
@@ -297,10 +283,6 @@ gigs:
     city: São Paulo
     date: '02/08/2024 19:00'
     daysGroup: 02/03/04
-  - poster: afbf54bc-72a2-4b91-a144-ed981b8277eb.jpeg
-    city: Bauru
-    date: '05/07/2024 22:00'
-    daysGroup: 05/06/07/08/09
   - poster: f763ffe6-e63c-4c7a-9546-af2c528e6940.jpeg
     city: Praia Grande
     date: '17/08/2024 20:00'

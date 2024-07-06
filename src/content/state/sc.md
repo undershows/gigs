@@ -2,11 +2,6 @@
 abbr: SC
 name: Santa Catarina
 gigs:
-  - poster: 432896082_1179326436843302_5353833939571368188_n.jpg
-    city: Joinville
-    date: '05/07/2024 18:00'
-    daysGroup: 05/06/07
-    ticketsUrl: 'https://bilheto.com.br/comprar/2168/sinister'
   - poster: 447913932_1756668884742166_767162404256722660_n.jpeg
     city: Florianópolis
     date: '30/08/2024 20:00'
