@@ -69,5 +69,9 @@ gigs:
     city: Campo Grande
     date: '22/06/2024 21:00'
     daysGroup: 21/22/23
+  - poster: 441030320_17896810002003294_602733340054482484_n.jpg
+    city: Campo Grande
+    date: '06/07/2024 17:00'
+    daysGroup: 05/06/07
 ---
 

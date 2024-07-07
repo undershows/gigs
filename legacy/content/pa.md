@@ -80,5 +80,10 @@ gigs:
     city: Ananindeua
     date: '20/04/2024 17:00'
     daysGroup: 19/20/21
+  - poster: 447616727_1216876323027334_2252561151573938505_n.jpg
+    city: Bragança
+    date: '06/07/2024 20:00'
+    daysGroup: 05/06/07
+    ticketsUrl: 'https://amazoniaticket.com.br/caete-rock-fest__9504/'
 ---
 

@@ -3868,5 +3868,47 @@ gigs:
     city: Bauru
     date: '05/07/2024 22:00'
     daysGroup: 05/06/07/08/09
+  - poster: 432856903_1179326466843299_3063550065245102428_n.jpg
+    city: São Paulo
+    date: '06/07/2024 17:00'
+    daysGroup: 05/06/07/08/09
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/sinister-vulture-ancestral-malediction-ereboros-podridao/2342064
+  - poster: 442412529_1475719253024197_5375320085600563537_n.jpeg
+    city: Sorocaba
+    date: '06/07/2024 15:00'
+    daysGroup: 05/06/07/08/09
+  - poster: 446236294_1153921969194740_1525128938087763276_n.jpeg
+    city: Campinas
+    date: '06/07/2024 12:00'
+    daysGroup: 05/06/07/08/09
+  - poster: 448278046_18081446122482751_4590865016595676714_n.jpg
+    city: São Paulo
+    date: '06/07/2024 18:00'
+    daysGroup: 05/06/07/08/09
+  - poster: 58fe5591-8643-4a84-9a45-4b88dbc713b3.jpeg
+    city: Agudos
+    date: '06/07/2024 12:00'
+    daysGroup: 05/06/07/08/09
+  - poster: 449143892_7868228796570661_3536881096090656640_n.jpg
+    city: São Paulo
+    date: '06/07/2024 19:00'
+    daysGroup: 05/06/07/08/09
+  - poster: 449015070_7737989956287551_4592641998775012726_n.jpg
+    city: Várzea Paulista
+    date: '06/07/2024 16:00'
+    daysGroup: 05/06/07/08/09
+  - poster: 449695704_8550133925034541_8693441574735638179_n.jpg
+    city: Santo André
+    date: '06/07/2024 16:00'
+    daysGroup: 05/06/07/08/09
+  - poster: ea971fb8-9d25-48bf-8841-07f2338a7567.jpeg
+    city: Sumaré
+    date: '06/07/2024 19:00'
+    daysGroup: 05/06/07/08/09
+  - poster: 0b7dff06-dd16-4c09-827c-09a6cb2500ba.jpeg
+    city: São Paulo
+    date: '06/07/2024 18:00'
+    daysGroup: 05/06/07/08/09
 ---
 

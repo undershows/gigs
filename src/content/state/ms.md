@@ -8,10 +8,6 @@ gigs:
     daysGroup: 16/17/18
     ticketsUrl: >-
       https://ingressos.epfprodutora.com.br/comprar-ingresso/sepultura-40-years-tour-5031
-  - poster: 441030320_17896810002003294_602733340054482484_n.jpg
-    city: Campo Grande
-    date: '06/07/2024 17:00'
-    daysGroup: 05/06/07
   - poster: 447964411_18012221456387681_5594494561340545771_n.jpg
     city: Campo Grande
     date: '12/07/2024 20:00'

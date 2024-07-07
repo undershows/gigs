@@ -20,5 +20,9 @@ gigs:
     city: Manaus
     date: '05/04/2024 19:00'
     daysGroup: 03/04/05/06/07
+  - poster: 447992425_2176825866014230_450538063528258926_n.jpeg
+    city: Manaus
+    date: '06/07/2024 20:00'
+    daysGroup: 05/06/07
 ---
 

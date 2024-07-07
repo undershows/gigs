@@ -242,5 +242,15 @@ gigs:
     daysGroup: 21/22/23
     ticketsUrl: >-
       https://www.sympla.com.br/evento/vacanti-ph-mazza-nebulosa-no-pecado-mora-ao-lado/2513788
+  - poster: 445404804_18336408049139591_3599385635484417662_n.jpg
+    city: Rio de Janeiro
+    date: '06/07/2024 22:00'
+    daysGroup: 05/06/07
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/e-eu-que-era-emo-rj-edicao-junina-menores-atos-10-anos-de-animalia/2488487
+  - poster: 441868006_18436342888040798_5917204385706538042_n.jpg
+    city: Rio de Janeiro
+    date: '06/07/2024 19:00'
+    daysGroup: 05/06/07
 ---
 

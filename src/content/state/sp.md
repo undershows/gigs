@@ -14,12 +14,6 @@ gigs:
     daysGroup: 08/09/10
     ticketsUrl: >-
       https://www.clubedoingresso.com/evento/asphyx-thetroopsofdoom-evilcult-saopaulo
-  - poster: 432856903_1179326466843299_3063550065245102428_n.jpg
-    city: São Paulo
-    date: '06/07/2024 17:00'
-    daysGroup: 05/06/07/08/09
-    ticketsUrl: >-
-      https://www.sympla.com.br/evento/sinister-vulture-ancestral-malediction-ereboros-podridao/2342064
   - poster: 432940679_18247484830217161_8515167532375950925_n.jpg
     city: Limeira
     date: '09/08/2024 19:00'
@@ -64,10 +58,6 @@ gigs:
     date: '07/07/2024 12:00'
     daysGroup: 05/06/07/08/09
     ticketsUrl: 'https://www.sympla.com.br/evento/synco-hc-festival-arena-show-sp/2450384'
-  - poster: 442412529_1475719253024197_5375320085600563537_n.jpeg
-    city: Sorocaba
-    date: '06/07/2024 15:00'
-    daysGroup: 05/06/07/08/09
   - poster: 443512125_722493033176509_3692471432586929066_n.jpg
     city: São Paulo
     date: '28/07/2024 15:00'
@@ -118,10 +108,6 @@ gigs:
     date: '19/07/2024 19:00'
     daysGroup: 18/19/20/21
     ticketsUrl: 'https://www.clubedoingresso.com/evento/andralls-chaoslace-die-voidit'
-  - poster: 446236294_1153921969194740_1525128938087763276_n.jpeg
-    city: Campinas
-    date: '06/07/2024 12:00'
-    daysGroup: 05/06/07/08/09
   - poster: 446501145_814718947277448_7086654423223239464_n.jpeg
     city: Leme
     date: '17/08/2024 14:00'
@@ -183,18 +169,10 @@ gigs:
     city: Araraquara
     date: '14/07/2024 16:00'
     daysGroup: 12/13/14
-  - poster: 448278046_18081446122482751_4590865016595676714_n.jpg
-    city: São Paulo
-    date: '06/07/2024 18:00'
-    daysGroup: 05/06/07/08/09
   - poster: 448530678_18325807492121660_7376303376978290223_n.jpg
     city: São Paulo
     date: '14/07/2024 14:00'
     daysGroup: 12/13/14
-  - poster: 58fe5591-8643-4a84-9a45-4b88dbc713b3.jpeg
-    city: Agudos
-    date: '06/07/2024 12:00'
-    daysGroup: 05/06/07/08/09
   - poster: 448598417_819194146949664_3447202128431175180_n.jpeg
     city: São Paulo
     date: '28/09/2024 15:00'
@@ -229,17 +207,9 @@ gigs:
     city: São José dos Campos
     date: '28/07/2024 17:00'
     daysGroup: 26/27/28
-  - poster: 449143892_7868228796570661_3536881096090656640_n.jpg
-    city: São Paulo
-    date: '06/07/2024 19:00'
-    daysGroup: 05/06/07/08/09
   - poster: 449259576_10225109160941175_7704962453038519587_n.jpg
     city: São Paulo
     date: '07/07/2024 17:00'
-    daysGroup: 05/06/07/08/09
-  - poster: 449015070_7737989956287551_4592641998775012726_n.jpg
-    city: Várzea Paulista
-    date: '06/07/2024 16:00'
     daysGroup: 05/06/07/08/09
   - poster: 438329611_1578216459622646_5900753006498485093_n.jpg
     city: São Paulo
@@ -271,10 +241,6 @@ gigs:
     city: São Paulo
     date: '26/07/2024 19:00'
     daysGroup: 26/27/28
-  - poster: 449695704_8550133925034541_8693441574735638179_n.jpg
-    city: Santo André
-    date: '06/07/2024 16:00'
-    daysGroup: 05/06/07/08/09
   - poster: 449780310_8550134911701109_8091989469628762966_n.jpg
     city: São Paulo
     date: '07/07/2024 12:00'
@@ -287,10 +253,6 @@ gigs:
     city: Praia Grande
     date: '17/08/2024 20:00'
     daysGroup: 16/17/18
-  - poster: ea971fb8-9d25-48bf-8841-07f2338a7567.jpeg
-    city: Sumaré
-    date: '06/07/2024 19:00'
-    daysGroup: 05/06/07/08/09
   - poster: c50942e4-ecf4-4a19-810d-e4b4f7b2a893.jpeg
     city: São Paulo
     date: '07/07/2024 13:00'
@@ -319,9 +281,5 @@ gigs:
     city: São Paulo
     date: '13/07/2024 19:00'
     daysGroup: 12/13/14
-  - poster: 0b7dff06-dd16-4c09-827c-09a6cb2500ba.jpeg
-    city: São Paulo
-    date: '06/07/2024 18:00'
-    daysGroup: 05/06/07/08/09
 ---
 
