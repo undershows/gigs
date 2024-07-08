@@ -198,5 +198,10 @@ gigs:
     date: '21/06/2024 20:00'
     daysGroup: 21/22/23
     ticketsUrl: 'https://www.clubedoingresso.com/evento/theobsessed-belohorizonte'
+  - poster: 428683278_2673619522796031_4534828098999944732_n.jpg
+    city: Belo Horizonte
+    date: '07/07/2024 16:00'
+    daysGroup: 05/06/07
+    ticketsUrl: 'https://www.sympla.com.br/evento/sinister-em-belo-horizonte/2350307'
 ---
 

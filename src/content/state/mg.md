@@ -2,11 +2,6 @@
 abbr: MG
 name: Minas Gerais
 gigs:
-  - poster: 428683278_2673619522796031_4534828098999944732_n.jpg
-    city: Belo Horizonte
-    date: '07/07/2024 16:00'
-    daysGroup: 05/06/07
-    ticketsUrl: 'https://www.sympla.com.br/evento/sinister-em-belo-horizonte/2350307'
   - poster: 432929317_10161551157919516_1474726786461472691_n.jpg
     city: Belo Horizonte
     date: '08/10/2024 18:00'

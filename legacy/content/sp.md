@@ -3910,5 +3910,31 @@ gigs:
     city: São Paulo
     date: '06/07/2024 18:00'
     daysGroup: 05/06/07/08/09
+  - poster: 442412547_1482154889395714_4982639979988539808_n.jpeg
+    city: São Paulo
+    date: '07/07/2024 12:00'
+    daysGroup: 05/06/07/08/09
+    ticketsUrl: 'https://www.sympla.com.br/evento/synco-hc-festival-arena-show-sp/2450384'
+  - poster: 448347409_788158903416461_5380914246380334053_n.jpeg
+    city: Osasco
+    date: '07/07/2024 17:00'
+    daysGroup: 05/06/07/08/09
+  - poster: 449259576_10225109160941175_7704962453038519587_n.jpg
+    city: São Paulo
+    date: '07/07/2024 17:00'
+    daysGroup: 05/06/07/08/09
+  - poster: 438329611_1578216459622646_5900753006498485093_n.jpg
+    city: São Paulo
+    date: '07/07/2024 15:00'
+    daysGroup: 05/06/07/08/09
+    ticketsUrl: 'https://www.hoppin.com.br/pesujus'
+  - poster: 449780310_8550134911701109_8091989469628762966_n.jpg
+    city: São Paulo
+    date: '07/07/2024 12:00'
+    daysGroup: 05/06/07/08/09
+  - poster: c50942e4-ecf4-4a19-810d-e4b4f7b2a893.jpeg
+    city: São Paulo
+    date: '07/07/2024 13:00'
+    daysGroup: 05/06/07/08/09
 ---
 

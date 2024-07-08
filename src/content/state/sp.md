@@ -53,11 +53,6 @@ gigs:
     date: '27/09/2024 18:00'
     daysGroup: 27/28/29
     ticketsUrl: 'https://www.clubedoingresso.com/evento/gorillabiscuits-saopaulo'
-  - poster: 442412547_1482154889395714_4982639979988539808_n.jpeg
-    city: São Paulo
-    date: '07/07/2024 12:00'
-    daysGroup: 05/06/07/08/09
-    ticketsUrl: 'https://www.sympla.com.br/evento/synco-hc-festival-arena-show-sp/2450384'
   - poster: 443512125_722493033176509_3692471432586929066_n.jpg
     city: São Paulo
     date: '28/07/2024 15:00'
@@ -195,10 +190,6 @@ gigs:
     city: São José dos Campos
     date: '04/08/2024 18:00'
     daysGroup: 02/03/04
-  - poster: 448347409_788158903416461_5380914246380334053_n.jpeg
-    city: Osasco
-    date: '07/07/2024 17:00'
-    daysGroup: 05/06/07/08/09
   - poster: 448716011_428525233342310_2954090019216484008_n.jpeg
     city: São Paulo
     date: '20/07/2024 20:00'
@@ -207,15 +198,6 @@ gigs:
     city: São José dos Campos
     date: '28/07/2024 17:00'
     daysGroup: 26/27/28
-  - poster: 449259576_10225109160941175_7704962453038519587_n.jpg
-    city: São Paulo
-    date: '07/07/2024 17:00'
-    daysGroup: 05/06/07/08/09
-  - poster: 438329611_1578216459622646_5900753006498485093_n.jpg
-    city: São Paulo
-    date: '07/07/2024 15:00'
-    daysGroup: 05/06/07/08/09
-    ticketsUrl: 'https://www.hoppin.com.br/pesujus'
   - poster: 448171074_432024369742533_3762598279642293901_n.jpg
     city: Cordeirópolis
     date: '14/07/2024 13:00'
@@ -241,10 +223,6 @@ gigs:
     city: São Paulo
     date: '26/07/2024 19:00'
     daysGroup: 26/27/28
-  - poster: 449780310_8550134911701109_8091989469628762966_n.jpg
-    city: São Paulo
-    date: '07/07/2024 12:00'
-    daysGroup: 05/06/07/08/09
   - poster: b77432a2-b76b-403f-88e0-3ece5b56621c.jpg
     city: São Paulo
     date: '02/08/2024 19:00'
@@ -253,10 +231,6 @@ gigs:
     city: Praia Grande
     date: '17/08/2024 20:00'
     daysGroup: 16/17/18
-  - poster: c50942e4-ecf4-4a19-810d-e4b4f7b2a893.jpeg
-    city: São Paulo
-    date: '07/07/2024 13:00'
-    daysGroup: 05/06/07/08/09
   - poster: 3835aa28-e74d-40f8-827f-c1dfc911fbb0.jpeg
     city: São Paulo
     date: '15/09/2024 15:00'
