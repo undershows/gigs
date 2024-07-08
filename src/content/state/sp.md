@@ -255,5 +255,25 @@ gigs:
     city: São Paulo
     date: '13/07/2024 19:00'
     daysGroup: 12/13/14
+  - poster: 80017d08-0406-4e42-b43f-3f7b918562ef.jpeg
+    city: São Paulo
+    date: '04/08/2024 14:00'
+    daysGroup: 02/03/04
+  - poster: aa0eb09a-9e98-4d33-b381-c45bc7a1d80e.jpeg
+    city: São Paulo
+    date: '27/07/2024 10:00'
+    daysGroup: 26/27/28
+  - poster: cf7f82fa-30f2-42af-b15c-4c949f61c3b0.jpeg
+    city: Osasco
+    date: '26/07/2024 20:00'
+    daysGroup: 26/27/28
+  - poster: 442507659_7491389367604407_8306850078456924387_n.jpg
+    city: Itu
+    date: '24/08/2024 17:00'
+    daysGroup: 23/24/25
+  - poster: a169b9ac-be40-44a0-bf3e-6fb9256654dc.jpeg
+    city: São Paulo
+    date: '13/07/2024 17:00'
+    daysGroup: 12/13/14
 ---
 
