@@ -152,10 +152,6 @@ gigs:
     city: Birigui
     date: '20/07/2024 19:00'
     daysGroup: 18/19/20/21
-  - poster: 447916124_812190807229081_4092717067564889723_n.jpeg
-    city: São Paulo
-    date: '08/07/2024 19:00'
-    daysGroup: 05/06/07/08/09
   - poster: 448180098_293894490485126_4116573440983436130_n.jpg
     city: Várzea Paulista
     date: '10/08/2024 19:00'
