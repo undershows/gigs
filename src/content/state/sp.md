@@ -243,10 +243,6 @@ gigs:
     city: Pindamonhangaba
     date: '27/07/2024 16:00'
     daysGroup: 26/27/28
-  - poster: 965fe37b-7c57-4d1e-9f34-aa024e25c346.jpeg
-    city: São Paulo
-    date: '09/07/2024 18:00'
-    daysGroup: 05/06/07/08/09
   - poster: c787b156-e803-41e2-91c2-ca4870d1f2d7.jpeg
     city: São Paulo
     date: '13/07/2024 19:00'
