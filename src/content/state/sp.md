@@ -287,10 +287,6 @@ gigs:
     city: Sorocaba
     date: '29/09/2024 15:00'
     daysGroup: 27/28/29
-  - poster: 450380872_7929165093811909_4706515090523882051_n.jpg
-    city: São José dos Campos
-    date: '17/08/2024 14:00'
-    daysGroup: 16/17/18
   - poster: 450590914_10228791964841425_738076629365281112_n.jpg
     city: São Paulo
     date: '12/07/2024 22:00'
