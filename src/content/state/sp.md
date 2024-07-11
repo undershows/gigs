@@ -38,7 +38,7 @@ gigs:
   - poster: 437783461_794844275520482_8443482418657512528_n.jpeg
     city: São Paulo
     date: '13/07/2024 13:00'
-    daysGroup: 12/13/14
+    daysGroup: 11/12/13/14
   - poster: 437789515_1186460232719430_2866805141690934471_n.jpg
     city: São Paulo
     date: '02/11/2024 16:00'
@@ -79,7 +79,7 @@ gigs:
   - poster: e0bf7910-df0d-43cc-b23f-941389d36f44.jpeg
     city: Bauru
     date: '13/07/2024 20:00'
-    daysGroup: 12/13/14
+    daysGroup: 11/12/13/14
   - poster: 446217292_828556425439093_3944928494405814725_n.jpeg
     city: São Paulo
     date: '31/08/2024 19:00'
@@ -97,7 +97,7 @@ gigs:
   - poster: 446468460_770670704877811_7005544506978245247_n.jpeg
     city: Marília
     date: '22/09/2024 18:00'
-    daysGroup: 20/21/22
+    daysGroup: 19/20/21/22
   - poster: 446501114_2141202042939092_1417775848871820635_n.jpeg
     city: São Paulo
     date: '19/07/2024 19:00'
@@ -110,7 +110,7 @@ gigs:
   - poster: e0acd4f6-e9e9-4e8e-a909-34bad933316c.jpeg
     city: São Paulo
     date: '13/07/2024 19:00'
-    daysGroup: 12/13/14
+    daysGroup: 11/12/13/14
     ticketsUrl: >-
       https://www.sympla.com.br/evento/hiatus-invasores-de-cerebros-possuido-pelo-cao-dischavizer-distravatravaa/2489020
   - poster: b405c928-427c-4d41-b242-1bb12cc88359.jpeg
@@ -122,7 +122,7 @@ gigs:
   - poster: 8bae537e-6ccf-4186-a99c-178cd082af95.jpeg
     city: Santo André
     date: '12/07/2024 19:00'
-    daysGroup: 12/13/14
+    daysGroup: 11/12/13/14
     ticketsUrl: 'https://www.sympla.com.br/evento/hiatus-be-ao-vivo-no-74club/2458338'
   - poster: 446347125_335081212736077_3796952661927701953_n.jpeg
     city: Ferraz de Vasconcelos
@@ -159,11 +159,11 @@ gigs:
   - poster: 448337858_1695920044277917_9187260849956268335_n.jpeg
     city: Araraquara
     date: '14/07/2024 16:00'
-    daysGroup: 12/13/14
+    daysGroup: 11/12/13/14
   - poster: 448530678_18325807492121660_7376303376978290223_n.jpg
     city: São Paulo
     date: '14/07/2024 14:00'
-    daysGroup: 12/13/14
+    daysGroup: 11/12/13/14
   - poster: 448598417_819194146949664_3447202128431175180_n.jpeg
     city: São Paulo
     date: '28/09/2024 15:00'
@@ -171,17 +171,17 @@ gigs:
   - poster: 448781933_403609956006422_6850884362533269199_n.jpeg
     city: São Paulo
     date: '13/07/2024 20:00'
-    daysGroup: 12/13/14
+    daysGroup: 11/12/13/14
     ticketsUrl: >-
       https://www.sympla.com.br/evento/a-porta-maldita-personas-a-queda-de-ofelia-de-carne-e-flor/2513892
   - poster: 448410243_775779514540392_4679043372263992941_n.jpeg
     city: São Paulo
     date: '13/07/2024 20:30'
-    daysGroup: 12/13/14
+    daysGroup: 11/12/13/14
   - poster: 448472918_2762624123895570_2648964722289704490_n.jpg
     city: Várzea Paulista
     date: '13/07/2024 16:00'
-    daysGroup: 12/13/14
+    daysGroup: 11/12/13/14
   - poster: 448814228_10161732244639516_6595458316708930083_n.jpg
     city: São José dos Campos
     date: '04/08/2024 18:00'
@@ -197,7 +197,7 @@ gigs:
   - poster: 448171074_432024369742533_3762598279642293901_n.jpg
     city: Cordeirópolis
     date: '14/07/2024 13:00'
-    daysGroup: 12/13/14
+    daysGroup: 11/12/13/14
   - poster: bd7d4e55-64e9-460a-8a49-ab22a2e817dc.jpeg
     city: São Paulo
     date: '28/08/2024 18:00'
@@ -238,7 +238,7 @@ gigs:
   - poster: 515ffe89-59df-479f-a151-6f7ad0cccb4f.jpeg
     city: Osasco
     date: '14/07/2024 16:00'
-    daysGroup: 12/13/14
+    daysGroup: 11/12/13/14
   - poster: 445783584_1164436861647515_3945608713123131870_n.jpeg
     city: Pindamonhangaba
     date: '27/07/2024 16:00'
@@ -246,7 +246,7 @@ gigs:
   - poster: c787b156-e803-41e2-91c2-ca4870d1f2d7.jpeg
     city: São Paulo
     date: '13/07/2024 19:00'
-    daysGroup: 12/13/14
+    daysGroup: 11/12/13/14
   - poster: 80017d08-0406-4e42-b43f-3f7b918562ef.jpeg
     city: São Paulo
     date: '04/08/2024 14:00'
@@ -266,7 +266,7 @@ gigs:
   - poster: a169b9ac-be40-44a0-bf3e-6fb9256654dc.jpeg
     city: São Paulo
     date: '13/07/2024 17:00'
-    daysGroup: 12/13/14
+    daysGroup: 11/12/13/14
   - poster: 450016334_25913810068266671_7238647119905434738_n.jpg
     city: São Paulo
     date: '19/07/2024 19:00'
@@ -274,6 +274,46 @@ gigs:
   - poster: 450017475_7787626031321005_7357127593791311954_n.jpg
     city: São Paulo
     date: '12/07/2024 20:00'
-    daysGroup: 12/13/14
+    daysGroup: 11/12/13/14
+  - poster: chaos_and_death_19-09_resized.jpg
+    city: Campinas
+    date: '19/09/2024 19:00'
+    daysGroup: 19/20/21/22
+  - poster: 450016433_7776298795780605_3711673933442769557_n.jpg
+    city: São Paulo
+    date: '14/07/2024 18:00'
+    daysGroup: 11/12/13/14
+  - poster: 450222996_2683253778509371_853876091628887017_n.jpg
+    city: Sorocaba
+    date: '29/09/2024 15:00'
+    daysGroup: 27/28/29
+  - poster: 450380872_7929165093811909_4706515090523882051_n.jpg
+    city: São José dos Campos
+    date: '17/08/2024 14:00'
+    daysGroup: 16/17/18
+  - poster: 450590914_10228791964841425_738076629365281112_n.jpg
+    city: São Paulo
+    date: '12/07/2024 22:00'
+    daysGroup: 11/12/13/14
+  - poster: 450458416_2566484927073067_7677039188821557072_n.jpg
+    city: Itapevi
+    date: '24/08/2024 15:00'
+    daysGroup: 23/24/25
+  - poster: 450351208_8504207012939882_6866325029312936943_n.jpg
+    city: São Paulo
+    date: '27/07/2024 19:00'
+    daysGroup: 26/27/28
+  - poster: 450014204_8504211632939420_7055363460231755152_n.jpg
+    city: São Paulo
+    date: '13/07/2024 19:00'
+    daysGroup: 11/12/13/14
+  - poster: 450480935_8799452856736428_2180246270579170309_n.jpg
+    city: São Paulo
+    date: '11/07/2024 19:00'
+    daysGroup: 11/12/13/14
+  - poster: 449215329_3772743962997016_3257329411601857292_n.jpg
+    city: São Paulo
+    date: '27/07/2024 21:00'
+    daysGroup: 26/27/28
 ---
 

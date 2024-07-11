@@ -17,5 +17,19 @@ gigs:
     daysGroup: 22/23/24
     ticketsUrl: >-
       https://pixelticket.com.br/eventos/21273/festival-musica-e-atitude-em-curitiba
+  - poster: 450421835_1534906310395191_8324173189379481473_n.jpg
+    city: Maringá
+    date: '09/08/2024 22:00'
+    daysGroup: 09/10/11
+    ticketsUrl: 'https://articket.com.br/e/2335/show-wi-fi-kills-no-groove-mga-pr'
+  - poster: 449177077_1190531345418909_3975739200943745469_n.jpeg
+    city: Maringá
+    date: '27/07/2024 20:00'
+    daysGroup: 26/27/28
+    ticketsUrl: 'https://www.sympla.com.br/evento/chuva-negra-ao-vivo-no-tribo-s-bar-em-maringa/2526467'
+  - poster: 625dcc6f-d144-40b4-b602-b14f27e50db4.jpeg
+    city: Sarandi
+    date: '21/07/2024 14:00'
+    daysGroup: 19/20/21
 ---
 
