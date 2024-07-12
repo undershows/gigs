@@ -85,5 +85,9 @@ gigs:
     date: '06/07/2024 20:00'
     daysGroup: 05/06/07
     ticketsUrl: 'https://amazoniaticket.com.br/caete-rock-fest__9504/'
+  - poster: 441500848_7542531292489770_2425550683688185421_n.jpg
+    city: Belém
+    date: '11/07/2024 19:00'
+    daysGroup: 11/12/13/14
 ---
 
