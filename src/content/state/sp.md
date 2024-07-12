@@ -311,5 +311,9 @@ gigs:
     city: São Paulo
     date: '27/07/2024 21:00'
     daysGroup: 26/27/28
+  - poster: d8ce2d13-69ec-423f-9b9f-e23058d0149f.jpeg
+    city: Jacareí
+    date: '28/07/2024 16:00'
+    daysGroup: 26/27/28
 ---
 
