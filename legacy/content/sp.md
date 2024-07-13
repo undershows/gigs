@@ -3948,5 +3948,18 @@ gigs:
     city: São Paulo
     date: '11/07/2024 19:00'
     daysGroup: 11/12/13/14
+  - poster: 8bae537e-6ccf-4186-a99c-178cd082af95.jpeg
+    city: Santo André
+    date: '12/07/2024 19:00'
+    daysGroup: 11/12/13/14
+    ticketsUrl: 'https://www.sympla.com.br/evento/hiatus-be-ao-vivo-no-74club/2458338'
+  - poster: 450017475_7787626031321005_7357127593791311954_n.jpg
+    city: São Paulo
+    date: '12/07/2024 20:00'
+    daysGroup: 11/12/13/14
+  - poster: 450590914_10228791964841425_738076629365281112_n.jpg
+    city: São Paulo
+    date: '12/07/2024 22:00'
+    daysGroup: 11/12/13/14
 ---
 

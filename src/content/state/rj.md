@@ -23,11 +23,6 @@ gigs:
     city: Rio de Janeiro
     date: '01/11/2024 19:00'
     daysGroup: 01/02/03
-  - poster: 441577445_18308379901194446_6411940555776409954_n.jpg
-    city: Rio de Janeiro
-    date: '12/07/2024 18:00'
-    daysGroup: 12/13/14
-    ticketsUrl: 'https://showpass.com.br/comprar/1388/suicidal-tendencies'
   - poster: 447783682_18268646881209755_6332888464804749624_n.jpg
     city: Rio de Janeiro
     date: '24/08/2024 20:00'

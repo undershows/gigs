@@ -119,11 +119,6 @@ gigs:
     daysGroup: 18/19/20/21
     ticketsUrl: >-
       https://www.sympla.com.br/evento/hiatus-be-ao-vivo-no-woodstock-music-bar-detesto-boca-podre/2459465
-  - poster: 8bae537e-6ccf-4186-a99c-178cd082af95.jpeg
-    city: Santo André
-    date: '12/07/2024 19:00'
-    daysGroup: 11/12/13/14
-    ticketsUrl: 'https://www.sympla.com.br/evento/hiatus-be-ao-vivo-no-74club/2458338'
   - poster: 446347125_335081212736077_3796952661927701953_n.jpeg
     city: Ferraz de Vasconcelos
     date: '28/07/2024 14:00'
@@ -271,10 +266,6 @@ gigs:
     city: São Paulo
     date: '19/07/2024 19:00'
     daysGroup: 18/19/20/21
-  - poster: 450017475_7787626031321005_7357127593791311954_n.jpg
-    city: São Paulo
-    date: '12/07/2024 20:00'
-    daysGroup: 11/12/13/14
   - poster: chaos_and_death_19-09_resized.jpg
     city: Campinas
     date: '19/09/2024 19:00'
@@ -287,10 +278,6 @@ gigs:
     city: Sorocaba
     date: '29/09/2024 15:00'
     daysGroup: 27/28/29
-  - poster: 450590914_10228791964841425_738076629365281112_n.jpg
-    city: São Paulo
-    date: '12/07/2024 22:00'
-    daysGroup: 11/12/13/14
   - poster: 450458416_2566484927073067_7677039188821557072_n.jpg
     city: Itapevi
     date: '24/08/2024 15:00'
