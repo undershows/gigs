@@ -35,10 +35,6 @@ gigs:
     daysGroup: 08/09/10
     ticketsUrl: >-
       https://www.sympla.com.br/evento/cirith-ungol-nightdemon-hellish-war-chumbo/2366428
-  - poster: 437783461_794844275520482_8443482418657512528_n.jpeg
-    city: São Paulo
-    date: '13/07/2024 13:00'
-    daysGroup: 11/12/13/14
   - poster: 437789515_1186460232719430_2866805141690934471_n.jpg
     city: São Paulo
     date: '02/11/2024 16:00'
@@ -76,10 +72,6 @@ gigs:
     city: Piracicaba
     date: '20/07/2024 19:00'
     daysGroup: 18/19/20/21
-  - poster: e0bf7910-df0d-43cc-b23f-941389d36f44.jpeg
-    city: Bauru
-    date: '13/07/2024 20:00'
-    daysGroup: 11/12/13/14
   - poster: 446217292_828556425439093_3944928494405814725_n.jpeg
     city: São Paulo
     date: '31/08/2024 19:00'
@@ -107,12 +99,6 @@ gigs:
     city: Leme
     date: '17/08/2024 14:00'
     daysGroup: 16/17/18
-  - poster: e0acd4f6-e9e9-4e8e-a909-34bad933316c.jpeg
-    city: São Paulo
-    date: '13/07/2024 19:00'
-    daysGroup: 11/12/13/14
-    ticketsUrl: >-
-      https://www.sympla.com.br/evento/hiatus-invasores-de-cerebros-possuido-pelo-cao-dischavizer-distravatravaa/2489020
   - poster: b405c928-427c-4d41-b242-1bb12cc88359.jpeg
     city: Campinas
     date: '18/07/2024 18:00'
@@ -163,20 +149,6 @@ gigs:
     city: São Paulo
     date: '28/09/2024 15:00'
     daysGroup: 27/28/29
-  - poster: 448781933_403609956006422_6850884362533269199_n.jpeg
-    city: São Paulo
-    date: '13/07/2024 20:00'
-    daysGroup: 11/12/13/14
-    ticketsUrl: >-
-      https://www.sympla.com.br/evento/a-porta-maldita-personas-a-queda-de-ofelia-de-carne-e-flor/2513892
-  - poster: 448410243_775779514540392_4679043372263992941_n.jpeg
-    city: São Paulo
-    date: '13/07/2024 20:30'
-    daysGroup: 11/12/13/14
-  - poster: 448472918_2762624123895570_2648964722289704490_n.jpg
-    city: Várzea Paulista
-    date: '13/07/2024 16:00'
-    daysGroup: 11/12/13/14
   - poster: 448814228_10161732244639516_6595458316708930083_n.jpg
     city: São José dos Campos
     date: '04/08/2024 18:00'
@@ -238,10 +210,6 @@ gigs:
     city: Pindamonhangaba
     date: '27/07/2024 16:00'
     daysGroup: 26/27/28
-  - poster: c787b156-e803-41e2-91c2-ca4870d1f2d7.jpeg
-    city: São Paulo
-    date: '13/07/2024 19:00'
-    daysGroup: 11/12/13/14
   - poster: 80017d08-0406-4e42-b43f-3f7b918562ef.jpeg
     city: São Paulo
     date: '04/08/2024 14:00'
@@ -258,10 +226,6 @@ gigs:
     city: Itu
     date: '24/08/2024 17:00'
     daysGroup: 23/24/25
-  - poster: a169b9ac-be40-44a0-bf3e-6fb9256654dc.jpeg
-    city: São Paulo
-    date: '13/07/2024 17:00'
-    daysGroup: 11/12/13/14
   - poster: 450016334_25913810068266671_7238647119905434738_n.jpg
     city: São Paulo
     date: '19/07/2024 19:00'
@@ -286,10 +250,6 @@ gigs:
     city: São Paulo
     date: '27/07/2024 19:00'
     daysGroup: 26/27/28
-  - poster: 450014204_8504211632939420_7055363460231755152_n.jpg
-    city: São Paulo
-    date: '13/07/2024 19:00'
-    daysGroup: 11/12/13/14
   - poster: 449215329_3772743962997016_3257329411601857292_n.jpg
     city: São Paulo
     date: '27/07/2024 21:00'

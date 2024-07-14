@@ -102,5 +102,9 @@ gigs:
     city: João Pessoa
     date: '09/06/2024 19:00'
     daysGroup: 07/08/09
+  - poster: 448763031_1189330585756370_8272505553321942196_n.jpeg
+    city: João Pessoa
+    date: '13/07/2024 15:00'
+    daysGroup: 12/13/14
 ---
 

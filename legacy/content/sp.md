@@ -3961,5 +3961,45 @@ gigs:
     city: São Paulo
     date: '12/07/2024 22:00'
     daysGroup: 11/12/13/14
+  - poster: 437783461_794844275520482_8443482418657512528_n.jpeg
+    city: São Paulo
+    date: '13/07/2024 13:00'
+    daysGroup: 11/12/13/14
+  - poster: e0bf7910-df0d-43cc-b23f-941389d36f44.jpeg
+    city: Bauru
+    date: '13/07/2024 20:00'
+    daysGroup: 11/12/13/14
+  - poster: e0acd4f6-e9e9-4e8e-a909-34bad933316c.jpeg
+    city: São Paulo
+    date: '13/07/2024 19:00'
+    daysGroup: 11/12/13/14
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/hiatus-invasores-de-cerebros-possuido-pelo-cao-dischavizer-distravatravaa/2489020
+  - poster: 448781933_403609956006422_6850884362533269199_n.jpeg
+    city: São Paulo
+    date: '13/07/2024 20:00'
+    daysGroup: 11/12/13/14
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/a-porta-maldita-personas-a-queda-de-ofelia-de-carne-e-flor/2513892
+  - poster: 448410243_775779514540392_4679043372263992941_n.jpeg
+    city: São Paulo
+    date: '13/07/2024 20:30'
+    daysGroup: 11/12/13/14
+  - poster: 448472918_2762624123895570_2648964722289704490_n.jpg
+    city: Várzea Paulista
+    date: '13/07/2024 16:00'
+    daysGroup: 11/12/13/14
+  - poster: c787b156-e803-41e2-91c2-ca4870d1f2d7.jpeg
+    city: São Paulo
+    date: '13/07/2024 19:00'
+    daysGroup: 11/12/13/14
+  - poster: a169b9ac-be40-44a0-bf3e-6fb9256654dc.jpeg
+    city: São Paulo
+    date: '13/07/2024 17:00'
+    daysGroup: 11/12/13/14
+  - poster: 450014204_8504211632939420_7055363460231755152_n.jpg
+    city: São Paulo
+    date: '13/07/2024 19:00'
+    daysGroup: 11/12/13/14
 ---
 

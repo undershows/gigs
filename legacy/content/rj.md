@@ -257,5 +257,9 @@ gigs:
     date: '12/07/2024 18:00'
     daysGroup: 12/13/14
     ticketsUrl: 'https://showpass.com.br/comprar/1388/suicidal-tendencies'
+  - poster: 437585101_982226573302565_2687781348344977087_n.jpeg
+    city: Campos dos Goytacazes
+    date: '13/07/2024 18:00'
+    daysGroup: 12/13/14
 ---
 

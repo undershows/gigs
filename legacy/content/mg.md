@@ -203,5 +203,9 @@ gigs:
     date: '07/07/2024 16:00'
     daysGroup: 05/06/07
     ticketsUrl: 'https://www.sympla.com.br/evento/sinister-em-belo-horizonte/2350307'
+  - poster: 17770a9f-7912-4afc-a8ed-7b6ac68131d3.jpeg
+    city: Belo Horizonte
+    date: '13/07/2024 13:00'
+    daysGroup: 12/13/14
 ---
 
