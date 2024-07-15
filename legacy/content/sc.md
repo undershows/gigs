@@ -214,5 +214,11 @@ gigs:
     date: '05/07/2024 18:00'
     daysGroup: 05/06/07
     ticketsUrl: 'https://bilheto.com.br/comprar/2168/sinister'
+  - poster: 448637392_1012787366876498_5572386339792021188_n.jpg
+    city: Florianópolis
+    date: '14/07/2024 20:00'
+    daysGroup: 12/13/14
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/surra-em-florianopolis-show-de-lancamento-do-album-falha-critica/2507519
 ---
 

@@ -6,11 +6,6 @@ gigs:
     city: Londrina
     date: '25/08/2024 16:00'
     daysGroup: 23/24/25
-  - poster: 441605742_18308379910194446_1461893274679447226_n.jpg
-    city: Curitiba
-    date: '14/07/2024 16:00'
-    daysGroup: 12/13/14
-    ticketsUrl: 'https://showpass.com.br/comprar/1387/suicidal-tendencies'
   - poster: 447705759_18439910632025079_2323678721400223584_n.jpg
     city: Curitiba
     date: '24/11/2024 12:00'
@@ -26,7 +21,8 @@ gigs:
     city: Maringá
     date: '27/07/2024 20:00'
     daysGroup: 26/27/28
-    ticketsUrl: 'https://www.sympla.com.br/evento/chuva-negra-ao-vivo-no-tribo-s-bar-em-maringa/2526467'
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/chuva-negra-ao-vivo-no-tribo-s-bar-em-maringa/2526467
   - poster: 625dcc6f-d144-40b4-b602-b14f27e50db4.jpeg
     city: Sarandi
     date: '21/07/2024 14:00'

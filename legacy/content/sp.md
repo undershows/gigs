@@ -4001,5 +4001,25 @@ gigs:
     city: São Paulo
     date: '13/07/2024 19:00'
     daysGroup: 11/12/13/14
+  - poster: 448337858_1695920044277917_9187260849956268335_n.jpeg
+    city: Araraquara
+    date: '14/07/2024 16:00'
+    daysGroup: 11/12/13/14
+  - poster: 448530678_18325807492121660_7376303376978290223_n.jpg
+    city: São Paulo
+    date: '14/07/2024 14:00'
+    daysGroup: 11/12/13/14
+  - poster: 448171074_432024369742533_3762598279642293901_n.jpg
+    city: Cordeirópolis
+    date: '14/07/2024 13:00'
+    daysGroup: 11/12/13/14
+  - poster: 515ffe89-59df-479f-a151-6f7ad0cccb4f.jpeg
+    city: Osasco
+    date: '14/07/2024 16:00'
+    daysGroup: 11/12/13/14
+  - poster: 450016433_7776298795780605_3711673933442769557_n.jpg
+    city: São Paulo
+    date: '14/07/2024 18:00'
+    daysGroup: 11/12/13/14
 ---
 

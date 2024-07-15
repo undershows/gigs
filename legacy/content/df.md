@@ -214,5 +214,14 @@ gigs:
     date: '08/06/2024 20:00'
     daysGroup: 08/09/10
     ticketsUrl: 'https://www.clubedoingresso.com/evento/edufalaschi-brasilia'
+  - poster: 443823803_8120903731271078_7046276098393168945_n.jpeg
+    city: Brasília
+    date: '14/07/2024 18:00'
+    daysGroup: 12/13/14
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/angra-cyclesofpaintour'
+  - poster: 448491981_440001172221904_5457781451653640542_n.jpeg
+    city: Taguatinga
+    date: '14/07/2024 14:00'
+    daysGroup: 12/13/14
 ---
 

@@ -374,5 +374,10 @@ gigs:
     daysGroup: 04/05/06/07
     ticketsUrl: >-
       https://www.sympla.com.br/evento/sinister-diretamente-da-holanda-com-os-convidados-locais-guro/2507992
+  - poster: 441605742_18308379910194446_1461893274679447226_n.jpg
+    city: Curitiba
+    date: '14/07/2024 16:00'
+    daysGroup: 12/13/14
+    ticketsUrl: 'https://showpass.com.br/comprar/1387/suicidal-tendencies'
 ---
 

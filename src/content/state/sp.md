@@ -137,14 +137,6 @@ gigs:
     city: Várzea Paulista
     date: '10/08/2024 19:00'
     daysGroup: 09/10/11
-  - poster: 448337858_1695920044277917_9187260849956268335_n.jpeg
-    city: Araraquara
-    date: '14/07/2024 16:00'
-    daysGroup: 11/12/13/14
-  - poster: 448530678_18325807492121660_7376303376978290223_n.jpg
-    city: São Paulo
-    date: '14/07/2024 14:00'
-    daysGroup: 11/12/13/14
   - poster: 448598417_819194146949664_3447202128431175180_n.jpeg
     city: São Paulo
     date: '28/09/2024 15:00'
@@ -161,10 +153,6 @@ gigs:
     city: São José dos Campos
     date: '28/07/2024 17:00'
     daysGroup: 26/27/28
-  - poster: 448171074_432024369742533_3762598279642293901_n.jpg
-    city: Cordeirópolis
-    date: '14/07/2024 13:00'
-    daysGroup: 11/12/13/14
   - poster: bd7d4e55-64e9-460a-8a49-ab22a2e817dc.jpeg
     city: São Paulo
     date: '28/08/2024 18:00'
@@ -202,10 +190,6 @@ gigs:
     city: Diadema
     date: '20/07/2024 13:00'
     daysGroup: 18/19/20/21
-  - poster: 515ffe89-59df-479f-a151-6f7ad0cccb4f.jpeg
-    city: Osasco
-    date: '14/07/2024 16:00'
-    daysGroup: 11/12/13/14
   - poster: 445783584_1164436861647515_3945608713123131870_n.jpeg
     city: Pindamonhangaba
     date: '27/07/2024 16:00'
@@ -234,10 +218,6 @@ gigs:
     city: Campinas
     date: '19/09/2024 19:00'
     daysGroup: 19/20/21/22
-  - poster: 450016433_7776298795780605_3711673933442769557_n.jpg
-    city: São Paulo
-    date: '14/07/2024 18:00'
-    daysGroup: 11/12/13/14
   - poster: 450222996_2683253778509371_853876091628887017_n.jpg
     city: Sorocaba
     date: '29/09/2024 15:00'
