@@ -29,12 +29,6 @@ gigs:
     date: '18/08/2024 19:00'
     daysGroup: 16/17/18
     ticketsUrl: 'https://www.ingresse.com/karate-sp/'
-  - poster: 435113467_18219355696263705_2553179225496696992_n.jpg
-    city: São Paulo
-    date: '08/11/2024 19:00'
-    daysGroup: 08/09/10
-    ticketsUrl: >-
-      https://www.sympla.com.br/evento/cirith-ungol-nightdemon-hellish-war-chumbo/2366428
   - poster: 437789515_1186460232719430_2866805141690934471_n.jpg
     city: São Paulo
     date: '02/11/2024 16:00'
