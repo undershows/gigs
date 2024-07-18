@@ -28,11 +28,6 @@ gigs:
     daysGroup: 01/02/03
     ticketsUrl: >-
       https://www.sympla.com.br/evento/bayside-kings-terceira-guerra-e-bandas-convidadas/2421024
-  - poster: 443264667_308423785638935_2876623972053956162_n.jpeg
-    city: Belo Horizonte
-    date: '17/07/2024 19:30'
-    daysGroup: 18/19/20/21/22
-    ticketsUrl: 'https://showpass.com.br/comprar/1389/suicidal-tendencies'
   - poster: f7432901-bf5d-43d2-82b2-cffbdf1043a3.jpeg
     city: Belo Horizonte
     date: '20/07/2024 16:00'
