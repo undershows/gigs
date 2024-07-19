@@ -4021,5 +4021,11 @@ gigs:
     city: São Paulo
     date: '14/07/2024 18:00'
     daysGroup: 11/12/13/14
+  - poster: b405c928-427c-4d41-b242-1bb12cc88359.jpeg
+    city: Campinas
+    date: '18/07/2024 18:00'
+    daysGroup: 18/19/20/21
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/hiatus-be-ao-vivo-no-woodstock-music-bar-detesto-boca-podre/2459465
 ---
 

@@ -93,12 +93,6 @@ gigs:
     city: Leme
     date: '17/08/2024 14:00'
     daysGroup: 16/17/18
-  - poster: b405c928-427c-4d41-b242-1bb12cc88359.jpeg
-    city: Campinas
-    date: '18/07/2024 18:00'
-    daysGroup: 18/19/20/21
-    ticketsUrl: >-
-      https://www.sympla.com.br/evento/hiatus-be-ao-vivo-no-woodstock-music-bar-detesto-boca-podre/2459465
   - poster: 446347125_335081212736077_3796952661927701953_n.jpeg
     city: Ferraz de Vasconcelos
     date: '28/07/2024 14:00'
