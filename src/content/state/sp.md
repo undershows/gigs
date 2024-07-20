@@ -84,11 +84,6 @@ gigs:
     city: Marília
     date: '22/09/2024 18:00'
     daysGroup: 19/20/21/22
-  - poster: 446501114_2141202042939092_1417775848871820635_n.jpeg
-    city: São Paulo
-    date: '19/07/2024 19:00'
-    daysGroup: 18/19/20/21
-    ticketsUrl: 'https://www.clubedoingresso.com/evento/andralls-chaoslace-die-voidit'
   - poster: 446501145_814718947277448_7086654423223239464_n.jpeg
     city: Leme
     date: '17/08/2024 14:00'
@@ -198,10 +193,6 @@ gigs:
     city: Itu
     date: '24/08/2024 17:00'
     daysGroup: 23/24/25
-  - poster: 450016334_25913810068266671_7238647119905434738_n.jpg
-    city: São Paulo
-    date: '19/07/2024 19:00'
-    daysGroup: 18/19/20/21
   - poster: chaos_and_death_19-09_resized.jpg
     city: Campinas
     date: '19/09/2024 19:00'

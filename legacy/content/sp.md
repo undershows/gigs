@@ -4027,5 +4027,14 @@ gigs:
     daysGroup: 18/19/20/21
     ticketsUrl: >-
       https://www.sympla.com.br/evento/hiatus-be-ao-vivo-no-woodstock-music-bar-detesto-boca-podre/2459465
+  - poster: 446501114_2141202042939092_1417775848871820635_n.jpeg
+    city: São Paulo
+    date: '19/07/2024 19:00'
+    daysGroup: 18/19/20/21
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/andralls-chaoslace-die-voidit'
+  - poster: 450016334_25913810068266671_7238647119905434738_n.jpg
+    city: São Paulo
+    date: '19/07/2024 19:00'
+    daysGroup: 18/19/20/21
 ---
 
