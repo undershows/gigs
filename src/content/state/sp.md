@@ -57,15 +57,6 @@ gigs:
     date: '27/10/2024 15:00'
     daysGroup: 25/26/27
     ticketsUrl: 'https://www.clubedoingresso.com/evento/upfront-festival'
-  - poster: 443239876_1576322903151683_2413380049904022986_n.jpeg
-    city: Campinas
-    date: '20/07/2024 18:00'
-    daysGroup: 18/19/20/21
-    ticketsUrl: 'https://www.sympla.com.br/evento/desalmado-cras-vantas-em-campinas/2350526'
-  - poster: 443861069_1514410949486756_4905585314616957778_n.jpeg
-    city: Piracicaba
-    date: '20/07/2024 19:00'
-    daysGroup: 18/19/20/21
   - poster: 446217292_828556425439093_3944928494405814725_n.jpeg
     city: São Paulo
     date: '31/08/2024 19:00'
@@ -76,10 +67,6 @@ gigs:
     date: '04/08/2024 14:00'
     daysGroup: 02/03/04
     ticketsUrl: 'https://pixelticket.com.br/eventos/15799/oxigenio-festival-2024'
-  - poster: 222c4490-188a-4f23-bca8-9dc3a2820883.jpeg
-    city: Jacareí
-    date: '20/07/2024 18:00'
-    daysGroup: 18/19/20/21
   - poster: 446468460_770670704877811_7005544506978245247_n.jpeg
     city: Marília
     date: '22/09/2024 18:00'
@@ -112,10 +99,6 @@ gigs:
     city: São Paulo
     date: '10/08/2024 19:00'
     daysGroup: 09/10/11
-  - poster: 4831b65f-6ca8-4c2c-84c4-007e8559c57d.jpeg
-    city: Birigui
-    date: '20/07/2024 19:00'
-    daysGroup: 18/19/20/21
   - poster: 448180098_293894490485126_4116573440983436130_n.jpg
     city: Várzea Paulista
     date: '10/08/2024 19:00'
@@ -128,10 +111,6 @@ gigs:
     city: São José dos Campos
     date: '04/08/2024 18:00'
     daysGroup: 02/03/04
-  - poster: 448716011_428525233342310_2954090019216484008_n.jpeg
-    city: São Paulo
-    date: '20/07/2024 20:00'
-    daysGroup: 18/19/20/21
   - poster: 440862858_408271162114895_4001026373223064857_n.jpg
     city: São José dos Campos
     date: '28/07/2024 17:00'
@@ -169,10 +148,6 @@ gigs:
     city: São Paulo
     date: '15/09/2024 15:00'
     daysGroup: 13/14/15
-  - poster: 5004a369-b1bf-4c12-8dac-1b41a403eee5.jpeg
-    city: Diadema
-    date: '20/07/2024 13:00'
-    daysGroup: 18/19/20/21
   - poster: 445783584_1164436861647515_3945608713123131870_n.jpeg
     city: Pindamonhangaba
     date: '27/07/2024 16:00'

@@ -212,5 +212,11 @@ gigs:
     date: '17/07/2024 19:30'
     daysGroup: 18/19/20/21/22
     ticketsUrl: 'https://showpass.com.br/comprar/1389/suicidal-tendencies'
+  - poster: f7432901-bf5d-43d2-82b2-cffbdf1043a3.jpeg
+    city: Belo Horizonte
+    date: '20/07/2024 16:00'
+    daysGroup: 19/20/21
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/metalpunk-overkill-hiatus-social-chaos-zeugma-infamous-glory-sangue-de-bode-payback/2481459
 ---
 

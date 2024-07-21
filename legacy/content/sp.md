@@ -4036,5 +4036,30 @@ gigs:
     city: São Paulo
     date: '19/07/2024 19:00'
     daysGroup: 18/19/20/21
+  - poster: 443239876_1576322903151683_2413380049904022986_n.jpeg
+    city: Campinas
+    date: '20/07/2024 18:00'
+    daysGroup: 18/19/20/21
+    ticketsUrl: 'https://www.sympla.com.br/evento/desalmado-cras-vantas-em-campinas/2350526'
+  - poster: 443861069_1514410949486756_4905585314616957778_n.jpeg
+    city: Piracicaba
+    date: '20/07/2024 19:00'
+    daysGroup: 18/19/20/21
+  - poster: 222c4490-188a-4f23-bca8-9dc3a2820883.jpeg
+    city: Jacareí
+    date: '20/07/2024 18:00'
+    daysGroup: 18/19/20/21
+  - poster: 4831b65f-6ca8-4c2c-84c4-007e8559c57d.jpeg
+    city: Birigui
+    date: '20/07/2024 19:00'
+    daysGroup: 18/19/20/21
+  - poster: 448716011_428525233342310_2954090019216484008_n.jpeg
+    city: São Paulo
+    date: '20/07/2024 20:00'
+    daysGroup: 18/19/20/21
+  - poster: 5004a369-b1bf-4c12-8dac-1b41a403eee5.jpeg
+    city: Diadema
+    date: '20/07/2024 13:00'
+    daysGroup: 18/19/20/21
 ---
 
