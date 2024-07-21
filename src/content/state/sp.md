@@ -192,5 +192,10 @@ gigs:
     city: Jacareí
     date: '28/07/2024 16:00'
     daysGroup: 26/27/28
+  - poster: 17-08 SP_bulldozer.jpg
+    city: São Paulo
+    date: '17/08/2024 19:00'
+    daysGroup: 16/17/18
+    ticketsUrl: 'https://pixelticket.com.br/eventos/22010/bulldozer'
 ---
 

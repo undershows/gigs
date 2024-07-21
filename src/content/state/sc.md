@@ -10,5 +10,10 @@ gigs:
     city: Florianópolis
     date: '11/08/2024 16:00'
     daysGroup: 09/10/11
+  - poster: 16-08 Joinville_bulldozer.jpg
+    city: Joinvile
+    date: '16/08/2024 19:00'
+    daysGroup: 16/17/18
+    ticketsUrl: 'https://www.bilheto.com.br/comprar/2577/bulldozer'
 ---
 

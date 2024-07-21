@@ -27,5 +27,9 @@ gigs:
     city: Sarandi
     date: '21/07/2024 14:00'
     daysGroup: 19/20/21
+  - poster: 15-08 Foz_bulldozer.jpg
+    city: Foz do Iguaçu
+    date: '15/08/2024 19:00'
+    daysGroup: 15/16/17/18
 ---
 
