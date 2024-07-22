@@ -379,5 +379,9 @@ gigs:
     date: '14/07/2024 16:00'
     daysGroup: 12/13/14
     ticketsUrl: 'https://showpass.com.br/comprar/1387/suicidal-tendencies'
+  - poster: 625dcc6f-d144-40b4-b602-b14f27e50db4.jpeg
+    city: Sarandi
+    date: '21/07/2024 14:00'
+    daysGroup: 19/20/21
 ---
 

@@ -23,10 +23,6 @@ gigs:
     daysGroup: 26/27/28
     ticketsUrl: >-
       https://www.sympla.com.br/evento/chuva-negra-ao-vivo-no-tribo-s-bar-em-maringa/2526467
-  - poster: 625dcc6f-d144-40b4-b602-b14f27e50db4.jpeg
-    city: Sarandi
-    date: '21/07/2024 14:00'
-    daysGroup: 19/20/21
   - poster: 15-08 Foz_bulldozer.jpg
     city: Foz do Iguaçu
     date: '15/08/2024 19:00'

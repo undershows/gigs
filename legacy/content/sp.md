@@ -4061,5 +4061,14 @@ gigs:
     city: Diadema
     date: '20/07/2024 13:00'
     daysGroup: 18/19/20/21
+  - poster: 443844137_308241835709538_4092223016429060800_n.jpeg
+    city: São Paulo
+    date: '21/07/2024 17:15'
+    daysGroup: 18/19/20/21
+    ticketsUrl: 'https://bilheto.com.br/comprar/2406/metal-relics-on-the-road'
+  - poster: b24d2298-d939-46ab-a8a7-5285e1794fd5.jpeg
+    city: São Paulo
+    date: '21/07/2024 18:00'
+    daysGroup: 18/19/20/21
 ---
 

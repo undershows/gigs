@@ -47,11 +47,6 @@ gigs:
     city: São Paulo
     date: '28/07/2024 15:00'
     daysGroup: 26/27/28
-  - poster: 443844137_308241835709538_4092223016429060800_n.jpeg
-    city: São Paulo
-    date: '21/07/2024 17:15'
-    daysGroup: 18/19/20/21
-    ticketsUrl: 'https://bilheto.com.br/comprar/2406/metal-relics-on-the-road'
   - poster: 444528371_941248801078430_5729388421674254042_n.jpeg
     city: São Paulo
     date: '27/10/2024 15:00'
@@ -91,10 +86,6 @@ gigs:
     city: São Paulo
     date: '13/10/2024 13:00'
     daysGroup: 11/12/13
-  - poster: b24d2298-d939-46ab-a8a7-5285e1794fd5.jpeg
-    city: São Paulo
-    date: '21/07/2024 18:00'
-    daysGroup: 18/19/20/21
   - poster: d3529268-53b5-4d28-b1b1-abadf9ceb183.jpeg
     city: São Paulo
     date: '10/08/2024 19:00'
