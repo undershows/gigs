@@ -22,7 +22,7 @@ gigs:
   - poster: 434209815_3693726360945612_4649749239957905202_n.jpeg
     city: São Paulo
     date: '06/10/2024 14:00'
-    daysGroup: 04/05/06
+    daysGroup: 02/03/04/05/06
     ticketsUrl: 'https://www.bilheto.com.br/comprar/2266/lucifer-sp'
   - poster: 425671209_2391517074570600_902858711512559910_n.jpg
     city: São Paulo
@@ -188,5 +188,20 @@ gigs:
     date: '17/08/2024 19:00'
     daysGroup: 16/17/18
     ticketsUrl: 'https://pixelticket.com.br/eventos/22010/bulldozer'
+  - poster: 02-10 Mococa_resized_nervochaos.jpg
+    city: Mococa
+    date: '02/10/2024 19:00'
+    daysGroup: 02/03/04/05/06
+    ticketsUrl: 'https://www.sympla.com.br/evento/funeratus-nervochaos-neuroticos/2558902'
+  - poster: 04-10 Franca_resized_nervochaos.jpg
+    city: Franca
+    date: '04/10/2024 20:00'
+    daysGroup: 02/03/04/05/06
+    ticketsUrl: 'https://www.sympla.com.br/evento/funeratus-nervochaos-neuroticos-coeffin-roet/2558950'
+  - poster: 11-10 Mogi Guaçu_nervochaos.jpg
+    city: Mogi Guaçu
+    date: '11/10/2024 13:00'
+    daysGroup: 11/12/13
+    ticketsUrl: 'https://www.sympla.com.br/evento/guacu-extreme-com-as-bandas-funeratus-nervochaos-neuroticos-immuration/2552577'
 ---
 

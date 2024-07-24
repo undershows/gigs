@@ -5,7 +5,7 @@ gigs:
   - poster: 432929317_10161551157919516_1474726786461472691_n.jpg
     city: Belo Horizonte
     date: '08/10/2024 18:00'
-    daysGroup: 04/05/06/07/08
+    daysGroup: 03/04/05/06/07/08
     ticketsUrl: 'https://www.bilheto.com.br/comprar/2265/lucifer-mg'
   - poster: 437783465_976779797350894_906093469647491355_n.jpeg
     city: Belo Horizonte
@@ -38,5 +38,19 @@ gigs:
     date: '18/08/2024 16:00'
     daysGroup: 16/17/18
     ticketsUr: 'https://www.sympla.com.br/evento/bulldozer/2551486'
+  - poster: 06-10BH_resized_nervochaos.jpg
+    city: Belo Horizonte
+    date: '04/10/2024 16:00'
+    daysGroup: 03/04/05/06/07/08
+    ticketsUrl: 'https://www.sympla.com.br/evento/chaos-and-death-belo-horizonte/2560814'
+  - poster: 03-10 Uberlândia_nervochaos.jpg
+    city: Uberlândia
+    date: '03/10/2024 19:00'
+    daysGroup: 03/04/05/06/07/08
+    ticketsUrl: 'https://www.sympla.com.br/evento/funeratus-nervochaos-neuroticos-gore-autopsy/2532776'
+  - poster: 452326635_500304952400648_6733401871308722743_n.jpg
+    city: Belo Horizonte
+    date: '17/08/2024 13:00'
+    daysGroup: 16/17/18
 ---
 
