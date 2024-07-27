@@ -8,5 +8,9 @@ gigs:
     city: Aracaju
     date: '07/03/2024 20:00'
     daysGroup: 07/08/09/10
+  - poster: 448352250_1879479895810734_1644437053971681330_n.jpeg
+    city: Aracajú
+    date: '26/07/2024 21:00'
+    daysGroup: 26/27/28
 ---
 

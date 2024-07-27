@@ -4070,5 +4070,13 @@ gigs:
     city: São Paulo
     date: '21/07/2024 18:00'
     daysGroup: 18/19/20/21
+  - poster: 449692742_7760186757422034_2190397917287295167_n.jpg
+    city: São Paulo
+    date: '26/07/2024 19:00'
+    daysGroup: 26/27/28
+  - poster: cf7f82fa-30f2-42af-b15c-4c949f61c3b0.jpeg
+    city: Osasco
+    date: '26/07/2024 20:00'
+    daysGroup: 26/27/28
 ---
 

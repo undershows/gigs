@@ -123,10 +123,6 @@ gigs:
     city: Birigui
     date: '24/08/2024 17:00'
     daysGroup: 23/24/25
-  - poster: 449692742_7760186757422034_2190397917287295167_n.jpg
-    city: São Paulo
-    date: '26/07/2024 19:00'
-    daysGroup: 26/27/28
   - poster: b77432a2-b76b-403f-88e0-3ece5b56621c.jpg
     city: São Paulo
     date: '02/08/2024 19:00'
@@ -150,10 +146,6 @@ gigs:
   - poster: aa0eb09a-9e98-4d33-b381-c45bc7a1d80e.jpeg
     city: São Paulo
     date: '27/07/2024 10:00'
-    daysGroup: 26/27/28
-  - poster: cf7f82fa-30f2-42af-b15c-4c949f61c3b0.jpeg
-    city: Osasco
-    date: '26/07/2024 20:00'
     daysGroup: 26/27/28
   - poster: 442507659_7491389367604407_8306850078456924387_n.jpg
     city: Itu
@@ -197,11 +189,13 @@ gigs:
     city: Franca
     date: '04/10/2024 20:00'
     daysGroup: 02/03/04/05/06
-    ticketsUrl: 'https://www.sympla.com.br/evento/funeratus-nervochaos-neuroticos-coeffin-roet/2558950'
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/funeratus-nervochaos-neuroticos-coeffin-roet/2558950
   - poster: 11-10 Mogi Guaçu_nervochaos.jpg
     city: Mogi Guaçu
     date: '11/10/2024 13:00'
     daysGroup: 11/12/13
-    ticketsUrl: 'https://www.sympla.com.br/evento/guacu-extreme-com-as-bandas-funeratus-nervochaos-neuroticos-immuration/2552577'
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/guacu-extreme-com-as-bandas-funeratus-nervochaos-neuroticos-immuration/2552577
 ---
 
