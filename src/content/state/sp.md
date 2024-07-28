@@ -135,18 +135,10 @@ gigs:
     city: São Paulo
     date: '15/09/2024 15:00'
     daysGroup: 13/14/15
-  - poster: 445783584_1164436861647515_3945608713123131870_n.jpeg
-    city: Pindamonhangaba
-    date: '27/07/2024 16:00'
-    daysGroup: 26/27/28
   - poster: 80017d08-0406-4e42-b43f-3f7b918562ef.jpeg
     city: São Paulo
     date: '04/08/2024 14:00'
     daysGroup: 02/03/04
-  - poster: aa0eb09a-9e98-4d33-b381-c45bc7a1d80e.jpeg
-    city: São Paulo
-    date: '27/07/2024 10:00'
-    daysGroup: 26/27/28
   - poster: 442507659_7491389367604407_8306850078456924387_n.jpg
     city: Itu
     date: '24/08/2024 17:00'
@@ -163,14 +155,6 @@ gigs:
     city: Itapevi
     date: '24/08/2024 15:00'
     daysGroup: 23/24/25
-  - poster: 450351208_8504207012939882_6866325029312936943_n.jpg
-    city: São Paulo
-    date: '27/07/2024 19:00'
-    daysGroup: 26/27/28
-  - poster: 449215329_3772743962997016_3257329411601857292_n.jpg
-    city: São Paulo
-    date: '27/07/2024 21:00'
-    daysGroup: 26/27/28
   - poster: d8ce2d13-69ec-423f-9b9f-e23058d0149f.jpeg
     city: Jacareí
     date: '28/07/2024 16:00'

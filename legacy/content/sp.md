@@ -4078,5 +4078,21 @@ gigs:
     city: Osasco
     date: '26/07/2024 20:00'
     daysGroup: 26/27/28
+  - poster: 445783584_1164436861647515_3945608713123131870_n.jpeg
+    city: Pindamonhangaba
+    date: '27/07/2024 16:00'
+    daysGroup: 26/27/28
+  - poster: aa0eb09a-9e98-4d33-b381-c45bc7a1d80e.jpeg
+    city: São Paulo
+    date: '27/07/2024 10:00'
+    daysGroup: 26/27/28
+  - poster: 450351208_8504207012939882_6866325029312936943_n.jpg
+    city: São Paulo
+    date: '27/07/2024 19:00'
+    daysGroup: 26/27/28
+  - poster: 449215329_3772743962997016_3257329411601857292_n.jpg
+    city: São Paulo
+    date: '27/07/2024 21:00'
+    daysGroup: 26/27/28
 ---
 

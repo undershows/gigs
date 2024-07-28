@@ -383,5 +383,11 @@ gigs:
     city: Sarandi
     date: '21/07/2024 14:00'
     daysGroup: 19/20/21
+  - poster: 449177077_1190531345418909_3975739200943745469_n.jpeg
+    city: Maringá
+    date: '27/07/2024 20:00'
+    daysGroup: 26/27/28
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/chuva-negra-ao-vivo-no-tribo-s-bar-em-maringa/2526467
 ---
 
