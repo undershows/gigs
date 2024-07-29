@@ -4094,5 +4094,31 @@ gigs:
     city: São Paulo
     date: '27/07/2024 21:00'
     daysGroup: 26/27/28
+  - poster: 427998067_18213574837263705_3052114041853877663_n.jpg
+    city: São Paulo
+    date: '28/07/2024 16:00'
+    daysGroup: 26/27/28
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/sadistic-intent-usa-chakal-mg-spiritual-hate-sp/2337890
+  - poster: 443512125_722493033176509_3692471432586929066_n.jpg
+    city: São Paulo
+    date: '28/07/2024 15:00'
+    daysGroup: 26/27/28
+  - poster: 446347125_335081212736077_3796952661927701953_n.jpeg
+    city: Ferraz de Vasconcelos
+    date: '28/07/2024 14:00'
+    daysGroup: 26/27/28
+  - poster: 446521935_1012802200265711_2603777966107633237_n.jpeg
+    city: Guarulhos
+    date: '28/07/2024 15:00'
+    daysGroup: 26/27/28
+  - poster: 440862858_408271162114895_4001026373223064857_n.jpg
+    city: São José dos Campos
+    date: '28/07/2024 17:00'
+    daysGroup: 26/27/28
+  - poster: d8ce2d13-69ec-423f-9b9f-e23058d0149f.jpeg
+    city: Jacareí
+    date: '28/07/2024 16:00'
+    daysGroup: 26/27/28
 ---
 

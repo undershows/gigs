@@ -2,12 +2,6 @@
 abbr: SP
 name: São Paulo
 gigs:
-  - poster: 427998067_18213574837263705_3052114041853877663_n.jpg
-    city: São Paulo
-    date: '28/07/2024 16:00'
-    daysGroup: 26/27/28
-    ticketsUrl: >-
-      https://www.sympla.com.br/evento/sadistic-intent-usa-chakal-mg-spiritual-hate-sp/2337890
   - poster: 426488998_120207068767380040_3886440266274244029_n.jpg
     city: São Paulo
     date: '09/11/2024 18:00'
@@ -43,10 +37,6 @@ gigs:
     date: '27/09/2024 18:00'
     daysGroup: 27/28/29
     ticketsUrl: 'https://www.clubedoingresso.com/evento/gorillabiscuits-saopaulo'
-  - poster: 443512125_722493033176509_3692471432586929066_n.jpg
-    city: São Paulo
-    date: '28/07/2024 15:00'
-    daysGroup: 26/27/28
   - poster: 444528371_941248801078430_5729388421674254042_n.jpeg
     city: São Paulo
     date: '27/10/2024 15:00'
@@ -70,14 +60,6 @@ gigs:
     city: Leme
     date: '17/08/2024 14:00'
     daysGroup: 16/17/18
-  - poster: 446347125_335081212736077_3796952661927701953_n.jpeg
-    city: Ferraz de Vasconcelos
-    date: '28/07/2024 14:00'
-    daysGroup: 26/27/28
-  - poster: 446521935_1012802200265711_2603777966107633237_n.jpeg
-    city: Guarulhos
-    date: '28/07/2024 15:00'
-    daysGroup: 26/27/28
   - poster: 441876998_18436328866033374_7572348452534085444_n.jpg
     city: São Paulo
     date: '19/10/2024 16:00'
@@ -102,10 +84,6 @@ gigs:
     city: São José dos Campos
     date: '04/08/2024 18:00'
     daysGroup: 02/03/04
-  - poster: 440862858_408271162114895_4001026373223064857_n.jpg
-    city: São José dos Campos
-    date: '28/07/2024 17:00'
-    daysGroup: 26/27/28
   - poster: bd7d4e55-64e9-460a-8a49-ab22a2e817dc.jpeg
     city: São Paulo
     date: '28/08/2024 18:00'
@@ -155,10 +133,6 @@ gigs:
     city: Itapevi
     date: '24/08/2024 15:00'
     daysGroup: 23/24/25
-  - poster: d8ce2d13-69ec-423f-9b9f-e23058d0149f.jpeg
-    city: Jacareí
-    date: '28/07/2024 16:00'
-    daysGroup: 26/27/28
   - poster: 17-08 SP_bulldozer.jpg
     city: São Paulo
     date: '17/08/2024 19:00'
