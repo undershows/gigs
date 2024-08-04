@@ -101,10 +101,6 @@ gigs:
     city: Birigui
     date: '24/08/2024 17:00'
     daysGroup: 23/24/25
-  - poster: b77432a2-b76b-403f-88e0-3ece5b56621c.jpg
-    city: São Paulo
-    date: '02/08/2024 19:00'
-    daysGroup: 02/03/04
   - poster: f763ffe6-e63c-4c7a-9546-af2c528e6940.jpeg
     city: Praia Grande
     date: '17/08/2024 20:00'
