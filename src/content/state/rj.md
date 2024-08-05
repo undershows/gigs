@@ -7,10 +7,6 @@ gigs:
     date: '23/10/2024 20:00'
     daysGroup: 23/24/25/26/27
     ticketsUrl: 'https://www.eventim.com.br/artist/napalm-death/'
-  - poster: 430063560_8225190384162681_3096312461952379743_n.jpg
-    city: Rio de Janeiro
-    date: '04/08/2024 20:00'
-    daysGroup: 02/03/04
   - poster: 430063560_8225190384162681_3096312461952379744_n.jpg
     city: Rio de Janeiro
     date: '25/08/2024 20:00'
@@ -37,6 +33,7 @@ gigs:
     city: Rio de Janeiro
     date: '12/10/2024 19:00'
     daysGroup: 11/12/13
-    ticketsUrl: 'https://www.sympla.com.br/evento/funeratus-nervochaos-neuroticos-baga-uzomi/2561599'
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/funeratus-nervochaos-neuroticos-baga-uzomi/2561599
 ---
 

@@ -47,11 +47,6 @@ gigs:
     date: '31/08/2024 19:00'
     daysGroup: 28/29/30/31
     ticketsUrl: 'https://pixelticket.com.br/eventos/21180/cachorro-louco'
-  - poster: 445720315_441251565180823_5753306269446409383_n.jpeg
-    city: São Paulo
-    date: '04/08/2024 14:00'
-    daysGroup: 02/03/04
-    ticketsUrl: 'https://pixelticket.com.br/eventos/15799/oxigenio-festival-2024'
   - poster: 446468460_770670704877811_7005544506978245247_n.jpeg
     city: Marília
     date: '22/09/2024 18:00'
@@ -80,10 +75,6 @@ gigs:
     city: São Paulo
     date: '28/09/2024 15:00'
     daysGroup: 27/28/29
-  - poster: 448814228_10161732244639516_6595458316708930083_n.jpg
-    city: São José dos Campos
-    date: '04/08/2024 18:00'
-    daysGroup: 02/03/04
   - poster: bd7d4e55-64e9-460a-8a49-ab22a2e817dc.jpeg
     city: São Paulo
     date: '28/08/2024 18:00'
@@ -109,10 +100,6 @@ gigs:
     city: São Paulo
     date: '15/09/2024 15:00'
     daysGroup: 13/14/15
-  - poster: 80017d08-0406-4e42-b43f-3f7b918562ef.jpeg
-    city: São Paulo
-    date: '04/08/2024 14:00'
-    daysGroup: 02/03/04
   - poster: 442507659_7491389367604407_8306850078456924387_n.jpg
     city: Itu
     date: '24/08/2024 17:00'

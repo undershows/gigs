@@ -261,5 +261,9 @@ gigs:
     city: Campos dos Goytacazes
     date: '13/07/2024 18:00'
     daysGroup: 12/13/14
+  - poster: 430063560_8225190384162681_3096312461952379743_n.jpg
+    city: Rio de Janeiro
+    date: '04/08/2024 20:00'
+    daysGroup: 02/03/04
 ---
 

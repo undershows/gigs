@@ -4124,5 +4124,18 @@ gigs:
     city: São Paulo
     date: '02/08/2024 19:00'
     daysGroup: 02/03/04
+  - poster: 445720315_441251565180823_5753306269446409383_n.jpeg
+    city: São Paulo
+    date: '04/08/2024 14:00'
+    daysGroup: 02/03/04
+    ticketsUrl: 'https://pixelticket.com.br/eventos/15799/oxigenio-festival-2024'
+  - poster: 448814228_10161732244639516_6595458316708930083_n.jpg
+    city: São José dos Campos
+    date: '04/08/2024 18:00'
+    daysGroup: 02/03/04
+  - poster: 80017d08-0406-4e42-b43f-3f7b918562ef.jpeg
+    city: São Paulo
+    date: '04/08/2024 14:00'
+    daysGroup: 02/03/04
 ---
 
