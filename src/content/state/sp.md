@@ -170,5 +170,9 @@ gigs:
     city: Bauru
     date: '11/10/2024 20:00'
     daysGroup: 11/12/13
+  - poster: 453136149_882129563795004_4462850405370544187_n.jpg
+    city: São Paulo
+    date: '09/08/2024 20:00'
+    daysGroup: 07/08/09/10/11
 ---
 
