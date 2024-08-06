@@ -15,11 +15,15 @@ gigs:
   - poster: 450421835_1534906310395191_8324173189379481473_n.jpg
     city: Maringá
     date: '09/08/2024 22:00'
-    daysGroup: 09/10/11
+    daysGroup: 09/10/11/12
     ticketsUrl: 'https://articket.com.br/e/2335/show-wi-fi-kills-no-groove-mga-pr'
   - poster: 15-08 Foz_bulldozer.jpg
     city: Foz do Iguaçu
     date: '15/08/2024 19:00'
     daysGroup: 15/16/17/18
+  - poster: a871366a-58e4-4a7b-8cea-296c13f631d2.jpeg
+    city: Londrina
+    date: '12/08/2024 19:00'
+    daysGroup: 09/10/11/12
 ---
 

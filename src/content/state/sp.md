@@ -11,7 +11,7 @@ gigs:
   - poster: 432940679_18247484830217161_8515167532375950925_n.jpg
     city: Limeira
     date: '09/08/2024 19:00'
-    daysGroup: 09/10/11
+    daysGroup: 07/08/09/10/11
     ticketsUrl: 'https://bilheto.com.br/comprar/2028/batushka-em-limeira'
   - poster: 434209815_3693726360945612_4649749239957905202_n.jpeg
     city: São Paulo
@@ -21,7 +21,7 @@ gigs:
   - poster: 425671209_2391517074570600_902858711512559910_n.jpg
     city: São Paulo
     date: '18/08/2024 19:00'
-    daysGroup: 16/17/18
+    daysGroup: 15/16/17/18
     ticketsUrl: 'https://www.ingresse.com/karate-sp/'
   - poster: 437789515_1186460232719430_2866805141690934471_n.jpg
     city: São Paulo
@@ -31,7 +31,7 @@ gigs:
   - poster: 434863547_10211117130440155_6425648371688703187_n.jpg
     city: São Paulo
     date: '17/08/2024 17:00'
-    daysGroup: 16/17/18
+    daysGroup: 15/16/17/18
   - poster: 437777466_1228800888101198_4174846822614352208_n.jpg
     city: São Paulo
     date: '27/09/2024 18:00'
@@ -54,7 +54,7 @@ gigs:
   - poster: 446501145_814718947277448_7086654423223239464_n.jpeg
     city: Leme
     date: '17/08/2024 14:00'
-    daysGroup: 16/17/18
+    daysGroup: 15/16/17/18
   - poster: 441876998_18436328866033374_7572348452534085444_n.jpg
     city: São Paulo
     date: '19/10/2024 16:00'
@@ -66,11 +66,11 @@ gigs:
   - poster: d3529268-53b5-4d28-b1b1-abadf9ceb183.jpeg
     city: São Paulo
     date: '10/08/2024 19:00'
-    daysGroup: 09/10/11
+    daysGroup: 07/08/09/10/11
   - poster: 448180098_293894490485126_4116573440983436130_n.jpg
     city: Várzea Paulista
     date: '10/08/2024 19:00'
-    daysGroup: 09/10/11
+    daysGroup: 07/08/09/10/11
   - poster: 448598417_819194146949664_3447202128431175180_n.jpeg
     city: São Paulo
     date: '28/09/2024 15:00'
@@ -87,7 +87,7 @@ gigs:
   - poster: 448998169_2767747650049884_5256180855387441726_n.jpg
     city: São Paulo
     date: '10/08/2024 19:00'
-    daysGroup: 09/10/11
+    daysGroup: 07/08/09/10/11
   - poster: 96664d81-0f7c-478b-85e9-3f9ecee732fc.jpeg
     city: Birigui
     date: '24/08/2024 17:00'
@@ -95,7 +95,7 @@ gigs:
   - poster: f763ffe6-e63c-4c7a-9546-af2c528e6940.jpeg
     city: Praia Grande
     date: '17/08/2024 20:00'
-    daysGroup: 16/17/18
+    daysGroup: 15/16/17/18
   - poster: 3835aa28-e74d-40f8-827f-c1dfc911fbb0.jpeg
     city: São Paulo
     date: '15/09/2024 15:00'
@@ -119,7 +119,7 @@ gigs:
   - poster: 17-08 SP_bulldozer.jpg
     city: São Paulo
     date: '17/08/2024 19:00'
-    daysGroup: 16/17/18
+    daysGroup: 15/16/17/18
     ticketsUrl: 'https://pixelticket.com.br/eventos/22010/bulldozer'
   - poster: 02-10 Mococa_resized_nervochaos.jpg
     city: Mococa
@@ -138,5 +138,37 @@ gigs:
     daysGroup: 11/12/13
     ticketsUrl: >-
       https://www.sympla.com.br/evento/guacu-extreme-com-as-bandas-funeratus-nervochaos-neuroticos-immuration/2552577
+  - poster: f02daddc-fff5-476d-89da-f26a369d27be.jpeg
+    city: São Paulo
+    date: '18/08/2024 18:00'
+    daysGroup: 15/16/17/18
+  - poster: 7c27a67c-b22d-4293-a98f-242adaed5044.jpeg
+    city: Santos
+    date: '31/08/2024 21:00'
+    daysGroup: 28/29/30/31
+  - poster: e50e958e-7a60-41c3-80d9-8da07f19d523.jpeg
+    city: São Paulo
+    date: '07/08/2024 20:00'
+    daysGroup: 07/08/09/10/11
+  - poster: 06870b8e-fcf4-4eb4-88ba-a80b0cc26007.jpeg
+    city: Agudos
+    date: '10/08/2024 20:00'
+    daysGroup: 07/08/09/10/11
+  - poster: 40a7e496-eb07-4416-8768-96f7cf41bf5f.jpeg
+    city: Marília
+    date: '16/08/2024 21:00'
+    daysGroup: 15/16/17/18
+  - poster: dcaa8fb8-a8e5-43da-b781-97904fdfbd68.jpeg
+    city: Piracicaba
+    date: '10/08/2024 16:00'
+    daysGroup: 07/08/09/10/11
+  - poster: 3fbc45b9-52ec-44e7-9155-65ac3c3dacaa.jpeg
+    city: Bauru
+    date: '15/08/2024 20:00'
+    daysGroup: 15/16/17/18
+  - poster: 60cee7dd-976a-4520-819d-18f0c62332af.jpeg
+    city: Bauru
+    date: '11/10/2024 20:00'
+    daysGroup: 11/12/13
 ---
 
