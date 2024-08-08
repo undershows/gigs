@@ -146,10 +146,6 @@ gigs:
     city: Santos
     date: '31/08/2024 21:00'
     daysGroup: 28/29/30/31
-  - poster: e50e958e-7a60-41c3-80d9-8da07f19d523.jpeg
-    city: São Paulo
-    date: '07/08/2024 20:00'
-    daysGroup: 07/08/09/10/11
   - poster: 06870b8e-fcf4-4eb4-88ba-a80b0cc26007.jpeg
     city: Agudos
     date: '10/08/2024 20:00'

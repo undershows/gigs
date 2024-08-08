@@ -4137,5 +4137,9 @@ gigs:
     city: São Paulo
     date: '04/08/2024 14:00'
     daysGroup: 02/03/04
+  - poster: e50e958e-7a60-41c3-80d9-8da07f19d523.jpeg
+    city: São Paulo
+    date: '07/08/2024 20:00'
+    daysGroup: 07/08/09/10/11
 ---
 
