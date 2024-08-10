@@ -8,11 +8,6 @@ gigs:
     daysGroup: 08/09/10
     ticketsUrl: >-
       https://www.clubedoingresso.com/evento/asphyx-thetroopsofdoom-evilcult-saopaulo
-  - poster: 432940679_18247484830217161_8515167532375950925_n.jpg
-    city: Limeira
-    date: '09/08/2024 19:00'
-    daysGroup: 07/08/09/10/11
-    ticketsUrl: 'https://bilheto.com.br/comprar/2028/batushka-em-limeira'
   - poster: 434209815_3693726360945612_4649749239957905202_n.jpeg
     city: São Paulo
     date: '06/10/2024 14:00'
@@ -166,10 +161,6 @@ gigs:
     city: Bauru
     date: '11/10/2024 20:00'
     daysGroup: 11/12/13
-  - poster: 453136149_882129563795004_4462850405370544187_n.jpg
-    city: São Paulo
-    date: '09/08/2024 20:00'
-    daysGroup: 07/08/09/10/11
   - poster: 1ca6a314-0db9-4e5b-8b1c-c3b8cf6271f9.jpeg
     city: São Paulo
     date: '30/08/2024 19:00'

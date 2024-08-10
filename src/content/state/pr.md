@@ -12,11 +12,6 @@ gigs:
     daysGroup: 22/23/24
     ticketsUrl: >-
       https://pixelticket.com.br/eventos/21273/festival-musica-e-atitude-em-curitiba
-  - poster: 450421835_1534906310395191_8324173189379481473_n.jpg
-    city: Maringá
-    date: '09/08/2024 22:00'
-    daysGroup: 09/10/11/12
-    ticketsUrl: 'https://articket.com.br/e/2335/show-wi-fi-kills-no-groove-mga-pr'
   - poster: 15-08 Foz_bulldozer.jpg
     city: Foz do Iguaçu
     date: '15/08/2024 19:00'

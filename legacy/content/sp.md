@@ -4141,5 +4141,14 @@ gigs:
     city: São Paulo
     date: '07/08/2024 20:00'
     daysGroup: 07/08/09/10/11
+  - poster: 432940679_18247484830217161_8515167532375950925_n.jpg
+    city: Limeira
+    date: '09/08/2024 19:00'
+    daysGroup: 07/08/09/10/11
+    ticketsUrl: 'https://bilheto.com.br/comprar/2028/batushka-em-limeira'
+  - poster: 453136149_882129563795004_4462850405370544187_n.jpg
+    city: São Paulo
+    date: '09/08/2024 20:00'
+    daysGroup: 07/08/09/10/11
 ---
 
