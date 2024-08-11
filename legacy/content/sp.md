@@ -4150,5 +4150,29 @@ gigs:
     city: São Paulo
     date: '09/08/2024 20:00'
     daysGroup: 07/08/09/10/11
+  - poster: d3529268-53b5-4d28-b1b1-abadf9ceb183.jpeg
+    city: São Paulo
+    date: '10/08/2024 19:00'
+    daysGroup: 07/08/09/10/11
+  - poster: 448180098_293894490485126_4116573440983436130_n.jpg
+    city: Várzea Paulista
+    date: '10/08/2024 19:00'
+    daysGroup: 07/08/09/10/11
+  - poster: 448998169_2767747650049884_5256180855387441726_n.jpg
+    city: São Paulo
+    date: '10/08/2024 19:00'
+    daysGroup: 07/08/09/10/11
+  - poster: 06870b8e-fcf4-4eb4-88ba-a80b0cc26007.jpeg
+    city: Agudos
+    date: '10/08/2024 20:00'
+    daysGroup: 07/08/09/10/11
+  - poster: dcaa8fb8-a8e5-43da-b781-97904fdfbd68.jpeg
+    city: Piracicaba
+    date: '10/08/2024 16:00'
+    daysGroup: 07/08/09/10/11
+  - poster: 1008_SapoBoi @Mutante_Feed xerox.png
+    city: Americana
+    date: '10/08/2024 17:00'
+    daysGroup: 07/08/09/10/11
 ---
 
