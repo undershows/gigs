@@ -220,5 +220,9 @@ gigs:
     daysGroup: 12/13/14
     ticketsUrl: >-
       https://www.sympla.com.br/evento/surra-em-florianopolis-show-de-lancamento-do-album-falha-critica/2507519
+  - poster: 441923742_17864107791151247_714051510622046706_n.jpg
+    city: Florianópolis
+    date: '11/08/2024 16:00'
+    daysGroup: 09/10/11
 ---
 

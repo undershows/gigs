@@ -149,9 +149,5 @@ gigs:
     city: São Paulo
     date: '15/08/2024 19:00'
     daysGroup: 15/16/17/18
-  - poster: 1108_SapoBoi@Brphomet_Feed.png
-    city: Várzea Paulista
-    date: '11/08/2024 16:00'
-    daysGroup: 07/08/09/10/11
 ---
 

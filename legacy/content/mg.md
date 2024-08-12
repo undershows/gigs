@@ -218,5 +218,10 @@ gigs:
     daysGroup: 19/20/21
     ticketsUrl: >-
       https://www.sympla.com.br/evento/metalpunk-overkill-hiatus-social-chaos-zeugma-infamous-glory-sangue-de-bode-payback/2481459
+  - poster: 437783465_976779797350894_906093469647491355_n.jpeg
+    city: Belo Horizonte
+    date: '11/08/2024 17:00'
+    daysGroup: 09/10/11
+    ticketsUrl: 'https://bilheto.com.br/comprar/2023/batushka'
 ---
 

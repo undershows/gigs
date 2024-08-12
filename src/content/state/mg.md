@@ -7,11 +7,6 @@ gigs:
     date: '08/10/2024 18:00'
     daysGroup: 03/04/05/06/07/08
     ticketsUrl: 'https://www.bilheto.com.br/comprar/2265/lucifer-mg'
-  - poster: 437783465_976779797350894_906093469647491355_n.jpeg
-    city: Belo Horizonte
-    date: '11/08/2024 17:00'
-    daysGroup: 09/10/11
-    ticketsUrl: 'https://bilheto.com.br/comprar/2023/batushka'
   - poster: 437803235_957843878926239_2077572146879813377_n.jpeg
     city: Belo Horizonte
     date: '22/10/2024 18:00'
@@ -47,7 +42,8 @@ gigs:
     city: Uberlândia
     date: '03/10/2024 19:00'
     daysGroup: 03/04/05/06/07/08
-    ticketsUrl: 'https://www.sympla.com.br/evento/funeratus-nervochaos-neuroticos-gore-autopsy/2532776'
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/funeratus-nervochaos-neuroticos-gore-autopsy/2532776
   - poster: 452326635_500304952400648_6733401871308722743_n.jpg
     city: Belo Horizonte
     date: '17/08/2024 13:00'
