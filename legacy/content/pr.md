@@ -394,5 +394,9 @@ gigs:
     date: '09/08/2024 22:00'
     daysGroup: 09/10/11/12
     ticketsUrl: 'https://articket.com.br/e/2335/show-wi-fi-kills-no-groove-mga-pr'
+  - poster: a871366a-58e4-4a7b-8cea-296c13f631d2.jpeg
+    city: Londrina
+    date: '12/08/2024 19:00'
+    daysGroup: 09/10/11/12
 ---
 
