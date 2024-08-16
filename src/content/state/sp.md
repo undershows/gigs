@@ -133,10 +133,6 @@ gigs:
     city: Marília
     date: '16/08/2024 21:00'
     daysGroup: 15/16/17/18
-  - poster: 3fbc45b9-52ec-44e7-9155-65ac3c3dacaa.jpeg
-    city: Bauru
-    date: '15/08/2024 20:00'
-    daysGroup: 15/16/17/18
   - poster: 60cee7dd-976a-4520-819d-18f0c62332af.jpeg
     city: Bauru
     date: '11/10/2024 20:00'
@@ -145,9 +141,5 @@ gigs:
     city: São Paulo
     date: '30/08/2024 19:00'
     daysGroup: 28/29/30/31
-  - poster: 1508_SapoBoi @FFFront_Feed.png
-    city: São Paulo
-    date: '15/08/2024 19:00'
-    daysGroup: 15/16/17/18
 ---
 

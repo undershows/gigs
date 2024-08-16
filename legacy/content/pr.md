@@ -398,5 +398,9 @@ gigs:
     city: Londrina
     date: '12/08/2024 19:00'
     daysGroup: 09/10/11/12
+  - poster: 15-08 Foz_bulldozer.jpg
+    city: Foz do Iguaçu
+    date: '15/08/2024 19:00'
+    daysGroup: 15/16/17/18
 ---
 

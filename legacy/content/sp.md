@@ -4178,5 +4178,13 @@ gigs:
     city: Várzea Paulista
     date: '11/08/2024 16:00'
     daysGroup: 07/08/09/10/11
+  - poster: 3fbc45b9-52ec-44e7-9155-65ac3c3dacaa.jpeg
+    city: Bauru
+    date: '15/08/2024 20:00'
+    daysGroup: 15/16/17/18
+  - poster: 1508_SapoBoi @FFFront_Feed.png
+    city: São Paulo
+    date: '15/08/2024 19:00'
+    daysGroup: 15/16/17/18
 ---
 
