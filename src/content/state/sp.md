@@ -129,10 +129,6 @@ gigs:
     city: Santos
     date: '31/08/2024 21:00'
     daysGroup: 28/29/30/31
-  - poster: 40a7e496-eb07-4416-8768-96f7cf41bf5f.jpeg
-    city: Marília
-    date: '16/08/2024 21:00'
-    daysGroup: 15/16/17/18
   - poster: 60cee7dd-976a-4520-819d-18f0c62332af.jpeg
     city: Bauru
     date: '11/10/2024 20:00'

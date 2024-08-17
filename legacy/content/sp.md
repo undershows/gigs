@@ -4186,5 +4186,9 @@ gigs:
     city: São Paulo
     date: '15/08/2024 19:00'
     daysGroup: 15/16/17/18
+  - poster: 40a7e496-eb07-4416-8768-96f7cf41bf5f.jpeg
+    city: Marília
+    date: '16/08/2024 21:00'
+    daysGroup: 15/16/17/18
 ---
 

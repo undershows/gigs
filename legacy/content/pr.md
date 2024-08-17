@@ -402,5 +402,9 @@ gigs:
     city: Foz do Iguaçu
     date: '15/08/2024 19:00'
     daysGroup: 15/16/17/18
+  - poster: 1608_SapoBoi @92Graus_Feed.png
+    city: Curitiba
+    date: '16/08/2024 20:00'
+    daysGroup: 15/16/17/18
 ---
 

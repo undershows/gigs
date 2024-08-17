@@ -12,9 +12,5 @@ gigs:
     daysGroup: 22/23/24
     ticketsUrl: >-
       https://pixelticket.com.br/eventos/21273/festival-musica-e-atitude-em-curitiba
-  - poster: 1608_SapoBoi @92Graus_Feed.png
-    city: Curitiba
-    date: '16/08/2024 20:00'
-    daysGroup: 15/16/17/18
 ---
 
