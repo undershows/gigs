@@ -223,5 +223,9 @@ gigs:
     date: '11/08/2024 17:00'
     daysGroup: 09/10/11
     ticketsUrl: 'https://bilheto.com.br/comprar/2023/batushka'
+  - poster: 452326635_500304952400648_6733401871308722743_n.jpg
+    city: Belo Horizonte
+    date: '17/08/2024 13:00'
+    daysGroup: 16/17/18
 ---
 

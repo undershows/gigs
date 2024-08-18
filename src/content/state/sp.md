@@ -23,10 +23,6 @@ gigs:
     date: '02/11/2024 16:00'
     daysGroup: 01/02/03
     ticketsUrl: 'https://www.clubedoingresso.com/evento/weareone2024-saopaulo'
-  - poster: 434863547_10211117130440155_6425648371688703187_n.jpg
-    city: São Paulo
-    date: '17/08/2024 17:00'
-    daysGroup: 15/16/17/18
   - poster: 437777466_1228800888101198_4174846822614352208_n.jpg
     city: São Paulo
     date: '27/09/2024 18:00'
@@ -46,10 +42,6 @@ gigs:
     city: Marília
     date: '22/09/2024 18:00'
     daysGroup: 19/20/21/22
-  - poster: 446501145_814718947277448_7086654423223239464_n.jpeg
-    city: Leme
-    date: '17/08/2024 14:00'
-    daysGroup: 15/16/17/18
   - poster: 441876998_18436328866033374_7572348452534085444_n.jpg
     city: São Paulo
     date: '19/10/2024 16:00'
@@ -75,10 +67,6 @@ gigs:
     city: Birigui
     date: '24/08/2024 17:00'
     daysGroup: 23/24/25
-  - poster: f763ffe6-e63c-4c7a-9546-af2c528e6940.jpeg
-    city: Praia Grande
-    date: '17/08/2024 20:00'
-    daysGroup: 15/16/17/18
   - poster: 3835aa28-e74d-40f8-827f-c1dfc911fbb0.jpeg
     city: São Paulo
     date: '15/09/2024 15:00'
@@ -99,11 +87,6 @@ gigs:
     city: Itapevi
     date: '24/08/2024 15:00'
     daysGroup: 23/24/25
-  - poster: 17-08 SP_bulldozer.jpg
-    city: São Paulo
-    date: '17/08/2024 19:00'
-    daysGroup: 15/16/17/18
-    ticketsUrl: 'https://pixelticket.com.br/eventos/22010/bulldozer'
   - poster: 02-10 Mococa_resized_nervochaos.jpg
     city: Mococa
     date: '02/10/2024 19:00'

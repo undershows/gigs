@@ -44,9 +44,5 @@ gigs:
     daysGroup: 03/04/05/06/07/08
     ticketsUrl: >-
       https://www.sympla.com.br/evento/funeratus-nervochaos-neuroticos-gore-autopsy/2532776
-  - poster: 452326635_500304952400648_6733401871308722743_n.jpg
-    city: Belo Horizonte
-    date: '17/08/2024 13:00'
-    daysGroup: 16/17/18
 ---
 

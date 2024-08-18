@@ -4190,5 +4190,22 @@ gigs:
     city: Marília
     date: '16/08/2024 21:00'
     daysGroup: 15/16/17/18
+  - poster: 434863547_10211117130440155_6425648371688703187_n.jpg
+    city: São Paulo
+    date: '17/08/2024 17:00'
+    daysGroup: 15/16/17/18
+  - poster: 446501145_814718947277448_7086654423223239464_n.jpeg
+    city: Leme
+    date: '17/08/2024 14:00'
+    daysGroup: 15/16/17/18
+  - poster: f763ffe6-e63c-4c7a-9546-af2c528e6940.jpeg
+    city: Praia Grande
+    date: '17/08/2024 20:00'
+    daysGroup: 15/16/17/18
+  - poster: 17-08 SP_bulldozer.jpg
+    city: São Paulo
+    date: '17/08/2024 19:00'
+    daysGroup: 15/16/17/18
+    ticketsUrl: 'https://pixelticket.com.br/eventos/22010/bulldozer'
 ---
 

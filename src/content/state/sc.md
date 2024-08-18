@@ -6,9 +6,5 @@ gigs:
     city: Florianópolis
     date: '30/08/2024 20:00'
     daysGroup: 29/30/31
-  - poster: 1708_SapoBoi@ Haoma_feed.png
-    city: Florianópolis
-    date: '17/08/2024 21:00'
-    daysGroup: 16/17/18
 ---
 
