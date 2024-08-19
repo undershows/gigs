@@ -227,5 +227,10 @@ gigs:
     city: Belo Horizonte
     date: '17/08/2024 13:00'
     daysGroup: 16/17/18
+  - poster: 18-08BH_resized_bulldozer.jpg
+    city: Belo Horizonte
+    date: '18/08/2024 16:00'
+    daysGroup: 16/17/18
+    ticketsUr: 'https://www.sympla.com.br/evento/bulldozer/2551486'
 ---
 

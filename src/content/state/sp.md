@@ -13,11 +13,6 @@ gigs:
     date: '06/10/2024 14:00'
     daysGroup: 02/03/04/05/06
     ticketsUrl: 'https://www.bilheto.com.br/comprar/2266/lucifer-sp'
-  - poster: 425671209_2391517074570600_902858711512559910_n.jpg
-    city: São Paulo
-    date: '18/08/2024 19:00'
-    daysGroup: 15/16/17/18
-    ticketsUrl: 'https://www.ingresse.com/karate-sp/'
   - poster: 437789515_1186460232719430_2866805141690934471_n.jpg
     city: São Paulo
     date: '02/11/2024 16:00'
@@ -104,10 +99,6 @@ gigs:
     daysGroup: 11/12/13
     ticketsUrl: >-
       https://www.sympla.com.br/evento/guacu-extreme-com-as-bandas-funeratus-nervochaos-neuroticos-immuration/2552577
-  - poster: f02daddc-fff5-476d-89da-f26a369d27be.jpeg
-    city: São Paulo
-    date: '18/08/2024 18:00'
-    daysGroup: 15/16/17/18
   - poster: 7c27a67c-b22d-4293-a98f-242adaed5044.jpeg
     city: Santos
     date: '31/08/2024 21:00'

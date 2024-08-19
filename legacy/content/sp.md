@@ -4207,5 +4207,14 @@ gigs:
     date: '17/08/2024 19:00'
     daysGroup: 15/16/17/18
     ticketsUrl: 'https://pixelticket.com.br/eventos/22010/bulldozer'
+  - poster: 425671209_2391517074570600_902858711512559910_n.jpg
+    city: São Paulo
+    date: '18/08/2024 19:00'
+    daysGroup: 15/16/17/18
+    ticketsUrl: 'https://www.ingresse.com/karate-sp/'
+  - poster: f02daddc-fff5-476d-89da-f26a369d27be.jpeg
+    city: São Paulo
+    date: '18/08/2024 18:00'
+    daysGroup: 15/16/17/18
 ---
 
