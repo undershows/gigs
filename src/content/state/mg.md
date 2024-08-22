@@ -33,7 +33,7 @@ gigs:
     date: '04/10/2024 16:00'
     daysGroup: 03/04/05/06/07/08
     ticketsUrl: 'https://www.sympla.com.br/evento/chaos-and-death-belo-horizonte/2560814'
-  - poster: 03-10 Uberlândia_nervochaos.jpg
+  - poster: 03-10_Uberlandia_nervochaos.jpg
     city: Uberlândia
     date: '03/10/2024 19:00'
     daysGroup: 03/04/05/06/07/08

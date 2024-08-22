@@ -206,5 +206,45 @@ gigs:
     city: Presidente Prudente
     date: '11/10/2024 22:00'
     daysGroup: 09/10/11/12/13
+  - poster: 456243806_10229208205287176_6481079888189247964_n.jpg
+    city: São Paulo
+    date: '01/09/2024 12:00'
+    daysGroup: 01/02
+  - poster: 456514303_8064709970276980_909144476059240970_n.jpg
+    city: São Paulo
+    date: '24/08/2024 19:00'
+    daysGroup: 23/24/25
+    ticketsUrl: 'https://pixelticket.com.br/eventos/21781/punkrock-no-hangar110'
+  - poster: 456434046_8041785362595504_202992266088590871_n.jpg
+    city: São Paulo
+    date: '31/08/2024 17:00'
+    daysGroup: 28/29/30/31
+  - poster: 456622160_7636767416427434_5155148196520626830_n.jpg
+    city: Santo André
+    date: '24/08/2024 18:00'
+    daysGroup: 23/24/25
+  - poster: 51618f35-fee2-40c5-99ae-ea1ffb49513f.jpeg
+    city: Ribeirão Preto
+    date: '21/09/2024 20:00'
+    daysGroup: 19/20/21/22
+  - poster: b3347e7b-cf9a-4b4c-9adc-1fd1aa64097d.jpeg
+    city: São Paulo
+    date: '16/11/2024 20:00'
+    daysGroup: 15/16/17
+  - poster: f3d8eaf9-1522-49c3-98a9-9cd440f45fb2.jpeg
+    city: São Paulo
+    date: '28/09/2024 20:00'
+    daysGroup: 27/28/29
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/vulcano-laiglesiaborratxeria'
+  - poster: 00ec68d4-1fdf-45cd-8033-59808ebb02aa.jpeg
+    city: São Paulo
+    date: '22/09/2024 16:00'
+    daysGroup: 19/20/21/22
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/raven-saopaulo'
+  - poster: 5e2445a7-e7a4-4219-be0b-9e0bcfefb983.jpeg
+    city: São Paulo
+    date: '08/03/2025 14:00'
+    daysGroup: 07/08/09
+    ticketsUrl: 'https://bilheto.com.br/comprar/2604/m-a-d-metal-fest-sao-paulo'
 ---
 
