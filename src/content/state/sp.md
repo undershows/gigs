@@ -173,5 +173,38 @@ gigs:
     city: Bauru
     date: '07/09/2024 14:00'
     daysGroup: 06/07/08
+  - poster: 0424734d-f3f4-449f-9934-148d5d5b6df5.jpeg
+    city: Santos
+    date: '23/08/2024 20:00'
+    daysGroup: 23/24/25
+  - poster: 456127333_491098070353717_3653162614993836668_n.jpeg
+    city: Praia Grande
+    date: '24/08/2024 20:00'
+    daysGroup: 23/24/25
+  - poster: 954c767b-565c-4f53-b9d7-14afbe29f96a.jpeg
+    city: São Paulo
+    date: '14/09/2024 17:00'
+    daysGroup: 13/14/15
+  - poster: 88749939-42a4-4296-a11a-18d91f736e01.jpeg
+    city: Praia Grande
+    date: '14/09/2024 20:00'
+    daysGroup: 13/14/15
+  - poster: e61399b9-184f-49d9-a80e-c95434f08898.jpeg
+    city: Sorocaba
+    date: '24/08/2024 17:00'
+    daysGroup: 23/24/25
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/nightmatter-festival'
+  - poster: 440528bf-9f10-44cc-aef6-f3a9fef4b9a9.jpeg
+    city: São Paulo
+    date: '01/11/2024 18:00'
+    daysGroup: 01/02/03
+  - poster: 6683f420-794f-4b06-997c-773942dda317.jpeg
+    city: Praia Grande
+    date: '23/08/2024 20:00'
+    daysGroup: 23/24/25
+  - poster: f216c83c-a7ae-4405-9e6b-b2a1f08e0902.jpeg
+    city: Presidente Prudente
+    date: '11/10/2024 22:00'
+    daysGroup: 09/10/11/12/13
 ---
 
