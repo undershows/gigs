@@ -90,7 +90,7 @@ gigs:
     daysGroup: 02/03/04/05/06
     ticketsUrl: >-
       https://www.sympla.com.br/evento/funeratus-nervochaos-neuroticos-coeffin-roet/2558950
-  - poster: 11-10 Mogi Guaçu_nervochaos.jpg
+  - poster: 11-10_Mogi Guacu_nervochaos.jpg
     city: Mogi Guaçu
     date: '11/10/2024 13:00'
     daysGroup: 09/10/11/12/13
