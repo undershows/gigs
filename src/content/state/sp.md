@@ -41,14 +41,11 @@ gigs:
     city: São Paulo
     date: '19/10/2024 16:00'
     daysGroup: 18/19/20
+    ticketsUrl: 'https://fastix.com.br/events/h2o-em-sao-paulo'
   - poster: 447912251_962978068861305_6895429639845586915_n.jpeg
     city: São Paulo
     date: '13/10/2024 13:00'
-    daysGroup: 11/12/13
-  - poster: 448598417_819194146949664_3447202128431175180_n.jpeg
-    city: São Paulo
-    date: '28/09/2024 15:00'
-    daysGroup: 27/28/29
+    daysGroup: 09/10/11/12/13
   - poster: bd7d4e55-64e9-460a-8a49-ab22a2e817dc.jpeg
     city: São Paulo
     date: '28/08/2024 18:00'
@@ -96,7 +93,7 @@ gigs:
   - poster: 11-10 Mogi Guaçu_nervochaos.jpg
     city: Mogi Guaçu
     date: '11/10/2024 13:00'
-    daysGroup: 11/12/13
+    daysGroup: 09/10/11/12/13
     ticketsUrl: >-
       https://www.sympla.com.br/evento/guacu-extreme-com-as-bandas-funeratus-nervochaos-neuroticos-immuration/2552577
   - poster: 7c27a67c-b22d-4293-a98f-242adaed5044.jpeg
@@ -106,7 +103,7 @@ gigs:
   - poster: 60cee7dd-976a-4520-819d-18f0c62332af.jpeg
     city: Bauru
     date: '11/10/2024 20:00'
-    daysGroup: 11/12/13
+    daysGroup: 09/10/11/12/13
   - poster: 1ca6a314-0db9-4e5b-8b1c-c3b8cf6271f9.jpeg
     city: São Paulo
     date: '30/08/2024 19:00'
@@ -115,5 +112,66 @@ gigs:
     city: São Paulo
     date: '25/08/2024 14:00'
     daysGroup: 23/24/25
+  - poster: 915eaf30-69ba-4bbb-81a0-dca667ecbfb5.jpeg
+    city: Franca
+    date: '07/09/2024 14:00'
+    daysGroup: 06/07/08
+    ticketUrl: 'https://www.clubedoingresso.com/evento/francametalfest2024'
+  - poster: 09-10_SJC_resized.jpg
+    city: São José dos Campos
+    date: '09/10/2024 19:00'
+    daysGroup: 09/10/11/12/13
+  - poster: 21984e0f-b0df-4ea0-9f0a-d960eec51764.jpeg
+    city: São Paulo
+    date: '27/10/2024 17:00'
+    daysGroup: 25/26/27
+    ticketsUrl: 'https://www.bilheto.com.br/comprar/2491/sabbat-sabbatical-40th-anniversary-tour-2024'
+  - poster: 2575a127-4d2f-4485-8f8b-29c22b364422.jpeg
+    city: Praia Grande
+    date: '09/11/2024 20:00'
+    daysGroup: 08/09/10
+  - poster: 2f707e12-6da8-4729-b44e-20aaaf6fbab4.jpeg
+    city: São Paulo
+    date: '19/10/2024 17:00'
+    daysGroup: 18/19/20
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/2-bellvmdeorvmfest'
+  - poster: e154eaba-a64c-4db1-841a-b55f3e30db1a.jpeg
+    city: Diadema
+    date: '21/09/2024 20:00'
+    daysGroup: 19/20/21/22
+  - poster: a6d1cecc-7c05-4891-bf66-3d8d3f6d8ab7.jpeg
+    city: Americana
+    date: '14/09/2024 18:00'
+    daysGroup: 13/14/15
+  - poster: 07bb2fe9-56fe-4dcf-ba25-4291b8bf7fe9.jpeg
+    city: Praia Grande
+    date: '21/12/2024 20:00'
+    daysGroup: 20/21/22
+  - poster: 0f5c334f-3ba0-4f0e-84a8-de680358a6e2.jpeg
+    city: Conchas
+    date: '24/08/2024 18:00'
+    daysGroup: 23/24/25
+  - poster: 56e10889-acd2-4aed-bd08-3381ff18ede5.jpeg
+    city: São Paulo
+    date: '07/09/2024 17:00'
+    daysGroup: 06/07/08
+    ticketsUrl: 'https://www.sympla.com.br/evento/hardcore-sessions-ii-ath-oam-aclive-seaport/2592758'
+  - poster: 1000d5c1-6277-4cf8-a9d5-9ace2a39ad2f.jpeg
+    city: São Vicente
+    date: '14/09/2024 15:00'
+    daysGroup: 13/14/15
+  - poster: 4a7bee6f-90d5-41bd-a820-dd0b4826ccff.jpeg
+    city: São Paulo
+    date: '01/09/2024 17:00'
+    daysGroup: 01/02
+  - poster: 7a30f2d6-f55d-4503-8c4c-2d5e88f24571.jpeg
+    city: Sorocaba
+    date: '31/08/2024 20:00'
+    daysGroup: 28/29/30/31
+    ticketsUrl: 'https://www.sympla.com.br/evento/show-20h-black-pantera-abertura-estralo-sistem-after-party/2567710'
+  - poster: 56c6a8eb-06b3-4591-9396-67f75c6eb432.jpeg
+    city: Bauru
+    date: '07/09/2024 14:00'
+    daysGroup: 06/07/08
 ---
 
