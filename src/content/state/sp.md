@@ -108,10 +108,6 @@ gigs:
     city: São Paulo
     date: '30/08/2024 19:00'
     daysGroup: 28/29/30/31
-  - poster: usina_250824.jpeg
-    city: São Paulo
-    date: '25/08/2024 14:00'
-    daysGroup: 23/24/25
   - poster: 915eaf30-69ba-4bbb-81a0-dca667ecbfb5.jpeg
     city: Franca
     date: '07/09/2024 14:00'
