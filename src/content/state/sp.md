@@ -121,7 +121,8 @@ gigs:
     city: São Paulo
     date: '27/10/2024 17:00'
     daysGroup: 25/26/27
-    ticketsUrl: 'https://www.bilheto.com.br/comprar/2491/sabbat-sabbatical-40th-anniversary-tour-2024'
+    ticketsUrl: >-
+      https://www.bilheto.com.br/comprar/2491/sabbat-sabbatical-40th-anniversary-tour-2024
   - poster: 2575a127-4d2f-4485-8f8b-29c22b364422.jpeg
     city: Praia Grande
     date: '09/11/2024 20:00'
@@ -151,7 +152,8 @@ gigs:
     city: São Paulo
     date: '07/09/2024 17:00'
     daysGroup: 06/07/08
-    ticketsUrl: 'https://www.sympla.com.br/evento/hardcore-sessions-ii-ath-oam-aclive-seaport/2592758'
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/hardcore-sessions-ii-ath-oam-aclive-seaport/2592758
   - poster: 1000d5c1-6277-4cf8-a9d5-9ace2a39ad2f.jpeg
     city: São Vicente
     date: '14/09/2024 15:00'
@@ -164,15 +166,12 @@ gigs:
     city: Sorocaba
     date: '31/08/2024 20:00'
     daysGroup: 28/29/30/31
-    ticketsUrl: 'https://www.sympla.com.br/evento/show-20h-black-pantera-abertura-estralo-sistem-after-party/2567710'
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/show-20h-black-pantera-abertura-estralo-sistem-after-party/2567710
   - poster: 56c6a8eb-06b3-4591-9396-67f75c6eb432.jpeg
     city: Bauru
     date: '07/09/2024 14:00'
     daysGroup: 06/07/08
-  - poster: 0424734d-f3f4-449f-9934-148d5d5b6df5.jpeg
-    city: Santos
-    date: '23/08/2024 20:00'
-    daysGroup: 23/24/25
   - poster: 456127333_491098070353717_3653162614993836668_n.jpeg
     city: Praia Grande
     date: '24/08/2024 20:00'
@@ -194,10 +193,6 @@ gigs:
     city: São Paulo
     date: '01/11/2024 18:00'
     daysGroup: 01/02/03
-  - poster: 6683f420-794f-4b06-997c-773942dda317.jpeg
-    city: Praia Grande
-    date: '23/08/2024 20:00'
-    daysGroup: 23/24/25
   - poster: f216c83c-a7ae-4405-9e6b-b2a1f08e0902.jpeg
     city: Presidente Prudente
     date: '11/10/2024 22:00'

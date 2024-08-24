@@ -4216,5 +4216,13 @@ gigs:
     city: São Paulo
     date: '18/08/2024 18:00'
     daysGroup: 15/16/17/18
+  - poster: 0424734d-f3f4-449f-9934-148d5d5b6df5.jpeg
+    city: Santos
+    date: '23/08/2024 20:00'
+    daysGroup: 23/24/25
+  - poster: 6683f420-794f-4b06-997c-773942dda317.jpeg
+    city: Praia Grande
+    date: '23/08/2024 20:00'
+    daysGroup: 23/24/25
 ---
 
