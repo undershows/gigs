@@ -237,5 +237,19 @@ gigs:
     date: '08/03/2025 14:00'
     daysGroup: 07/08/09
     ticketsUrl: 'https://bilheto.com.br/comprar/2604/m-a-d-metal-fest-sao-paulo'
+  - poster: 0513b081-fd55-426b-bd02-94bd5eda455e.jpeg
+    city: São Paulo
+    date: '16/11/2024 17:00'
+    daysGroup: 15/16/17
+    ticketsUrl: 'https://pixelticket.com.br/eventos/20440/devotion-mortis-iii/ingressos'
+  - poster: 10-10_Leme_resized.jpg
+    city: Leme
+    date: '10/10/2024 19:30'
+    daysGroup: 09/10/11/12/13
+    ticketsUrl: 'https://www.sympla.com.br/evento/funeratus-nervochaos-neuroticos/2576552'
+  - poster: 13-10_Aruja_resized.jpg
+    city: Arujá
+    date: '13/10/2024 15:00'
+    daysGroup: 09/10/11/12/13
 ---
 

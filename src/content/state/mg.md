@@ -39,5 +39,15 @@ gigs:
     daysGroup: 03/04/05/06/07/08
     ticketsUrl: >-
       https://www.sympla.com.br/evento/funeratus-nervochaos-neuroticos-gore-autopsy/2532776
+  - poster: f516b51d-f73e-43ce-97e7-733bf7bb298f.jpeg
+    city: Belo Horizonte
+    date: '18/04/2025 18:00'
+    daysGroup: 18/19/20
+    ticketsUrl: 'https://www.sympla.com.br/evento/profanvs-diaboli-art-2025/2604339'
+  - poster: 3603d4d6-4cac-4227-b2dc-861f92ebfc13.jpeg
+    city: Belo Horizonte
+    date: '09/11/2025 16:00'
+    daysGroup: 08/09/10
+    ticketsUrl: 'https://www.sympla.com.br/evento/satanic-hellbangers-festival-ii/2445018'
 ---
 
