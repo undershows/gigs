@@ -4224,5 +4224,35 @@ gigs:
     city: Praia Grande
     date: '23/08/2024 20:00'
     daysGroup: 23/24/25
+  - poster: 96664d81-0f7c-478b-85e9-3f9ecee732fc.jpeg
+    city: Birigui
+    date: '24/08/2024 17:00'
+    daysGroup: 23/24/25
+  - poster: 442507659_7491389367604407_8306850078456924387_n.jpg
+    city: Itu
+    date: '24/08/2024 17:00'
+    daysGroup: 23/24/25
+  - poster: 0f5c334f-3ba0-4f0e-84a8-de680358a6e2.jpeg
+    city: Conchas
+    date: '24/08/2024 18:00'
+    daysGroup: 23/24/25
+  - poster: 456127333_491098070353717_3653162614993836668_n.jpeg
+    city: Praia Grande
+    date: '24/08/2024 20:00'
+    daysGroup: 23/24/25
+  - poster: e61399b9-184f-49d9-a80e-c95434f08898.jpeg
+    city: Sorocaba
+    date: '24/08/2024 17:00'
+    daysGroup: 23/24/25
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/nightmatter-festival'
+  - poster: 456514303_8064709970276980_909144476059240970_n.jpg
+    city: São Paulo
+    date: '24/08/2024 19:00'
+    daysGroup: 23/24/25
+    ticketsUrl: 'https://pixelticket.com.br/eventos/21781/punkrock-no-hangar110'
+  - poster: 456622160_7636767416427434_5155148196520626830_n.jpg
+    city: Santo André
+    date: '24/08/2024 18:00'
+    daysGroup: 23/24/25
 ---
 

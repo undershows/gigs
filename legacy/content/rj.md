@@ -265,5 +265,10 @@ gigs:
     city: Rio de Janeiro
     date: '04/08/2024 20:00'
     daysGroup: 02/03/04
+  - poster: 447783682_18268646881209755_6332888464804749624_n.jpg
+    city: Rio de Janeiro
+    date: '24/08/2024 20:00'
+    daysGroup: 23/24/25
+    ticketsUrl: 'https://articket.com.br/e/2272/surra-no-rio-de-janeiro'
 ---
 
