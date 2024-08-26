@@ -67,10 +67,6 @@ gigs:
     city: Sorocaba
     date: '29/09/2024 15:00'
     daysGroup: 27/28/29
-  - poster: 450458416_2566484927073067_7677039188821557072_n.jpg
-    city: Itapevi
-    date: '25/08/2024 15:00'
-    daysGroup: 23/24/25
   - poster: 02-10 Mococa_resized_nervochaos.jpg
     city: Mococa
     date: '02/10/2024 19:00'

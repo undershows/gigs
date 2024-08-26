@@ -4254,5 +4254,9 @@ gigs:
     city: Santo André
     date: '24/08/2024 18:00'
     daysGroup: 23/24/25
+  - poster: 450458416_2566484927073067_7677039188821557072_n.jpg
+    city: Itapevi
+    date: '25/08/2024 15:00'
+    daysGroup: 23/24/25
 ---
 

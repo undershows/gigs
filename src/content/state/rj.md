@@ -7,10 +7,6 @@ gigs:
     date: '23/10/2024 20:00'
     daysGroup: 23/24/25/26/27
     ticketsUrl: 'https://www.eventim.com.br/artist/napalm-death/'
-  - poster: 430063560_8225190384162681_3096312461952379744_n.jpg
-    city: Rio de Janeiro
-    date: '25/08/2024 20:00'
-    daysGroup: 23/24/25
   - poster: 437339316_1412518986043063_1965274297037480346_n.jpeg
     city: Rio de Janeiro
     date: '01/11/2024 19:00'

@@ -406,5 +406,9 @@ gigs:
     city: Curitiba
     date: '16/08/2024 20:00'
     daysGroup: 15/16/17/18
+  - poster: 443240108_268472159679749_603287528850706211_n.jpeg
+    city: Londrina
+    date: '25/08/2024 16:00'
+    daysGroup: 23/24/25
 ---
 
