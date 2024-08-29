@@ -4258,5 +4258,10 @@ gigs:
     city: Itapevi
     date: '25/08/2024 15:00'
     daysGroup: 23/24/25
+  - poster: bd7d4e55-64e9-460a-8a49-ab22a2e817dc.jpeg
+    city: São Paulo
+    date: '28/08/2024 18:00'
+    daysGroup: 28/29/30/31
+    ticketsUrl: 'https://www.sympla.com.br/evento/undershows-fest-ii/2525435'
 ---
 
