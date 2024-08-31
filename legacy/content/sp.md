@@ -4263,5 +4263,9 @@ gigs:
     date: '28/08/2024 18:00'
     daysGroup: 28/29/30/31
     ticketsUrl: 'https://www.sympla.com.br/evento/undershows-fest-ii/2525435'
+  - poster: 1ca6a314-0db9-4e5b-8b1c-c3b8cf6271f9.jpeg
+    city: São Paulo
+    date: '30/08/2024 19:00'
+    daysGroup: 28/29/30/31
 ---
 

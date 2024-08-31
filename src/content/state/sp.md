@@ -87,10 +87,6 @@ gigs:
     city: Bauru
     date: '11/10/2024 20:00'
     daysGroup: 09/10/11/12/13
-  - poster: 1ca6a314-0db9-4e5b-8b1c-c3b8cf6271f9.jpeg
-    city: São Paulo
-    date: '30/08/2024 19:00'
-    daysGroup: 28/29/30/31
   - poster: 915eaf30-69ba-4bbb-81a0-dca667ecbfb5.jpeg
     city: Franca
     date: '07/09/2024 14:00'
