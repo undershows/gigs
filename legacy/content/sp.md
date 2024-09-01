@@ -4267,5 +4267,28 @@ gigs:
     city: São Paulo
     date: '30/08/2024 19:00'
     daysGroup: 28/29/30/31
+  - poster: 446217292_828556425439093_3944928494405814725_n.jpeg
+    city: São Paulo
+    date: '31/08/2024 19:00'
+    daysGroup: 28/29/30/31
+    ticketsUrl: 'https://pixelticket.com.br/eventos/21180/cachorro-louco'
+  - poster: 448979164_10228667670534145_8075372831227689104_n.jpg
+    city: São Paulo
+    date: '31/08/2024 16:00'
+    daysGroup: 28/29/30/31
+  - poster: 7c27a67c-b22d-4293-a98f-242adaed5044.jpeg
+    city: Santos
+    date: '31/08/2024 21:00'
+    daysGroup: 28/29/30/31
+  - poster: 7a30f2d6-f55d-4503-8c4c-2d5e88f24571.jpeg
+    city: Sorocaba
+    date: '31/08/2024 20:00'
+    daysGroup: 28/29/30/31
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/show-20h-black-pantera-abertura-estralo-sistem-after-party/2567710
+  - poster: 456434046_8041785362595504_202992266088590871_n.jpg
+    city: São Paulo
+    date: '31/08/2024 17:00'
+    daysGroup: 28/29/30/31
 ---
 

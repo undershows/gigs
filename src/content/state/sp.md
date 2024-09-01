@@ -28,11 +28,6 @@ gigs:
     date: '27/10/2024 15:00'
     daysGroup: 25/26/27
     ticketsUrl: 'https://www.clubedoingresso.com/evento/upfront-festival'
-  - poster: 446217292_828556425439093_3944928494405814725_n.jpeg
-    city: São Paulo
-    date: '31/08/2024 19:00'
-    daysGroup: 28/29/30/31
-    ticketsUrl: 'https://pixelticket.com.br/eventos/21180/cachorro-louco'
   - poster: 446468460_770670704877811_7005544506978245247_n.jpeg
     city: Marília
     date: '22/09/2024 18:00'
@@ -46,10 +41,6 @@ gigs:
     city: São Paulo
     date: '13/10/2024 13:00'
     daysGroup: 09/10/11/12/13
-  - poster: 448979164_10228667670534145_8075372831227689104_n.jpg
-    city: São Paulo
-    date: '31/08/2024 16:00'
-    daysGroup: 28/29/30/31
   - poster: 3835aa28-e74d-40f8-827f-c1dfc911fbb0.jpeg
     city: São Paulo
     date: '15/09/2024 15:00'
@@ -79,10 +70,6 @@ gigs:
     daysGroup: 09/10/11/12/13
     ticketsUrl: >-
       https://www.sympla.com.br/evento/guacu-extreme-com-as-bandas-funeratus-nervochaos-neuroticos-immuration/2552577
-  - poster: 7c27a67c-b22d-4293-a98f-242adaed5044.jpeg
-    city: Santos
-    date: '31/08/2024 21:00'
-    daysGroup: 28/29/30/31
   - poster: 60cee7dd-976a-4520-819d-18f0c62332af.jpeg
     city: Bauru
     date: '11/10/2024 20:00'
@@ -137,12 +124,6 @@ gigs:
     city: São Paulo
     date: '01/09/2024 17:00'
     daysGroup: 01/02
-  - poster: 7a30f2d6-f55d-4503-8c4c-2d5e88f24571.jpeg
-    city: Sorocaba
-    date: '31/08/2024 20:00'
-    daysGroup: 28/29/30/31
-    ticketsUrl: >-
-      https://www.sympla.com.br/evento/show-20h-black-pantera-abertura-estralo-sistem-after-party/2567710
   - poster: 56c6a8eb-06b3-4591-9396-67f75c6eb432.jpeg
     city: Bauru
     date: '07/09/2024 14:00'
@@ -167,10 +148,6 @@ gigs:
     city: São Paulo
     date: '01/09/2024 12:00'
     daysGroup: 01/02
-  - poster: 456434046_8041785362595504_202992266088590871_n.jpg
-    city: São Paulo
-    date: '31/08/2024 17:00'
-    daysGroup: 28/29/30/31
   - poster: 51618f35-fee2-40c5-99ae-ea1ffb49513f.jpeg
     city: Ribeirão Preto
     date: '21/09/2024 20:00'

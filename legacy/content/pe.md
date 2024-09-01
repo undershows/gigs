@@ -109,5 +109,9 @@ gigs:
     daysGroup: 02/03/04
     ticketsUrl: >-
       https://www.sympla.com.br/evento/hellcife-extreme-festival-2024-recife-pe/2431814
+  - poster: 32a2efe5-40a4-4904-8b07-c0352b1b08c1.jpeg
+    city: Recife
+    date: '31/08/2024 16:00'
+    daysGroup: 28/29/30/31
 ---
 
