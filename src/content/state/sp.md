@@ -120,10 +120,6 @@ gigs:
     city: São Vicente
     date: '14/09/2024 15:00'
     daysGroup: 13/14/15
-  - poster: 4a7bee6f-90d5-41bd-a820-dd0b4826ccff.jpeg
-    city: São Paulo
-    date: '01/09/2024 17:00'
-    daysGroup: 01/02
   - poster: 56c6a8eb-06b3-4591-9396-67f75c6eb432.jpeg
     city: Bauru
     date: '07/09/2024 14:00'
@@ -144,10 +140,6 @@ gigs:
     city: Presidente Prudente
     date: '11/10/2024 22:00'
     daysGroup: 09/10/11/12/13
-  - poster: 456243806_10229208205287176_6481079888189247964_n.jpg
-    city: São Paulo
-    date: '01/09/2024 12:00'
-    daysGroup: 01/02
   - poster: 51618f35-fee2-40c5-99ae-ea1ffb49513f.jpeg
     city: Ribeirão Preto
     date: '21/09/2024 20:00'
