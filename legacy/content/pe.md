@@ -113,5 +113,9 @@ gigs:
     city: Recife
     date: '31/08/2024 16:00'
     daysGroup: 28/29/30/31
+  - poster: 669104bb-6a5f-4ee1-a5dc-7b10a286ccf8.jpeg
+    city: Olinda
+    date: '06/09/2024 17:00'
+    daysGroup: 06/07/08
 ---
 
