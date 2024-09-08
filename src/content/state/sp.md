@@ -74,11 +74,6 @@ gigs:
     city: Bauru
     date: '11/10/2024 20:00'
     daysGroup: 09/10/11/12/13
-  - poster: 915eaf30-69ba-4bbb-81a0-dca667ecbfb5.jpeg
-    city: Franca
-    date: '07/09/2024 14:00'
-    daysGroup: 06/07/08
-    ticketUrl: 'https://www.clubedoingresso.com/evento/francametalfest2024'
   - poster: 09-10_SJC_resized.jpg
     city: São José dos Campos
     date: '09/10/2024 19:00'
@@ -110,20 +105,10 @@ gigs:
     city: Praia Grande
     date: '21/12/2024 20:00'
     daysGroup: 20/21/22
-  - poster: 56e10889-acd2-4aed-bd08-3381ff18ede5.jpeg
-    city: São Paulo
-    date: '07/09/2024 17:00'
-    daysGroup: 06/07/08
-    ticketsUrl: >-
-      https://www.sympla.com.br/evento/hardcore-sessions-ii-ath-oam-aclive-seaport/2592758
   - poster: 1000d5c1-6277-4cf8-a9d5-9ace2a39ad2f.jpeg
     city: São Vicente
     date: '14/09/2024 15:00'
     daysGroup: 13/14/15
-  - poster: 56c6a8eb-06b3-4591-9396-67f75c6eb432.jpeg
-    city: Bauru
-    date: '07/09/2024 14:00'
-    daysGroup: 06/07/08
   - poster: 954c767b-565c-4f53-b9d7-14afbe29f96a.jpeg
     city: São Paulo
     date: '14/09/2024 17:00'

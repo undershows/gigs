@@ -7,10 +7,6 @@ gigs:
     date: '16/10/2024 18:00'
     daysGroup: 16/17/18/19/20
     ticketsUrl: 'https://bilheto.com.br/comprar/2151/napalm-death'
-  - poster: 434213181_1563592627837592_5368217858911582042_n.jpeg
-    city: Gama
-    date: '07/09/2024 18:00'
-    daysGroup: 06/07/08
   - poster: 437503749_970726501116343_6571573550964136458_n.jpeg
     city: Brasília
     date: '30/10/2024 19:30'

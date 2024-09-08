@@ -23,11 +23,6 @@ gigs:
     daysGroup: 01/02/03
     ticketsUrl: >-
       https://www.sympla.com.br/evento/bayside-kings-terceira-guerra-e-bandas-convidadas/2421024
-  - poster: 447811755_446522374689278_4217227997775555951_n.jpeg
-    city: Belo Horizonte
-    date: '07/09/2024 14:00'
-    daysGroup: 19/20/21
-    ticketsUrl: 'https://www.sympla.com.br/evento/brutal-devastation-2024/2491685'
   - poster: 06-10BH_resized_nervochaos.jpg
     city: Belo Horizonte
     date: '04/10/2024 16:00'

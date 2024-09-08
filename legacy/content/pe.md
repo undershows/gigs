@@ -117,5 +117,9 @@ gigs:
     city: Olinda
     date: '06/09/2024 17:00'
     daysGroup: 06/07/08
+  - poster: 42f62918-5dc3-4555-8947-b400045fa2a6.jpeg
+    city: Paulista
+    date: '07/09/2024 18:00'
+    daysGroup: 06/07/08
 ---
 

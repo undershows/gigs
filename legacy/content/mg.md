@@ -232,5 +232,10 @@ gigs:
     date: '18/08/2024 16:00'
     daysGroup: 16/17/18
     ticketsUr: 'https://www.sympla.com.br/evento/bulldozer/2551486'
+  - poster: 447811755_446522374689278_4217227997775555951_n.jpeg
+    city: Belo Horizonte
+    date: '07/09/2024 14:00'
+    daysGroup: 19/20/21
+    ticketsUrl: 'https://www.sympla.com.br/evento/brutal-devastation-2024/2491685'
 ---
 

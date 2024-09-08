@@ -4298,5 +4298,20 @@ gigs:
     city: São Paulo
     date: '01/09/2024 12:00'
     daysGroup: 01/02
+  - poster: 915eaf30-69ba-4bbb-81a0-dca667ecbfb5.jpeg
+    city: Franca
+    date: '07/09/2024 14:00'
+    daysGroup: 06/07/08
+    ticketUrl: 'https://www.clubedoingresso.com/evento/francametalfest2024'
+  - poster: 56e10889-acd2-4aed-bd08-3381ff18ede5.jpeg
+    city: São Paulo
+    date: '07/09/2024 17:00'
+    daysGroup: 06/07/08
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/hardcore-sessions-ii-ath-oam-aclive-seaport/2592758
+  - poster: 56c6a8eb-06b3-4591-9396-67f75c6eb432.jpeg
+    city: Bauru
+    date: '07/09/2024 14:00'
+    daysGroup: 06/07/08
 ---
 

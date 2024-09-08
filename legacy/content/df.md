@@ -229,5 +229,9 @@ gigs:
     daysGroup: 19/20/21
     ticketsUrl: >-
       https://www.furandoafila.com.br/comprar/4738/ritual-alquimico-evento-de-metal
+  - poster: 434213181_1563592627837592_5368217858911582042_n.jpeg
+    city: Gama
+    date: '07/09/2024 18:00'
+    daysGroup: 06/07/08
 ---
 
