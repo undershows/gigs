@@ -21,7 +21,7 @@ gigs:
   - poster: 437777466_1228800888101198_4174846822614352208_n.jpg
     city: São Paulo
     date: '27/09/2024 18:00'
-    daysGroup: 27/28/29
+    daysGroup: 26/27/28/29
     ticketsUrl: 'https://www.clubedoingresso.com/evento/gorillabiscuits-saopaulo'
   - poster: 444528371_941248801078430_5729388421674254042_n.jpeg
     city: São Paulo
@@ -52,7 +52,7 @@ gigs:
   - poster: 450222996_2683253778509371_853876091628887017_n.jpg
     city: Sorocaba
     date: '29/09/2024 15:00'
-    daysGroup: 27/28/29
+    daysGroup: 26/27/28/29
   - poster: 02-10 Mococa_resized_nervochaos.jpg
     city: Mococa
     date: '02/10/2024 19:00'
@@ -136,7 +136,7 @@ gigs:
   - poster: f3d8eaf9-1522-49c3-98a9-9cd440f45fb2.jpeg
     city: São Paulo
     date: '28/09/2024 20:00'
-    daysGroup: 27/28/29
+    daysGroup: 26/27/28/29
     ticketsUrl: 'https://www.clubedoingresso.com/evento/vulcano-laiglesiaborratxeria'
   - poster: 00ec68d4-1fdf-45cd-8033-59808ebb02aa.jpeg
     city: São Paulo
@@ -170,5 +170,9 @@ gigs:
     city: Mairinque
     date: '15/09/2024 13:00'
     daysGroup: 13/14/15
+  - poster: values_here_rock_together_24.jpeg
+    city: São Paulo
+    date: '28/09/2024 19:00'
+    daysGroup: 26/27/28/29
 ---
 

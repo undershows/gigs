@@ -44,5 +44,13 @@ gigs:
     date: '09/11/2025 16:00'
     daysGroup: 08/09/10
     ticketsUrl: 'https://www.sympla.com.br/evento/satanic-hellbangers-festival-ii/2445018'
+  - poster: 05-10_Juiz_de_Fora_resized.jpg
+    city: Juiz de Fora
+    date: '05/10/2024 18:30'
+    daysGroup: 03/04/05/06/07/08
+  - poster: f0a5c2cc-8abc-4ff6-86e4-f8211a24d2ef.jpeg
+    city: Belo Horizonte
+    date: '21/09/2024 14:00'
+    daysGroup: 20/21/22
 ---
 
