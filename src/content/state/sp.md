@@ -174,5 +174,6 @@ gigs:
     city: São Paulo
     date: '28/09/2024 19:00'
     daysGroup: 26/27/28/29
+    ticketsUrl: 'https://fastix.com.br/events/values-here-nyc-bcn-show-extra-em-sao-paulo'
 ---
 
