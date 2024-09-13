@@ -187,5 +187,33 @@ gigs:
     city: São Paulo
     date: '20/09/2024 17:00'
     daysGroup: 19/20/21/22
+  - poster: 50f23103-923c-43b9-9643-0b55a18f315a.jpeg
+    city: Sorocaba
+    date: '21/12/2024 15:00'
+    daysGroup: 20/21/22
+  - poster: 5447e3b0-d506-41b0-96fe-184fd3ad3f60.jpeg
+    city: Marília
+    date: '15/12/2024 18:00'
+    daysGroup: 13/14/15
+  - poster: 01039cd1-f398-4055-bdec-b9fd584dfdcc.jpeg
+    city: Mauá
+    date: '15/09/2024 13:00'
+    daysGroup: 13/14/15
+  - poster: 8b49a7ce-fb3d-42e9-9702-ba2ae66aea5e.jpeg
+    city: Santo André
+    date: '16/11/2024 16:00'
+    daysGroup: 15/16/17
+  - poster: 6083a2ed-db98-45e6-bbd1-fb7c0df43d6d.jpeg
+    city: Santo André
+    date: '14/09/2024 11:00'
+    daysGroup: 13/14/15
+  - poster: 987338e9-c457-47d8-b028-0a3b594fd0e8.jpeg
+    city: Santa Cruz do Rio Pardo
+    date: '09/11/2024 16:00'
+    daysGroup: 08/09/10
+  - poster: 0d8bcb0d-4360-4a87-a106-8f94102b18ec.jpeg
+    city: São Paulo
+    date: '14/09/2024 17:00'
+    daysGroup: 13/14/15
 ---
 
