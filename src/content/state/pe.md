@@ -12,9 +12,5 @@ gigs:
     city: Recife
     date: '02/11/2024 20:00'
     daysGroup: 01/02/03
-  - poster: 1e1ad898-15ad-4c90-97a1-b85c76d0fc8b.jpeg
-    city: Recife
-    date: '14/09/2024 20:00'
-    daysGroup: 13/14/15
 ---
 

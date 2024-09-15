@@ -97,26 +97,10 @@ gigs:
     city: Diadema
     date: '21/09/2024 20:00'
     daysGroup: 19/20/21/22
-  - poster: a6d1cecc-7c05-4891-bf66-3d8d3f6d8ab7.jpeg
-    city: Americana
-    date: '14/09/2024 18:00'
-    daysGroup: 13/14/15
   - poster: 07bb2fe9-56fe-4dcf-ba25-4291b8bf7fe9.jpeg
     city: Praia Grande
     date: '21/12/2024 20:00'
     daysGroup: 20/21/22
-  - poster: 1000d5c1-6277-4cf8-a9d5-9ace2a39ad2f.jpeg
-    city: São Vicente
-    date: '14/09/2024 15:00'
-    daysGroup: 13/14/15
-  - poster: 954c767b-565c-4f53-b9d7-14afbe29f96a.jpeg
-    city: São Paulo
-    date: '14/09/2024 17:00'
-    daysGroup: 13/14/15
-  - poster: 88749939-42a4-4296-a11a-18d91f736e01.jpeg
-    city: Praia Grande
-    date: '14/09/2024 20:00'
-    daysGroup: 13/14/15
   - poster: 440528bf-9f10-44cc-aef6-f3a9fef4b9a9.jpeg
     city: São Paulo
     date: '01/11/2024 18:00'
@@ -162,10 +146,6 @@ gigs:
     city: Arujá
     date: '13/10/2024 15:00'
     daysGroup: 09/10/11/12/13
-  - poster: 456588429_10224502264695134_783049731035914632_n.jpg
-    city: São Paulo
-    date: '14/09/2024 14:00'
-    daysGroup: 13/14/15
   - poster: 456484808_8285737008138034_7191462834673041110_n.jpg
     city: Mairinque
     date: '15/09/2024 13:00'
@@ -203,17 +183,9 @@ gigs:
     city: Santo André
     date: '16/11/2024 16:00'
     daysGroup: 15/16/17
-  - poster: 6083a2ed-db98-45e6-bbd1-fb7c0df43d6d.jpeg
-    city: Santo André
-    date: '14/09/2024 11:00'
-    daysGroup: 13/14/15
   - poster: 987338e9-c457-47d8-b028-0a3b594fd0e8.jpeg
     city: Santa Cruz do Rio Pardo
     date: '09/11/2024 16:00'
     daysGroup: 08/09/10
-  - poster: 0d8bcb0d-4360-4a87-a106-8f94102b18ec.jpeg
-    city: São Paulo
-    date: '14/09/2024 17:00'
-    daysGroup: 13/14/15
 ---
 

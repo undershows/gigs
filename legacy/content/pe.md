@@ -121,5 +121,9 @@ gigs:
     city: Paulista
     date: '07/09/2024 18:00'
     daysGroup: 06/07/08
+  - poster: 1e1ad898-15ad-4c90-97a1-b85c76d0fc8b.jpeg
+    city: Recife
+    date: '14/09/2024 20:00'
+    daysGroup: 13/14/15
 ---
 

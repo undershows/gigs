@@ -4313,5 +4313,33 @@ gigs:
     city: Bauru
     date: '07/09/2024 14:00'
     daysGroup: 06/07/08
+  - poster: a6d1cecc-7c05-4891-bf66-3d8d3f6d8ab7.jpeg
+    city: Americana
+    date: '14/09/2024 18:00'
+    daysGroup: 13/14/15
+  - poster: 1000d5c1-6277-4cf8-a9d5-9ace2a39ad2f.jpeg
+    city: São Vicente
+    date: '14/09/2024 15:00'
+    daysGroup: 13/14/15
+  - poster: 954c767b-565c-4f53-b9d7-14afbe29f96a.jpeg
+    city: São Paulo
+    date: '14/09/2024 17:00'
+    daysGroup: 13/14/15
+  - poster: 88749939-42a4-4296-a11a-18d91f736e01.jpeg
+    city: Praia Grande
+    date: '14/09/2024 20:00'
+    daysGroup: 13/14/15
+  - poster: 456588429_10224502264695134_783049731035914632_n.jpg
+    city: São Paulo
+    date: '14/09/2024 14:00'
+    daysGroup: 13/14/15
+  - poster: 6083a2ed-db98-45e6-bbd1-fb7c0df43d6d.jpeg
+    city: Santo André
+    date: '14/09/2024 11:00'
+    daysGroup: 13/14/15
+  - poster: 0d8bcb0d-4360-4a87-a106-8f94102b18ec.jpeg
+    city: São Paulo
+    date: '14/09/2024 17:00'
+    daysGroup: 13/14/15
 ---
 
