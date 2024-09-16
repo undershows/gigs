@@ -4341,5 +4341,17 @@ gigs:
     city: São Paulo
     date: '14/09/2024 17:00'
     daysGroup: 13/14/15
+  - poster: 3835aa28-e74d-40f8-827f-c1dfc911fbb0.jpeg
+    city: São Paulo
+    date: '15/09/2024 15:00'
+    daysGroup: 13/14/15
+  - poster: 456484808_8285737008138034_7191462834673041110_n.jpg
+    city: Mairinque
+    date: '15/09/2024 13:00'
+    daysGroup: 13/14/15
+  - poster: 01039cd1-f398-4055-bdec-b9fd584dfdcc.jpeg
+    city: Mauá
+    date: '15/09/2024 13:00'
+    daysGroup: 13/14/15
 ---
 

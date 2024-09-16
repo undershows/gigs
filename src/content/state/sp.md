@@ -41,10 +41,6 @@ gigs:
     city: São Paulo
     date: '13/10/2024 13:00'
     daysGroup: 09/10/11/12/13
-  - poster: 3835aa28-e74d-40f8-827f-c1dfc911fbb0.jpeg
-    city: São Paulo
-    date: '15/09/2024 15:00'
-    daysGroup: 13/14/15
   - poster: chaos_and_death_19-09_resized.jpg
     city: Campinas
     date: '19/09/2024 19:00'
@@ -146,10 +142,6 @@ gigs:
     city: Arujá
     date: '13/10/2024 15:00'
     daysGroup: 09/10/11/12/13
-  - poster: 456484808_8285737008138034_7191462834673041110_n.jpg
-    city: Mairinque
-    date: '15/09/2024 13:00'
-    daysGroup: 13/14/15
   - poster: values_here_rock_together_24.jpeg
     city: São Paulo
     date: '28/09/2024 19:00'
@@ -174,10 +166,6 @@ gigs:
   - poster: 5447e3b0-d506-41b0-96fe-184fd3ad3f60.jpeg
     city: Marília
     date: '15/12/2024 18:00'
-    daysGroup: 13/14/15
-  - poster: 01039cd1-f398-4055-bdec-b9fd584dfdcc.jpeg
-    city: Mauá
-    date: '15/09/2024 13:00'
     daysGroup: 13/14/15
   - poster: 8b49a7ce-fb3d-42e9-9702-ba2ae66aea5e.jpeg
     city: Santo André
