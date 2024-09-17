@@ -199,13 +199,13 @@ gigs:
     city: São Paulo
     date: '21/09/2024 18:00'
     daysGroup: 19/20/21/22
-  - poster: 94f7e97a-5abc-433d-8802-27dcc9ee844e.jpeg
-    city: São Paulo
-    date: '22/09/2024 15:00'
-    daysGroup: 19/20/21/22
   - poster: 460318090_8174569222628356_6229356532876284483_n.jpg
     city: Praia Grande
     date: '05/10/2024 20:00'
     daysGroup: 02/03/04/05/06
+  - poster: 460542488_8277891432292089_3029227543219730327_n.jpg
+    city: São Paulo
+    date: '27/09/2024 17:00'
+    daysGroup: 26/27/28/29
 ---
 
