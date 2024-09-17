@@ -35,7 +35,7 @@ gigs:
   - poster: 441876998_18436328866033374_7572348452534085444_n.jpg
     city: São Paulo
     date: '19/10/2024 16:00'
-    daysGroup: 18/19/20
+    daysGroup: 16/17/18/19/20
     ticketsUrl: 'https://fastix.com.br/events/h2o-em-sao-paulo'
   - poster: 447912251_962978068861305_6895429639845586915_n.jpeg
     city: São Paulo
@@ -87,7 +87,7 @@ gigs:
   - poster: 2f707e12-6da8-4729-b44e-20aaaf6fbab4.jpeg
     city: São Paulo
     date: '19/10/2024 17:00'
-    daysGroup: 18/19/20
+    daysGroup: 16/17/18/19/20
     ticketsUrl: 'https://www.clubedoingresso.com/evento/2-bellvmdeorvmfest'
   - poster: e154eaba-a64c-4db1-841a-b55f3e30db1a.jpeg
     city: Diadema
@@ -194,7 +194,7 @@ gigs:
   - poster: 459597976_18337300474121660_1702771375500361178_n.jpg
     city: São Paulo
     date: '19/10/2024 14:00'
-    daysGroup: 18/19/20
+    daysGroup: 16/17/18/19/20
   - poster: e42cde09-b493-4a6b-b9b5-965452ff7c8c.jpeg
     city: São Paulo
     date: '21/09/2024 18:00'
@@ -207,5 +207,55 @@ gigs:
     city: São Paulo
     date: '27/09/2024 17:00'
     daysGroup: 26/27/28/29
+  - poster: 460363859_10229527074138698_2016643408083698676_n.jpg
+    city: São Paulo
+    date: '28/09/2024 23:00'
+    daysGroup: 26/27/28/29
+  - poster: 460138389_8367891926604343_6219568211223303109_n.jpg
+    city: São Paulo
+    date: '19/10/2024 16:00'
+    daysGroup: 16/17/18/19/20
+  - poster: 460169270_26681025321545138_4812429468541128452_n.jpg
+    city: Santo André
+    date: '12/10/2024 16:00'
+    daysGroup: 09/10/11/12/13
+  - poster: 460049845_26681034361544234_4027751936732520075_n.jpg
+    city: Campinas
+    date: '17/10/2024 19:00'
+    daysGroup: 16/17/18/19/20
+    ticketsUrl: 'https://www.sympla.com.br/evento/tomar-control-pe-ao-vivo-no-woodstock-music-bar-mee-fao-troffea/2636611'
+  - poster: 460551385_26681044338209903_2336909070053843593_n.jpg
+    city: Sorocaba
+    date: '16/10/2024 19:00'
+    daysGroup: 16/17/18/19/20
+    ticketsUrl: 'https://www.sympla.com.br/evento/inside-a5-apresenta-tomar-control-peru-afoite/2640321'
+  - poster: 460462245_26681040224876981_7873701327087193054_n.jpg
+    city: Jundiaí
+    date: '15/10/2024 19:00'
+    daysGroup: 16/17/18/19/20
+  - poster: 460418578_26681048988209438_3244382525931163129_n.jpg
+    city: São Paulo
+    date: '13/10/2024 15:00'
+    daysGroup: 09/10/11/12/13
+  - poster: 460573673_10225808771310997_3387683453396185605_n.jpg
+    city: São Paulo
+    date: '29/09/2024 17:00'
+    daysGroup: 26/27/28/29
+  - poster: 460364910_10225808777031140_6656448149623638079_n.jpg
+    city: São Paulo
+    date: '27/09/2024 19:00'
+    daysGroup: 26/27/28/29
+  - poster: 459848435_8205876519489495_7448596233557768509_n.jpg
+    city: São Paulo
+    date: '02/11/2024 16:00'
+    daysGroup: 01/02/03
+  - poster: 460278615_1056586672542179_7800672782296781535_n.jpg
+    city: Salto
+    date: '02/11/2024 13:00'
+    daysGroup: 01/02/03
+  - poster: 459588859_10220621744133863_5867092588228434910_n.jpg
+    city: São José dos Campos
+    date: '19/10/2024 17:00'
+    daysGroup: 16/17/18/19/20
 ---
 
