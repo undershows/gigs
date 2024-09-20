@@ -112,7 +112,7 @@ gigs:
   - poster: b3347e7b-cf9a-4b4c-9adc-1fd1aa64097d.jpeg
     city: São Paulo
     date: '16/11/2024 20:00'
-    daysGroup: 15/16/17
+    daysGroup: 14/15/16/17
   - poster: f3d8eaf9-1522-49c3-98a9-9cd440f45fb2.jpeg
     city: São Paulo
     date: '28/09/2024 20:00'
@@ -131,7 +131,7 @@ gigs:
   - poster: 0513b081-fd55-426b-bd02-94bd5eda455e.jpeg
     city: São Paulo
     date: '16/11/2024 17:00'
-    daysGroup: 15/16/17
+    daysGroup: 14/15/16/17
     ticketsUrl: 'https://pixelticket.com.br/eventos/20440/devotion-mortis-iii/ingressos'
   - poster: 10-10_Leme_resized.jpg
     city: Leme
@@ -170,7 +170,7 @@ gigs:
   - poster: 8b49a7ce-fb3d-42e9-9702-ba2ae66aea5e.jpeg
     city: Santo André
     date: '16/11/2024 16:00'
-    daysGroup: 15/16/17
+    daysGroup: 14/15/16/17
   - poster: 987338e9-c457-47d8-b028-0a3b594fd0e8.jpeg
     city: Santa Cruz do Rio Pardo
     date: '09/11/2024 16:00'
@@ -257,5 +257,29 @@ gigs:
     city: São José dos Campos
     date: '19/10/2024 17:00'
     daysGroup: 16/17/18/19/20
+  - poster: heavyrecords181024.jpg
+    city: Santo André
+    date: '18/10/2024 19:00'
+    daysGroup: 16/17/18/19/20
+  - poster: 14-11_Lorena_resized.jpg
+    city: Lorena
+    date: '14/11/2024 20:00'
+    daysGroup: 14/15/16/17
+    ticketsUrl: 'https://www.sympla.com.br/evento/nervochaos-siegrid-ingrid-ancestral-malediction/2642189'
+  - poster: 17-11_Piracicaba_resized.jpg
+    city: Piracicaba
+    date: '17/11/2024 16:00'
+    daysGroup: 14/15/16/17
+    ticketsUrl: 'https://www.sympla.com.br/evento/nervochaos-siegrid-ingrid-chacina/2627980'
+  - poster: 21-12_Limeira_resized.jpg
+    city: Limeira
+    date: '21/12/2024 17:00'
+    daysGroup: 20/21/22
+    ticketsUrl: 'https://www.sympla.com.br/evento/vulcano-aeternus-nervochaos-stalker-chacina-critical-fear/2640659'
+  - poster: 22-12_Sao_Paulo_resized.jpg
+    city: São Paulo
+    date: '22/12/2024 16:00'
+    daysGroup: 20/21/22
+    ticketsUrl: 'https://www.sympla.com.br/evento/blood-red-throne-aeternus-nervochaos-stalker-overdose-nuclear/2640715'
 ---
 
