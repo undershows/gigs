@@ -41,10 +41,6 @@ gigs:
     city: São Paulo
     date: '13/10/2024 13:00'
     daysGroup: 09/10/11/12/13
-  - poster: chaos_and_death_19-09_resized.jpg
-    city: Campinas
-    date: '19/09/2024 19:00'
-    daysGroup: 19/20/21/22
   - poster: 450222996_2683253778509371_853876091628887017_n.jpg
     city: Sorocaba
     date: '29/09/2024 15:00'
@@ -223,12 +219,14 @@ gigs:
     city: Campinas
     date: '17/10/2024 19:00'
     daysGroup: 16/17/18/19/20
-    ticketsUrl: 'https://www.sympla.com.br/evento/tomar-control-pe-ao-vivo-no-woodstock-music-bar-mee-fao-troffea/2636611'
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/tomar-control-pe-ao-vivo-no-woodstock-music-bar-mee-fao-troffea/2636611
   - poster: 460551385_26681044338209903_2336909070053843593_n.jpg
     city: Sorocaba
     date: '16/10/2024 19:00'
     daysGroup: 16/17/18/19/20
-    ticketsUrl: 'https://www.sympla.com.br/evento/inside-a5-apresenta-tomar-control-peru-afoite/2640321'
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/inside-a5-apresenta-tomar-control-peru-afoite/2640321
   - poster: 460462245_26681040224876981_7873701327087193054_n.jpg
     city: Jundiaí
     date: '15/10/2024 19:00'
@@ -265,7 +263,8 @@ gigs:
     city: Lorena
     date: '14/11/2024 20:00'
     daysGroup: 14/15/16/17
-    ticketsUrl: 'https://www.sympla.com.br/evento/nervochaos-siegrid-ingrid-ancestral-malediction/2642189'
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/nervochaos-siegrid-ingrid-ancestral-malediction/2642189
   - poster: 17-11_Piracicaba_resized.jpg
     city: Piracicaba
     date: '17/11/2024 16:00'
@@ -275,11 +274,13 @@ gigs:
     city: Limeira
     date: '21/12/2024 17:00'
     daysGroup: 20/21/22
-    ticketsUrl: 'https://www.sympla.com.br/evento/vulcano-aeternus-nervochaos-stalker-chacina-critical-fear/2640659'
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/vulcano-aeternus-nervochaos-stalker-chacina-critical-fear/2640659
   - poster: 22-12_Sao_Paulo_resized.jpg
     city: São Paulo
     date: '22/12/2024 16:00'
     daysGroup: 20/21/22
-    ticketsUrl: 'https://www.sympla.com.br/evento/blood-red-throne-aeternus-nervochaos-stalker-overdose-nuclear/2640715'
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/blood-red-throne-aeternus-nervochaos-stalker-overdose-nuclear/2640715
 ---
 

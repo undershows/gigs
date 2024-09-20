@@ -4353,5 +4353,9 @@ gigs:
     city: Mauá
     date: '15/09/2024 13:00'
     daysGroup: 13/14/15
+  - poster: chaos_and_death_19-09_resized.jpg
+    city: Campinas
+    date: '19/09/2024 19:00'
+    daysGroup: 19/20/21/22
 ---
 
