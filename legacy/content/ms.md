@@ -83,5 +83,10 @@ gigs:
     daysGroup: 16/17/18
     ticketsUrl: >-
       https://ingressos.epfprodutora.com.br/comprar-ingresso/sepultura-40-years-tour-5031
+  - poster: ms_extreme_metal_fest_20-09_resized.jpg
+    city: Três Lagoas
+    date: '20/09/2024 19:00'
+    daysGroup: 20/21/22
+    ticketsUrl: 'https://www.sympla.com.br/evento/ms-extreme-metal-fest/2532714'
 ---
 

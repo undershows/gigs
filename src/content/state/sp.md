@@ -151,10 +151,6 @@ gigs:
     city: São Paulo
     date: '22/09/2024 15:00'
     daysGroup: 19/20/21/22
-  - poster: 459545186_8212653235486007_5776683910726040701_n.jpg
-    city: São Paulo
-    date: '20/09/2024 17:00'
-    daysGroup: 19/20/21/22
   - poster: 50f23103-923c-43b9-9643-0b55a18f315a.jpeg
     city: Sorocaba
     date: '21/12/2024 15:00'

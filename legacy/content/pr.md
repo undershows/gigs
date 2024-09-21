@@ -410,5 +410,9 @@ gigs:
     city: Londrina
     date: '25/08/2024 16:00'
     daysGroup: 23/24/25
+  - poster: 460324693_8235254909894384_3331965622218699501_n.jpg
+    city: Ponta Grossa
+    date: '20/09/2024 19:00'
+    daysGroup: 20/21/22
 ---
 

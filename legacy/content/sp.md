@@ -4357,5 +4357,9 @@ gigs:
     city: Campinas
     date: '19/09/2024 19:00'
     daysGroup: 19/20/21/22
+  - poster: 459545186_8212653235486007_5776683910726040701_n.jpg
+    city: São Paulo
+    date: '20/09/2024 17:00'
+    daysGroup: 19/20/21/22
 ---
 
