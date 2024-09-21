@@ -278,5 +278,13 @@ gigs:
     daysGroup: 20/21/22
     ticketsUrl: >-
       https://www.sympla.com.br/evento/blood-red-throne-aeternus-nervochaos-stalker-overdose-nuclear/2640715
+  - poster: 60d4a503-298c-4b7a-a3f2-d617ad1da303.jpeg
+    city: São Paulo
+    date: '11/10/2024 20:00'
+    daysGroup: 09/10/11/12/13
+  - poster: 460805925_10162200556527652_2409474466102034350_n.jpg
+    city: São Paulo
+    date: '21/09/2024 20:00'
+    daysGroup: 19/20/21/22
 ---
 
