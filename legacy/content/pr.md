@@ -414,5 +414,9 @@ gigs:
     city: Ponta Grossa
     date: '20/09/2024 19:00'
     daysGroup: 20/21/22
+  - poster: 460002936_8235287626557779_7881849458485305816_n.jpg
+    city: Curitiba
+    date: '21/09/2024 19:00'
+    daysGroup: 20/21/22
 ---
 

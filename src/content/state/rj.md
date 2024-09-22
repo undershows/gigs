@@ -11,11 +11,6 @@ gigs:
     city: Rio de Janeiro
     date: '01/11/2024 19:00'
     daysGroup: 01/02/03
-  - poster: 448592007_17919872603928459_6067949027374026206_n.jpg
-    city: Rio de Janeiro
-    date: '21/09/2024 18:00'
-    daysGroup: 20/21/22
-    ticketsUrl: 'https://www.sympla.com.br/evento/ines-e-morta-tempos-de-morte/2515170'
   - poster: 449061633_10223895593874736_516879772113105600_n.jpg
     city: Campos dos Goytacazes
     date: '19/10/2024 19:00'

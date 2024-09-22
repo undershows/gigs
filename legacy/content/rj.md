@@ -274,5 +274,10 @@ gigs:
     city: Rio de Janeiro
     date: '25/08/2024 20:00'
     daysGroup: 23/24/25
+  - poster: 448592007_17919872603928459_6067949027374026206_n.jpg
+    city: Rio de Janeiro
+    date: '21/09/2024 18:00'
+    daysGroup: 20/21/22
+    ticketsUrl: 'https://www.sympla.com.br/evento/ines-e-morta-tempos-de-morte/2515170'
 ---
 

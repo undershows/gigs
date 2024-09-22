@@ -4361,5 +4361,25 @@ gigs:
     city: São Paulo
     date: '20/09/2024 17:00'
     daysGroup: 19/20/21/22
+  - poster: e154eaba-a64c-4db1-841a-b55f3e30db1a.jpeg
+    city: Diadema
+    date: '21/09/2024 20:00'
+    daysGroup: 19/20/21/22
+  - poster: 51618f35-fee2-40c5-99ae-ea1ffb49513f.jpeg
+    city: Ribeirão Preto
+    date: '21/09/2024 20:00'
+    daysGroup: 19/20/21/22
+  - poster: 459542565_8212653232152674_2906944049594222299_n.jpg
+    city: São Paulo
+    date: '21/09/2024 15:00'
+    daysGroup: 19/20/21/22
+  - poster: e42cde09-b493-4a6b-b9b5-965452ff7c8c.jpeg
+    city: São Paulo
+    date: '21/09/2024 18:00'
+    daysGroup: 19/20/21/22
+  - poster: 460805925_10162200556527652_2409474466102034350_n.jpg
+    city: São Paulo
+    date: '21/09/2024 20:00'
+    daysGroup: 19/20/21/22
 ---
 

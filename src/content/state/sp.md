@@ -85,10 +85,6 @@ gigs:
     date: '19/10/2024 17:00'
     daysGroup: 16/17/18/19/20
     ticketsUrl: 'https://www.clubedoingresso.com/evento/2-bellvmdeorvmfest'
-  - poster: e154eaba-a64c-4db1-841a-b55f3e30db1a.jpeg
-    city: Diadema
-    date: '21/09/2024 20:00'
-    daysGroup: 19/20/21/22
   - poster: 07bb2fe9-56fe-4dcf-ba25-4291b8bf7fe9.jpeg
     city: Praia Grande
     date: '21/12/2024 20:00'
@@ -101,10 +97,6 @@ gigs:
     city: Presidente Prudente
     date: '11/10/2024 22:00'
     daysGroup: 09/10/11/12/13
-  - poster: 51618f35-fee2-40c5-99ae-ea1ffb49513f.jpeg
-    city: Ribeirão Preto
-    date: '21/09/2024 20:00'
-    daysGroup: 19/20/21/22
   - poster: b3347e7b-cf9a-4b4c-9adc-1fd1aa64097d.jpeg
     city: São Paulo
     date: '16/11/2024 20:00'
@@ -143,10 +135,6 @@ gigs:
     date: '28/09/2024 19:00'
     daysGroup: 26/27/28/29
     ticketsUrl: 'https://fastix.com.br/events/values-here-nyc-bcn-show-extra-em-sao-paulo'
-  - poster: 459542565_8212653232152674_2906944049594222299_n.jpg
-    city: São Paulo
-    date: '21/09/2024 15:00'
-    daysGroup: 19/20/21/22
   - poster: 459446231_8212653228819341_1156434211968996342_n.jpg
     city: São Paulo
     date: '22/09/2024 15:00'
@@ -187,10 +175,6 @@ gigs:
     city: São Paulo
     date: '19/10/2024 14:00'
     daysGroup: 16/17/18/19/20
-  - poster: e42cde09-b493-4a6b-b9b5-965452ff7c8c.jpeg
-    city: São Paulo
-    date: '21/09/2024 18:00'
-    daysGroup: 19/20/21/22
   - poster: 460318090_8174569222628356_6229356532876284483_n.jpg
     city: Praia Grande
     date: '05/10/2024 20:00'
@@ -282,9 +266,5 @@ gigs:
     city: São Paulo
     date: '11/10/2024 20:00'
     daysGroup: 09/10/11/12/13
-  - poster: 460805925_10162200556527652_2409474466102034350_n.jpg
-    city: São Paulo
-    date: '21/09/2024 20:00'
-    daysGroup: 19/20/21/22
 ---
 
