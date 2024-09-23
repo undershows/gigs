@@ -28,10 +28,6 @@ gigs:
     date: '27/10/2024 15:00'
     daysGroup: 25/26/27
     ticketsUrl: 'https://www.clubedoingresso.com/evento/upfront-festival'
-  - poster: 446468460_770670704877811_7005544506978245247_n.jpeg
-    city: Marília
-    date: '22/09/2024 18:00'
-    daysGroup: 19/20/21/22
   - poster: 441876998_18436328866033374_7572348452534085444_n.jpg
     city: São Paulo
     date: '19/10/2024 16:00'
@@ -106,11 +102,6 @@ gigs:
     date: '28/09/2024 20:00'
     daysGroup: 26/27/28/29
     ticketsUrl: 'https://www.clubedoingresso.com/evento/vulcano-laiglesiaborratxeria'
-  - poster: 00ec68d4-1fdf-45cd-8033-59808ebb02aa.jpeg
-    city: São Paulo
-    date: '22/09/2024 16:00'
-    daysGroup: 19/20/21/22
-    ticketsUrl: 'https://www.clubedoingresso.com/evento/raven-saopaulo'
   - poster: 5e2445a7-e7a4-4219-be0b-9e0bcfefb983.jpeg
     city: São Paulo
     date: '08/03/2025 14:00'
@@ -135,10 +126,6 @@ gigs:
     date: '28/09/2024 19:00'
     daysGroup: 26/27/28/29
     ticketsUrl: 'https://fastix.com.br/events/values-here-nyc-bcn-show-extra-em-sao-paulo'
-  - poster: 459446231_8212653228819341_1156434211968996342_n.jpg
-    city: São Paulo
-    date: '22/09/2024 15:00'
-    daysGroup: 19/20/21/22
   - poster: 50f23103-923c-43b9-9643-0b55a18f315a.jpeg
     city: Sorocaba
     date: '21/12/2024 15:00'

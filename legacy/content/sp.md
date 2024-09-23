@@ -4381,5 +4381,18 @@ gigs:
     city: São Paulo
     date: '21/09/2024 20:00'
     daysGroup: 19/20/21/22
+  - poster: 446468460_770670704877811_7005544506978245247_n.jpeg
+    city: Marília
+    date: '22/09/2024 18:00'
+    daysGroup: 19/20/21/22
+  - poster: 00ec68d4-1fdf-45cd-8033-59808ebb02aa.jpeg
+    city: São Paulo
+    date: '22/09/2024 16:00'
+    daysGroup: 19/20/21/22
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/raven-saopaulo'
+  - poster: 459446231_8212653228819341_1156434211968996342_n.jpg
+    city: São Paulo
+    date: '22/09/2024 15:00'
+    daysGroup: 19/20/21/22
 ---
 
