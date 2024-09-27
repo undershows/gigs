@@ -142,10 +142,6 @@ gigs:
     city: Santa Cruz do Rio Pardo
     date: '09/11/2024 16:00'
     daysGroup: 08/09/10
-  - poster: bd08ab55-3340-4be4-a621-d00007847dbc.jpeg
-    city: Jundiaí
-    date: '26/09/2024 18:00'
-    daysGroup: 26/27/28/29
   - poster: 2edbb899-31c7-44ba-9fae-51168728285e.jpeg
     city: São Paulo
     date: '29/09/2024 18:00'

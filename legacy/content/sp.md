@@ -4394,5 +4394,9 @@ gigs:
     city: São Paulo
     date: '22/09/2024 15:00'
     daysGroup: 19/20/21/22
+  - poster: bd08ab55-3340-4be4-a621-d00007847dbc.jpeg
+    city: Jundiaí
+    date: '26/09/2024 18:00'
+    daysGroup: 26/27/28/29
 ---
 
