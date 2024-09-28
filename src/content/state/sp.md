@@ -18,11 +18,6 @@ gigs:
     date: '02/11/2024 16:00'
     daysGroup: 01/02/03
     ticketsUrl: 'https://www.clubedoingresso.com/evento/weareone2024-saopaulo'
-  - poster: 437777466_1228800888101198_4174846822614352208_n.jpg
-    city: São Paulo
-    date: '27/09/2024 18:00'
-    daysGroup: 26/27/28/29
-    ticketsUrl: 'https://www.clubedoingresso.com/evento/gorillabiscuits-saopaulo'
   - poster: 444528371_941248801078430_5729388421674254042_n.jpeg
     city: São Paulo
     date: '27/10/2024 15:00'
@@ -146,10 +141,6 @@ gigs:
     city: São Paulo
     date: '29/09/2024 18:00'
     daysGroup: 26/27/28/29
-  - poster: c262e939-b616-466b-95e0-d8715320f093.jpeg
-    city: Santos
-    date: '27/09/2024 21:30'
-    daysGroup: 26/27/28/29
   - poster: d9bac60d-556d-47a0-8ed1-bb734df1cc57.jpeg
     city: Sorocaba
     date: '30/09/2024 19:00'
@@ -162,10 +153,6 @@ gigs:
     city: Praia Grande
     date: '05/10/2024 20:00'
     daysGroup: 02/03/04/05/06
-  - poster: 460542488_8277891432292089_3029227543219730327_n.jpg
-    city: São Paulo
-    date: '27/09/2024 17:00'
-    daysGroup: 26/27/28/29
   - poster: 460363859_10229527074138698_2016643408083698676_n.jpg
     city: São Paulo
     date: '28/09/2024 23:00'
@@ -201,10 +188,6 @@ gigs:
   - poster: 460573673_10225808771310997_3387683453396185605_n.jpg
     city: São Paulo
     date: '29/09/2024 17:00'
-    daysGroup: 26/27/28/29
-  - poster: 460364910_10225808777031140_6656448149623638079_n.jpg
-    city: São Paulo
-    date: '27/09/2024 19:00'
     daysGroup: 26/27/28/29
   - poster: 459848435_8205876519489495_7448596233557768509_n.jpg
     city: São Paulo

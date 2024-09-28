@@ -4398,5 +4398,22 @@ gigs:
     city: Jundiaí
     date: '26/09/2024 18:00'
     daysGroup: 26/27/28/29
+  - poster: 437777466_1228800888101198_4174846822614352208_n.jpg
+    city: São Paulo
+    date: '27/09/2024 18:00'
+    daysGroup: 26/27/28/29
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/gorillabiscuits-saopaulo'
+  - poster: c262e939-b616-466b-95e0-d8715320f093.jpeg
+    city: Santos
+    date: '27/09/2024 21:30'
+    daysGroup: 26/27/28/29
+  - poster: 460542488_8277891432292089_3029227543219730327_n.jpg
+    city: São Paulo
+    date: '27/09/2024 17:00'
+    daysGroup: 26/27/28/29
+  - poster: 460364910_10225808777031140_6656448149623638079_n.jpg
+    city: São Paulo
+    date: '27/09/2024 19:00'
+    daysGroup: 26/27/28/29
 ---
 

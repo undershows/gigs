@@ -28,5 +28,9 @@ gigs:
     city: Salvador
     date: '13/07/2024 18:00'
     daysGroup: 12/13/14
+  - poster: 4551b167-5efa-4b94-9efb-a29c8240ffdb.jpeg
+    city: Feira de Santana
+    date: '27/09/2024 21:00'
+    daysGroup: 27/28/29
 ---
 
