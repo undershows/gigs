@@ -4415,5 +4415,19 @@ gigs:
     city: São Paulo
     date: '27/09/2024 19:00'
     daysGroup: 26/27/28/29
+  - poster: f3d8eaf9-1522-49c3-98a9-9cd440f45fb2.jpeg
+    city: São Paulo
+    date: '28/09/2024 20:00'
+    daysGroup: 26/27/28/29
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/vulcano-laiglesiaborratxeria'
+  - poster: values_here_rock_together_24.jpeg
+    city: São Paulo
+    date: '28/09/2024 19:00'
+    daysGroup: 26/27/28/29
+    ticketsUrl: 'https://fastix.com.br/events/values-here-nyc-bcn-show-extra-em-sao-paulo'
+  - poster: 460363859_10229527074138698_2016643408083698676_n.jpg
+    city: São Paulo
+    date: '28/09/2024 23:00'
+    daysGroup: 26/27/28/29
 ---
 

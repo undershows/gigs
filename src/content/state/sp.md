@@ -92,11 +92,6 @@ gigs:
     city: São Paulo
     date: '16/11/2024 20:00'
     daysGroup: 14/15/16/17
-  - poster: f3d8eaf9-1522-49c3-98a9-9cd440f45fb2.jpeg
-    city: São Paulo
-    date: '28/09/2024 20:00'
-    daysGroup: 26/27/28/29
-    ticketsUrl: 'https://www.clubedoingresso.com/evento/vulcano-laiglesiaborratxeria'
   - poster: 5e2445a7-e7a4-4219-be0b-9e0bcfefb983.jpeg
     city: São Paulo
     date: '08/03/2025 14:00'
@@ -116,11 +111,6 @@ gigs:
     city: Arujá
     date: '13/10/2024 15:00'
     daysGroup: 09/10/11/12/13
-  - poster: values_here_rock_together_24.jpeg
-    city: São Paulo
-    date: '28/09/2024 19:00'
-    daysGroup: 26/27/28/29
-    ticketsUrl: 'https://fastix.com.br/events/values-here-nyc-bcn-show-extra-em-sao-paulo'
   - poster: 50f23103-923c-43b9-9643-0b55a18f315a.jpeg
     city: Sorocaba
     date: '21/12/2024 15:00'
@@ -153,10 +143,6 @@ gigs:
     city: Praia Grande
     date: '05/10/2024 20:00'
     daysGroup: 02/03/04/05/06
-  - poster: 460363859_10229527074138698_2016643408083698676_n.jpg
-    city: São Paulo
-    date: '28/09/2024 23:00'
-    daysGroup: 26/27/28/29
   - poster: 460138389_8367891926604343_6219568211223303109_n.jpg
     city: São Paulo
     date: '19/10/2024 16:00'
