@@ -32,10 +32,6 @@ gigs:
     city: São Paulo
     date: '13/10/2024 13:00'
     daysGroup: 09/10/11/12/13
-  - poster: 450222996_2683253778509371_853876091628887017_n.jpg
-    city: Sorocaba
-    date: '29/09/2024 15:00'
-    daysGroup: 26/27/28/29
   - poster: 02-10 Mococa_resized_nervochaos.jpg
     city: Mococa
     date: '02/10/2024 19:00'
@@ -127,10 +123,6 @@ gigs:
     city: Santa Cruz do Rio Pardo
     date: '09/11/2024 16:00'
     daysGroup: 08/09/10
-  - poster: 2edbb899-31c7-44ba-9fae-51168728285e.jpeg
-    city: São Paulo
-    date: '29/09/2024 18:00'
-    daysGroup: 26/27/28/29
   - poster: d9bac60d-556d-47a0-8ed1-bb734df1cc57.jpeg
     city: Sorocaba
     date: '30/09/2024 19:00'
@@ -171,10 +163,6 @@ gigs:
     city: São Paulo
     date: '13/10/2024 15:00'
     daysGroup: 09/10/11/12/13
-  - poster: 460573673_10225808771310997_3387683453396185605_n.jpg
-    city: São Paulo
-    date: '29/09/2024 17:00'
-    daysGroup: 26/27/28/29
   - poster: 459848435_8205876519489495_7448596233557768509_n.jpg
     city: São Paulo
     date: '02/11/2024 16:00'

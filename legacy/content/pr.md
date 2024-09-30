@@ -418,5 +418,9 @@ gigs:
     city: Curitiba
     date: '21/09/2024 19:00'
     daysGroup: 20/21/22
+  - poster: 460560642_8355483027852812_7400972058215160275_n.jpg
+    city: Curitiba
+    date: '29/09/2024 18:00'
+    daysGroup: 27/28/29
 ---
 

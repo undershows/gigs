@@ -27,9 +27,5 @@ gigs:
     daysGroup: 04/05/06
     ticketsUrl: >-
       https://meaple.com.br/bradorecords/bad-bebop-debrix-espectro-no-janaino-vegan
-  - poster: 460560642_8355483027852812_7400972058215160275_n.jpg
-    city: Curitiba
-    date: '29/09/2024 18:00'
-    daysGroup: 27/28/29
 ---
 
