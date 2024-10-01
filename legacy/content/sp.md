@@ -4441,5 +4441,9 @@ gigs:
     city: São Paulo
     date: '29/09/2024 17:00'
     daysGroup: 26/27/28/29
+  - poster: d9bac60d-556d-47a0-8ed1-bb734df1cc57.jpeg
+    city: Sorocaba
+    date: '30/09/2024 19:00'
+    daysGroup: 26/27/28/29
 ---
 

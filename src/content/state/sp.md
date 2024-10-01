@@ -123,10 +123,6 @@ gigs:
     city: Santa Cruz do Rio Pardo
     date: '09/11/2024 16:00'
     daysGroup: 08/09/10
-  - poster: d9bac60d-556d-47a0-8ed1-bb734df1cc57.jpeg
-    city: Sorocaba
-    date: '30/09/2024 19:00'
-    daysGroup: 26/27/28/29
   - poster: 459597976_18337300474121660_1702771375500361178_n.jpg
     city: São Paulo
     date: '19/10/2024 14:00'
