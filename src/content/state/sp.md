@@ -202,5 +202,10 @@ gigs:
     city: São Paulo
     date: '11/10/2024 20:00'
     daysGroup: 09/10/11/12/13
+  - poster: cirith_ungol_sp_07.jpg
+    city: São Paulo
+    date: '07/03/2025 19:00'
+    daysGroup: 07/08/09
+    ticketsUrl: 'https://www.sympla.com.br/evento/cirith-ungol-nightdemon-hellish-war-chumbo/2366428'
 ---
 
