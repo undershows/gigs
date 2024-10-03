@@ -4445,5 +4445,10 @@ gigs:
     city: Sorocaba
     date: '30/09/2024 19:00'
     daysGroup: 26/27/28/29
+  - poster: 02-10 Mococa_resized_nervochaos.jpg
+    city: Mococa
+    date: '02/10/2024 19:00'
+    daysGroup: 02/03/04/05/06
+    ticketsUrl: 'https://www.sympla.com.br/evento/funeratus-nervochaos-neuroticos/2558902'
 ---
 
