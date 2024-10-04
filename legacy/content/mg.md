@@ -241,5 +241,11 @@ gigs:
     city: Belo Horizonte
     date: '21/09/2024 14:00'
     daysGroup: 20/21/22
+  - poster: 03-10_Uberlandia_nervochaos.jpg
+    city: Uberlândia
+    date: '03/10/2024 19:00'
+    daysGroup: 03/04/05/06/07/08
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/funeratus-nervochaos-neuroticos-gore-autopsy/2532776
 ---
 
