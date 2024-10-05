@@ -23,11 +23,6 @@ gigs:
     daysGroup: 01/02/03
     ticketsUrl: >-
       https://www.sympla.com.br/evento/bayside-kings-terceira-guerra-e-bandas-convidadas/2421024
-  - poster: 06-10BH_resized_nervochaos.jpg
-    city: Belo Horizonte
-    date: '04/10/2024 16:00'
-    daysGroup: 03/04/05/06/07/08
-    ticketsUrl: 'https://www.sympla.com.br/evento/chaos-and-death-belo-horizonte/2560814'
   - poster: f516b51d-f73e-43ce-97e7-733bf7bb298f.jpeg
     city: Belo Horizonte
     date: '18/04/2025 18:00'

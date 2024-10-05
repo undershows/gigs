@@ -32,12 +32,6 @@ gigs:
     city: São Paulo
     date: '13/10/2024 13:00'
     daysGroup: 09/10/11/12/13
-  - poster: 04-10 Franca_resized_nervochaos.jpg
-    city: Franca
-    date: '04/10/2024 20:00'
-    daysGroup: 02/03/04/05/06
-    ticketsUrl: >-
-      https://www.sympla.com.br/evento/funeratus-nervochaos-neuroticos-coeffin-roet/2558950
   - poster: 11-10_Mogi Guacu_nervochaos.jpg
     city: Mogi Guaçu
     date: '11/10/2024 13:00'

@@ -247,5 +247,10 @@ gigs:
     daysGroup: 03/04/05/06/07/08
     ticketsUrl: >-
       https://www.sympla.com.br/evento/funeratus-nervochaos-neuroticos-gore-autopsy/2532776
+  - poster: 06-10BH_resized_nervochaos.jpg
+    city: Belo Horizonte
+    date: '04/10/2024 16:00'
+    daysGroup: 03/04/05/06/07/08
+    ticketsUrl: 'https://www.sympla.com.br/evento/chaos-and-death-belo-horizonte/2560814'
 ---
 

@@ -21,11 +21,5 @@ gigs:
     date: '27/10/2024 18:00'
     daysGroup: 25/26/27
     ticketsUrl: 'https://labrec.blogspot.com/2024/'
-  - poster: 459319662_18357023194114615_7859860435163501368_n.jpg
-    city: Curitiba
-    date: '04/10/2024 20:00'
-    daysGroup: 04/05/06
-    ticketsUrl: >-
-      https://meaple.com.br/bradorecords/bad-bebop-debrix-espectro-no-janaino-vegan
 ---
 

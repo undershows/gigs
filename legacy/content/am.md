@@ -33,5 +33,9 @@ gigs:
     date: '29/07/2024 18:30'
     daysGroup: 28/29/30
     ticketsUrl: 'https://www.sympla.com.br/evento/facada-plastique-noir-em-manaus/2440978'
+  - poster: 531ded1d-b398-4a5a-b85d-21844051903b.jpeg
+    city: Manaus
+    date: '04/10/2024 20:00'
+    daysGroup: 04/05/06
 ---
 
