@@ -4456,5 +4456,9 @@ gigs:
     daysGroup: 02/03/04/05/06
     ticketsUrl: >-
       https://www.sympla.com.br/evento/funeratus-nervochaos-neuroticos-coeffin-roet/2558950
+  - poster: 460318090_8174569222628356_6229356532876284483_n.jpg
+    city: Praia Grande
+    date: '05/10/2024 20:00'
+    daysGroup: 02/03/04/05/06
 ---
 
