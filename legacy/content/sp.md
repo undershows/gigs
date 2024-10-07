@@ -4460,5 +4460,10 @@ gigs:
     city: Praia Grande
     date: '05/10/2024 20:00'
     daysGroup: 02/03/04/05/06
+  - poster: 434209815_3693726360945612_4649749239957905202_n.jpeg
+    city: São Paulo
+    date: '06/10/2024 14:00'
+    daysGroup: 02/03/04/05/06
+    ticketsUrl: 'https://www.bilheto.com.br/comprar/2266/lucifer-sp'
 ---
 

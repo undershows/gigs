@@ -8,11 +8,6 @@ gigs:
     daysGroup: 08/09/10
     ticketsUrl: >-
       https://www.clubedoingresso.com/evento/asphyx-thetroopsofdoom-evilcult-saopaulo
-  - poster: 434209815_3693726360945612_4649749239957905202_n.jpeg
-    city: São Paulo
-    date: '06/10/2024 14:00'
-    daysGroup: 02/03/04/05/06
-    ticketsUrl: 'https://www.bilheto.com.br/comprar/2266/lucifer-sp'
   - poster: 437789515_1186460232719430_2866805141690934471_n.jpg
     city: São Paulo
     date: '02/11/2024 16:00'
