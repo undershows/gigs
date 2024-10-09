@@ -256,5 +256,10 @@ gigs:
     city: Juiz de Fora
     date: '05/10/2024 18:30'
     daysGroup: 03/04/05/06/07/08
+  - poster: 432929317_10161551157919516_1474726786461472691_n.jpg
+    city: Belo Horizonte
+    date: '08/10/2024 18:00'
+    daysGroup: 03/04/05/06/07/08
+    ticketsUrl: 'https://www.bilheto.com.br/comprar/2265/lucifer-mg'
 ---
 
