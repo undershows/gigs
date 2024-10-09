@@ -233,5 +233,9 @@ gigs:
     city: Piracicaba
     date: '24/10/2024 19:00'
     daysGroup: 23/24/25/26/27
+  - poster: 461830302_27045999171714416_7303202264510807338_n.jpg
+    city: São Paulo
+    date: '23/10/2024 20:00'
+    daysGroup: 23/24/25/26/27
 ---
 
