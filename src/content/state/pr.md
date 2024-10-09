@@ -21,5 +21,21 @@ gigs:
     date: '27/10/2024 18:00'
     daysGroup: 25/26/27
     ticketsUrl: 'https://labrec.blogspot.com/2024/'
+  - poster: 462616228_886289267032237_559432404278885276_n.jpg
+    city: Curitiba
+    date: '13/10/2024 19:00'
+    daysGroup: 09/10/11/12/13
+  - poster: f5e3edef-8a49-4121-b7dc-ccd6cde46dec.jpeg
+    city: Maringá
+    date: '08/11/2024 22:00'
+    daysGroup: 08/09/10
+  - poster: 7563a145-27cd-429d-a81c-dc1769d863d3.jpeg
+    city: Maringá
+    date: '02/11/2024 21:00'
+    daysGroup: 01/02/03
+  - poster: 1231de68-c706-4ba0-86d1-e205b1caa16a.jpeg
+    city: Maringá
+    date: '26/10/2024 23:00'
+    daysGroup: 25/26/27
 ---
 

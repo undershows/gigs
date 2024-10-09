@@ -188,5 +188,50 @@ gigs:
     daysGroup: 07/08/09
     ticketsUrl: >-
       https://www.sympla.com.br/evento/cirith-ungol-nightdemon-hellish-war-chumbo/2366428
+  - poster: 462112381_8398810576862754_313632150800981694_n.jpg
+    city: São Paulo
+    date: '27/10/2024 14:00'
+    daysGroup: 25/26/27
+  - poster: 462291759_8398812950195850_7352006610264536858_n.jpg
+    city: São Paulo
+    date: '03/11/2024 17:00'
+    daysGroup: 01/02/03
+  - poster: 462571457_9359090550774120_1694114248719561539_n.jpg
+    city: São Paulo
+    date: '21/12/2024 19:00'
+    daysGroup: 20/21/22
+  - poster: 462479998_1884447032045869_8790559447200355325_n.jpg
+    city: São Carlos
+    date: '23/10/2024 19:00'
+    daysGroup: 23/24/25/26/27
+  - poster: 462364859_9170590332970574_388088385279921368_n.jpg
+    city: São Paulo
+    date: '18/10/2024 19:00'
+    daysGroup: 16/17/18/19/20
+  - poster: 462114047_8773002052722035_7546904107088573841_n.jpg
+    city: São Paulo
+    date: '06/12/2024 22:00'
+    daysGroup: 06/07/08
+  - poster: 462680111_1282649492869131_4401435935130035015_n.jpg
+    city: São Paulo
+    date: '07/12/2024 22:00'
+    daysGroup: 06/07/08
+  - poster: 461999463_27046005065047160_6635957734364996614_n.jpg
+    city: Santos
+    date: '26/10/2024 20:00'
+    daysGroup: 23/24/25/26/27
+    ticketsUrl: 'https://www.sympla.com.br/evento/hallowarza-c-tomar-control-peru-mar-morto-e-asco/2655438'
+  - poster: 462606602_8432894286797111_7529229484431100294_n.jpg
+    city: Osasco
+    date: '12/10/2024 18:00'
+    daysGroup: 09/10/11/12/13
+  - poster: 462681399_8432894953463711_3584023024308318742_n.jpg
+    city: São Paulo
+    date: '18/10/2024 19:00'
+    daysGroup: 16/17/18/19/20
+  - poster: 462330833_8432912126795327_614173605108650909_n.jpg
+    city: Piracicaba
+    date: '24/10/2024 19:00'
+    daysGroup: 23/24/25/26/27
 ---
 
