@@ -37,10 +37,6 @@ gigs:
     city: Bauru
     date: '11/10/2024 20:00'
     daysGroup: 09/10/11/12/13
-  - poster: 09-10_SJC_resized.jpg
-    city: São José dos Campos
-    date: '09/10/2024 19:00'
-    daysGroup: 09/10/11/12/13
   - poster: 21984e0f-b0df-4ea0-9f0a-d960eec51764.jpeg
     city: São Paulo
     date: '27/10/2024 17:00'
@@ -220,7 +216,8 @@ gigs:
     city: Santos
     date: '26/10/2024 20:00'
     daysGroup: 23/24/25/26/27
-    ticketsUrl: 'https://www.sympla.com.br/evento/hallowarza-c-tomar-control-peru-mar-morto-e-asco/2655438'
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/hallowarza-c-tomar-control-peru-mar-morto-e-asco/2655438
   - poster: 462606602_8432894286797111_7529229484431100294_n.jpg
     city: Osasco
     date: '12/10/2024 18:00'

@@ -4465,5 +4465,9 @@ gigs:
     date: '06/10/2024 14:00'
     daysGroup: 02/03/04/05/06
     ticketsUrl: 'https://www.bilheto.com.br/comprar/2266/lucifer-sp'
+  - poster: 09-10_SJC_resized.jpg
+    city: São José dos Campos
+    date: '09/10/2024 19:00'
+    daysGroup: 09/10/11/12/13
 ---
 
