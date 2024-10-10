@@ -25,5 +25,6 @@ gigs:
     city: Rio de Janeiro
     date: '20/10/2024 18:00'
     daysGroup: 18/19/20
+    ticketsUrl: 'https://shotgun.live/pt-br/events/tomar-control-peru-malvina-plastic-fire-e-trash-no-star'
 ---
 
