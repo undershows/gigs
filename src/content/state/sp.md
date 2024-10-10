@@ -257,5 +257,9 @@ gigs:
     city: Diadema
     date: '09/11/2024 18:00'
     daysGroup: 08/09/10
+  - poster: 462228491_8386422744776506_6442204149893040198_n.jpg
+    city: Diadema
+    date: '19/10/2024 14:00'
+    daysGroup: 16/17/18/19/20
 ---
 
