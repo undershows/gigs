@@ -78,11 +78,6 @@ gigs:
     date: '16/11/2024 17:00'
     daysGroup: 14/15/16/17
     ticketsUrl: 'https://pixelticket.com.br/eventos/20440/devotion-mortis-iii/ingressos'
-  - poster: 10-10_Leme_resized.jpg
-    city: Leme
-    date: '10/10/2024 19:30'
-    daysGroup: 09/10/11/12/13
-    ticketsUrl: 'https://www.sympla.com.br/evento/funeratus-nervochaos-neuroticos/2576552'
   - poster: 13-10_Aruja_resized.jpg
     city: Arujá
     date: '13/10/2024 15:00'

@@ -4469,5 +4469,10 @@ gigs:
     city: São José dos Campos
     date: '09/10/2024 19:00'
     daysGroup: 09/10/11/12/13
+  - poster: 10-10_Leme_resized.jpg
+    city: Leme
+    date: '10/10/2024 19:30'
+    daysGroup: 09/10/11/12/13
+    ticketsUrl: 'https://www.sympla.com.br/evento/funeratus-nervochaos-neuroticos/2576552'
 ---
 
