@@ -27,16 +27,6 @@ gigs:
     city: São Paulo
     date: '13/10/2024 13:00'
     daysGroup: 09/10/11/12/13
-  - poster: 11-10_Mogi Guacu_nervochaos.jpg
-    city: Mogi Guaçu
-    date: '11/10/2024 13:00'
-    daysGroup: 09/10/11/12/13
-    ticketsUrl: >-
-      https://www.sympla.com.br/evento/guacu-extreme-com-as-bandas-funeratus-nervochaos-neuroticos-immuration/2552577
-  - poster: 60cee7dd-976a-4520-819d-18f0c62332af.jpeg
-    city: Bauru
-    date: '11/10/2024 20:00'
-    daysGroup: 09/10/11/12/13
   - poster: 21984e0f-b0df-4ea0-9f0a-d960eec51764.jpeg
     city: São Paulo
     date: '27/10/2024 17:00'
@@ -60,10 +50,6 @@ gigs:
     city: São Paulo
     date: '01/11/2024 18:00'
     daysGroup: 01/02/03
-  - poster: f216c83c-a7ae-4405-9e6b-b2a1f08e0902.jpeg
-    city: Presidente Prudente
-    date: '11/10/2024 22:00'
-    daysGroup: 09/10/11/12/13
   - poster: b3347e7b-cf9a-4b4c-9adc-1fd1aa64097d.jpeg
     city: São Paulo
     date: '16/11/2024 20:00'
@@ -169,10 +155,6 @@ gigs:
     daysGroup: 20/21/22
     ticketsUrl: >-
       https://www.sympla.com.br/evento/blood-red-throne-aeternus-nervochaos-stalker-overdose-nuclear/2640715
-  - poster: 60d4a503-298c-4b7a-a3f2-d617ad1da303.jpeg
-    city: São Paulo
-    date: '11/10/2024 20:00'
-    daysGroup: 09/10/11/12/13
   - poster: cirith_ungol_sp_07.jpg
     city: São Paulo
     date: '07/03/2025 19:00'

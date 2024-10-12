@@ -4474,5 +4474,23 @@ gigs:
     date: '10/10/2024 19:30'
     daysGroup: 09/10/11/12/13
     ticketsUrl: 'https://www.sympla.com.br/evento/funeratus-nervochaos-neuroticos/2576552'
+  - poster: 11-10_Mogi Guacu_nervochaos.jpg
+    city: Mogi Guaçu
+    date: '11/10/2024 13:00'
+    daysGroup: 09/10/11/12/13
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/guacu-extreme-com-as-bandas-funeratus-nervochaos-neuroticos-immuration/2552577
+  - poster: 60cee7dd-976a-4520-819d-18f0c62332af.jpeg
+    city: Bauru
+    date: '11/10/2024 20:00'
+    daysGroup: 09/10/11/12/13
+  - poster: f216c83c-a7ae-4405-9e6b-b2a1f08e0902.jpeg
+    city: Presidente Prudente
+    date: '11/10/2024 22:00'
+    daysGroup: 09/10/11/12/13
+  - poster: 60d4a503-298c-4b7a-a3f2-d617ad1da303.jpeg
+    city: São Paulo
+    date: '11/10/2024 20:00'
+    daysGroup: 09/10/11/12/13
 ---
 
