@@ -284,5 +284,11 @@ gigs:
     date: '28/09/2024 18:00'
     daysGroup: 27/28/29
     ticketsUrl: 'https://www.sympla.com.br/evento/mortuarial-night/2509987'
+  - poster: 12-10 Rio_resized_nervochaos.jpg
+    city: Rio de Janeiro
+    date: '12/10/2024 19:00'
+    daysGroup: 11/12/13
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/funeratus-nervochaos-neuroticos-baga-uzomi/2561599
 ---
 

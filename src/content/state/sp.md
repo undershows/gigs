@@ -92,10 +92,6 @@ gigs:
     city: São Paulo
     date: '19/10/2024 16:00'
     daysGroup: 16/17/18/19/20
-  - poster: 460169270_26681025321545138_4812429468541128452_n.jpg
-    city: Santo André
-    date: '12/10/2024 16:00'
-    daysGroup: 09/10/11/12/13
   - poster: 460049845_26681034361544234_4027751936732520075_n.jpg
     city: Campinas
     date: '17/10/2024 19:00'
@@ -195,10 +191,6 @@ gigs:
     daysGroup: 23/24/25/26/27
     ticketsUrl: >-
       https://www.sympla.com.br/evento/hallowarza-c-tomar-control-peru-mar-morto-e-asco/2655438
-  - poster: 462606602_8432894286797111_7529229484431100294_n.jpg
-    city: Osasco
-    date: '12/10/2024 18:00'
-    daysGroup: 09/10/11/12/13
   - poster: 462681399_8432894953463711_3584023024308318742_n.jpg
     city: São Paulo
     date: '18/10/2024 19:00'
@@ -211,10 +203,6 @@ gigs:
     city: São Paulo
     date: '23/10/2024 20:00'
     daysGroup: 23/24/25/26/27
-  - poster: 462555881_10228750471679787_5075149076891234_n.jpg
-    city: São Paulo
-    date: '12/10/2024 19:00'
-    daysGroup: 09/10/11/12/13
   - poster: 462597651_2858245847661252_2169117728394584218_n.jpg
     city: Agudos
     date: '19/10/2024 20:00'
