@@ -23,10 +23,6 @@ gigs:
     date: '19/10/2024 16:00'
     daysGroup: 16/17/18/19/20
     ticketsUrl: 'https://fastix.com.br/events/h2o-em-sao-paulo'
-  - poster: 447912251_962978068861305_6895429639845586915_n.jpeg
-    city: São Paulo
-    date: '13/10/2024 13:00'
-    daysGroup: 09/10/11/12/13
   - poster: 21984e0f-b0df-4ea0-9f0a-d960eec51764.jpeg
     city: São Paulo
     date: '27/10/2024 17:00'
@@ -64,10 +60,6 @@ gigs:
     date: '16/11/2024 17:00'
     daysGroup: 14/15/16/17
     ticketsUrl: 'https://pixelticket.com.br/eventos/20440/devotion-mortis-iii/ingressos'
-  - poster: 13-10_Aruja_resized.jpg
-    city: Arujá
-    date: '13/10/2024 15:00'
-    daysGroup: 09/10/11/12/13
   - poster: 50f23103-923c-43b9-9643-0b55a18f315a.jpeg
     city: Sorocaba
     date: '21/12/2024 15:00'
@@ -108,10 +100,6 @@ gigs:
     city: Jundiaí
     date: '15/10/2024 19:00'
     daysGroup: 16/17/18/19/20
-  - poster: 460418578_26681048988209438_3244382525931163129_n.jpg
-    city: São Paulo
-    date: '13/10/2024 15:00'
-    daysGroup: 09/10/11/12/13
   - poster: 459848435_8205876519489495_7448596233557768509_n.jpg
     city: São Paulo
     date: '02/11/2024 16:00'

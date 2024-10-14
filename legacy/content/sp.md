@@ -4504,5 +4504,17 @@ gigs:
     city: São Paulo
     date: '12/10/2024 19:00'
     daysGroup: 09/10/11/12/13
+  - poster: 447912251_962978068861305_6895429639845586915_n.jpeg
+    city: São Paulo
+    date: '13/10/2024 13:00'
+    daysGroup: 09/10/11/12/13
+  - poster: 13-10_Aruja_resized.jpg
+    city: Arujá
+    date: '13/10/2024 15:00'
+    daysGroup: 09/10/11/12/13
+  - poster: 460418578_26681048988209438_3244382525931163129_n.jpg
+    city: São Paulo
+    date: '13/10/2024 15:00'
+    daysGroup: 09/10/11/12/13
 ---
 
