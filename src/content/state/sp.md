@@ -211,5 +211,10 @@ gigs:
     city: Diadema
     date: '19/10/2024 14:00'
     daysGroup: 16/17/18/19/20
+  - poster: ead943de-0a8b-4c8b-a60a-ff4e477a8a99.jpeg
+    city: Diadema
+    date: '19/10/2024 16:00'
+    daysGroup: 16/17/18/19/20
+    ticketsUrl: 'https://www.sympla.com.br/evento/punktoberfest-2024/2615760'
 ---
 
