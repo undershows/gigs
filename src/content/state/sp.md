@@ -96,10 +96,6 @@ gigs:
     daysGroup: 16/17/18/19/20
     ticketsUrl: >-
       https://www.sympla.com.br/evento/inside-a5-apresenta-tomar-control-peru-afoite/2640321
-  - poster: 460462245_26681040224876981_7873701327087193054_n.jpg
-    city: Jundiaí
-    date: '15/10/2024 19:00'
-    daysGroup: 16/17/18/19/20
   - poster: 459848435_8205876519489495_7448596233557768509_n.jpg
     city: São Paulo
     date: '02/11/2024 16:00'
