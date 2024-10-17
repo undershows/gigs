@@ -4520,5 +4520,11 @@ gigs:
     city: Jundiaí
     date: '15/10/2024 19:00'
     daysGroup: 16/17/18/19/20
+  - poster: 460551385_26681044338209903_2336909070053843593_n.jpg
+    city: Sorocaba
+    date: '16/10/2024 19:00'
+    daysGroup: 16/17/18/19/20
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/inside-a5-apresenta-tomar-control-peru-afoite/2640321
 ---
 

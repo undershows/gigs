@@ -237,5 +237,10 @@ gigs:
     city: Brasília
     date: '29/09/2024 16:00'
     daysGroup: 27/28/29
+  - poster: 434003916_6067222050069750_5148407111954709159_n.jpeg
+    city: Brasília
+    date: '16/10/2024 18:00'
+    daysGroup: 16/17/18/19/20
+    ticketsUrl: 'https://bilheto.com.br/comprar/2151/napalm-death'
 ---
 

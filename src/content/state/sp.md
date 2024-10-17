@@ -90,12 +90,6 @@ gigs:
     daysGroup: 16/17/18/19/20
     ticketsUrl: >-
       https://www.sympla.com.br/evento/tomar-control-pe-ao-vivo-no-woodstock-music-bar-mee-fao-troffea/2636611
-  - poster: 460551385_26681044338209903_2336909070053843593_n.jpg
-    city: Sorocaba
-    date: '16/10/2024 19:00'
-    daysGroup: 16/17/18/19/20
-    ticketsUrl: >-
-      https://www.sympla.com.br/evento/inside-a5-apresenta-tomar-control-peru-afoite/2640321
   - poster: 459848435_8205876519489495_7448596233557768509_n.jpg
     city: São Paulo
     date: '02/11/2024 16:00'
