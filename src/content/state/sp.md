@@ -84,12 +84,6 @@ gigs:
     city: São Paulo
     date: '19/10/2024 16:00'
     daysGroup: 16/17/18/19/20
-  - poster: 460049845_26681034361544234_4027751936732520075_n.jpg
-    city: Campinas
-    date: '17/10/2024 19:00'
-    daysGroup: 16/17/18/19/20
-    ticketsUrl: >-
-      https://www.sympla.com.br/evento/tomar-control-pe-ao-vivo-no-woodstock-music-bar-mee-fao-troffea/2636611
   - poster: 459848435_8205876519489495_7448596233557768509_n.jpg
     city: São Paulo
     date: '02/11/2024 16:00'

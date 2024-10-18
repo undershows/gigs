@@ -4526,5 +4526,11 @@ gigs:
     daysGroup: 16/17/18/19/20
     ticketsUrl: >-
       https://www.sympla.com.br/evento/inside-a5-apresenta-tomar-control-peru-afoite/2640321
+  - poster: 460049845_26681034361544234_4027751936732520075_n.jpg
+    city: Campinas
+    date: '17/10/2024 19:00'
+    daysGroup: 16/17/18/19/20
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/tomar-control-pe-ao-vivo-no-woodstock-music-bar-mee-fao-troffea/2636611
 ---
 
