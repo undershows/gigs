@@ -4532,5 +4532,17 @@ gigs:
     daysGroup: 16/17/18/19/20
     ticketsUrl: >-
       https://www.sympla.com.br/evento/tomar-control-pe-ao-vivo-no-woodstock-music-bar-mee-fao-troffea/2636611
+  - poster: heavyrecords181024.jpg
+    city: Santo André
+    date: '18/10/2024 19:00'
+    daysGroup: 16/17/18/19/20
+  - poster: 462364859_9170590332970574_388088385279921368_n.jpg
+    city: São Paulo
+    date: '18/10/2024 19:00'
+    daysGroup: 16/17/18/19/20
+  - poster: 462681399_8432894953463711_3584023024308318742_n.jpg
+    city: São Paulo
+    date: '18/10/2024 19:00'
+    daysGroup: 16/17/18/19/20
 ---
 

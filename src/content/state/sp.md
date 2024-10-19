@@ -96,10 +96,6 @@ gigs:
     city: São José dos Campos
     date: '19/10/2024 17:00'
     daysGroup: 16/17/18/19/20
-  - poster: heavyrecords181024.jpg
-    city: Santo André
-    date: '18/10/2024 19:00'
-    daysGroup: 16/17/18/19/20
   - poster: 14-11_Lorena_resized.jpg
     city: Lorena
     date: '14/11/2024 20:00'
@@ -145,10 +141,6 @@ gigs:
     city: São Carlos
     date: '23/10/2024 19:00'
     daysGroup: 23/24/25/26/27
-  - poster: 462364859_9170590332970574_388088385279921368_n.jpg
-    city: São Paulo
-    date: '18/10/2024 19:00'
-    daysGroup: 16/17/18/19/20
   - poster: 462114047_8773002052722035_7546904107088573841_n.jpg
     city: São Paulo
     date: '06/12/2024 22:00'
@@ -163,10 +155,6 @@ gigs:
     daysGroup: 23/24/25/26/27
     ticketsUrl: >-
       https://www.sympla.com.br/evento/hallowarza-c-tomar-control-peru-mar-morto-e-asco/2655438
-  - poster: 462681399_8432894953463711_3584023024308318742_n.jpg
-    city: São Paulo
-    date: '18/10/2024 19:00'
-    daysGroup: 16/17/18/19/20
   - poster: 462330833_8432912126795327_614173605108650909_n.jpg
     city: Piracicaba
     date: '24/10/2024 19:00'
@@ -212,11 +200,13 @@ gigs:
     city: São Paulo
     date: '20/11/2024 18:00'
     daysGroup: 19/20
-    ticketsUrl: 'https://www.sympla.com.br/evento/crush-all-tyranny-agravo-herdeiros-do-odio-undershows-fest-iii/2686582'
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/crush-all-tyranny-agravo-herdeiros-do-odio-undershows-fest-iii/2686582
   - poster: 12-11_Hypocrisy_resized.jpg
     city: São Paulo
     date: '12/11/2024 19:00'
     daysGroup: 12/13/14/15/16/17
-    ticketsUrl: 'https://www.sympla.com.br/evento/hypocrisy-torture-squad-siegrid-ingrid/2691512'
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/hypocrisy-torture-squad-siegrid-ingrid/2691512
 ---
 

@@ -28,10 +28,6 @@ gigs:
     date: '09/11/2024 16:00'
     daysGroup: 08/09/10
     ticketsUrl: 'https://www.sympla.com.br/evento/satanic-hellbangers-festival-ii/2445018'
-  - poster: 462267512_27046008211713512_3149167812941068300_n.jpg
-    city: Divinópolis
-    date: '18/10/2024 19:00'
-    daysGroup: 18/19/20/21/22
   - poster: 462295904_27046012401713093_5156625471390543951_n.jpg
     city: Belo Horizonte
     date: '19/10/2024 19:00'

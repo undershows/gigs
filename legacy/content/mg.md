@@ -261,5 +261,9 @@ gigs:
     date: '08/10/2024 18:00'
     daysGroup: 03/04/05/06/07/08
     ticketsUrl: 'https://www.bilheto.com.br/comprar/2265/lucifer-mg'
+  - poster: 462267512_27046008211713512_3149167812941068300_n.jpg
+    city: Divinópolis
+    date: '18/10/2024 19:00'
+    daysGroup: 18/19/20/21/22
 ---
 
