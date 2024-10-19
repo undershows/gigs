@@ -49,7 +49,7 @@ gigs:
   - poster: b3347e7b-cf9a-4b4c-9adc-1fd1aa64097d.jpeg
     city: São Paulo
     date: '16/11/2024 20:00'
-    daysGroup: 14/15/16/17
+    daysGroup: 12/13/14/15/16/17
   - poster: 5e2445a7-e7a4-4219-be0b-9e0bcfefb983.jpeg
     city: São Paulo
     date: '08/03/2025 14:00'
@@ -58,7 +58,7 @@ gigs:
   - poster: 0513b081-fd55-426b-bd02-94bd5eda455e.jpeg
     city: São Paulo
     date: '16/11/2024 17:00'
-    daysGroup: 14/15/16/17
+    daysGroup: 12/13/14/15/16/17
     ticketsUrl: 'https://pixelticket.com.br/eventos/20440/devotion-mortis-iii/ingressos'
   - poster: 50f23103-923c-43b9-9643-0b55a18f315a.jpeg
     city: Sorocaba
@@ -71,7 +71,7 @@ gigs:
   - poster: 8b49a7ce-fb3d-42e9-9702-ba2ae66aea5e.jpeg
     city: Santo André
     date: '16/11/2024 16:00'
-    daysGroup: 14/15/16/17
+    daysGroup: 12/13/14/15/16/17
   - poster: 987338e9-c457-47d8-b028-0a3b594fd0e8.jpeg
     city: Santa Cruz do Rio Pardo
     date: '09/11/2024 16:00'
@@ -103,13 +103,13 @@ gigs:
   - poster: 14-11_Lorena_resized.jpg
     city: Lorena
     date: '14/11/2024 20:00'
-    daysGroup: 14/15/16/17
+    daysGroup: 12/13/14/15/16/17
     ticketsUrl: >-
       https://www.sympla.com.br/evento/nervochaos-siegrid-ingrid-ancestral-malediction/2642189
   - poster: 17-11_Piracicaba_resized.jpg
     city: Piracicaba
     date: '17/11/2024 16:00'
-    daysGroup: 14/15/16/17
+    daysGroup: 12/13/14/15/16/17
     ticketsUrl: 'https://www.sympla.com.br/evento/nervochaos-siegrid-ingrid-chacina/2627980'
   - poster: 21-12_Limeira_resized.jpg
     city: Limeira
@@ -212,5 +212,11 @@ gigs:
     city: São Paulo
     date: '20/11/2024 18:00'
     daysGroup: 19/20
+    ticketsUrl: 'https://www.sympla.com.br/evento/crush-all-tyranny-agravo-herdeiros-do-odio-undershows-fest-iii/2686582'
+  - poster: 12-11_Hypocrisy_resized.jpg
+    city: São Paulo
+    date: '12/11/2024 19:00'
+    daysGroup: 12/13/14/15/16/17
+    ticketsUrl: 'https://www.sympla.com.br/evento/hypocrisy-torture-squad-siegrid-ingrid/2691512'
 ---
 
