@@ -105,5 +105,10 @@ gigs:
     date: '21/09/2024 20:00'
     daysGroup: 20/21/22
     ticketsUrl: 'https://bilheto.com.br/comprar/2449/ix-underground-metal-fest'
+  - poster: 434087977_732255042396326_1441200815957194959_n.jpeg
+    city: Fortaleza
+    date: '19/10/2024 18:00'
+    daysGroup: 18/19/20
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/napalmdeath-fortaleza'
 ---
 

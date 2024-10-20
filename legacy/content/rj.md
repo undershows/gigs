@@ -290,5 +290,9 @@ gigs:
     daysGroup: 11/12/13
     ticketsUrl: >-
       https://www.sympla.com.br/evento/funeratus-nervochaos-neuroticos-baga-uzomi/2561599
+  - poster: 449061633_10223895593874736_516879772113105600_n.jpg
+    city: Campos dos Goytacazes
+    date: '19/10/2024 19:00'
+    daysGroup: 18/19/20
 ---
 

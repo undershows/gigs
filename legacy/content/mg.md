@@ -265,5 +265,9 @@ gigs:
     city: Divinópolis
     date: '18/10/2024 19:00'
     daysGroup: 18/19/20/21/22
+  - poster: 462295904_27046012401713093_5156625471390543951_n.jpg
+    city: Belo Horizonte
+    date: '19/10/2024 19:00'
+    daysGroup: 18/19/20/21/22
 ---
 

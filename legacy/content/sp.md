@@ -4544,5 +4544,40 @@ gigs:
     city: São Paulo
     date: '18/10/2024 19:00'
     daysGroup: 16/17/18/19/20
+  - poster: 441876998_18436328866033374_7572348452534085444_n.jpg
+    city: São Paulo
+    date: '19/10/2024 16:00'
+    daysGroup: 16/17/18/19/20
+    ticketsUrl: 'https://fastix.com.br/events/h2o-em-sao-paulo'
+  - poster: 2f707e12-6da8-4729-b44e-20aaaf6fbab4.jpeg
+    city: São Paulo
+    date: '19/10/2024 17:00'
+    daysGroup: 16/17/18/19/20
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/2-bellvmdeorvmfest'
+  - poster: 459597976_18337300474121660_1702771375500361178_n.jpg
+    city: São Paulo
+    date: '19/10/2024 14:00'
+    daysGroup: 16/17/18/19/20
+  - poster: 460138389_8367891926604343_6219568211223303109_n.jpg
+    city: São Paulo
+    date: '19/10/2024 16:00'
+    daysGroup: 16/17/18/19/20
+  - poster: 459588859_10220621744133863_5867092588228434910_n.jpg
+    city: São José dos Campos
+    date: '19/10/2024 17:00'
+    daysGroup: 16/17/18/19/20
+  - poster: 462597651_2858245847661252_2169117728394584218_n.jpg
+    city: Agudos
+    date: '19/10/2024 20:00'
+    daysGroup: 16/17/18/19/20
+  - poster: 461852869_3726647554214145_7468029180022537946_n.jpg
+    city: São Paulo
+    date: '19/10/2024 19:00'
+    daysGroup: 16/17/18/19/20
+  - poster: ead943de-0a8b-4c8b-a60a-ff4e477a8a99.jpeg
+    city: Diadema
+    date: '19/10/2024 16:00'
+    daysGroup: 16/17/18/19/20
+    ticketsUrl: 'https://www.sympla.com.br/evento/punktoberfest-2024/2615760'
 ---
 
