@@ -294,5 +294,11 @@ gigs:
     city: Campos dos Goytacazes
     date: '19/10/2024 19:00'
     daysGroup: 18/19/20
+  - poster: 460121105_26681038778210459_6252046835119406431_n.jpg
+    city: Rio de Janeiro
+    date: '20/10/2024 18:00'
+    daysGroup: 18/19/20
+    ticketsUrl: >-
+      https://shotgun.live/pt-br/events/tomar-control-peru-malvina-plastic-fire-e-trash-no-star
 ---
 

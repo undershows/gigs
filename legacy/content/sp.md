@@ -4579,5 +4579,17 @@ gigs:
     date: '19/10/2024 16:00'
     daysGroup: 16/17/18/19/20
     ticketsUrl: 'https://www.sympla.com.br/evento/punktoberfest-2024/2615760'
+  - poster: 462489343_122120406344459227_229125333689777763_n.jpg
+    city: São Paulo
+    date: '20/10/2024 20:00'
+    daysGroup: 16/17/18/19/20
+  - poster: 462228491_8386422744776506_6442204149893040198_n.jpg
+    city: Diadema
+    date: '20/10/2024 14:00'
+    daysGroup: 16/17/18/19/20
+  - poster: b65aa0e7-16ec-458e-8de8-332daa00f4fe.jpeg
+    city: Bauru
+    date: '20/10/2024 18:00'
+    daysGroup: 16/17/18/19/20
 ---
 
