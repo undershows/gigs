@@ -300,5 +300,10 @@ gigs:
     daysGroup: 18/19/20
     ticketsUrl: >-
       https://shotgun.live/pt-br/events/tomar-control-peru-malvina-plastic-fire-e-trash-no-star
+  - poster: 429836388_18311830639121660_6724303937094212667_n.jpg
+    city: Rio de Janeiro
+    date: '23/10/2024 20:00'
+    daysGroup: 23/24/25/26/27
+    ticketsUrl: 'https://www.eventim.com.br/artist/napalm-death/'
 ---
 
