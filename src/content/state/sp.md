@@ -129,10 +129,6 @@ gigs:
     daysGroup: 23/24/25/26/27
     ticketsUrl: >-
       https://www.sympla.com.br/evento/hallowarza-c-tomar-control-peru-mar-morto-e-asco/2655438
-  - poster: 462330833_8432912126795327_614173605108650909_n.jpg
-    city: Piracicaba
-    date: '24/10/2024 19:00'
-    daysGroup: 23/24/25/26/27
   - poster: 461999075_3726647757547458_3405916461249117537_n.jpg
     city: Diadema
     date: '09/11/2024 18:00'
