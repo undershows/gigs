@@ -123,12 +123,6 @@ gigs:
     city: São Paulo
     date: '07/12/2024 22:00'
     daysGroup: 06/07/08
-  - poster: 461999463_27046005065047160_6635957734364996614_n.jpg
-    city: Santos
-    date: '26/10/2024 20:00'
-    daysGroup: 23/24/25/26/27
-    ticketsUrl: >-
-      https://www.sympla.com.br/evento/hallowarza-c-tomar-control-peru-mar-morto-e-asco/2655438
   - poster: 461999075_3726647757547458_3405916461249117537_n.jpg
     city: Diadema
     date: '09/11/2024 18:00'

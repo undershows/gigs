@@ -4603,5 +4603,11 @@ gigs:
     city: Piracicaba
     date: '24/10/2024 19:00'
     daysGroup: 23/24/25/26/27
+  - poster: 461999463_27046005065047160_6635957734364996614_n.jpg
+    city: Santos
+    date: '26/10/2024 20:00'
+    daysGroup: 23/24/25/26/27
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/hallowarza-c-tomar-control-peru-mar-morto-e-asco/2655438
 ---
 

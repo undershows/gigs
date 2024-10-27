@@ -29,13 +29,5 @@ gigs:
     city: Maringá
     date: '02/11/2024 21:00'
     daysGroup: 01/02/03
-  - poster: 1231de68-c706-4ba0-86d1-e205b1caa16a.jpeg
-    city: Maringá
-    date: '26/10/2024 23:00'
-    daysGroup: 25/26/27
-  - poster: 460823862_18461704927047210_6676591356293860350_n.jpg
-    city: Curitiba
-    date: '26/10/2024 18:00'
-    daysGroup: 18/19/20
 ---
 
