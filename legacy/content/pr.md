@@ -440,5 +440,10 @@ gigs:
     city: Curitiba
     date: '26/10/2024 18:00'
     daysGroup: 18/19/20
+  - poster: 458499891_1297066558368398_4437861318257614330_n.jpg
+    city: Londrina
+    date: '27/10/2024 18:00'
+    daysGroup: 25/26/27
+    ticketsUrl: 'https://labrec.blogspot.com/2024/'
 ---
 

@@ -4609,5 +4609,20 @@ gigs:
     daysGroup: 23/24/25/26/27
     ticketsUrl: >-
       https://www.sympla.com.br/evento/hallowarza-c-tomar-control-peru-mar-morto-e-asco/2655438
+  - poster: 444528371_941248801078430_5729388421674254042_n.jpeg
+    city: São Paulo
+    date: '27/10/2024 15:00'
+    daysGroup: 25/26/27
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/upfront-festival'
+  - poster: 21984e0f-b0df-4ea0-9f0a-d960eec51764.jpeg
+    city: São Paulo
+    date: '27/10/2024 17:00'
+    daysGroup: 25/26/27
+    ticketsUrl: >-
+      https://www.bilheto.com.br/comprar/2491/sabbat-sabbatical-40th-anniversary-tour-2024
+  - poster: 462112381_8398810576862754_313632150800981694_n.jpg
+    city: São Paulo
+    date: '27/10/2024 14:00'
+    daysGroup: 25/26/27
 ---
 

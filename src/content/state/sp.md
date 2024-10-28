@@ -13,17 +13,6 @@ gigs:
     date: '02/11/2024 16:00'
     daysGroup: 01/02/03
     ticketsUrl: 'https://www.clubedoingresso.com/evento/weareone2024-saopaulo'
-  - poster: 444528371_941248801078430_5729388421674254042_n.jpeg
-    city: São Paulo
-    date: '27/10/2024 15:00'
-    daysGroup: 25/26/27
-    ticketsUrl: 'https://www.clubedoingresso.com/evento/upfront-festival'
-  - poster: 21984e0f-b0df-4ea0-9f0a-d960eec51764.jpeg
-    city: São Paulo
-    date: '27/10/2024 17:00'
-    daysGroup: 25/26/27
-    ticketsUrl: >-
-      https://www.bilheto.com.br/comprar/2491/sabbat-sabbatical-40th-anniversary-tour-2024
   - poster: 2575a127-4d2f-4485-8f8b-29c22b364422.jpeg
     city: Praia Grande
     date: '09/11/2024 20:00'
@@ -103,10 +92,6 @@ gigs:
     daysGroup: 07/08/09
     ticketsUrl: >-
       https://www.sympla.com.br/evento/cirith-ungol-nightdemon-hellish-war-chumbo/2366428
-  - poster: 462112381_8398810576862754_313632150800981694_n.jpg
-    city: São Paulo
-    date: '27/10/2024 14:00'
-    daysGroup: 25/26/27
   - poster: 462291759_8398812950195850_7352006610264536858_n.jpg
     city: São Paulo
     date: '03/11/2024 17:00'
