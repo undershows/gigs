@@ -20,7 +20,7 @@ gigs:
   - poster: 07bb2fe9-56fe-4dcf-ba25-4291b8bf7fe9.jpeg
     city: Praia Grande
     date: '21/12/2024 20:00'
-    daysGroup: 20/21/22
+    daysGroup: 19/20/21/22
   - poster: 440528bf-9f10-44cc-aef6-f3a9fef4b9a9.jpeg
     city: São Paulo
     date: '01/11/2024 18:00'
@@ -42,7 +42,7 @@ gigs:
   - poster: 50f23103-923c-43b9-9643-0b55a18f315a.jpeg
     city: Sorocaba
     date: '21/12/2024 15:00'
-    daysGroup: 20/21/22
+    daysGroup: 19/20/21/22
   - poster: 5447e3b0-d506-41b0-96fe-184fd3ad3f60.jpeg
     city: Marília
     date: '15/12/2024 18:00'
@@ -77,13 +77,13 @@ gigs:
   - poster: 21-12_Limeira_resized.jpg
     city: Limeira
     date: '21/12/2024 17:00'
-    daysGroup: 20/21/22
+    daysGroup: 19/20/21/22
     ticketsUrl: >-
       https://www.sympla.com.br/evento/vulcano-aeternus-nervochaos-stalker-chacina-critical-fear/2640659
   - poster: 22-12_Sao_Paulo_resized.jpg
     city: São Paulo
     date: '22/12/2024 16:00'
-    daysGroup: 20/21/22
+    daysGroup: 19/20/21/22
     ticketsUrl: >-
       https://www.sympla.com.br/evento/blood-red-throne-aeternus-nervochaos-stalker-overdose-nuclear/2640715
   - poster: cirith_ungol_sp_07.jpg
@@ -99,7 +99,7 @@ gigs:
   - poster: 462571457_9359090550774120_1694114248719561539_n.jpg
     city: São Paulo
     date: '21/12/2024 19:00'
-    daysGroup: 20/21/22
+    daysGroup: 19/20/21/22
   - poster: 462114047_8773002052722035_7546904107088573841_n.jpg
     city: São Paulo
     date: '06/12/2024 22:00'
@@ -128,5 +128,19 @@ gigs:
     daysGroup: 12/13/14/15/16/17
     ticketsUrl: >-
       https://www.sympla.com.br/evento/hypocrisy-torture-squad-siegrid-ingrid/2691512
+  - poster: 16-11_agudos resized.jpg
+    city: Agudos
+    date: '16/11/2024 19:00'
+    daysGroup: 12/13/14/15/16/17
+  - poster: 19-12_Ribeirão Preto_resized.jpg
+    city: Ribeirão Preto
+    date: '19/12/2024 20:00'
+    daysGroup: 19/20/21/22
+    ticketsUrl: 'https://www.sympla.com.br/evento/aeternus-nervochaos-wisdom/2707796'
+  - poster: 20-12_Bauru_resized.jpg
+    city: Bauru
+    date: '20/12/2024 20:00'
+    daysGroup: 19/20/21/22
+    ticketsUrl: 'https://www.sympla.com.br/evento/aeternus-nervochaos-wisdom/2707933'
 ---
 
