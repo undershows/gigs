@@ -51,10 +51,6 @@ gigs:
     city: Santa Cruz do Rio Pardo
     date: '09/11/2024 16:00'
     daysGroup: 08/09/10
-  - poster: 459848435_8205876519489495_7448596233557768509_n.jpg
-    city: São Paulo
-    date: '02/11/2024 16:00'
-    daysGroup: 01/02/03
   - poster: 460278615_1056586672542179_7800672782296781535_n.jpg
     city: Salto
     date: '02/11/2024 13:00'
