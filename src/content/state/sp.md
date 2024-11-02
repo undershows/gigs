@@ -21,10 +21,6 @@ gigs:
     city: Praia Grande
     date: '21/12/2024 20:00'
     daysGroup: 19/20/21/22
-  - poster: 440528bf-9f10-44cc-aef6-f3a9fef4b9a9.jpeg
-    city: São Paulo
-    date: '01/11/2024 18:00'
-    daysGroup: 01/02/03
   - poster: b3347e7b-cf9a-4b4c-9adc-1fd1aa64097d.jpeg
     city: São Paulo
     date: '16/11/2024 20:00'
