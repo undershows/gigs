@@ -8,11 +8,6 @@ gigs:
     daysGroup: 08/09/10
     ticketsUrl: >-
       https://www.clubedoingresso.com/evento/asphyx-thetroopsofdoom-evilcult-saopaulo
-  - poster: 437789515_1186460232719430_2866805141690934471_n.jpg
-    city: São Paulo
-    date: '02/11/2024 16:00'
-    daysGroup: 01/02/03
-    ticketsUrl: 'https://www.clubedoingresso.com/evento/weareone2024-saopaulo'
   - poster: 2575a127-4d2f-4485-8f8b-29c22b364422.jpeg
     city: Praia Grande
     date: '09/11/2024 20:00'
@@ -51,10 +46,6 @@ gigs:
     city: Santa Cruz do Rio Pardo
     date: '09/11/2024 16:00'
     daysGroup: 08/09/10
-  - poster: 460278615_1056586672542179_7800672782296781535_n.jpg
-    city: Salto
-    date: '02/11/2024 13:00'
-    daysGroup: 01/02/03
   - poster: 14-11_Lorena_resized.jpg
     city: Lorena
     date: '14/11/2024 20:00'

@@ -4628,5 +4628,14 @@ gigs:
     city: São Paulo
     date: '01/11/2024 18:00'
     daysGroup: 01/02/03
+  - poster: 437789515_1186460232719430_2866805141690934471_n.jpg
+    city: São Paulo
+    date: '02/11/2024 16:00'
+    daysGroup: 01/02/03
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/weareone2024-saopaulo'
+  - poster: 460278615_1056586672542179_7800672782296781535_n.jpg
+    city: Salto
+    date: '02/11/2024 13:00'
+    daysGroup: 01/02/03
 ---
 

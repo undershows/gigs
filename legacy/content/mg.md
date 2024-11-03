@@ -274,5 +274,11 @@ gigs:
     date: '22/10/2024 18:00'
     daysGroup: 18/19/20/21/22
     ticketsUrl: 'https://www.bilheto.com.br/comprar/2146/napalm-death'
+  - poster: 435946127_1227834108195855_4659450126338379186_n.jpeg
+    city: Uberlândia
+    date: '02/11/2024 18:00'
+    daysGroup: 01/02/03
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/bayside-kings-terceira-guerra-e-bandas-convidadas/2421024
 ---
 

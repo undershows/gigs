@@ -7,12 +7,6 @@ gigs:
     date: '14/03/2025 19:00'
     daysGroup: 14/15/16
     ticketsUrl: 'https://www.clubedoingresso.com/evento/gutalax-belohorizonte'
-  - poster: 435946127_1227834108195855_4659450126338379186_n.jpeg
-    city: Uberlândia
-    date: '02/11/2024 18:00'
-    daysGroup: 01/02/03
-    ticketsUrl: >-
-      https://www.sympla.com.br/evento/bayside-kings-terceira-guerra-e-bandas-convidadas/2421024
   - poster: f516b51d-f73e-43ce-97e7-733bf7bb298f.jpeg
     city: Belo Horizonte
     date: '18/04/2025 18:00'

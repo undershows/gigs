@@ -125,5 +125,9 @@ gigs:
     city: Recife
     date: '14/09/2024 20:00'
     daysGroup: 13/14/15
+  - poster: a8741497-23ee-4d36-ac57-8ec7e48d4c37.jpeg
+    city: Recife
+    date: '02/11/2024 20:00'
+    daysGroup: 01/02/03
 ---
 
