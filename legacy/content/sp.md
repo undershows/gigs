@@ -4637,5 +4637,9 @@ gigs:
     city: Salto
     date: '02/11/2024 13:00'
     daysGroup: 01/02/03
+  - poster: 462291759_8398812950195850_7352006610264536858_n.jpg
+    city: São Paulo
+    date: '03/11/2024 17:00'
+    daysGroup: 01/02/03
 ---
 

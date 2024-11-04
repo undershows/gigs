@@ -75,10 +75,6 @@ gigs:
     daysGroup: 07/08/09
     ticketsUrl: >-
       https://www.sympla.com.br/evento/cirith-ungol-nightdemon-hellish-war-chumbo/2366428
-  - poster: 462291759_8398812950195850_7352006610264536858_n.jpg
-    city: São Paulo
-    date: '03/11/2024 17:00'
-    daysGroup: 01/02/03
   - poster: 462571457_9359090550774120_1694114248719561539_n.jpg
     city: São Paulo
     date: '21/12/2024 19:00'
