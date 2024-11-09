@@ -449,5 +449,9 @@ gigs:
     city: Maringá
     date: '02/11/2024 21:00'
     daysGroup: 01/02/03
+  - poster: f5e3edef-8a49-4121-b7dc-ccd6cde46dec.jpeg
+    city: Maringá
+    date: '08/11/2024 22:00'
+    daysGroup: 08/09/10
 ---
 
