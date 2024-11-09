@@ -6,7 +6,7 @@ gigs:
     city: Goiânia
     date: '14/12/2024 20:00'
     daysGroup: 13/14/15
-    ticketsUrl: 'https://www.sympla.com.br/evento/aeternus-nervochaos-staelker-cheol/2605692'
+    ticketsUrl: 'https://www.bilheteriadigital.com/the-brazil-bombardment-tour-2024-14-de-dezembro'
   - poster: 15-12_catalao_resized.jpg
     city: Catalão
     date: '15/12/2024 16:00'
