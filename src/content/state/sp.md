@@ -191,5 +191,9 @@ gigs:
     date: '16/11/2024 17:00'
     daysGroup: 15/16/17
     ticketsUrl: 'https://101tickets.com.br/events/details/Cemiterio,-Platoon,-Culpado,-Evil-Sindcate-e-Antro'
+  - poster: 2791f3f8-7490-4dab-a56e-0cfc7b4b3cc3.jpeg
+    city: São Paulo
+    date: '14/11/2024 19:00'
+    daysGroup: 12/13/14/15/16/17
 ---
 
