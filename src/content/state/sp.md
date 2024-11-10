@@ -111,7 +111,7 @@ gigs:
     city: Agudos
     date: '16/11/2024 19:00'
     daysGroup: 12/13/14/15/16/17
-  - poster: 19-12_Ribeirão Preto_resized.jpg
+  - poster: 19-12_Ribeirao_Preto_resized.jpg
     city: Ribeirão Preto
     date: '19/12/2024 20:00'
     daysGroup: 19/20/21/22
@@ -121,5 +121,75 @@ gigs:
     date: '20/12/2024 20:00'
     daysGroup: 19/20/21/22
     ticketsUrl: 'https://www.sympla.com.br/evento/aeternus-nervochaos-wisdom/2707933'
+  - poster: 466119556_9137714369594082_1375735450222607473_n.jpg
+    city: São Paulo
+    date: '07/12/2024 19:00'
+    daysGroup: 06/07/08
+    ticketsUrl: 'https://pixelticket.com.br/eventos/24330/flicts-devotos-os-insociaveis'
+  - poster: 465687812_9123486704342781_254385938358150524_n.jpeg
+    city: São Paulo
+    date: '24/11/2024 14:00'
+    daysGroup: 22/23/24
+    ticketsUrl: 'https://www.sympla.com.br/evento/stoned-fest-ii/2722710'
+  - poster: 465953455_1197117024719917_1001788842139940890_n.jpeg
+    city: São Paulo
+    date: '15/11/2024 17:00'
+    daysGroup: 12/13/14/15/16/17
+  - poster: 465956042_1108527920899035_3994806460753018_n.jpg
+    city: São Paulo
+    date: '15/12/2024 15:00'
+    daysGroup: 13/14/15
+  - poster: 465828084_8581381221946325_1959735044669527310_n.jpg
+    city: São Paulo
+    date: '15/11/2024 19:00'
+    daysGroup: 12/13/14/15/16/17
+  - poster: 465805836_1106092000971719_577022857771434374_n.jpeg
+    city: Santo André
+    date: '22/12/2024 19:00'
+    daysGroup: 19/20/21/22
+  - poster: 465968671_1094126108283219_2396529000352600210_n.jpeg
+    city: São Paulo
+    date: '13/12/2024 19:00'
+    daysGroup: 13/14/15
+    ticketsUrl: 'https://pixelticket.com.br/eventos/17013/encruzapalooza'
+  - poster: 466007993_18080576992545389_5252574658709477897_n.jpg
+    city: São Paulo
+    date: '24/11/2024 20:00'
+    daysGroup: 22/23/24
+  - poster: 466536327_3991098637776031_847737454445342943_n.jpeg
+    city: Bauru
+    date: '22/11/2024 20:00'
+    daysGroup: 22/23/24
+  - poster: 466002652_17907097635048719_1508314061937840170_n.jpg
+    city: São Paulo
+    date: '23/11/2024 20:00'
+    daysGroup: 22/23/24
+  - poster: 465971988_965633688765528_8828791039347855371_n.jpeg
+    city: Itu
+    date: '30/11/2024 18:00'
+    daysGroup: 29/30
+  - poster: 465819720_530682276473732_1267326253564929096_n.jpeg
+    city: Diadema
+    date: '08/12/2024 13:00'
+    daysGroup: 06/07/08
+    ticketsUrl: 'https://www.sympla.com.br/evento/masters-of-noise-2024/2621818'
+  - poster: 465819720_530682276473732_1267326253564929096_n_2.jpeg
+    city: Diadema
+    date: '15/12/2024 13:00'
+    daysGroup: 06/07/08
+    ticketsUrl: 'https://www.sympla.com.br/evento/masters-of-noise-2024/2621818'
+  - poster: 466001859_430354516542435_4768477302990422246_n.jpg
+    city: Bauru
+    date: '22/11/2024 19:00'
+    daysGroup: 22/23/24
+  - poster: 464966772_2895416737282974_2232190846592819665_n.jpg
+    city: Campinas
+    date: '17/11/2024 17:00'
+    daysGroup: 15/16/17
+  - poster: 463835027_2878167389007909_1021373594913020115_n.jpg
+    city: São Paulo
+    date: '16/11/2024 17:00'
+    daysGroup: 15/16/17
+    ticketsUrl: 'https://101tickets.com.br/events/details/Cemiterio,-Platoon,-Culpado,-Evil-Sindcate-e-Antro'
 ---
 
