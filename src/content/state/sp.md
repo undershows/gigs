@@ -2,16 +2,6 @@
 abbr: SP
 name: São Paulo
 gigs:
-  - poster: 426488998_120207068767380040_3886440266274244029_n.jpg
-    city: São Paulo
-    date: '09/11/2024 18:00'
-    daysGroup: 08/09/10
-    ticketsUrl: >-
-      https://www.clubedoingresso.com/evento/asphyx-thetroopsofdoom-evilcult-saopaulo
-  - poster: 2575a127-4d2f-4485-8f8b-29c22b364422.jpeg
-    city: Praia Grande
-    date: '09/11/2024 20:00'
-    daysGroup: 08/09/10
   - poster: 07bb2fe9-56fe-4dcf-ba25-4291b8bf7fe9.jpeg
     city: Praia Grande
     date: '21/12/2024 20:00'
@@ -42,10 +32,6 @@ gigs:
     city: Santo André
     date: '16/11/2024 16:00'
     daysGroup: 12/13/14/15/16/17
-  - poster: 987338e9-c457-47d8-b028-0a3b594fd0e8.jpeg
-    city: Santa Cruz do Rio Pardo
-    date: '09/11/2024 16:00'
-    daysGroup: 08/09/10
   - poster: 14-11_Lorena_resized.jpg
     city: Lorena
     date: '14/11/2024 20:00'
@@ -87,14 +73,6 @@ gigs:
     city: São Paulo
     date: '07/12/2024 22:00'
     daysGroup: 06/07/08
-  - poster: 461999075_3726647757547458_3405916461249117537_n.jpg
-    city: Diadema
-    date: '09/11/2024 18:00'
-    daysGroup: 08/09/10
-  - poster: 615b0d84-125f-43e3-adf3-4ca5ee15fc52.jpeg
-    city: Jaú
-    date: '09/11/2024 13:00'
-    daysGroup: 08/09/10
   - poster: undershows-A3.jpg
     city: São Paulo
     date: '20/11/2024 18:00'
@@ -190,7 +168,8 @@ gigs:
     city: São Paulo
     date: '16/11/2024 17:00'
     daysGroup: 15/16/17
-    ticketsUrl: 'https://101tickets.com.br/events/details/Cemiterio,-Platoon,-Culpado,-Evil-Sindcate-e-Antro'
+    ticketsUrl: >-
+      https://101tickets.com.br/events/details/Cemiterio,-Platoon,-Culpado,-Evil-Sindcate-e-Antro
   - poster: 2791f3f8-7490-4dab-a56e-0cfc7b4b3cc3.jpeg
     city: São Paulo
     date: '14/11/2024 19:00'

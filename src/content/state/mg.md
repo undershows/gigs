@@ -12,14 +12,5 @@ gigs:
     date: '18/04/2025 18:00'
     daysGroup: 18/19/20
     ticketsUrl: 'https://www.sympla.com.br/evento/profanvs-diaboli-art-2025/2604339'
-  - poster: 3603d4d6-4cac-4227-b2dc-861f92ebfc13.jpeg
-    city: Belo Horizonte
-    date: '09/11/2024 16:00'
-    daysGroup: 08/09/10
-    ticketsUrl: 'https://www.sympla.com.br/evento/satanic-hellbangers-festival-ii/2445018'
-  - poster: 5c34106f-8972-433b-9959-85128e079a0d.jpeg
-    city: Belo Horizonte
-    date: '09/11/2024 14:00'
-    daysGroup: 08/09/10
 ---
 

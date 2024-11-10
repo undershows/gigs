@@ -280,5 +280,14 @@ gigs:
     daysGroup: 01/02/03
     ticketsUrl: >-
       https://www.sympla.com.br/evento/bayside-kings-terceira-guerra-e-bandas-convidadas/2421024
+  - poster: 3603d4d6-4cac-4227-b2dc-861f92ebfc13.jpeg
+    city: Belo Horizonte
+    date: '09/11/2024 16:00'
+    daysGroup: 08/09/10
+    ticketsUrl: 'https://www.sympla.com.br/evento/satanic-hellbangers-festival-ii/2445018'
+  - poster: 5c34106f-8972-433b-9959-85128e079a0d.jpeg
+    city: Belo Horizonte
+    date: '09/11/2024 14:00'
+    daysGroup: 08/09/10
 ---
 
