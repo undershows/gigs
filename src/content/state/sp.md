@@ -85,7 +85,7 @@ gigs:
     daysGroup: 12/13/14/15/16/17
     ticketsUrl: >-
       https://www.sympla.com.br/evento/hypocrisy-torture-squad-siegrid-ingrid/2691512
-  - poster: 16-11_agudos resized.jpg
+  - poster: 16-11_agudos_resized.jpg
     city: Agudos
     date: '16/11/2024 19:00'
     daysGroup: 12/13/14/15/16/17
