@@ -174,5 +174,51 @@ gigs:
     city: São Paulo
     date: '14/11/2024 19:00'
     daysGroup: 12/13/14/15/16/17
+  - poster: 466462156_3836986519894858_447226014048910533_n.jpg
+    city: São Paulo
+    date: '15/11/2024 15:00'
+    daysGroup: 12/13/14/15/16/17
+  - poster: 466416658_10229126374876286_6737982589191922170_n.jpg
+    city: São Paulo
+    date: '16/11/2024 18:00'
+    daysGroup: 12/13/14/15/16/17
+  - poster: 466376462_3795817980730652_19095260789768015_n.jpg
+    city: São José dos Campos
+    date: '30/11/2024 18:00'
+    daysGroup: 29/30
+  - poster: 466085674_3795818377397279_3704695410355555951_n.jpg
+    city: São Paulo
+    date: '16/11/2024 13:00'
+    daysGroup: 12/13/14/15/16/17
+  - poster: 466642780_10230279018776844_4048264838757911986_n.jpg
+    city: São Paulo
+    date: '14/12/2024 22:00'
+    daysGroup: 13/14/15
+  - poster: 466413689_10228940662086670_7275623882191420007_n.jpg
+    city: São Paulo
+    date: '14/11/2024 19:00'
+    daysGroup: 12/13/14/15/16/17
+    ticketsUrl: 'https://fastix.com.br/events/enslaved-em-sao-paulo'
+  - poster: 466462480_122116965422551515_5550101862547283130_n.jpg
+    city: São Paulo
+    date: '11/01/2025 13:00'
+    daysGroup: 10/11/12
+  - poster: 466378921_8827007627359648_4607060446565868694_n.jpg
+    city: São Paulo
+    date: '08/12/2024 16:00'
+    daysGroup: 06/07/08
+    ticketsUrl: 'https://www.sympla.com.br/evento/sendo-fogo-fun-for-freaks-vurtu-atropelo/2722699'
+  - poster: 466739229_2110594126083240_3204147081231645446_n.jpg
+    city: Bauru
+    date: '15/11/2024 22:00'
+    daysGroup: 12/13/14/15/16/17
+  - poster: 466632175_2110594386083214_2490859914607785209_n.jpg
+    city: Bauru
+    date: '15/11/2024 14:00'
+    daysGroup: 12/13/14/15/16/17
+  - poster: 466729044_2110594922749827_4137543703934075213_n.jpg
+    city: Agudos
+    date: '07/12/2024 19:00'
+    daysGroup: 06/07/08
 ---
 
