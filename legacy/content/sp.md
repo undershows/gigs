@@ -4663,5 +4663,11 @@ gigs:
     city: Jaú
     date: '09/11/2024 13:00'
     daysGroup: 08/09/10
+  - poster: 12-11_Hypocrisy_resized.jpg
+    city: São Paulo
+    date: '12/11/2024 19:00'
+    daysGroup: 12/13/14/15/16/17
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/hypocrisy-torture-squad-siegrid-ingrid/2691512
 ---
 

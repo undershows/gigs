@@ -79,12 +79,6 @@ gigs:
     daysGroup: 19/20
     ticketsUrl: >-
       https://www.sympla.com.br/evento/crush-all-tyranny-agravo-herdeiros-do-odio-undershows-fest-iii/2686582
-  - poster: 12-11_Hypocrisy_resized.jpg
-    city: São Paulo
-    date: '12/11/2024 19:00'
-    daysGroup: 12/13/14/15/16/17
-    ticketsUrl: >-
-      https://www.sympla.com.br/evento/hypocrisy-torture-squad-siegrid-ingrid/2691512
   - poster: 16-11_agudos_resized.jpg
     city: Agudos
     date: '16/11/2024 19:00'
@@ -207,7 +201,8 @@ gigs:
     city: São Paulo
     date: '08/12/2024 16:00'
     daysGroup: 06/07/08
-    ticketsUrl: 'https://www.sympla.com.br/evento/sendo-fogo-fun-for-freaks-vurtu-atropelo/2722699'
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/sendo-fogo-fun-for-freaks-vurtu-atropelo/2722699
   - poster: 466739229_2110594126083240_3204147081231645446_n.jpg
     city: Bauru
     date: '15/11/2024 22:00'
