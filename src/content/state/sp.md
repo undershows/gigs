@@ -32,12 +32,6 @@ gigs:
     city: Santo André
     date: '16/11/2024 16:00'
     daysGroup: 12/13/14/15/16/17
-  - poster: 14-11_Lorena_resized.jpg
-    city: Lorena
-    date: '14/11/2024 20:00'
-    daysGroup: 12/13/14/15/16/17
-    ticketsUrl: >-
-      https://www.sympla.com.br/evento/nervochaos-siegrid-ingrid-ancestral-malediction/2642189
   - poster: 17-11_Piracicaba_resized.jpg
     city: Piracicaba
     date: '17/11/2024 16:00'
@@ -164,10 +158,6 @@ gigs:
     daysGroup: 15/16/17
     ticketsUrl: >-
       https://101tickets.com.br/events/details/Cemiterio,-Platoon,-Culpado,-Evil-Sindcate-e-Antro
-  - poster: 2791f3f8-7490-4dab-a56e-0cfc7b4b3cc3.jpeg
-    city: São Paulo
-    date: '14/11/2024 19:00'
-    daysGroup: 12/13/14/15/16/17
   - poster: 466462156_3836986519894858_447226014048910533_n.jpg
     city: São Paulo
     date: '15/11/2024 15:00'
@@ -188,11 +178,6 @@ gigs:
     city: São Paulo
     date: '14/12/2024 22:00'
     daysGroup: 13/14/15
-  - poster: 466413689_10228940662086670_7275623882191420007_n.jpg
-    city: São Paulo
-    date: '14/11/2024 19:00'
-    daysGroup: 12/13/14/15/16/17
-    ticketsUrl: 'https://fastix.com.br/events/enslaved-em-sao-paulo'
   - poster: 466462480_122116965422551515_5550101862547283130_n.jpg
     city: São Paulo
     date: '11/01/2025 13:00'

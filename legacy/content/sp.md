@@ -4669,5 +4669,20 @@ gigs:
     daysGroup: 12/13/14/15/16/17
     ticketsUrl: >-
       https://www.sympla.com.br/evento/hypocrisy-torture-squad-siegrid-ingrid/2691512
+  - poster: 14-11_Lorena_resized.jpg
+    city: Lorena
+    date: '14/11/2024 20:00'
+    daysGroup: 12/13/14/15/16/17
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/nervochaos-siegrid-ingrid-ancestral-malediction/2642189
+  - poster: 2791f3f8-7490-4dab-a56e-0cfc7b4b3cc3.jpeg
+    city: São Paulo
+    date: '14/11/2024 19:00'
+    daysGroup: 12/13/14/15/16/17
+  - poster: 466413689_10228940662086670_7275623882191420007_n.jpg
+    city: São Paulo
+    date: '14/11/2024 19:00'
+    daysGroup: 12/13/14/15/16/17
+    ticketsUrl: 'https://fastix.com.br/events/enslaved-em-sao-paulo'
 ---
 
