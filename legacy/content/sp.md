@@ -4684,5 +4684,25 @@ gigs:
     date: '14/11/2024 19:00'
     daysGroup: 12/13/14/15/16/17
     ticketsUrl: 'https://fastix.com.br/events/enslaved-em-sao-paulo'
+  - poster: 465953455_1197117024719917_1001788842139940890_n.jpeg
+    city: São Paulo
+    date: '15/11/2024 17:00'
+    daysGroup: 12/13/14/15/16/17
+  - poster: 465828084_8581381221946325_1959735044669527310_n.jpg
+    city: São Paulo
+    date: '15/11/2024 19:00'
+    daysGroup: 12/13/14/15/16/17
+  - poster: 466462156_3836986519894858_447226014048910533_n.jpg
+    city: São Paulo
+    date: '15/11/2024 15:00'
+    daysGroup: 12/13/14/15/16/17
+  - poster: 466739229_2110594126083240_3204147081231645446_n.jpg
+    city: Bauru
+    date: '15/11/2024 22:00'
+    daysGroup: 12/13/14/15/16/17
+  - poster: 466632175_2110594386083214_2490859914607785209_n.jpg
+    city: Bauru
+    date: '15/11/2024 14:00'
+    daysGroup: 12/13/14/15/16/17
 ---
 

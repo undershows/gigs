@@ -453,5 +453,9 @@ gigs:
     city: Maringá
     date: '08/11/2024 22:00'
     daysGroup: 08/09/10
+  - poster: 77c567d0-cb61-402d-9cf2-fec5b64aee5d.jpeg
+    city: Curitiba
+    date: '15/11/2024 19:00'
+    daysGroup: 15/16/17
 ---
 

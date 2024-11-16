@@ -97,18 +97,10 @@ gigs:
     date: '24/11/2024 14:00'
     daysGroup: 22/23/24
     ticketsUrl: 'https://www.sympla.com.br/evento/stoned-fest-ii/2722710'
-  - poster: 465953455_1197117024719917_1001788842139940890_n.jpeg
-    city: São Paulo
-    date: '15/11/2024 17:00'
-    daysGroup: 12/13/14/15/16/17
   - poster: 465956042_1108527920899035_3994806460753018_n.jpg
     city: São Paulo
     date: '15/12/2024 15:00'
     daysGroup: 13/14/15
-  - poster: 465828084_8581381221946325_1959735044669527310_n.jpg
-    city: São Paulo
-    date: '15/11/2024 19:00'
-    daysGroup: 12/13/14/15/16/17
   - poster: 465805836_1106092000971719_577022857771434374_n.jpeg
     city: Santo André
     date: '22/12/2024 19:00'
@@ -158,10 +150,6 @@ gigs:
     daysGroup: 15/16/17
     ticketsUrl: >-
       https://101tickets.com.br/events/details/Cemiterio,-Platoon,-Culpado,-Evil-Sindcate-e-Antro
-  - poster: 466462156_3836986519894858_447226014048910533_n.jpg
-    city: São Paulo
-    date: '15/11/2024 15:00'
-    daysGroup: 12/13/14/15/16/17
   - poster: 466416658_10229126374876286_6737982589191922170_n.jpg
     city: São Paulo
     date: '16/11/2024 18:00'
@@ -188,14 +176,6 @@ gigs:
     daysGroup: 06/07/08
     ticketsUrl: >-
       https://www.sympla.com.br/evento/sendo-fogo-fun-for-freaks-vurtu-atropelo/2722699
-  - poster: 466739229_2110594126083240_3204147081231645446_n.jpg
-    city: Bauru
-    date: '15/11/2024 22:00'
-    daysGroup: 12/13/14/15/16/17
-  - poster: 466632175_2110594386083214_2490859914607785209_n.jpg
-    city: Bauru
-    date: '15/11/2024 14:00'
-    daysGroup: 12/13/14/15/16/17
   - poster: 466729044_2110594922749827_4137543703934075213_n.jpg
     city: Agudos
     date: '07/12/2024 19:00'
