@@ -6,20 +6,11 @@ gigs:
     city: Praia Grande
     date: '21/12/2024 20:00'
     daysGroup: 19/20/21/22
-  - poster: b3347e7b-cf9a-4b4c-9adc-1fd1aa64097d.jpeg
-    city: São Paulo
-    date: '16/11/2024 20:00'
-    daysGroup: 12/13/14/15/16/17
   - poster: 5e2445a7-e7a4-4219-be0b-9e0bcfefb983.jpeg
     city: São Paulo
     date: '08/03/2025 14:00'
     daysGroup: 07/08/09
     ticketsUrl: 'https://bilheto.com.br/comprar/2604/m-a-d-metal-fest-sao-paulo'
-  - poster: 0513b081-fd55-426b-bd02-94bd5eda455e.jpeg
-    city: São Paulo
-    date: '16/11/2024 17:00'
-    daysGroup: 12/13/14/15/16/17
-    ticketsUrl: 'https://pixelticket.com.br/eventos/20440/devotion-mortis-iii/ingressos'
   - poster: 50f23103-923c-43b9-9643-0b55a18f315a.jpeg
     city: Sorocaba
     date: '21/12/2024 15:00'
@@ -28,10 +19,6 @@ gigs:
     city: Marília
     date: '15/12/2024 18:00'
     daysGroup: 13/14/15
-  - poster: 8b49a7ce-fb3d-42e9-9702-ba2ae66aea5e.jpeg
-    city: Santo André
-    date: '16/11/2024 16:00'
-    daysGroup: 12/13/14/15/16/17
   - poster: 17-11_Piracicaba_resized.jpg
     city: Piracicaba
     date: '17/11/2024 16:00'
@@ -73,10 +60,6 @@ gigs:
     daysGroup: 19/20
     ticketsUrl: >-
       https://www.sympla.com.br/evento/crush-all-tyranny-agravo-herdeiros-do-odio-undershows-fest-iii/2686582
-  - poster: 16-11_agudos_resized.jpg
-    city: Agudos
-    date: '16/11/2024 19:00'
-    daysGroup: 12/13/14/15/16/17
   - poster: 19-12_Ribeirao_Preto_resized.jpg
     city: Ribeirão Preto
     date: '19/12/2024 20:00'
@@ -144,24 +127,10 @@ gigs:
     city: Campinas
     date: '17/11/2024 17:00'
     daysGroup: 15/16/17
-  - poster: 463835027_2878167389007909_1021373594913020115_n.jpg
-    city: São Paulo
-    date: '16/11/2024 17:00'
-    daysGroup: 15/16/17
-    ticketsUrl: >-
-      https://101tickets.com.br/events/details/Cemiterio,-Platoon,-Culpado,-Evil-Sindcate-e-Antro
-  - poster: 466416658_10229126374876286_6737982589191922170_n.jpg
-    city: São Paulo
-    date: '16/11/2024 18:00'
-    daysGroup: 12/13/14/15/16/17
   - poster: 466376462_3795817980730652_19095260789768015_n.jpg
     city: São José dos Campos
     date: '30/11/2024 18:00'
     daysGroup: 29/30
-  - poster: 466085674_3795818377397279_3704695410355555951_n.jpg
-    city: São Paulo
-    date: '16/11/2024 13:00'
-    daysGroup: 12/13/14/15/16/17
   - poster: 466642780_10230279018776844_4048264838757911986_n.jpg
     city: São Paulo
     date: '14/12/2024 22:00'

@@ -4704,5 +4704,36 @@ gigs:
     city: Bauru
     date: '15/11/2024 14:00'
     daysGroup: 12/13/14/15/16/17
+  - poster: b3347e7b-cf9a-4b4c-9adc-1fd1aa64097d.jpeg
+    city: São Paulo
+    date: '16/11/2024 20:00'
+    daysGroup: 12/13/14/15/16/17
+  - poster: 0513b081-fd55-426b-bd02-94bd5eda455e.jpeg
+    city: São Paulo
+    date: '16/11/2024 17:00'
+    daysGroup: 12/13/14/15/16/17
+    ticketsUrl: 'https://pixelticket.com.br/eventos/20440/devotion-mortis-iii/ingressos'
+  - poster: 8b49a7ce-fb3d-42e9-9702-ba2ae66aea5e.jpeg
+    city: Santo André
+    date: '16/11/2024 16:00'
+    daysGroup: 12/13/14/15/16/17
+  - poster: 16-11_agudos_resized.jpg
+    city: Agudos
+    date: '16/11/2024 19:00'
+    daysGroup: 12/13/14/15/16/17
+  - poster: 463835027_2878167389007909_1021373594913020115_n.jpg
+    city: São Paulo
+    date: '16/11/2024 17:00'
+    daysGroup: 15/16/17
+    ticketsUrl: >-
+      https://101tickets.com.br/events/details/Cemiterio,-Platoon,-Culpado,-Evil-Sindcate-e-Antro
+  - poster: 466416658_10229126374876286_6737982589191922170_n.jpg
+    city: São Paulo
+    date: '16/11/2024 18:00'
+    daysGroup: 12/13/14/15/16/17
+  - poster: 466085674_3795818377397279_3704695410355555951_n.jpg
+    city: São Paulo
+    date: '16/11/2024 13:00'
+    daysGroup: 12/13/14/15/16/17
 ---
 

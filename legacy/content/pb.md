@@ -120,5 +120,9 @@ gigs:
     date: '04/08/2024 20:00'
     daysGroup: 02/03/04
     ticketsUrl: 'https://www.sympla.com.br/evento/facada-ao-vivo-em-joao-pessoa/2485644'
+  - poster: 3874bde8-eca5-4976-86cc-093fc32f7f96.jpeg
+    city: João Pessoa
+    date: '16/11/2024 15:00'
+    daysGroup: 15/16/17
 ---
 
