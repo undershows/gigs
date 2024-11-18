@@ -19,11 +19,6 @@ gigs:
     city: Marília
     date: '15/12/2024 18:00'
     daysGroup: 13/14/15
-  - poster: 17-11_Piracicaba_resized.jpg
-    city: Piracicaba
-    date: '17/11/2024 16:00'
-    daysGroup: 12/13/14/15/16/17
-    ticketsUrl: 'https://www.sympla.com.br/evento/nervochaos-siegrid-ingrid-chacina/2627980'
   - poster: 21-12_Limeira_resized.jpg
     city: Limeira
     date: '21/12/2024 17:00'
@@ -123,10 +118,6 @@ gigs:
     city: Bauru
     date: '22/11/2024 19:00'
     daysGroup: 22/23/24
-  - poster: 464966772_2895416737282974_2232190846592819665_n.jpg
-    city: Campinas
-    date: '17/11/2024 17:00'
-    daysGroup: 15/16/17
   - poster: 466376462_3795817980730652_19095260789768015_n.jpg
     city: São José dos Campos
     date: '30/11/2024 18:00'
