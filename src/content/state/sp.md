@@ -109,7 +109,7 @@ gigs:
     daysGroup: 06/07/08
     ticketsUrl: 'https://www.sympla.com.br/evento/masters-of-noise-2024/2621818'
   - poster: 466001859_430354516542435_4768477302990422246_n.jpg
-    city: Bauru
+    city: São Paulo
     date: '22/11/2024 19:00'
     daysGroup: 22/23/24
   - poster: 466376462_3795817980730652_19095260789768015_n.jpg
