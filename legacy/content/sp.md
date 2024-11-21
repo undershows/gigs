@@ -4744,5 +4744,11 @@ gigs:
     city: Campinas
     date: '17/11/2024 17:00'
     daysGroup: 15/16/17
+  - poster: undershows-A3.jpg
+    city: São Paulo
+    date: '20/11/2024 18:00'
+    daysGroup: 19/20
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/crush-all-tyranny-agravo-herdeiros-do-odio-undershows-fest-iii/2686582
 ---
 

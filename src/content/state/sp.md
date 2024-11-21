@@ -49,12 +49,6 @@ gigs:
     city: São Paulo
     date: '07/12/2024 22:00'
     daysGroup: 06/07/08
-  - poster: undershows-A3.jpg
-    city: São Paulo
-    date: '20/11/2024 18:00'
-    daysGroup: 19/20
-    ticketsUrl: >-
-      https://www.sympla.com.br/evento/crush-all-tyranny-agravo-herdeiros-do-odio-undershows-fest-iii/2686582
   - poster: 19-12_Ribeirao_Preto_resized.jpg
     city: Ribeirão Preto
     date: '19/12/2024 20:00'
