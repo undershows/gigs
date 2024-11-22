@@ -10,9 +10,5 @@ gigs:
     city: Linhares
     date: '22/11/2024 20:00'
     daysGroup: 21/22/23/24
-  - poster: 21-11_Vila_Velha_resized.jpg
-    city: Vila Velha
-    date: '21/11/2024 18:00'
-    daysGroup: 21/22/23/24
 ---
 

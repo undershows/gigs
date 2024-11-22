@@ -85,5 +85,9 @@ gigs:
     city: Vila Velha
     date: '22/06/2024 14:00'
     daysGroup: 20/21/22/23
+  - poster: 21-11_Vila_Velha_resized.jpg
+    city: Vila Velha
+    date: '21/11/2024 18:00'
+    daysGroup: 21/22/23/24
 ---
 
