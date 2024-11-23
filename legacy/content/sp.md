@@ -4750,5 +4750,17 @@ gigs:
     daysGroup: 19/20
     ticketsUrl: >-
       https://www.sympla.com.br/evento/crush-all-tyranny-agravo-herdeiros-do-odio-undershows-fest-iii/2686582
+  - poster: 466536327_3991098637776031_847737454445342943_n.jpeg
+    city: Bauru
+    date: '22/11/2024 20:00'
+    daysGroup: 22/23/24
+  - poster: 466001859_430354516542435_4768477302990422246_n.jpg
+    city: São Paulo
+    date: '22/11/2024 19:00'
+    daysGroup: 22/23/24
+  - poster: 467979345_8686627938097372_7019783907402907626_n.jpg
+    city: São Paulo
+    date: '22/11/2024 19:00'
+    daysGroup: 22/23/24
 ---
 

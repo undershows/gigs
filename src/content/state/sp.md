@@ -86,10 +86,6 @@ gigs:
     city: São Paulo
     date: '24/11/2024 20:00'
     daysGroup: 22/23/24
-  - poster: 466536327_3991098637776031_847737454445342943_n.jpeg
-    city: Bauru
-    date: '22/11/2024 20:00'
-    daysGroup: 22/23/24
   - poster: 466002652_17907097635048719_1508314061937840170_n.jpg
     city: São Paulo
     date: '23/11/2024 20:00'
@@ -108,10 +104,6 @@ gigs:
     date: '15/12/2024 13:00'
     daysGroup: 06/07/08
     ticketsUrl: 'https://www.sympla.com.br/evento/masters-of-noise-2024/2621818'
-  - poster: 466001859_430354516542435_4768477302990422246_n.jpg
-    city: São Paulo
-    date: '22/11/2024 19:00'
-    daysGroup: 22/23/24
   - poster: 466376462_3795817980730652_19095260789768015_n.jpg
     city: São José dos Campos
     date: '30/11/2024 18:00'
@@ -145,10 +137,6 @@ gigs:
   - poster: 467912816_8259530094151160_8318615079538820686_n.jpg
     city: São Paulo
     date: '23/11/2024 18:00'
-    daysGroup: 22/23/24
-  - poster: 467979345_8686627938097372_7019783907402907626_n.jpg
-    city: São Paulo
-    date: '22/11/2024 19:00'
     daysGroup: 22/23/24
   - poster: 467955034_8696898223750878_5745072397735072267_n.jpg
     city: São Paulo
