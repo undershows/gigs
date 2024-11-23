@@ -47,7 +47,7 @@ gigs:
     daysGroup: 06/07/08
   - poster: 462680111_1282649492869131_4401435935130035015_n.jpg
     city: São Paulo
-    date: '07/12/2024 22:00'
+    date: '07/12/2024 12:00'
     daysGroup: 06/07/08
   - poster: 19-12_Ribeirao_Preto_resized.jpg
     city: Ribeirão Preto
