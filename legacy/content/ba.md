@@ -38,5 +38,11 @@ gigs:
     daysGroup: 27/28/29
     ticketsUrl: >-
       https://www.sympla.com.br/evento/sangue-quente-apresenta-ratos-de-porao-turne-40-anos-3/2557628
+  - poster: 23-11_Vitoria_da_Conquista_resized.jpg
+    city: Vitória da Conquista
+    date: '23/11/2024 19:00'
+    daysGroup: 22/23/24
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/conquista-metal-fest-lucifers-child-nervochaos-imflawed-nazgul-headless-queen/2692543
 ---
 

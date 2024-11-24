@@ -86,10 +86,6 @@ gigs:
     city: São Paulo
     date: '24/11/2024 20:00'
     daysGroup: 22/23/24
-  - poster: 466002652_17907097635048719_1508314061937840170_n.jpg
-    city: São Paulo
-    date: '23/11/2024 20:00'
-    daysGroup: 22/23/24
   - poster: 465971988_965633688765528_8828791039347855371_n.jpeg
     city: Itu
     date: '30/11/2024 18:00'
@@ -126,18 +122,6 @@ gigs:
     city: Agudos
     date: '07/12/2024 19:00'
     daysGroup: 06/07/08
-  - poster: 467723771_27523508570630630_8758584709567775411_n.jpg
-    city: São Paulo
-    date: '23/11/2024 17:00'
-    daysGroup: 22/23/24
-  - poster: 468008387_8704651329621404_5420706221702017431_n.jpg
-    city: Jundiaí
-    date: '23/11/2024 14:00'
-    daysGroup: 22/23/24
-  - poster: 467912816_8259530094151160_8318615079538820686_n.jpg
-    city: São Paulo
-    date: '23/11/2024 18:00'
-    daysGroup: 22/23/24
   - poster: 467955034_8696898223750878_5745072397735072267_n.jpg
     city: São Paulo
     date: '14/12/2024 19:00'
@@ -154,9 +138,5 @@ gigs:
     city: São Paulo
     date: '18/10/2025 18:00'
     daysGroup: 17/18/19
-  - poster: 467208923_1704091720387560_8217523528937256751_n.jpeg
-    city: São Paulo
-    date: '23/11/2024 19:00'
-    daysGroup: 22/23/24
 ---
 
