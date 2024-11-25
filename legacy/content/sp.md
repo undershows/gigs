@@ -4782,5 +4782,18 @@ gigs:
     city: São Paulo
     date: '23/11/2024 19:00'
     daysGroup: 22/23/24
+  - poster: 465687812_9123486704342781_254385938358150524_n.jpeg
+    city: São Paulo
+    date: '24/11/2024 14:00'
+    daysGroup: 22/23/24
+    ticketsUrl: 'https://www.sympla.com.br/evento/stoned-fest-ii/2722710'
+  - poster: 466007993_18080576992545389_5252574658709477897_n.jpg
+    city: São Paulo
+    date: '24/11/2024 20:00'
+    daysGroup: 22/23/24
+  - poster: 464334219_8497259643694460_6968687133653137709_n.jpeg
+    city: São Paulo
+    date: '24/11/2024 15:00'
+    daysGroup: 22/23/24
 ---
 

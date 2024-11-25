@@ -2,12 +2,6 @@
 abbr: PR
 name: Paraná
 gigs:
-  - poster: 447705759_18439910632025079_2323678721400223584_n.jpg
-    city: Curitiba
-    date: '24/11/2024 12:00'
-    daysGroup: 22/23/24
-    ticketsUrl: >-
-      https://pixelticket.com.br/eventos/21273/festival-musica-e-atitude-em-curitiba
   - poster: b92e12ae-ca51-4be0-aaa7-ca716e42f708.jpeg
     city: Maringá
     date: '15/12/2024 11:00'
@@ -20,6 +14,7 @@ gigs:
     city: Londrina
     date: '18/12/2024 20:00'
     daysGroup: 18/19/20/21/22
-    ticketsUrl: 'https://www.sympla.com.br/evento/aeternus-noruega-stalker-nova-zelandia-nervochaos-brasil/2692984'
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/aeternus-noruega-stalker-nova-zelandia-nervochaos-brasil/2692984
 ---
 

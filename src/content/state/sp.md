@@ -64,11 +64,6 @@ gigs:
     date: '07/12/2024 19:00'
     daysGroup: 06/07/08
     ticketsUrl: 'https://pixelticket.com.br/eventos/24330/flicts-devotos-os-insociaveis'
-  - poster: 465687812_9123486704342781_254385938358150524_n.jpeg
-    city: São Paulo
-    date: '24/11/2024 14:00'
-    daysGroup: 22/23/24
-    ticketsUrl: 'https://www.sympla.com.br/evento/stoned-fest-ii/2722710'
   - poster: 465956042_1108527920899035_3994806460753018_n.jpg
     city: São Paulo
     date: '15/12/2024 15:00'
@@ -82,10 +77,6 @@ gigs:
     date: '13/12/2024 19:00'
     daysGroup: 13/14/15
     ticketsUrl: 'https://pixelticket.com.br/eventos/17013/encruzapalooza'
-  - poster: 466007993_18080576992545389_5252574658709477897_n.jpg
-    city: São Paulo
-    date: '24/11/2024 20:00'
-    daysGroup: 22/23/24
   - poster: 465971988_965633688765528_8828791039347855371_n.jpeg
     city: Itu
     date: '30/11/2024 18:00'
@@ -130,10 +121,6 @@ gigs:
     city: São Paulo
     date: '08/12/2024 13:00'
     daysGroup: 06/07/08
-  - poster: 464334219_8497259643694460_6968687133653137709_n.jpeg
-    city: São Paulo
-    date: '24/11/2024 15:00'
-    daysGroup: 22/23/24
   - poster: 1177eb09-9816-4fb6-8406-2a214c577775.jpeg
     city: São Paulo
     date: '18/10/2025 18:00'
