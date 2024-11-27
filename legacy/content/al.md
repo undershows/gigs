@@ -5,5 +5,9 @@ gigs:
     date: '03/08/2024 20:00'
     daysGroup: 02/03/04
     ticketsUrl: 'https://www.sympla.com.br/evento/festival-maxima-voltagem/2446327'
+  - poster: 26-11_Arapiraca_resized.jpg
+    city: Arapiraca
+    date: '26/11/2024 19:00'
+    daysGroup: 22/23/24/25/26
 ---
 
