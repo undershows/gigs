@@ -4795,5 +4795,13 @@ gigs:
     city: São Paulo
     date: '24/11/2024 15:00'
     daysGroup: 22/23/24
+  - poster: 465971988_965633688765528_8828791039347855371_n.jpeg
+    city: Itu
+    date: '30/11/2024 18:00'
+    daysGroup: 29/30
+  - poster: 466376462_3795817980730652_19095260789768015_n.jpg
+    city: São José dos Campos
+    date: '30/11/2024 18:00'
+    daysGroup: 29/30
 ---
 

@@ -160,5 +160,11 @@ gigs:
     city: Natal
     date: '13/09/2024 20:00'
     daysGroup: 13/14/15
+  - poster: 30-11_Natal_resized.jpg
+    city: Natal
+    date: '30/11/2024 20:00'
+    daysGroup: 29/30
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/lucifers-child-nervochaos-expose-your-hate-sanctifier-imflawed/2605541
 ---
 

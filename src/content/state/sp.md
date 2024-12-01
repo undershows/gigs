@@ -77,10 +77,6 @@ gigs:
     date: '13/12/2024 19:00'
     daysGroup: 13/14/15
     ticketsUrl: 'https://pixelticket.com.br/eventos/17013/encruzapalooza'
-  - poster: 465971988_965633688765528_8828791039347855371_n.jpeg
-    city: Itu
-    date: '30/11/2024 18:00'
-    daysGroup: 29/30
   - poster: 465819720_530682276473732_1267326253564929096_n.jpeg
     city: Diadema
     date: '08/12/2024 13:00'
@@ -91,10 +87,6 @@ gigs:
     date: '15/12/2024 13:00'
     daysGroup: 06/07/08
     ticketsUrl: 'https://www.sympla.com.br/evento/masters-of-noise-2024/2621818'
-  - poster: 466376462_3795817980730652_19095260789768015_n.jpg
-    city: São José dos Campos
-    date: '30/11/2024 18:00'
-    daysGroup: 29/30
   - poster: 466642780_10230279018776844_4048264838757911986_n.jpg
     city: São Paulo
     date: '14/12/2024 22:00'

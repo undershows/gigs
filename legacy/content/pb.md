@@ -132,5 +132,9 @@ gigs:
     city: João Pessoa
     date: '29/11/2024 20:00'
     daysGroup: 29/30
+  - poster: 37e3f9dc-93f6-4192-9158-13d7dedf0f0e.jpeg
+    city: João Pessoa
+    date: '30/11/2024 21:00'
+    daysGroup: 29/30
 ---
 
