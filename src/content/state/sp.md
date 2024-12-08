@@ -41,10 +41,6 @@ gigs:
     city: São Paulo
     date: '21/12/2024 19:00'
     daysGroup: 19/20/21/22
-  - poster: 462680111_1282649492869131_4401435935130035015_n.jpg
-    city: São Paulo
-    date: '07/12/2024 12:00'
-    daysGroup: 06/07/08
   - poster: 19-12_Ribeirao_Preto_resized.jpg
     city: Ribeirão Preto
     date: '19/12/2024 20:00'
@@ -55,11 +51,6 @@ gigs:
     date: '20/12/2024 20:00'
     daysGroup: 19/20/21/22
     ticketsUrl: 'https://www.sympla.com.br/evento/aeternus-nervochaos-wisdom/2707933'
-  - poster: 466119556_9137714369594082_1375735450222607473_n.jpg
-    city: São Paulo
-    date: '07/12/2024 19:00'
-    daysGroup: 06/07/08
-    ticketsUrl: 'https://pixelticket.com.br/eventos/24330/flicts-devotos-os-insociaveis'
   - poster: 465956042_1108527920899035_3994806460753018_n.jpg
     city: São Paulo
     date: '15/12/2024 15:00'
@@ -97,10 +88,6 @@ gigs:
     daysGroup: 06/07/08
     ticketsUrl: >-
       https://www.sympla.com.br/evento/sendo-fogo-fun-for-freaks-vurtu-atropelo/2722699
-  - poster: 466729044_2110594922749827_4137543703934075213_n.jpg
-    city: Agudos
-    date: '07/12/2024 19:00'
-    daysGroup: 06/07/08
   - poster: 467955034_8696898223750878_5745072397735072267_n.jpg
     city: São Paulo
     date: '14/12/2024 19:00'

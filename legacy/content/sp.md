@@ -4807,5 +4807,18 @@ gigs:
     city: São Paulo
     date: '06/12/2024 22:00'
     daysGroup: 06/07/08
+  - poster: 462680111_1282649492869131_4401435935130035015_n.jpg
+    city: São Paulo
+    date: '07/12/2024 12:00'
+    daysGroup: 06/07/08
+  - poster: 466119556_9137714369594082_1375735450222607473_n.jpg
+    city: São Paulo
+    date: '07/12/2024 19:00'
+    daysGroup: 06/07/08
+    ticketsUrl: 'https://pixelticket.com.br/eventos/24330/flicts-devotos-os-insociaveis'
+  - poster: 466729044_2110594922749827_4137543703934075213_n.jpg
+    city: Agudos
+    date: '07/12/2024 19:00'
+    daysGroup: 06/07/08
 ---
 
