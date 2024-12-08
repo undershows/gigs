@@ -116,5 +116,6 @@ gigs:
     city: São Paulo
     date: '21/03/2025 19:00'
     daysGroup: 21/22/23
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/marcomalditofestival-cariocaclub'
 ---
 
