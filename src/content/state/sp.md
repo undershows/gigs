@@ -100,5 +100,17 @@ gigs:
     city: São Paulo
     date: '18/10/2025 18:00'
     daysGroup: 17/18/19
+  - poster: 48a38ad8-1cb0-42ae-86bc-53b0a618dde8.jpeg
+    city: Peruíbe
+    date: '20/04/2025 1-:00'
+    daysGroup: 18/19/20
+  - poster: 7c757235-9aac-4a50-905c-372e36a546b8.jpeg
+    city: São Paulo
+    date: '20/12/2024 20:00'
+    daysGroup: 19/20/21/22
+  - poster: 1171a12d-469b-4a74-9479-2aee6b7c4f73.jpeg
+    city: Mauá
+    date: '28/12/2024 20:00'
+    daysGroup: 27/28/29
 ---
 
