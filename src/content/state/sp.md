@@ -111,11 +111,15 @@ gigs:
   - poster: 1171a12d-469b-4a74-9479-2aee6b7c4f73.jpeg
     city: Mauá
     date: '28/12/2024 20:00'
-    daysGroup: 27/28/29
+    daysGroup: 25/26/27/28/29
   - poster: 469600543_18247181188263705_7603923187443628932_n.jpg
     city: São Paulo
     date: '21/03/2025 19:00'
     daysGroup: 21/22/23
     ticketsUrl: 'https://www.clubedoingresso.com/evento/marcomalditofestival-cariocaclub'
+  - poster: 468533208_10161702916711708_1400947114283382260_n.jpg
+    city: São Paulo
+    date: '25/12/2024 15:00'
+    daysGroup: 25/26/27/28/29
 ---
 
