@@ -64,11 +64,6 @@ gigs:
     date: '13/12/2024 19:00'
     daysGroup: 13/14/15
     ticketsUrl: 'https://pixelticket.com.br/eventos/17013/encruzapalooza'
-  - poster: 465819720_530682276473732_1267326253564929096_n.jpeg
-    city: Diadema
-    date: '08/12/2024 13:00'
-    daysGroup: 06/07/08
-    ticketsUrl: 'https://www.sympla.com.br/evento/masters-of-noise-2024/2621818'
   - poster: 465819720_530682276473732_1267326253564929096_n_2.jpeg
     city: Diadema
     date: '15/12/2024 13:00'
@@ -82,20 +77,10 @@ gigs:
     city: São Paulo
     date: '11/01/2025 13:00'
     daysGroup: 10/11/12
-  - poster: 466378921_8827007627359648_4607060446565868694_n.jpg
-    city: São Paulo
-    date: '08/12/2024 16:00'
-    daysGroup: 06/07/08
-    ticketsUrl: >-
-      https://www.sympla.com.br/evento/sendo-fogo-fun-for-freaks-vurtu-atropelo/2722699
   - poster: 467955034_8696898223750878_5745072397735072267_n.jpg
     city: São Paulo
     date: '14/12/2024 19:00'
     daysGroup: 13/14/15
-  - poster: a05b879e-10ff-49ae-86a5-e3a43ccc323a.jpeg
-    city: São Paulo
-    date: '08/12/2024 13:00'
-    daysGroup: 06/07/08
   - poster: 1177eb09-9816-4fb6-8406-2a214c577775.jpeg
     city: São Paulo
     date: '18/10/2025 18:00'
