@@ -59,11 +59,6 @@ gigs:
     city: Santo André
     date: '22/12/2024 19:00'
     daysGroup: 19/20/21/22
-  - poster: 465968671_1094126108283219_2396529000352600210_n.jpeg
-    city: São Paulo
-    date: '13/12/2024 19:00'
-    daysGroup: 13/14/15
-    ticketsUrl: 'https://pixelticket.com.br/eventos/17013/encruzapalooza'
   - poster: 465819720_530682276473732_1267326253564929096_n_2.jpeg
     city: Diadema
     date: '15/12/2024 13:00'

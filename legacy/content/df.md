@@ -256,5 +256,9 @@ gigs:
     city: Brasília
     date: '17/11/2024 13:30'
     daysGroup: 15/16/17
+  - poster: 13-12_brasilia_resized.jpg
+    city: Brasília
+    date: '13/12/2024 20:00'
+    daysGroup: 13/14/15
 ---
 
