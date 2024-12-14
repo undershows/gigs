@@ -62,7 +62,7 @@ gigs:
   - poster: 465819720_530682276473732_1267326253564929096_n_2.jpeg
     city: Diadema
     date: '15/12/2024 13:00'
-    daysGroup: 06/07/08
+    daysGroup: 13/14/15
     ticketsUrl: 'https://www.sympla.com.br/evento/masters-of-noise-2024/2621818'
   - poster: 466642780_10230279018776844_4048264838757911986_n.jpg
     city: São Paulo
