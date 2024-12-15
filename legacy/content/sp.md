@@ -4840,5 +4840,13 @@ gigs:
     date: '13/12/2024 19:00'
     daysGroup: 13/14/15
     ticketsUrl: 'https://pixelticket.com.br/eventos/17013/encruzapalooza'
+  - poster: 466642780_10230279018776844_4048264838757911986_n.jpg
+    city: São Paulo
+    date: '14/12/2024 22:00'
+    daysGroup: 13/14/15
+  - poster: 467955034_8696898223750878_5745072397735072267_n.jpg
+    city: São Paulo
+    date: '14/12/2024 19:00'
+    daysGroup: 13/14/15
 ---
 

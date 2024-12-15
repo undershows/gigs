@@ -120,5 +120,11 @@ gigs:
     city: Formosa
     date: '07/09/2024 17:00'
     daysGroup: 06/07/08
+  - poster: 14-12_Goiania_resized.jpg
+    city: Goiânia
+    date: '14/12/2024 20:00'
+    daysGroup: 13/14/15
+    ticketsUrl: >-
+      https://www.bilheteriadigital.com/the-brazil-bombardment-tour-2024-14-de-dezembro
 ---
 

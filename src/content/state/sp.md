@@ -64,18 +64,10 @@ gigs:
     date: '15/12/2024 13:00'
     daysGroup: 13/14/15
     ticketsUrl: 'https://www.sympla.com.br/evento/masters-of-noise-2024/2621818'
-  - poster: 466642780_10230279018776844_4048264838757911986_n.jpg
-    city: São Paulo
-    date: '14/12/2024 22:00'
-    daysGroup: 13/14/15
   - poster: 466462480_122116965422551515_5550101862547283130_n.jpg
     city: São Paulo
     date: '11/01/2025 13:00'
     daysGroup: 10/11/12
-  - poster: 467955034_8696898223750878_5745072397735072267_n.jpg
-    city: São Paulo
-    date: '14/12/2024 19:00'
-    daysGroup: 13/14/15
   - poster: 1177eb09-9816-4fb6-8406-2a214c577775.jpeg
     city: São Paulo
     date: '18/10/2025 18:00'
