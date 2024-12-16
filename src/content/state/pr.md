@@ -2,10 +2,6 @@
 abbr: PR
 name: Paraná
 gigs:
-  - poster: b92e12ae-ca51-4be0-aaa7-ca716e42f708.jpeg
-    city: Maringá
-    date: '15/12/2024 11:00'
-    daysGroup: 13/14/15
   - poster: 465830678_1837129556695821_5035809304754057050_n.jpg
     city: Curitiba
     date: '08/02/2025 19:00'

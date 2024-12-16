@@ -4848,5 +4848,18 @@ gigs:
     city: São Paulo
     date: '14/12/2024 19:00'
     daysGroup: 13/14/15
+  - poster: 5447e3b0-d506-41b0-96fe-184fd3ad3f60.jpeg
+    city: Marília
+    date: '15/12/2024 18:00'
+    daysGroup: 13/14/15
+  - poster: 465956042_1108527920899035_3994806460753018_n.jpg
+    city: São Paulo
+    date: '15/12/2024 15:00'
+    daysGroup: 13/14/15
+  - poster: 465819720_530682276473732_1267326253564929096_n_2.jpeg
+    city: Diadema
+    date: '15/12/2024 13:00'
+    daysGroup: 13/14/15
+    ticketsUrl: 'https://www.sympla.com.br/evento/masters-of-noise-2024/2621818'
 ---
 

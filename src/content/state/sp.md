@@ -15,10 +15,6 @@ gigs:
     city: Sorocaba
     date: '21/12/2024 15:00'
     daysGroup: 19/20/21/22
-  - poster: 5447e3b0-d506-41b0-96fe-184fd3ad3f60.jpeg
-    city: Marília
-    date: '15/12/2024 18:00'
-    daysGroup: 13/14/15
   - poster: 21-12_Limeira_resized.jpg
     city: Limeira
     date: '21/12/2024 17:00'
@@ -51,19 +47,10 @@ gigs:
     date: '20/12/2024 20:00'
     daysGroup: 19/20/21/22
     ticketsUrl: 'https://www.sympla.com.br/evento/aeternus-nervochaos-wisdom/2707933'
-  - poster: 465956042_1108527920899035_3994806460753018_n.jpg
-    city: São Paulo
-    date: '15/12/2024 15:00'
-    daysGroup: 13/14/15
   - poster: 465805836_1106092000971719_577022857771434374_n.jpeg
     city: Santo André
     date: '22/12/2024 19:00'
     daysGroup: 19/20/21/22
-  - poster: 465819720_530682276473732_1267326253564929096_n_2.jpeg
-    city: Diadema
-    date: '15/12/2024 13:00'
-    daysGroup: 13/14/15
-    ticketsUrl: 'https://www.sympla.com.br/evento/masters-of-noise-2024/2621818'
   - poster: 466462480_122116965422551515_5550101862547283130_n.jpg
     city: São Paulo
     date: '11/01/2025 13:00'
