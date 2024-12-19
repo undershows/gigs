@@ -467,5 +467,11 @@ gigs:
     city: Maringá
     date: '15/12/2024 11:00'
     daysGroup: 13/14/15
+  - poster: 18-12_londrina_resized.jpg
+    city: Londrina
+    date: '18/12/2024 20:00'
+    daysGroup: 18/19/20/21/22
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/aeternus-noruega-stalker-nova-zelandia-nervochaos-brasil/2692984
 ---
 
