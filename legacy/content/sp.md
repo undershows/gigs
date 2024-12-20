@@ -4861,5 +4861,10 @@ gigs:
     date: '15/12/2024 13:00'
     daysGroup: 13/14/15
     ticketsUrl: 'https://www.sympla.com.br/evento/masters-of-noise-2024/2621818'
+  - poster: 19-12_Ribeirao_Preto_resized.jpg
+    city: Ribeirão Preto
+    date: '19/12/2024 20:00'
+    daysGroup: 19/20/21/22
+    ticketsUrl: 'https://www.sympla.com.br/evento/aeternus-nervochaos-wisdom/2707796'
 ---
 

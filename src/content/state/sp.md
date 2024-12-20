@@ -37,11 +37,6 @@ gigs:
     city: São Paulo
     date: '21/12/2024 19:00'
     daysGroup: 19/20/21/22
-  - poster: 19-12_Ribeirao_Preto_resized.jpg
-    city: Ribeirão Preto
-    date: '19/12/2024 20:00'
-    daysGroup: 19/20/21/22
-    ticketsUrl: 'https://www.sympla.com.br/evento/aeternus-nervochaos-wisdom/2707796'
   - poster: 20-12_Bauru_resized.jpg
     city: Bauru
     date: '20/12/2024 20:00'
