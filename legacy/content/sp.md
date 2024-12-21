@@ -4866,5 +4866,14 @@ gigs:
     date: '19/12/2024 20:00'
     daysGroup: 19/20/21/22
     ticketsUrl: 'https://www.sympla.com.br/evento/aeternus-nervochaos-wisdom/2707796'
+  - poster: 20-12_Bauru_resized.jpg
+    city: Bauru
+    date: '20/12/2024 20:00'
+    daysGroup: 19/20/21/22
+    ticketsUrl: 'https://www.sympla.com.br/evento/aeternus-nervochaos-wisdom/2707933'
+  - poster: 7c757235-9aac-4a50-905c-372e36a546b8.jpeg
+    city: São Paulo
+    date: '20/12/2024 20:00'
+    daysGroup: 19/20/21/22
 ---
 

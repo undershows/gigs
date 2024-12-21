@@ -37,11 +37,6 @@ gigs:
     city: São Paulo
     date: '21/12/2024 19:00'
     daysGroup: 19/20/21/22
-  - poster: 20-12_Bauru_resized.jpg
-    city: Bauru
-    date: '20/12/2024 20:00'
-    daysGroup: 19/20/21/22
-    ticketsUrl: 'https://www.sympla.com.br/evento/aeternus-nervochaos-wisdom/2707933'
   - poster: 465805836_1106092000971719_577022857771434374_n.jpeg
     city: Santo André
     date: '22/12/2024 19:00'
@@ -58,10 +53,6 @@ gigs:
     city: Peruíbe
     date: '20/04/2025 10:00'
     daysGroup: 18/19/20
-  - poster: 7c757235-9aac-4a50-905c-372e36a546b8.jpeg
-    city: São Paulo
-    date: '20/12/2024 20:00'
-    daysGroup: 19/20/21/22
   - poster: 1171a12d-469b-4a74-9479-2aee6b7c4f73.jpeg
     city: Mauá
     date: '28/12/2024 20:00'
