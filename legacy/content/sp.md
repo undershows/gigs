@@ -4875,5 +4875,23 @@ gigs:
     city: São Paulo
     date: '20/12/2024 20:00'
     daysGroup: 19/20/21/22
+  - poster: 07bb2fe9-56fe-4dcf-ba25-4291b8bf7fe9.jpeg
+    city: Praia Grande
+    date: '21/12/2024 20:00'
+    daysGroup: 19/20/21/22
+  - poster: 50f23103-923c-43b9-9643-0b55a18f315a.jpeg
+    city: Sorocaba
+    date: '21/12/2024 15:00'
+    daysGroup: 19/20/21/22
+  - poster: 21-12_Limeira_resized.jpg
+    city: Limeira
+    date: '21/12/2024 17:00'
+    daysGroup: 19/20/21/22
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/vulcano-aeternus-nervochaos-stalker-chacina-critical-fear/2640659
+  - poster: 462571457_9359090550774120_1694114248719561539_n.jpg
+    city: São Paulo
+    date: '21/12/2024 19:00'
+    daysGroup: 19/20/21/22
 ---
 

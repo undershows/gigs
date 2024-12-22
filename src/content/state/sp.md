@@ -2,25 +2,11 @@
 abbr: SP
 name: São Paulo
 gigs:
-  - poster: 07bb2fe9-56fe-4dcf-ba25-4291b8bf7fe9.jpeg
-    city: Praia Grande
-    date: '21/12/2024 20:00'
-    daysGroup: 19/20/21/22
   - poster: 5e2445a7-e7a4-4219-be0b-9e0bcfefb983.jpeg
     city: São Paulo
     date: '08/03/2025 14:00'
     daysGroup: 07/08/09
     ticketsUrl: 'https://bilheto.com.br/comprar/2604/m-a-d-metal-fest-sao-paulo'
-  - poster: 50f23103-923c-43b9-9643-0b55a18f315a.jpeg
-    city: Sorocaba
-    date: '21/12/2024 15:00'
-    daysGroup: 19/20/21/22
-  - poster: 21-12_Limeira_resized.jpg
-    city: Limeira
-    date: '21/12/2024 17:00'
-    daysGroup: 19/20/21/22
-    ticketsUrl: >-
-      https://www.sympla.com.br/evento/vulcano-aeternus-nervochaos-stalker-chacina-critical-fear/2640659
   - poster: 22-12_Sao_Paulo_resized.jpg
     city: São Paulo
     date: '22/12/2024 16:00'
@@ -33,10 +19,6 @@ gigs:
     daysGroup: 07/08/09
     ticketsUrl: >-
       https://www.sympla.com.br/evento/cirith-ungol-nightdemon-hellish-war-chumbo/2366428
-  - poster: 462571457_9359090550774120_1694114248719561539_n.jpg
-    city: São Paulo
-    date: '21/12/2024 19:00'
-    daysGroup: 19/20/21/22
   - poster: 465805836_1106092000971719_577022857771434374_n.jpeg
     city: Santo André
     date: '22/12/2024 19:00'
