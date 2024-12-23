@@ -7,22 +7,12 @@ gigs:
     date: '08/03/2025 14:00'
     daysGroup: 07/08/09
     ticketsUrl: 'https://bilheto.com.br/comprar/2604/m-a-d-metal-fest-sao-paulo'
-  - poster: 22-12_Sao_Paulo_resized.jpg
-    city: São Paulo
-    date: '22/12/2024 16:00'
-    daysGroup: 19/20/21/22
-    ticketsUrl: >-
-      https://www.sympla.com.br/evento/blood-red-throne-aeternus-nervochaos-stalker-overdose-nuclear/2640715
   - poster: cirith_ungol_sp_07.jpg
     city: São Paulo
     date: '07/03/2025 19:00'
     daysGroup: 07/08/09
     ticketsUrl: >-
       https://www.sympla.com.br/evento/cirith-ungol-nightdemon-hellish-war-chumbo/2366428
-  - poster: 465805836_1106092000971719_577022857771434374_n.jpeg
-    city: Santo André
-    date: '22/12/2024 19:00'
-    daysGroup: 19/20/21/22
   - poster: 466462480_122116965422551515_5550101862547283130_n.jpg
     city: São Paulo
     date: '11/01/2025 13:00'

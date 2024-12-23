@@ -4893,5 +4893,15 @@ gigs:
     city: São Paulo
     date: '21/12/2024 19:00'
     daysGroup: 19/20/21/22
+  - poster: 22-12_Sao_Paulo_resized.jpg
+    city: São Paulo
+    date: '22/12/2024 16:00'
+    daysGroup: 19/20/21/22
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/blood-red-throne-aeternus-nervochaos-stalker-overdose-nuclear/2640715
+  - poster: 465805836_1106092000971719_577022857771434374_n.jpeg
+    city: Santo André
+    date: '22/12/2024 19:00'
+    daysGroup: 19/20/21/22
 ---
 
