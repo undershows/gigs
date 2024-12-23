@@ -34,9 +34,5 @@ gigs:
     date: '21/03/2025 19:00'
     daysGroup: 21/22/23
     ticketsUrl: 'https://www.clubedoingresso.com/evento/marcomalditofestival-cariocaclub'
-  - poster: 468533208_10161702916711708_1400947114283382260_n.jpg
-    city: São Paulo
-    date: '25/12/2024 15:00'
-    daysGroup: 25/26/27/28/29
 ---
 
