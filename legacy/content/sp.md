@@ -4903,5 +4903,13 @@ gigs:
     city: Santo André
     date: '22/12/2024 19:00'
     daysGroup: 19/20/21/22
+  - poster: 1171a12d-469b-4a74-9479-2aee6b7c4f73.jpeg
+    city: Mauá
+    date: '28/12/2024 20:00'
+    daysGroup: 25/26/27/28/29
+  - poster: 471991405_10231013778465377_4648721904473785636_n.jpg
+    city: São Paulo
+    date: '28/12/2024 19:00'
+    daysGroup: 25/26/27/28/29
 ---
 

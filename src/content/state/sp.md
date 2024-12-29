@@ -25,10 +25,6 @@ gigs:
     city: Peruíbe
     date: '20/04/2025 10:00'
     daysGroup: 18/19/20
-  - poster: 1171a12d-469b-4a74-9479-2aee6b7c4f73.jpeg
-    city: Mauá
-    date: '28/12/2024 20:00'
-    daysGroup: 25/26/27/28/29
   - poster: 469600543_18247181188263705_7603923187443628932_n.jpg
     city: São Paulo
     date: '21/03/2025 19:00'
@@ -44,10 +40,6 @@ gigs:
     date: '25/01/2025 17:00'
     daysGroup: 24/25/26
     ticketsUrl: 'https://www.clubedoingresso.com/evento/cospegfogofest-jaiclub'
-  - poster: 471991405_10231013778465377_4648721904473785636_n.jpg
-    city: São Paulo
-    date: '28/12/2024 19:00'
-    daysGroup: 25/26/27/28/29
   - poster: 471621955_2940621339423702_3127488450345148144_n.jpg
     city: Americana
     date: '18/01/2025 19:00'
