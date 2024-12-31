@@ -70,5 +70,9 @@ gigs:
     city: São Paulo
     date: '26/01/2025 15:00'
     daysGroup: 24/25/26
+  - poster: 471860376_4039057279747548_8321324675731583340_n.jpg
+    city: Araçatuba
+    date: '18/01/2025 17:00'
+    daysGroup: 17/18/19
 ---
 

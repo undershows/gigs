@@ -17,5 +17,9 @@ gigs:
     date: '23/03/2025 16:00'
     daysGroup: 21/22/23
     ticketsUrl: 'https://www.sympla.com.br/evento/marco-maldito-festival-belo-horizonte-2025/2764494'
+  - poster: 471856365_3632412897048854_6862565964345218079_n.jpg
+    city: Uberaba
+    date: '11/01/2025 18:00'
+    daysGroup: 10/11/12
 ---
 
