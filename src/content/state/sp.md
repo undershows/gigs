@@ -74,5 +74,80 @@ gigs:
     city: Araçatuba
     date: '18/01/2025 17:00'
     daysGroup: 17/18/19
+  - poster: 471504397_1288366325812612_4890616819226649018_n.jpg
+    city: São Paulo
+    date: '19/01/2025 15:00'
+    daysGroup: 17/18/19
+    ticketsUrl: 'https://www.hoppin.com.br/smashitup'
+  - poster: 472346446_1628646307756629_2688692476956328097_n.jpeg
+    city: São Paulo
+    date: '10/01/2025 19:00'
+    daysGroup: 10/11/12
+  - poster: 472426531_1312916640128319_712263616187579967_n.jpeg
+    city: São Paulo
+    date: '26/01/2025 19:00'
+    daysGroup: 24/25/26
+  - poster: 472434183_611981254699230_1721601077673271866_n.jpg
+    city: Osasco
+    date: '17/01/2025 20:00'
+    daysGroup: 17/18/19
+  - poster: 470948152_1119568022904684_6693579323584953238_n.jpg
+    city: Jacareí
+    date: '11/01/2025 17:00'
+    daysGroup: 10/11/12
+  - poster: 472500796_606926581840350_1060195402156098886_n.jpeg
+    city: São Paulo
+    date: '22/02/2025 19:00'
+    daysGroup: 21/22/23
+  - poster: 472733862_18299823352226897_3141062513182431058_n.jpg
+    city: Americana
+    date: '19/01/2025 18:00'
+    daysGroup: 17/18/19
+    ticketsUrl: 'https://www.sympla.com.br/evento/contorture-vicious-irene-ao-vivo-no-mutante-radio-americana-detesto-bastard-god/2776874'
+  - poster: 469717399_3819656511623648_7559001988518597052_n.jpeg
+    city: Campinas
+    date: '12/01/2025 19:00'
+    daysGroup: 10/11/12
+    ticketsUrl: 'https://www.sympla.com.br/evento/rot-e-social-chaos-ao-vivo-no-woodstock-music-bar-sindrome-caos-boca-podre/2765664'
+  - poster: 471940851_1036815424879460_8408518690604813733_n.jpeg
+    city: Santos
+    date: '17/01/2025 23:00'
+    daysGroup: 17/18/19
+  - poster: 472219626_482207091562821_1434749775651793338_n.jpeg
+    city: Santo André
+    date: '05/07/2025 12:00'
+    daysGroup: 04/05/06
+    ticketsUrl: 'https://uticket.com.br/event/01KHKCXDXT25S9'
+  - poster: 472131040_3990918901193563_4793535796802636811_n.jpeg
+    city: São Paulo
+    date: '16/02/2025 13:00'
+    daysGroup: 14/15/16
+  - poster: 471959387_1753940242121099_8378333221454488810_n.jpg
+    city: São José dos Campos
+    date: '16/03/2025 18:00'
+    daysGroup: 14/15/16
+  - poster: 472443206_1085595376582522_5318980158101455583_n.jpeg
+    city: Santo André
+    date: '08/02/2025 19:00'
+    daysGroup: 07/08/09
+    ticketsUrl: 'https://www.sympla.com.br/evento/manger-cadavre--nameless-gods-no-74-club-em-santo-andre/2782133'
+  - poster: 471605045_940496357619074_2183882531033927196_n.jpeg
+    city: São Paulo
+    date: '25/01/2025 19:00'
+    daysGroup: 24/25/26
+    ticketsUrl: 'https://www.sympla.com.br/evento/inauguracao-burning-house-com-ratos-de-porao-black-pantera-gritando-hc-grinders-e-thiago-dj/2772220'
+  - poster: 468309079_918415553721599_1467964846111727463_n.jpeg
+    city: São Paulo
+    date: '09/05/2025 14:00'
+    daysGroup: 09/10/11
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/upfrontalfestival-theexploited'
+  - poster: 470943824_1548681082481974_5380942954582898662_n.jpeg
+    city: São Paulo
+    date: '18/01/2025 19:00'
+    daysGroup: 17/18/19
+  - poster: 472596622_1157177062671511_2586911104194120158_n.jpg
+    city: Jacareí
+    date: '19/01/2025 17:00'
+    daysGroup: 17/18/19
 ---
 

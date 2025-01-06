@@ -21,5 +21,23 @@ gigs:
     city: Uberaba
     date: '11/01/2025 18:00'
     daysGroup: 10/11/12
+  - poster: 472409872_17937046715951481_7164211067161908361_n.jpg
+    city: Belo Horizonte
+    date: '01/02/2025 16:00'
+    daysGroup: 01/02
+    ticketsUrl: 'https://101tickets.com.br/events/details/METALPUNK-OVERKILL-e-FURIA-COLETIVA-apresentam:'
+  - poster: 472120518_1785559618851906_4834707240446453496_n.jpeg
+    city: Contagem
+    date: '01/03/2025 17:00'
+    daysGroup: 01/02
+  - poster: 471466948_560299436987656_6417124023595106532_n.jpeg
+    city: Belo Horizonte
+    date: '09/05/2025 17:00'
+    daysGroup: 09/10/11
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/theexploited-belohorizonte'
+  - poster: 470674069_2105659026532684_5002245918320133983_n.jpeg
+    city: Sete Lagoas
+    date: '18/05/2025 12:00'
+    daysGroup: 16/17/18
 ---
 
