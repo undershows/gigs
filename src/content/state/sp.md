@@ -16,7 +16,7 @@ gigs:
   - poster: 466462480_122116965422551515_5550101862547283130_n.jpg
     city: São Paulo
     date: '11/01/2025 13:00'
-    daysGroup: 10/11/12
+    daysGroup: 09/10/11/12
   - poster: 1177eb09-9816-4fb6-8406-2a214c577775.jpeg
     city: São Paulo
     date: '18/10/2025 18:00'
@@ -56,7 +56,7 @@ gigs:
   - poster: 471678847_1745559859619829_2949300822080947431_n.jpg
     city: Pindamonhangaba
     date: '12/01/2025 17:00'
-    daysGroup: 10/11/12
+    daysGroup: 09/10/11/12
     ticketsUrl: 'https://www.sympla.com.br/evento/scoria-fest-2/2763483'
   - poster: 471600107_2940621389423697_5654298981501719876_n.jpg
     city: Taubaté
@@ -65,7 +65,7 @@ gigs:
   - poster: 471774926_8896056210501744_5859717802480235009_n.jpg
     city: São Paulo
     date: '11/01/2025 18:00'
-    daysGroup: 10/11/12
+    daysGroup: 09/10/11/12
   - poster: 470921139_1241738256883338_60635649615569915_n.jpg
     city: São Paulo
     date: '26/01/2025 15:00'
@@ -82,7 +82,7 @@ gigs:
   - poster: 472346446_1628646307756629_2688692476956328097_n.jpeg
     city: São Paulo
     date: '10/01/2025 19:00'
-    daysGroup: 10/11/12
+    daysGroup: 09/10/11/12
   - poster: 472426531_1312916640128319_712263616187579967_n.jpeg
     city: São Paulo
     date: '26/01/2025 19:00'
@@ -94,7 +94,7 @@ gigs:
   - poster: 470948152_1119568022904684_6693579323584953238_n.jpg
     city: Jacareí
     date: '11/01/2025 17:00'
-    daysGroup: 10/11/12
+    daysGroup: 09/10/11/12
   - poster: 472500796_606926581840350_1060195402156098886_n.jpeg
     city: São Paulo
     date: '22/02/2025 19:00'
@@ -107,7 +107,7 @@ gigs:
   - poster: 469717399_3819656511623648_7559001988518597052_n.jpeg
     city: Campinas
     date: '12/01/2025 19:00'
-    daysGroup: 10/11/12
+    daysGroup: 09/10/11/12
     ticketsUrl: 'https://www.sympla.com.br/evento/rot-e-social-chaos-ao-vivo-no-woodstock-music-bar-sindrome-caos-boca-podre/2765664'
   - poster: 471940851_1036815424879460_8408518690604813733_n.jpeg
     city: Santos
@@ -154,5 +154,9 @@ gigs:
     date: '08/03/2025 14:00'
     daysGroup: 07/08/09
     ticketsUrl: 'https://www.sympla.com.br/evento/metal-metal-festival/2730624'
+  - poster: 471713120_3451192568347071_8365524718980518821_n.jpeg
+    city: São Paulo
+    date: '09/01/2025 19:00'
+    daysGroup: 09/10/11/12
 ---
 
