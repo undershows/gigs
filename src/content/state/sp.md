@@ -149,5 +149,10 @@ gigs:
     city: Jacareí
     date: '19/01/2025 17:00'
     daysGroup: 17/18/19
+  - poster: https://www.sympla.com.br/evento/metal-metal-festival/2730624
+    city: São Paulo
+    date: '08/03/2025 14:00'
+    daysGroup: 07/08/09
+    ticketsUrl: 'https://www.sympla.com.br/evento/metal-metal-festival/2730624'
 ---
 
