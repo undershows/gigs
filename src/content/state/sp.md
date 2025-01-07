@@ -175,5 +175,22 @@ gigs:
     city: Jacareí
     date: '25/01/2025 18:00'
     daysGroup: 24/25/26
+  - poster: 472872508_1314746073000643_1605758036028690909_n.jpeg
+    city: Santo André
+    date: '18/01/2025 17:00'
+    daysGroup: 17/18/19
+    ticketsUrl: 'https://www.sympla.com.br/evento/grito-fest-vol-4/2773270'
+  - poster: 472483416_1033849675425575_2703146230318370017_n.jpeg
+    city: Mauá
+    date: '26/01/2025 14:00'
+    daysGroup: 24/25/26
+  - poster: 472832892_1135827214597538_2596416150564220118_n.jpg
+    city: São Paulo
+    date: '19/01/2025 14:00'
+    daysGroup: 17/18/19
+  - poster: 472648678_430100306736492_8966745566141138317_n.jpg
+    city: Santos
+    date: '26/01/2025 17:00'
+    daysGroup: 24/25/26
 ---
 

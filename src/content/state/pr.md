@@ -31,5 +31,10 @@ gigs:
     city: Londrina
     date: '19/01/2025 16:00'
     daysGroup: 17/18/19
+  - poster: 472540201_1808292596591462_2518156421089809804_n.jpeg
+    city: Londrina
+    date: '16/03/2025 17:00'
+    daysGroup: 14/15/16
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/gutalax-curitiba'
 ---
 
