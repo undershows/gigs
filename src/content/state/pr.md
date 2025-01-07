@@ -27,5 +27,9 @@ gigs:
     date: '09/03/2025 15:00'
     daysGroup: 07/08/09
     ticketsUrl: 'https://bilheto.com.br/comprar/2962'
+  - poster: 472111176_8987387384705751_9026487546664053728_n.jpg
+    city: Londrina
+    date: '19/01/2025 16:00'
+    daysGroup: 17/18/19
 ---
 

@@ -149,7 +149,7 @@ gigs:
     city: Jacareí
     date: '19/01/2025 17:00'
     daysGroup: 17/18/19
-  - poster: https://www.sympla.com.br/evento/metal-metal-festival/2730624
+  - poster: 472494203_483047851087726_5721993972506755847_n.jpeg
     city: São Paulo
     date: '08/03/2025 14:00'
     daysGroup: 07/08/09
@@ -158,5 +158,22 @@ gigs:
     city: São Paulo
     date: '09/01/2025 19:00'
     daysGroup: 09/10/11/12
+  - poster: 471782647_8987387598039063_4323653836049891292_n.jpg
+    city: São Paulo
+    date: '31/01/2025 18:00'
+    daysGroup: 30/31
+  - poster: 472883440_2375964992744414_7668833167671221125_n.jpg
+    city: Mauá
+    date: '12/01/2025 16:00'
+    daysGroup: 09/10/11/12
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/unidospelodney-12-01'
+  - poster: 472777938_10014401908574844_1933987536055418147_n.jpg
+    city: Osasco
+    date: '22/03/2025 18:00'
+    daysGroup: 21/22/23
+  - poster: 472927231_3839385063040610_5785915505862011950_n.jpg
+    city: Jacareí
+    date: '25/01/2025 18:00'
+    daysGroup: 24/25/26
 ---
 
