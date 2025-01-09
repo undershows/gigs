@@ -192,5 +192,18 @@ gigs:
     city: Santos
     date: '26/01/2025 17:00'
     daysGroup: 24/25/26
+  - poster: a2783d92-4586-4dce-bd03-6dfd9e0ac538.jpeg
+    city: São Paulo
+    date: '10/01/2025 21:30'
+    daysGroup: 09/10/11/12
+    ticketsUrl: 'https://www.sescsp.org.br/programacao/test-deaf-kids/'
+  - poster: 473111319_2151559811986671_2658298373120100484_n.jpg
+    city: São Paulo
+    date: '18/01/2025 18:00'
+    daysGroup: 17/18/19
+  - poster: 472786532_2151560031986649_4941092194339459819_n.jpg
+    city: São Paulo
+    date: '24/01/2025 19:00'
+    daysGroup: 24/25/26
 ---
 
