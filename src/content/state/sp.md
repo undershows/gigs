@@ -103,12 +103,14 @@ gigs:
     city: Americana
     date: '19/01/2025 18:00'
     daysGroup: 17/18/19
-    ticketsUrl: 'https://www.sympla.com.br/evento/contorture-vicious-irene-ao-vivo-no-mutante-radio-americana-detesto-bastard-god/2776874'
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/contorture-vicious-irene-ao-vivo-no-mutante-radio-americana-detesto-bastard-god/2776874
   - poster: 469717399_3819656511623648_7559001988518597052_n.jpeg
     city: Campinas
     date: '12/01/2025 19:00'
     daysGroup: 09/10/11/12
-    ticketsUrl: 'https://www.sympla.com.br/evento/rot-e-social-chaos-ao-vivo-no-woodstock-music-bar-sindrome-caos-boca-podre/2765664'
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/rot-e-social-chaos-ao-vivo-no-woodstock-music-bar-sindrome-caos-boca-podre/2765664
   - poster: 471940851_1036815424879460_8408518690604813733_n.jpeg
     city: Santos
     date: '17/01/2025 23:00'
@@ -130,12 +132,14 @@ gigs:
     city: Santo André
     date: '08/02/2025 19:00'
     daysGroup: 07/08/09
-    ticketsUrl: 'https://www.sympla.com.br/evento/manger-cadavre--nameless-gods-no-74-club-em-santo-andre/2782133'
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/manger-cadavre--nameless-gods-no-74-club-em-santo-andre/2782133
   - poster: 471605045_940496357619074_2183882531033927196_n.jpeg
     city: São Paulo
     date: '25/01/2025 19:00'
     daysGroup: 24/25/26
-    ticketsUrl: 'https://www.sympla.com.br/evento/inauguracao-burning-house-com-ratos-de-porao-black-pantera-gritando-hc-grinders-e-thiago-dj/2772220'
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/inauguracao-burning-house-com-ratos-de-porao-black-pantera-gritando-hc-grinders-e-thiago-dj/2772220
   - poster: 468309079_918415553721599_1467964846111727463_n.jpeg
     city: São Paulo
     date: '09/05/2025 14:00'
@@ -154,10 +158,6 @@ gigs:
     date: '08/03/2025 14:00'
     daysGroup: 07/08/09
     ticketsUrl: 'https://www.sympla.com.br/evento/metal-metal-festival/2730624'
-  - poster: 471713120_3451192568347071_8365524718980518821_n.jpeg
-    city: São Paulo
-    date: '09/01/2025 19:00'
-    daysGroup: 09/10/11/12
   - poster: 471782647_8987387598039063_4323653836049891292_n.jpg
     city: São Paulo
     date: '31/01/2025 18:00'
