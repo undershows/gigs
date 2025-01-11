@@ -4915,5 +4915,14 @@ gigs:
     city: São Paulo
     date: '09/01/2025 19:00'
     daysGroup: 09/10/11/12
+  - poster: 472346446_1628646307756629_2688692476956328097_n.jpeg
+    city: São Paulo
+    date: '10/01/2025 19:00'
+    daysGroup: 09/10/11/12
+  - poster: a2783d92-4586-4dce-bd03-6dfd9e0ac538.jpeg
+    city: São Paulo
+    date: '10/01/2025 21:30'
+    daysGroup: 09/10/11/12
+    ticketsUrl: 'https://www.sescsp.org.br/programacao/test-deaf-kids/'
 ---
 

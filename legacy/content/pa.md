@@ -107,5 +107,9 @@ gigs:
     date: '07/12/2024 18:00'
     daysGroup: 06/07/08
     ticketsUrl: 'https://www.sympla.com.br/evento/leprosys-metal-fest/2674257'
+  - poster: 472596954_1831127027637296_3193548860611022074_n.jpg
+    city: Belém
+    date: '10/01/2025 18:00'
+    daysGroup: 10/11/12
 ---
 

@@ -79,10 +79,6 @@ gigs:
     date: '19/01/2025 15:00'
     daysGroup: 17/18/19
     ticketsUrl: 'https://www.hoppin.com.br/smashitup'
-  - poster: 472346446_1628646307756629_2688692476956328097_n.jpeg
-    city: São Paulo
-    date: '10/01/2025 19:00'
-    daysGroup: 09/10/11/12
   - poster: 472426531_1312916640128319_712263616187579967_n.jpeg
     city: São Paulo
     date: '26/01/2025 19:00'
@@ -192,11 +188,6 @@ gigs:
     city: Santos
     date: '26/01/2025 17:00'
     daysGroup: 24/25/26
-  - poster: a2783d92-4586-4dce-bd03-6dfd9e0ac538.jpeg
-    city: São Paulo
-    date: '10/01/2025 21:30'
-    daysGroup: 09/10/11/12
-    ticketsUrl: 'https://www.sescsp.org.br/programacao/test-deaf-kids/'
   - poster: 473111319_2151559811986671_2658298373120100484_n.jpg
     city: São Paulo
     date: '18/01/2025 18:00'
