@@ -473,5 +473,9 @@ gigs:
     daysGroup: 18/19/20/21/22
     ticketsUrl: >-
       https://www.sympla.com.br/evento/aeternus-noruega-stalker-nova-zelandia-nervochaos-brasil/2692984
+  - poster: 472107770_4039057566414186_1154999088004123360_n.jpg
+    city: Apucarana
+    date: '11/01/2025 17:00'
+    daysGroup: 10/11/12
 ---
 

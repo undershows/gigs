@@ -13,10 +13,6 @@ gigs:
     daysGroup: 07/08/09
     ticketsUrl: >-
       https://www.sympla.com.br/evento/cirith-ungol-nightdemon-hellish-war-chumbo/2366428
-  - poster: 466462480_122116965422551515_5550101862547283130_n.jpg
-    city: São Paulo
-    date: '11/01/2025 13:00'
-    daysGroup: 09/10/11/12
   - poster: 1177eb09-9816-4fb6-8406-2a214c577775.jpeg
     city: São Paulo
     date: '18/10/2025 18:00'
@@ -62,10 +58,6 @@ gigs:
     city: Taubaté
     date: '02/02/2025 17:00'
     daysGroup: 01/02
-  - poster: 471774926_8896056210501744_5859717802480235009_n.jpg
-    city: São Paulo
-    date: '11/01/2025 18:00'
-    daysGroup: 09/10/11/12
   - poster: 470921139_1241738256883338_60635649615569915_n.jpg
     city: São Paulo
     date: '26/01/2025 15:00'
@@ -87,10 +79,6 @@ gigs:
     city: Osasco
     date: '17/01/2025 20:00'
     daysGroup: 17/18/19
-  - poster: 470948152_1119568022904684_6693579323584953238_n.jpg
-    city: Jacareí
-    date: '11/01/2025 17:00'
-    daysGroup: 09/10/11/12
   - poster: 472500796_606926581840350_1060195402156098886_n.jpeg
     city: São Paulo
     date: '22/02/2025 19:00'
@@ -196,9 +184,5 @@ gigs:
     city: São Paulo
     date: '24/01/2025 19:00'
     daysGroup: 24/25/26
-  - poster: 470719674_8810479369029204_2341075758907831788_n.jpg
-    city: São Paulo
-    date: '11/01/2025 20:00'
-    daysGroup: 09/10/11/12
 ---
 

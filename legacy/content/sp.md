@@ -4924,5 +4924,21 @@ gigs:
     date: '10/01/2025 21:30'
     daysGroup: 09/10/11/12
     ticketsUrl: 'https://www.sescsp.org.br/programacao/test-deaf-kids/'
+  - poster: 466462480_122116965422551515_5550101862547283130_n.jpg
+    city: São Paulo
+    date: '11/01/2025 13:00'
+    daysGroup: 09/10/11/12
+  - poster: 471774926_8896056210501744_5859717802480235009_n.jpg
+    city: São Paulo
+    date: '11/01/2025 18:00'
+    daysGroup: 09/10/11/12
+  - poster: 470948152_1119568022904684_6693579323584953238_n.jpg
+    city: Jacareí
+    date: '11/01/2025 17:00'
+    daysGroup: 09/10/11/12
+  - poster: 470719674_8810479369029204_2341075758907831788_n.jpg
+    city: São Paulo
+    date: '11/01/2025 20:00'
+    daysGroup: 09/10/11/12
 ---
 
