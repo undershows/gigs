@@ -477,5 +477,9 @@ gigs:
     city: Apucarana
     date: '11/01/2025 17:00'
     daysGroup: 10/11/12
+  - poster: 471545840_4039057429747533_4390295792103547551_n.jpg
+    city: Londrina
+    date: '12/01/2025 17:00'
+    daysGroup: 10/11/12
 ---
 

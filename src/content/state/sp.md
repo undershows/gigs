@@ -49,11 +49,6 @@ gigs:
     date: '18/01/2025 19:00'
     daysGroup: 17/18/19
     ticketsUrl: 'https://101tickets.com.br/events/details/Stay-Louders---Evil-Sessions'
-  - poster: 471678847_1745559859619829_2949300822080947431_n.jpg
-    city: Pindamonhangaba
-    date: '12/01/2025 17:00'
-    daysGroup: 09/10/11/12
-    ticketsUrl: 'https://www.sympla.com.br/evento/scoria-fest-2/2763483'
   - poster: 471600107_2940621389423697_5654298981501719876_n.jpg
     city: Taubaté
     date: '02/02/2025 17:00'
@@ -89,12 +84,6 @@ gigs:
     daysGroup: 17/18/19
     ticketsUrl: >-
       https://www.sympla.com.br/evento/contorture-vicious-irene-ao-vivo-no-mutante-radio-americana-detesto-bastard-god/2776874
-  - poster: 469717399_3819656511623648_7559001988518597052_n.jpeg
-    city: Campinas
-    date: '12/01/2025 19:00'
-    daysGroup: 09/10/11/12
-    ticketsUrl: >-
-      https://www.sympla.com.br/evento/rot-e-social-chaos-ao-vivo-no-woodstock-music-bar-sindrome-caos-boca-podre/2765664
   - poster: 471940851_1036815424879460_8408518690604813733_n.jpeg
     city: Santos
     date: '17/01/2025 23:00'
@@ -146,11 +135,6 @@ gigs:
     city: São Paulo
     date: '31/01/2025 18:00'
     daysGroup: 30/31
-  - poster: 472883440_2375964992744414_7668833167671221125_n.jpg
-    city: Mauá
-    date: '12/01/2025 16:00'
-    daysGroup: 09/10/11/12
-    ticketsUrl: 'https://www.clubedoingresso.com/evento/unidospelodney-12-01'
   - poster: 472777938_10014401908574844_1933987536055418147_n.jpg
     city: Osasco
     date: '22/03/2025 18:00'
