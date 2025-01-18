@@ -4956,5 +4956,13 @@ gigs:
     date: '12/01/2025 16:00'
     daysGroup: 09/10/11/12
     ticketsUrl: 'https://www.clubedoingresso.com/evento/unidospelodney-12-01'
+  - poster: 472434183_611981254699230_1721601077673271866_n.jpg
+    city: Osasco
+    date: '17/01/2025 20:00'
+    daysGroup: 17/18/19
+  - poster: 471940851_1036815424879460_8408518690604813733_n.jpeg
+    city: Santos
+    date: '17/01/2025 23:00'
+    daysGroup: 17/18/19
 ---
 

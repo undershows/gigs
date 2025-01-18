@@ -70,10 +70,6 @@ gigs:
     city: São Paulo
     date: '26/01/2025 19:00'
     daysGroup: 24/25/26
-  - poster: 472434183_611981254699230_1721601077673271866_n.jpg
-    city: Osasco
-    date: '17/01/2025 20:00'
-    daysGroup: 17/18/19
   - poster: 472500796_606926581840350_1060195402156098886_n.jpeg
     city: São Paulo
     date: '22/02/2025 19:00'
@@ -84,10 +80,6 @@ gigs:
     daysGroup: 17/18/19
     ticketsUrl: >-
       https://www.sympla.com.br/evento/contorture-vicious-irene-ao-vivo-no-mutante-radio-americana-detesto-bastard-god/2776874
-  - poster: 471940851_1036815424879460_8408518690604813733_n.jpeg
-    city: Santos
-    date: '17/01/2025 23:00'
-    daysGroup: 17/18/19
   - poster: 472219626_482207091562821_1434749775651793338_n.jpeg
     city: Santo André
     date: '05/07/2025 12:00'
