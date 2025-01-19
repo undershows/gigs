@@ -20,6 +20,42 @@ const isLink = (state: CollectionEntry<"state">) =>
   (state.slug === mainState && currentState.slug !== mainState);
 ---
 
+<style>
+  .class1 {
+    display: inline-block;
+    margin: 0 -5px; /* Reduz o espaço entre os elementos */
+    padding: 1px; /* Mantém o tamanho do quadrado */
+    font-size: 24px; /* Aumenta ainda mais o tamanho da fonte das siglas */
+    width: auto; /* Remove largura fixa */
+    height: auto; /* Remove altura fixa */
+    text-align: center; /* Centraliza o conteúdo */
+    border-radius: 5px; /* Bordas arredondadas */
+  }
+
+  @media (max-width: 600px) { /* Estilo para telas menores */
+    .class1 {
+      font-size: 24px; /* Ajusta o tamanho das fontes em telas menores */
+      padding: 3px; /* Mantém o espaçamento adequado */
+    }
+  }
+
+  .compact-section {
+    margin-bottom: 10px;
+    line-height: 1.5;
+  }
+
+  .compact-section hr {
+    margin: 10px 0;
+    border: none;
+    border-top: 1px solid #ccc;
+  }
+
+  .compact-section .highlight {
+    font-weight: bold;
+    color: #d32f2f;
+  }
+</style>
+
 <p class="normal">
   <img
     src="/images/undershows_logo.png"
@@ -31,28 +67,39 @@ const isLink = (state: CollectionEntry<"state">) =>
   {
     sortedStates.map((state, index) => (
       <>
-        {index !== 0 ? " - " : ""}
+        {index !== 0 ? " - " : ""} <!-- Espaçamento normal entre os traços -->
         {isLink(state) ? (
           <Link to={state.slug === mainState ? "" : state.slug} class="class1">
             {state.data.abbr}
           </Link>
         ) : (
-          state.data.abbr
+          <span class="class1">{state.data.abbr}</span>
         )}
       </>
     ))
   }
-
-<br />
-<br>
-<b>Salve galera do subterrâneo, quem quiser enviar cartazes de shows, só enviar pelo e-mail abaixo:</b><br>
-<a href={`mailto:${posterMail}`} class="class2" target="_blank">{posterMail}</a><br>
-<b>-ˋˏ✄---------------------------------</b><br>
-<b>Vlw geral que colou Undershows Fest III, vlw d+ as bandas</a> - <a href="https://crushalltyranny.bandcamp.com/" target="_blank">Crush All Tyranny</a> - <a href="https://ditto.fm/agravo-demo" target="_blank">Agravo</a> - <a href="https://herdeirosdoodio.bandcamp.com/" target="_blank">Herdeiros do Ódio</a>, Undershows Fest IV será novamente na Fenda 315, em alguma quarta-feira de Fevereiro/Março, fiquem ligads! &#x1F918;&#x1F389;</b><br>
-<b>-ˋˏ✄---------------------------------</b><br>
-<b>Lojinha online para vendas de vinis, alguns deles que participamos coletivamente como selo Undershows, deem uma olhada &#128522;</b><br>
-<b><a href="https://linktr.ee/undershows/">linktr.ee/undershows/</a>
-</b><br>
-<b>-ˋˏ✄---------------------------------</b><br>
-  <Content />
 </p>
+
+<div class="compact-section" style="text-align: center; line-height: 1.6; font-size: 23px; color: #000;">
+  <b>-ˋˏ✄---------------------------------------------------------------</b><br>
+  <div style="margin-bottom: 2px;">
+    <b>Undershows Fest IV (Março): 12/03 (quarta-feira)</b>
+  </div>
+  <div style="margin-bottom: 2px;">
+    <b>Undershows Fest V (Junho - Edição Especial Níver do Jorge): 06/06 (sexta-feira), 66 anos &#x1F608;</b>
+  </div>
+  <div style="margin-bottom: 2px;">
+    <b>Cartaz + bandas em breve! &#x1F918;&#x1F389;</b>
+  </div>
+  <div style="margin-bottom: 2px;">
+    <b>Quem quiser enviar cartazes de shows: 
+    <a href="mailto:undershowsbr@gmail.com" style="color: #002aff; text-decoration: none;">undershowsbr@gmail.com</a></b>
+      </div>
+  <div style="margin-bottom: 2px;">
+    <b>Lojinha online, venda de vinis e mais! 
+    <a href="https://linktr.ee/undershows/" target="_blank" style="color: #002aff; text-decoration: none;">linktr.ee/undershows</a></b> 
+  </div>
+  <b>-ˋˏ✄---------------------------------------------------------------</b><br>
+</div>
+
+<Content />
