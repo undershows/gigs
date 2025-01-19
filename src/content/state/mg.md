@@ -43,7 +43,7 @@ gigs:
     daysGroup: 07/08/09
   - poster: 31-01-Belo-Horizonte.jpg
     city: Belo Horizonte
-    date: '31/02/2025 20:00'
+    date: '31/01/2025 20:00'
     daysGroup: 30/31
     ticketsUrl: 'https://www.sympla.com.br/evento/chama-apresenta-papangu-pb-e-morto-bh/2784831'
   - poster: 01-02-juiz-de-fora.png
