@@ -24,5 +24,9 @@ gigs:
     date: '16/03/2025 17:00'
     daysGroup: 14/15/16
     ticketsUrl: 'https://www.clubedoingresso.com/evento/gutalax-curitiba'
+  - poster: 24-01-Curitiba.jpg
+    city: Curitiba
+    date: '24/01/2025 20:00'
+    daysGroup: 24/25/26
 ---
 

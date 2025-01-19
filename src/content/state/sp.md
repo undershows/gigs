@@ -29,17 +29,17 @@ gigs:
   - poster: 471535665_2317901371901444_7017482051007666740_n.jpeg
     city: São Paulo
     date: '26/01/2025 19:00'
-    daysGroup: 24/25/26
+    daysGroup: 23/24/25/26
     ticketsUrl: 'https://www.clubedoingresso.com/evento/upfront-festival'
   - poster: 470098024_18349553347121660_1365424239946707004_n.jpg
     city: São Paulo
     date: '25/01/2025 17:00'
-    daysGroup: 24/25/26
+    daysGroup: 23/24/25/26
     ticketsUrl: 'https://www.clubedoingresso.com/evento/cospegfogofest-jaiclub'
   - poster: 471667691_27925371643777160_8629536553833634652_n.jpg
     city: São Paulo
     date: '25/01/2025 15:00'
-    daysGroup: 24/25/26
+    daysGroup: 23/24/25/26
   - poster: 471600107_2940621389423697_5654298981501719876_n.jpg
     city: Taubaté
     date: '02/02/2025 17:00'
@@ -47,7 +47,7 @@ gigs:
   - poster: 470921139_1241738256883338_60635649615569915_n.jpg
     city: São Paulo
     date: '26/01/2025 15:00'
-    daysGroup: 24/25/26
+    daysGroup: 23/24/25/26
   - poster: 471504397_1288366325812612_4890616819226649018_n.jpg
     city: São Paulo
     date: '19/01/2025 15:00'
@@ -56,7 +56,7 @@ gigs:
   - poster: 472426531_1312916640128319_712263616187579967_n.jpeg
     city: São Paulo
     date: '26/01/2025 19:00'
-    daysGroup: 24/25/26
+    daysGroup: 23/24/25/26
   - poster: 472500796_606926581840350_1060195402156098886_n.jpeg
     city: São Paulo
     date: '22/02/2025 19:00'
@@ -83,13 +83,13 @@ gigs:
   - poster: 472443206_1085595376582522_5318980158101455583_n.jpeg
     city: Santo André
     date: '08/02/2025 19:00'
-    daysGroup: 07/08/09
+    daysGroup: 05/06/07/08/09
     ticketsUrl: >-
       https://www.sympla.com.br/evento/manger-cadavre--nameless-gods-no-74-club-em-santo-andre/2782133
   - poster: 471605045_940496357619074_2183882531033927196_n.jpeg
     city: São Paulo
     date: '25/01/2025 19:00'
-    daysGroup: 24/25/26
+    daysGroup: 23/24/25/26
     ticketsUrl: >-
       https://www.sympla.com.br/evento/inauguracao-burning-house-com-ratos-de-porao-black-pantera-gritando-hc-grinders-e-thiago-dj/2772220
   - poster: 468309079_918415553721599_1467964846111727463_n.jpeg
@@ -117,11 +117,11 @@ gigs:
   - poster: 472927231_3839385063040610_5785915505862011950_n.jpg
     city: Jacareí
     date: '25/01/2025 18:00'
-    daysGroup: 24/25/26
+    daysGroup: 23/24/25/26
   - poster: 472483416_1033849675425575_2703146230318370017_n.jpeg
     city: Mauá
     date: '26/01/2025 14:00'
-    daysGroup: 24/25/26
+    daysGroup: 23/24/25/26
   - poster: 472832892_1135827214597538_2596416150564220118_n.jpg
     city: São Paulo
     date: '19/01/2025 14:00'
@@ -129,10 +129,27 @@ gigs:
   - poster: 472648678_430100306736492_8966745566141138317_n.jpg
     city: Santos
     date: '26/01/2025 17:00'
-    daysGroup: 24/25/26
+    daysGroup: 23/24/25/26
   - poster: 472786532_2151560031986649_4941092194339459819_n.jpg
-    city: São Paulo
+    city: Indaiatuba
     date: '24/01/2025 19:00'
-    daysGroup: 24/25/26
+    daysGroup: 23/24/25/26
+  - poster: 30-01-Sao-Paulo-SP.jpg
+    city: São Paulo
+    date: '30/01/2025 21:00'
+    daysGroup: 30/31
+    ticketsUrl: 'https://www.sympla.com.br/evento/a-porta-maldita-papangu-kombi/2784484'
+  - poster: 23-01-Sao-Paulo-SP.png
+    city: São Paulo
+    date: '23/01/2025 20:00'
+    daysGroup: 23/24/25/26
+  - poster: 06-02-SP-Iglesia.jpg
+    city: São Paulo
+    date: '06/02/2025 20:00'
+    daysGroup: 05/06/07/08/09
+  - poster: 05-2-Americana.jpg
+    city: Americana
+    date: '05/02/2025 18:00'
+    daysGroup: 05/06/07/08/09
 ---
 
