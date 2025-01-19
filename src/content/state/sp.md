@@ -36,19 +36,10 @@ gigs:
     date: '25/01/2025 17:00'
     daysGroup: 24/25/26
     ticketsUrl: 'https://www.clubedoingresso.com/evento/cospegfogofest-jaiclub'
-  - poster: 471621955_2940621339423702_3127488450345148144_n.jpg
-    city: Americana
-    date: '18/01/2025 19:00'
-    daysGroup: 17/18/19
   - poster: 471667691_27925371643777160_8629536553833634652_n.jpg
     city: São Paulo
     date: '25/01/2025 15:00'
     daysGroup: 24/25/26
-  - poster: 471797608_10225765519101698_4968757038588092258_n.jpg
-    city: São Paulo
-    date: '18/01/2025 19:00'
-    daysGroup: 17/18/19
-    ticketsUrl: 'https://101tickets.com.br/events/details/Stay-Louders---Evil-Sessions'
   - poster: 471600107_2940621389423697_5654298981501719876_n.jpg
     city: Taubaté
     date: '02/02/2025 17:00'
@@ -57,10 +48,6 @@ gigs:
     city: São Paulo
     date: '26/01/2025 15:00'
     daysGroup: 24/25/26
-  - poster: 471860376_4039057279747548_8321324675731583340_n.jpg
-    city: Araçatuba
-    date: '18/01/2025 17:00'
-    daysGroup: 17/18/19
   - poster: 471504397_1288366325812612_4890616819226649018_n.jpg
     city: São Paulo
     date: '19/01/2025 15:00'
@@ -110,10 +97,6 @@ gigs:
     date: '09/05/2025 14:00'
     daysGroup: 09/10/11
     ticketsUrl: 'https://www.clubedoingresso.com/evento/upfrontalfestival-theexploited'
-  - poster: 470943824_1548681082481974_5380942954582898662_n.jpeg
-    city: São Paulo
-    date: '18/01/2025 19:00'
-    daysGroup: 17/18/19
   - poster: 472596622_1157177062671511_2586911104194120158_n.jpg
     city: Jacareí
     date: '19/01/2025 17:00'
@@ -135,11 +118,6 @@ gigs:
     city: Jacareí
     date: '25/01/2025 18:00'
     daysGroup: 24/25/26
-  - poster: 472872508_1314746073000643_1605758036028690909_n.jpeg
-    city: Santo André
-    date: '18/01/2025 17:00'
-    daysGroup: 17/18/19
-    ticketsUrl: 'https://www.sympla.com.br/evento/grito-fest-vol-4/2773270'
   - poster: 472483416_1033849675425575_2703146230318370017_n.jpeg
     city: Mauá
     date: '26/01/2025 14:00'
@@ -152,10 +130,6 @@ gigs:
     city: Santos
     date: '26/01/2025 17:00'
     daysGroup: 24/25/26
-  - poster: 473111319_2151559811986671_2658298373120100484_n.jpg
-    city: São Paulo
-    date: '18/01/2025 18:00'
-    daysGroup: 17/18/19
   - poster: 472786532_2151560031986649_4941092194339459819_n.jpg
     city: São Paulo
     date: '24/01/2025 19:00'

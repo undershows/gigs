@@ -4964,5 +4964,31 @@ gigs:
     city: Santos
     date: '17/01/2025 23:00'
     daysGroup: 17/18/19
+  - poster: 471621955_2940621339423702_3127488450345148144_n.jpg
+    city: Americana
+    date: '18/01/2025 19:00'
+    daysGroup: 17/18/19
+  - poster: 471797608_10225765519101698_4968757038588092258_n.jpg
+    city: São Paulo
+    date: '18/01/2025 19:00'
+    daysGroup: 17/18/19
+    ticketsUrl: 'https://101tickets.com.br/events/details/Stay-Louders---Evil-Sessions'
+  - poster: 471860376_4039057279747548_8321324675731583340_n.jpg
+    city: Araçatuba
+    date: '18/01/2025 17:00'
+    daysGroup: 17/18/19
+  - poster: 470943824_1548681082481974_5380942954582898662_n.jpeg
+    city: São Paulo
+    date: '18/01/2025 19:00'
+    daysGroup: 17/18/19
+  - poster: 472872508_1314746073000643_1605758036028690909_n.jpeg
+    city: Santo André
+    date: '18/01/2025 17:00'
+    daysGroup: 17/18/19
+    ticketsUrl: 'https://www.sympla.com.br/evento/grito-fest-vol-4/2773270'
+  - poster: 473111319_2151559811986671_2658298373120100484_n.jpg
+    city: São Paulo
+    date: '18/01/2025 18:00'
+    daysGroup: 17/18/19
 ---
 

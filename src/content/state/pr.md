@@ -10,10 +10,6 @@ gigs:
     city: Curitiba
     date: '24/01/2025 18:00'
     daysGroup: 24/25/26
-  - poster: 472298238_492581557182797_9062650319835302876_n.jpeg
-    city: Maringá
-    date: '18/01/2025 20:00'
-    daysGroup: 17/18/19
   - poster: 470936691_1547417749311360_1618778249013518681_n.jpeg
     city: Curitiba
     date: '09/03/2025 15:00'
