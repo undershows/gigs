@@ -48,11 +48,6 @@ gigs:
     city: São Paulo
     date: '26/01/2025 15:00'
     daysGroup: 23/24/25/26
-  - poster: 471504397_1288366325812612_4890616819226649018_n.jpg
-    city: São Paulo
-    date: '19/01/2025 15:00'
-    daysGroup: 17/18/19
-    ticketsUrl: 'https://www.hoppin.com.br/smashitup'
   - poster: 472426531_1312916640128319_712263616187579967_n.jpeg
     city: São Paulo
     date: '26/01/2025 19:00'
@@ -61,12 +56,6 @@ gigs:
     city: São Paulo
     date: '22/02/2025 19:00'
     daysGroup: 21/22/23
-  - poster: 472733862_18299823352226897_3141062513182431058_n.jpg
-    city: Americana
-    date: '19/01/2025 18:00'
-    daysGroup: 17/18/19
-    ticketsUrl: >-
-      https://www.sympla.com.br/evento/contorture-vicious-irene-ao-vivo-no-mutante-radio-americana-detesto-bastard-god/2776874
   - poster: 472219626_482207091562821_1434749775651793338_n.jpeg
     city: Santo André
     date: '05/07/2025 12:00'
@@ -97,10 +86,6 @@ gigs:
     date: '09/05/2025 14:00'
     daysGroup: 09/10/11
     ticketsUrl: 'https://www.clubedoingresso.com/evento/upfrontalfestival-theexploited'
-  - poster: 472596622_1157177062671511_2586911104194120158_n.jpg
-    city: Jacareí
-    date: '19/01/2025 17:00'
-    daysGroup: 17/18/19
   - poster: 472494203_483047851087726_5721993972506755847_n.jpeg
     city: São Paulo
     date: '08/03/2025 14:00'
@@ -122,10 +107,6 @@ gigs:
     city: Mauá
     date: '26/01/2025 14:00'
     daysGroup: 23/24/25/26
-  - poster: 472832892_1135827214597538_2596416150564220118_n.jpg
-    city: São Paulo
-    date: '19/01/2025 14:00'
-    daysGroup: 17/18/19
   - poster: 472648678_430100306736492_8966745566141138317_n.jpg
     city: Santos
     date: '26/01/2025 17:00'

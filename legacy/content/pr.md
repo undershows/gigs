@@ -485,5 +485,9 @@ gigs:
     city: Maringá
     date: '18/01/2025 20:00'
     daysGroup: 17/18/19
+  - poster: 472111176_8987387384705751_9026487546664053728_n.jpg
+    city: Londrina
+    date: '19/01/2025 16:00'
+    daysGroup: 17/18/19
 ---
 

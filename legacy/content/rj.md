@@ -314,5 +314,15 @@ gigs:
     date: '06/12/2024 20:00'
     daysGroup: 06/07/08
     ticketsUrl: 'https://pixelticket.com.br/eventos/24330/flicts-devotos-os-insociaveis'
+  - poster: 472561661_977373134241849_4310588530375002453_n.jpeg
+    city: Rio de Janeiro
+    date: '19/01/2025 15:00'
+    daysGroup: 17/18/19
+    ticketsUrl: 'https://www.sympla.com.br/evento/rock-zine-fest/2735785'
+  - poster: 467553780_8098202516947685_4379469070635436016_n.jpeg
+    city: Rio de Janeiro
+    date: '19/01/2025 17:00'
+    daysGroup: 17/18/19
+    ticketsUrl: 'https://articket.com.br/e/3001/manger-cadavre-no-rio-de-janeiro'
 ---
 

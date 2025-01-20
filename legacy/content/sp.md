@@ -4990,5 +4990,24 @@ gigs:
     city: São Paulo
     date: '18/01/2025 18:00'
     daysGroup: 17/18/19
+  - poster: 471504397_1288366325812612_4890616819226649018_n.jpg
+    city: São Paulo
+    date: '19/01/2025 15:00'
+    daysGroup: 17/18/19
+    ticketsUrl: 'https://www.hoppin.com.br/smashitup'
+  - poster: 472733862_18299823352226897_3141062513182431058_n.jpg
+    city: Americana
+    date: '19/01/2025 18:00'
+    daysGroup: 17/18/19
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/contorture-vicious-irene-ao-vivo-no-mutante-radio-americana-detesto-bastard-god/2776874
+  - poster: 472596622_1157177062671511_2586911104194120158_n.jpg
+    city: Jacareí
+    date: '19/01/2025 17:00'
+    daysGroup: 17/18/19
+  - poster: 472832892_1135827214597538_2596416150564220118_n.jpg
+    city: São Paulo
+    date: '19/01/2025 14:00'
+    daysGroup: 17/18/19
 ---
 
