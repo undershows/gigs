@@ -2,6 +2,7 @@
 Projeto para divulgar shows e festivais underground no Brasil.
 
 ## :wrench: Instalação
+Devido a um conflito de dependências entre `@astrojs/image` e `astro`, é necessário instalar as dependências com a flag `--legacy-peer-deps`:
 ```bash
 npm install
 ```
