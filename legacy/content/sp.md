@@ -5009,5 +5009,9 @@ gigs:
     city: São Paulo
     date: '19/01/2025 14:00'
     daysGroup: 17/18/19
+  - poster: 23-01-Sao-Paulo-SP.png
+    city: São Paulo
+    date: '23/01/2025 20:00'
+    daysGroup: 23/24/25/26
 ---
 
