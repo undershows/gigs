@@ -6,10 +6,6 @@ gigs:
     city: Curitiba
     date: '08/02/2025 19:00'
     daysGroup: 07/08/09
-  - poster: KMF_Flyer_Cwb.jpg
-    city: Curitiba
-    date: '24/01/2025 18:00'
-    daysGroup: 24/25/26
   - poster: 470936691_1547417749311360_1618778249013518681_n.jpeg
     city: Curitiba
     date: '09/03/2025 15:00'
@@ -20,9 +16,5 @@ gigs:
     date: '16/03/2025 17:00'
     daysGroup: 14/15/16
     ticketsUrl: 'https://www.clubedoingresso.com/evento/gutalax-curitiba'
-  - poster: 24-01-Curitiba.jpg
-    city: Curitiba
-    date: '24/01/2025 20:00'
-    daysGroup: 24/25/26
 ---
 

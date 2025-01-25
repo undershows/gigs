@@ -94,5 +94,9 @@ gigs:
     daysGroup: 20/21/22
     ticketsUrl: >-
       https://www.sympla.com.br/evento/funeratus-nervochaos-neuroticos-morkalv/2549714
+  - poster: 471582123_8648730548587111_5179911925738602625_n.jpg
+    city: Campo Grande
+    date: '24/01/2025 20:00'
+    daysGroup: 24/25/26
 ---
 

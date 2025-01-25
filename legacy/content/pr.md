@@ -489,5 +489,13 @@ gigs:
     city: Londrina
     date: '19/01/2025 16:00'
     daysGroup: 17/18/19
+  - poster: KMF_Flyer_Cwb.jpg
+    city: Curitiba
+    date: '24/01/2025 18:00'
+    daysGroup: 24/25/26
+  - poster: 24-01-Curitiba.jpg
+    city: Curitiba
+    date: '24/01/2025 20:00'
+    daysGroup: 24/25/26
 ---
 
