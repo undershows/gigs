@@ -237,5 +237,10 @@ gigs:
     city: Florianópolis
     date: '30/08/2024 20:00'
     daysGroup: 29/30/31
+  - poster: 25-01-Floripa.jpg
+    city: Curitiba
+    date: '25/01/2025 22:00'
+    daysGroup: 24/25/26
+    ticketsUrl: 'https://www.sympla.com.br/evento/bruxa-stoned-session/2788952'
 ---
 

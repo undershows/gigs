@@ -5017,5 +5017,24 @@ gigs:
     city: Indaiatuba
     date: '24/01/2025 19:00'
     daysGroup: 23/24/25/26
+  - poster: 470098024_18349553347121660_1365424239946707004_n.jpg
+    city: São Paulo
+    date: '25/01/2025 17:00'
+    daysGroup: 23/24/25/26
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/cospegfogofest-jaiclub'
+  - poster: 471667691_27925371643777160_8629536553833634652_n.jpg
+    city: São Paulo
+    date: '25/01/2025 15:00'
+    daysGroup: 23/24/25/26
+  - poster: 471605045_940496357619074_2183882531033927196_n.jpeg
+    city: São Paulo
+    date: '25/01/2025 19:00'
+    daysGroup: 23/24/25/26
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/inauguracao-burning-house-com-ratos-de-porao-black-pantera-gritando-hc-grinders-e-thiago-dj/2772220
+  - poster: 472927231_3839385063040610_5785915505862011950_n.jpg
+    city: Jacareí
+    date: '25/01/2025 18:00'
+    daysGroup: 23/24/25/26
 ---
 

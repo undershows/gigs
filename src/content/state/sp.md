@@ -31,15 +31,6 @@ gigs:
     date: '26/01/2025 19:00'
     daysGroup: 23/24/25/26
     ticketsUrl: 'https://www.clubedoingresso.com/evento/upfront-festival'
-  - poster: 470098024_18349553347121660_1365424239946707004_n.jpg
-    city: São Paulo
-    date: '25/01/2025 17:00'
-    daysGroup: 23/24/25/26
-    ticketsUrl: 'https://www.clubedoingresso.com/evento/cospegfogofest-jaiclub'
-  - poster: 471667691_27925371643777160_8629536553833634652_n.jpg
-    city: São Paulo
-    date: '25/01/2025 15:00'
-    daysGroup: 23/24/25/26
   - poster: 471600107_2940621389423697_5654298981501719876_n.jpg
     city: Taubaté
     date: '02/02/2025 17:00'
@@ -75,12 +66,6 @@ gigs:
     daysGroup: 05/06/07/08/09
     ticketsUrl: >-
       https://www.sympla.com.br/evento/manger-cadavre--nameless-gods-no-74-club-em-santo-andre/2782133
-  - poster: 471605045_940496357619074_2183882531033927196_n.jpeg
-    city: São Paulo
-    date: '25/01/2025 19:00'
-    daysGroup: 23/24/25/26
-    ticketsUrl: >-
-      https://www.sympla.com.br/evento/inauguracao-burning-house-com-ratos-de-porao-black-pantera-gritando-hc-grinders-e-thiago-dj/2772220
   - poster: 468309079_918415553721599_1467964846111727463_n.jpeg
     city: São Paulo
     date: '09/05/2025 14:00'
@@ -99,10 +84,6 @@ gigs:
     city: Osasco
     date: '22/03/2025 18:00'
     daysGroup: 21/22/23
-  - poster: 472927231_3839385063040610_5785915505862011950_n.jpg
-    city: Jacareí
-    date: '25/01/2025 18:00'
-    daysGroup: 23/24/25/26
   - poster: 472483416_1033849675425575_2703146230318370017_n.jpeg
     city: Mauá
     date: '26/01/2025 14:00'
