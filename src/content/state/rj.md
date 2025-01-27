@@ -2,10 +2,6 @@
 abbr: RJ
 name: Rio de Janeiro
 gigs:
-  - poster: KMF_Flyer_RJ.jpg
-    city: Rio de Janeiro
-    date: '26/01/2025 17:00'
-    daysGroup: 24/25/26
   - poster: 471491248_1553608851938578_3761876718950151559_n.jpeg
     city: Rio de Janeiro
     date: '10/05/2025 17:00'

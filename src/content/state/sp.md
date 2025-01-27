@@ -26,23 +26,10 @@ gigs:
     date: '21/03/2025 19:00'
     daysGroup: 21/22/23
     ticketsUrl: 'https://www.clubedoingresso.com/evento/marcomalditofestival-cariocaclub'
-  - poster: 471535665_2317901371901444_7017482051007666740_n.jpeg
-    city: São Paulo
-    date: '26/01/2025 19:00'
-    daysGroup: 23/24/25/26
-    ticketsUrl: 'https://www.clubedoingresso.com/evento/upfront-festival'
   - poster: 471600107_2940621389423697_5654298981501719876_n.jpg
     city: Taubaté
     date: '02/02/2025 17:00'
     daysGroup: 01/02
-  - poster: 470921139_1241738256883338_60635649615569915_n.jpg
-    city: São Paulo
-    date: '26/01/2025 15:00'
-    daysGroup: 23/24/25/26
-  - poster: 472426531_1312916640128319_712263616187579967_n.jpeg
-    city: São Paulo
-    date: '26/01/2025 19:00'
-    daysGroup: 23/24/25/26
   - poster: 472500796_606926581840350_1060195402156098886_n.jpeg
     city: São Paulo
     date: '22/02/2025 19:00'
@@ -84,14 +71,6 @@ gigs:
     city: Osasco
     date: '22/03/2025 18:00'
     daysGroup: 21/22/23
-  - poster: 472483416_1033849675425575_2703146230318370017_n.jpeg
-    city: Mauá
-    date: '26/01/2025 14:00'
-    daysGroup: 23/24/25/26
-  - poster: 472648678_430100306736492_8966745566141138317_n.jpg
-    city: Santos
-    date: '26/01/2025 17:00'
-    daysGroup: 23/24/25/26
   - poster: 30-01-Sao-Paulo-SP.jpg
     city: São Paulo
     date: '30/01/2025 21:00'
