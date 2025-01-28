@@ -116,5 +116,9 @@ gigs:
     date: '24/11/2024 17:00'
     daysGroup: 22/23/24
     ticketsUrl: 'https://bileto.sympla.com.br/event/92915/d/250448/s/1708446'
+  - poster: 27-01-Porto-Alegre-RS.png
+    city: Porto Alegre
+    date: '27/01/2025 22:00'
+    daysGroup: 24/25/26/27
 ---
 
