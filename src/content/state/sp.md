@@ -88,5 +88,9 @@ gigs:
     city: Agudos
     date: '02/02/2025 15:00'
     daysGroup: 01/02
+  - poster: Show_Mogi.png
+    city: Mogi das Cruzes
+    date: '22/02/2025 19:00'
+    daysGroup: 21/22/23
 ---
 
