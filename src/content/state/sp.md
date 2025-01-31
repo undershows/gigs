@@ -71,11 +71,6 @@ gigs:
     city: Osasco
     date: '22/03/2025 18:00'
     daysGroup: 21/22/23
-  - poster: 30-01-Sao-Paulo-SP.jpg
-    city: São Paulo
-    date: '30/01/2025 21:00'
-    daysGroup: 30/31
-    ticketsUrl: 'https://www.sympla.com.br/evento/a-porta-maldita-papangu-kombi/2784484'
   - poster: 06-02-SP-Iglesia.jpg
     city: São Paulo
     date: '06/02/2025 20:00'
