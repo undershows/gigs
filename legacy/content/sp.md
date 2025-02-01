@@ -5062,5 +5062,9 @@ gigs:
     date: '30/01/2025 21:00'
     daysGroup: 30/31
     ticketsUrl: 'https://www.sympla.com.br/evento/a-porta-maldita-papangu-kombi/2784484'
+  - poster: 471782647_8987387598039063_4323653836049891292_n.jpg
+    city: São Paulo
+    date: '31/01/2025 18:00'
+    daysGroup: 30/31
 ---
 

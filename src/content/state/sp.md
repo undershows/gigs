@@ -63,10 +63,6 @@ gigs:
     date: '08/03/2025 14:00'
     daysGroup: 07/08/09
     ticketsUrl: 'https://www.sympla.com.br/evento/metal-metal-festival/2730624'
-  - poster: 471782647_8987387598039063_4323653836049891292_n.jpg
-    city: São Paulo
-    date: '31/01/2025 18:00'
-    daysGroup: 30/31
   - poster: 472777938_10014401908574844_1933987536055418147_n.jpg
     city: Osasco
     date: '22/03/2025 18:00'

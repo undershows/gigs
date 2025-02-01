@@ -293,5 +293,11 @@ gigs:
     city: Uberaba
     date: '11/01/2025 18:00'
     daysGroup: 10/11/12
+  - poster: 31-01-Belo-Horizonte.jpg
+    city: Belo Horizonte
+    date: '31/01/2025 20:00'
+    daysGroup: 30/31
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/chama-apresenta-papangu-pb-e-morto-bh/2784831
 ---
 
