@@ -18,12 +18,6 @@ gigs:
     daysGroup: 21/22/23
     ticketsUrl: >-
       https://www.sympla.com.br/evento/marco-maldito-festival-belo-horizonte-2025/2764494
-  - poster: 472409872_17937046715951481_7164211067161908361_n.jpg
-    city: Belo Horizonte
-    date: '01/02/2025 16:00'
-    daysGroup: 01/02
-    ticketsUrl: >-
-      https://101tickets.com.br/events/details/METALPUNK-OVERKILL-e-FURIA-COLETIVA-apresentam:
   - poster: 472120518_1785559618851906_4834707240446453496_n.jpeg
     city: Contagem
     date: '01/03/2025 17:00'
@@ -41,9 +35,5 @@ gigs:
     city: Uberaba
     date: '07/02/2025 18:00'
     daysGroup: 07/08/09
-  - poster: 01-02-juiz-de-fora.png
-    city: Juiz de Fora
-    date: '01/02/2025 20:00'
-    daysGroup: 01/02
 ---
 
