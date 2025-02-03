@@ -5066,5 +5066,13 @@ gigs:
     city: São Paulo
     date: '31/01/2025 18:00'
     daysGroup: 30/31
+  - poster: 471600107_2940621389423697_5654298981501719876_n.jpg
+    city: Taubaté
+    date: '02/02/2025 17:00'
+    daysGroup: 01/02
+  - poster: b81dcfed-1304-4ad9-a691-87dd4ec3232c.jpeg
+    city: Agudos
+    date: '02/02/2025 15:00'
+    daysGroup: 01/02
 ---
 

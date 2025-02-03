@@ -26,10 +26,6 @@ gigs:
     date: '21/03/2025 19:00'
     daysGroup: 21/22/23
     ticketsUrl: 'https://www.clubedoingresso.com/evento/marcomalditofestival-cariocaclub'
-  - poster: 471600107_2940621389423697_5654298981501719876_n.jpg
-    city: Taubaté
-    date: '02/02/2025 17:00'
-    daysGroup: 01/02
   - poster: 472500796_606926581840350_1060195402156098886_n.jpeg
     city: São Paulo
     date: '22/02/2025 19:00'
@@ -75,9 +71,5 @@ gigs:
     city: Americana
     date: '05/02/2025 18:00'
     daysGroup: 05/06/07/08/09
-  - poster: b81dcfed-1304-4ad9-a691-87dd4ec3232c.jpeg
-    city: Agudos
-    date: '02/02/2025 15:00'
-    daysGroup: 01/02
 ---
 
