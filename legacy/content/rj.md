@@ -328,5 +328,9 @@ gigs:
     city: Rio de Janeiro
     date: '26/01/2025 17:00'
     daysGroup: 24/25/26
+  - poster: 02-02-Rio-de-Janeiro-RJ.png
+    city: Rio de Janeiro
+    date: '02/02/2025 19:00'
+    daysGroup: 01/02
 ---
 

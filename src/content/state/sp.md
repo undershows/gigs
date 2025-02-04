@@ -26,10 +26,6 @@ gigs:
     date: '21/03/2025 19:00'
     daysGroup: 21/22/23
     ticketsUrl: 'https://www.clubedoingresso.com/evento/marcomalditofestival-cariocaclub'
-  - poster: 471600107_2940621389423697_5654298981501719876_n.jpg
-    city: Taubaté
-    date: '02/02/2025 17:00'
-    daysGroup: 01/02
   - poster: 472500796_606926581840350_1060195402156098886_n.jpeg
     city: São Paulo
     date: '22/02/2025 19:00'
@@ -63,19 +59,10 @@ gigs:
     date: '08/03/2025 14:00'
     daysGroup: 07/08/09
     ticketsUrl: 'https://www.sympla.com.br/evento/metal-metal-festival/2730624'
-  - poster: 471782647_8987387598039063_4323653836049891292_n.jpg
-    city: São Paulo
-    date: '31/01/2025 18:00'
-    daysGroup: 30/31
   - poster: 472777938_10014401908574844_1933987536055418147_n.jpg
     city: Osasco
     date: '22/03/2025 18:00'
     daysGroup: 21/22/23
-  - poster: 30-01-Sao-Paulo-SP.jpg
-    city: São Paulo
-    date: '30/01/2025 21:00'
-    daysGroup: 30/31
-    ticketsUrl: 'https://www.sympla.com.br/evento/a-porta-maldita-papangu-kombi/2784484'
   - poster: 06-02-SP-Iglesia.jpg
     city: São Paulo
     date: '06/02/2025 20:00'
@@ -92,5 +79,7 @@ gigs:
     city: Mogi das Cruzes
     date: '22/02/2025 19:00'
     daysGroup: 21/22/23
----
+
+
+
 

@@ -293,5 +293,21 @@ gigs:
     city: Uberaba
     date: '11/01/2025 18:00'
     daysGroup: 10/11/12
+  - poster: 31-01-Belo-Horizonte.jpg
+    city: Belo Horizonte
+    date: '31/01/2025 20:00'
+    daysGroup: 30/31
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/chama-apresenta-papangu-pb-e-morto-bh/2784831
+  - poster: 472409872_17937046715951481_7164211067161908361_n.jpg
+    city: Belo Horizonte
+    date: '01/02/2025 16:00'
+    daysGroup: 01/02
+    ticketsUrl: >-
+      https://101tickets.com.br/events/details/METALPUNK-OVERKILL-e-FURIA-COLETIVA-apresentam:
+  - poster: 01-02-juiz-de-fora.png
+    city: Juiz de Fora
+    date: '01/02/2025 20:00'
+    daysGroup: 01/02
 ---
 
