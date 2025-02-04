@@ -71,5 +71,15 @@ gigs:
     city: Americana
     date: '05/02/2025 18:00'
     daysGroup: 05/06/07/08/09
----
+  - poster: b81dcfed-1304-4ad9-a691-87dd4ec3232c.jpeg
+    city: Agudos
+    date: '02/02/2025 15:00'
+    daysGroup: 01/02
+  - poster: Show_Mogi.png
+    city: Mogi das Cruzes
+    date: '22/02/2025 19:00'
+    daysGroup: 21/22/23
+
+
+
 
