@@ -5074,5 +5074,9 @@ gigs:
     city: Agudos
     date: '02/02/2025 15:00'
     daysGroup: 01/02
+  - poster: 05-2-Americana.jpg
+    city: Americana
+    date: '05/02/2025 18:00'
+    daysGroup: 05/06/07/08/09
 ---
 
