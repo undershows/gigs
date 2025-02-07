@@ -63,9 +63,5 @@ gigs:
     city: Osasco
     date: '22/03/2025 18:00'
     daysGroup: 21/22/23
-  - poster: 06-02-SP-Iglesia.jpg
-    city: São Paulo
-    date: '06/02/2025 20:00'
-    daysGroup: 05/06/07/08/09
 ---
 

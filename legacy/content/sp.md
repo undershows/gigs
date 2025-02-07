@@ -5078,5 +5078,9 @@ gigs:
     city: Americana
     date: '05/02/2025 18:00'
     daysGroup: 05/06/07/08/09
+  - poster: 06-02-SP-Iglesia.jpg
+    city: São Paulo
+    date: '06/02/2025 20:00'
+    daysGroup: 05/06/07/08/09
 ---
 
