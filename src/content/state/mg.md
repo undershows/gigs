@@ -31,9 +31,5 @@ gigs:
     city: Sete Lagoas
     date: '18/05/2025 12:00'
     daysGroup: 16/17/18
-  - poster: 07-02-Uberaba-MG.png
-    city: Uberaba
-    date: '07/02/2025 18:00'
-    daysGroup: 07/08/09
 ---
 
