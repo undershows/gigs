@@ -43,12 +43,6 @@ gigs:
     city: São José dos Campos
     date: '16/03/2025 18:00'
     daysGroup: 14/15/16
-  - poster: 472443206_1085595376582522_5318980158101455583_n.jpeg
-    city: Santo André
-    date: '08/02/2025 19:00'
-    daysGroup: 05/06/07/08/09
-    ticketsUrl: >-
-      https://www.sympla.com.br/evento/manger-cadavre--nameless-gods-no-74-club-em-santo-andre/2782133
   - poster: 468309079_918415553721599_1467964846111727463_n.jpeg
     city: São Paulo
     date: '09/05/2025 14:00'

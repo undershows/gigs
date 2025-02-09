@@ -5082,5 +5082,11 @@ gigs:
     city: São Paulo
     date: '06/02/2025 20:00'
     daysGroup: 05/06/07/08/09
+  - poster: 472443206_1085595376582522_5318980158101455583_n.jpeg
+    city: Santo André
+    date: '08/02/2025 19:00'
+    daysGroup: 05/06/07/08/09
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/manger-cadavre--nameless-gods-no-74-club-em-santo-andre/2782133
 ---
 
