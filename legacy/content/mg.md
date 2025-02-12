@@ -309,5 +309,9 @@ gigs:
     city: Juiz de Fora
     date: '01/02/2025 20:00'
     daysGroup: 01/02
+  - poster: 07-02-Uberaba-MG.png
+    city: Uberaba
+    date: '07/02/2025 18:00'
+    daysGroup: 07/08/09
 ---
 

@@ -268,5 +268,9 @@ gigs:
     city: Brasília
     date: '24/01/2025 20:00'
     daysGroup: 24/25/26
+  - poster: 09-02-Brasilia-DF.png
+    city: Brasília
+    date: '09/02/2025 17:00'
+    daysGroup: 07/08/09
 ---
 

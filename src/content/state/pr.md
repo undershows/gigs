@@ -2,10 +2,6 @@
 abbr: PR
 name: Paraná
 gigs:
-  - poster: 465830678_1837129556695821_5035809304754057050_n.jpg
-    city: Curitiba
-    date: '08/02/2025 19:00'
-    daysGroup: 07/08/09
   - poster: 470936691_1547417749311360_1618778249013518681_n.jpeg
     city: Curitiba
     date: '09/03/2025 15:00'
