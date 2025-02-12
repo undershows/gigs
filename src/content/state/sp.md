@@ -57,5 +57,8 @@ gigs:
     city: Osasco
     date: '22/03/2025 18:00'
     daysGroup: 21/22/23
+  - poster: Show_Mogi.png
+    city: Mogi das Cruzes
+    date: '22/02/2025 19:00'
+    daysGroup: 21/22/23  
 ---
-
