@@ -4,7 +4,7 @@ name: São Paulo
 gigs:
   - poster: 5e2445a7-e7a4-4219-be0b-9e0bcfefb983.jpeg
     city: São Paulo
-    date: '08/03/2025 14:00'
+    date: '09/03/2025 14:00'
     daysGroup: 07/08/09
     ticketsUrl: 'https://bilheto.com.br/comprar/2604/m-a-d-metal-fest-sao-paulo'
   - poster: cirith_ungol_sp_07.jpg
@@ -60,5 +60,25 @@ gigs:
   - poster: Show_Mogi.png
     city: Mogi das Cruzes
     date: '22/02/2025 19:00'
-    daysGroup: 21/22/23  
+    daysGroup: 21/22/23
+  - poster: 54948237-9570-45c3-b99b-5e2b0a7479f5.jpeg
+    city: São Paulo
+    date: '15/02/2025 19:00'
+    daysGroup: 14/15/16
+  - poster: 9cc9377f-a0e9-4e01-bc3f-18ba9355695b.jpeg
+    city: São Bernardo do Campo
+    date: '16/02/2025 18:00'
+    daysGroup: 14/15/16
+  - poster: 477580437_9148192141954815_4491896237469713890_n.jpg
+    city: São Paulo
+    date: '21/02/2025 18:00'
+    daysGroup: 21/22/23
+  - poster: 479523807_1352006485942052_104936255747579643_n.jpg
+    city: São Paulo
+    date: '15/03/2025 17:00'
+    daysGroup: 14/15/16
+  - poster: 477795906_10231302145154364_9038817174183762319_n.jpg
+    city: São Paulo
+    date: '22/02/2025 19:00'
+    daysGroup: 21/22/23
 ---
