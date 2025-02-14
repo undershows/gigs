@@ -81,4 +81,9 @@ gigs:
     city: São Paulo
     date: '22/02/2025 19:00'
     daysGroup: 21/22/23
+  - poster: 11-04_resized.jpg
+    city: São Paulo
+    date: '11/04/2025 21:00'
+    daysGroup: 10/11/12/13
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/diadfestival'
 ---
