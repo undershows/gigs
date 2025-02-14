@@ -86,4 +86,9 @@ gigs:
     date: '11/04/2025 21:00'
     daysGroup: 10/11/12/13
     ticketsUrl: 'https://www.clubedoingresso.com/evento/diadfestival'
+  - poster: 478322546_18490961014009270_105291325924196186_n.jpg
+    city: São Paulo
+    date: '08/03/2025 17:00'
+    daysGroup: 07/08/09
+    ticketsUrl: 'https://www.hoppin.com.br/jaihc'
 ---
