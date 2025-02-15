@@ -242,5 +242,10 @@ gigs:
     date: '25/01/2025 22:00'
     daysGroup: 24/25/26
     ticketsUrl: 'https://www.sympla.com.br/evento/bruxa-stoned-session/2788952'
+  - poster: 470490171_18345645259178783_4339453804228363195_n.jpg
+    city: Florianópolis
+    date: '14/02/2025 19:00'
+    daysGroup: 14/15/16
+    ticketsUrl: 'https://www.sympla.com.br/evento/14-02-sex-bruxa-stoned-fest/2772280'
 ---
 
