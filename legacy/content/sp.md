@@ -5088,5 +5088,9 @@ gigs:
     daysGroup: 05/06/07/08/09
     ticketsUrl: >-
       https://www.sympla.com.br/evento/manger-cadavre--nameless-gods-no-74-club-em-santo-andre/2782133
+  - poster: 54948237-9570-45c3-b99b-5e2b0a7479f5.jpeg
+    city: São Paulo
+    date: '15/02/2025 19:00'
+    daysGroup: 14/15/16
 ---
 

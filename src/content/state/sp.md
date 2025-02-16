@@ -61,10 +61,6 @@ gigs:
     city: Mogi das Cruzes
     date: '22/02/2025 19:00'
     daysGroup: 21/22/23
-  - poster: 54948237-9570-45c3-b99b-5e2b0a7479f5.jpeg
-    city: São Paulo
-    date: '15/02/2025 19:00'
-    daysGroup: 14/15/16
   - poster: 9cc9377f-a0e9-4e01-bc3f-18ba9355695b.jpeg
     city: São Bernardo do Campo
     date: '16/02/2025 18:00'
@@ -92,3 +88,4 @@ gigs:
     daysGroup: 07/08/09
     ticketsUrl: 'https://www.hoppin.com.br/jaihc'
 ---
+
