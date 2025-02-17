@@ -35,10 +35,6 @@ gigs:
     date: '05/07/2025 12:00'
     daysGroup: 04/05/06
     ticketsUrl: 'https://uticket.com.br/event/01KHKCXDXT25S9'
-  - poster: 472131040_3990918901193563_4793535796802636811_n.jpeg
-    city: São Paulo
-    date: '16/02/2025 13:00'
-    daysGroup: 14/15/16
   - poster: 471959387_1753940242121099_8378333221454488810_n.jpg
     city: São José dos Campos
     date: '16/03/2025 18:00'
@@ -61,10 +57,6 @@ gigs:
     city: Mogi das Cruzes
     date: '22/02/2025 19:00'
     daysGroup: 21/22/23
-  - poster: 9cc9377f-a0e9-4e01-bc3f-18ba9355695b.jpeg
-    city: São Bernardo do Campo
-    date: '16/02/2025 18:00'
-    daysGroup: 14/15/16
   - poster: 477580437_9148192141954815_4491896237469713890_n.jpg
     city: São Paulo
     date: '21/02/2025 18:00'

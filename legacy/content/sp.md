@@ -5092,5 +5092,13 @@ gigs:
     city: São Paulo
     date: '15/02/2025 19:00'
     daysGroup: 14/15/16
+  - poster: 472131040_3990918901193563_4793535796802636811_n.jpeg
+    city: São Paulo
+    date: '16/02/2025 13:00'
+    daysGroup: 14/15/16
+  - poster: 9cc9377f-a0e9-4e01-bc3f-18ba9355695b.jpeg
+    city: São Bernardo do Campo
+    date: '16/02/2025 18:00'
+    daysGroup: 14/15/16
 ---
 
