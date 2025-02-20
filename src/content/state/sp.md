@@ -79,5 +79,13 @@ gigs:
     date: '08/03/2025 17:00'
     daysGroup: 07/08/09
     ticketsUrl: 'https://www.hoppin.com.br/jaihc'
+  - poster: ride_the_cross_metal_fest.jpeg
+    city: São Paulo
+    date: '08/03/2025 17:00'
+    daysGroup: 07/08/09
+  - poster: 480372299_29007248915540326_1770710296562296404_n.jpg
+    city: São Paulo
+    date: '23/03/2025 14:00'
+    daysGroup: 21/22/23
 ---
 
