@@ -83,5 +83,37 @@ gigs:
     city: São Paulo
     date: '23/03/2025 14:00'
     daysGroup: 21/22/23
+  - poster: 480885201_18490414564043724_4938308461101598477_n.jpg
+    city: São Paulo
+    date: '08/03/2025 19:00'
+    daysGroup: 07/08/09
+    ticketsUrl: 'https://www.sympla.com.br/evento/dischava-odio-social-bday-mauro-djs-smash-it-up/2843555'
+  - poster: 481423616_1836367443870654_2070125799795080182_n.jpeg
+    city: São Paulo
+    date: '05/04/2025 19:00'
+    daysGroup: 04/05/06
+    ticketsUrl: 'https://www.sympla.com.br/evento/horace-green-contra-ceu/2843562'
+  - poster: 480576038_18011129852686980_7096562688023518612_n.jpeg
+    city: São Paulo
+    date: '27/02/2025 19:00'
+    daysGroup: 27/28/29/30
+    ticketsUrl: 'https://www.sympla.com.br/evento/cromulents-austria-e-refugiadas/2819335'
+  - poster: 480851934_17866460409331673_8016120112266010455_n.jpeg
+    city: São José dos Campos
+    date: '08/03/2025 18:00'
+    daysGroup: 07/08/09
+  - poster: 476498699_18154827307351395_6629182271269391523_n.jpg
+    city: São Bernardo do Campo
+    date: '23/02/2025 17:00'
+    daysGroup: 21/22/23
+  - poster: 481511934_18380274340114615_1316958125483207176_n.jpg
+    city: São Paulo
+    date: '07/03/2025 19:00'
+    daysGroup: 07/08/09
+    ticketsUrl: 'https://meaple.com.br/bradorecords/vazio-podridao-caligem-e-nameless-god'
+  - poster: 481166184_17937111554976239_8768366478289466249_n.jpg
+    city: São Paulo
+    date: '16/03/2025 13:00'
+    daysGroup: 14/15/16
 ---
 
