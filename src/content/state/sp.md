@@ -65,7 +65,7 @@ gigs:
     city: São Paulo
     date: '22/02/2025 19:00'
     daysGroup: 21/22/23
-  - poster: 11-04_resized.jpg
+  - poster: 12-04_resized.jpg
     city: São Paulo
     date: '11/04/2025 21:00'
     daysGroup: 10/11/12/13
@@ -115,5 +115,36 @@ gigs:
     city: São Paulo
     date: '16/03/2025 13:00'
     daysGroup: 14/15/16
+  - poster: 480123572_2178482362627749_3578320269906040537_n.jpg
+    city: Votuporanga
+    date: '23/02/2025 16:00'
+    daysGroup: 21/22/23
+  - poster: 479183936_2178482555961063_6180651499196869753_n.jpg
+    city: São Paulo
+    date: '29/03/2025 16:00'
+    daysGroup: 28/29/30
+  - poster: 477799072_2178482999294352_5722808656797153189_n.jpg
+    city: Santo André
+    date: '30/03/2025 17:00'
+    daysGroup: 28/29/30
+    ticketsUrl: 'https://www.ddtickets.com.br/comprar/6/coroner-no-brasil'
+  - poster: 477545892_2178483479294304_5799414855714782515_n.jpg
+    city: São Paulo
+    date: '30/03/2025 17:00'
+    daysGroup: 28/29/30
+    ticketsUrl: 'https://fastix.com.br/events/pentagram-em-sao-paulo'
+  - poster: 479186586_2178486005960718_6555825619908922642_n.jpg
+    city: Cubatão
+    date: '10/05/2025 18:30'
+    daysGroup: 09/10/11
+    ticketsUrl: 'https://www.sympla.com.br/evento/okavango-metal-fest-2025/2819286'
+  - poster: 479607678_28394341740213479_561183204609068043_n.jpg
+    city: Santo André
+    date: '18/04/2025 19:00'
+    daysGroup: 18/19/20
+  - poster: 479523071_9166544713432061_2164031408381777639_n.jpg
+    city: Sumaré
+    date: '22/02/2025 19:00'
+    daysGroup: 21/22/23
 ---
 

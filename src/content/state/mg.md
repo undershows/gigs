@@ -31,5 +31,9 @@ gigs:
     city: Sete Lagoas
     date: '18/05/2025 12:00'
     daysGroup: 16/17/18
+  - poster: 480462128_9157709637655864_2626343954250174939_n.jpg
+    city: Belo Horizonte
+    date: '22/02/2025 15:00'
+    daysGroup: 21/22/23
 ---
 
