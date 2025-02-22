@@ -41,7 +41,7 @@ gigs:
     daysGroup: 14/15/16
   - poster: 468309079_918415553721599_1467964846111727463_n.jpeg
     city: São Paulo
-    date: '09/05/2025 14:00'
+    date: '11/05/2025 14:00'
     daysGroup: 09/10/11
     ticketsUrl: 'https://www.clubedoingresso.com/evento/upfrontalfestival-theexploited'
   - poster: 472494203_483047851087726_5721993972506755847_n.jpeg
