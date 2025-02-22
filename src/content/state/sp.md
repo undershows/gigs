@@ -57,10 +57,6 @@ gigs:
     city: Mogi das Cruzes
     date: '22/02/2025 19:00'
     daysGroup: 21/22/23
-  - poster: 477580437_9148192141954815_4491896237469713890_n.jpg
-    city: São Paulo
-    date: '21/02/2025 18:00'
-    daysGroup: 21/22/23
   - poster: 479523807_1352006485942052_104936255747579643_n.jpg
     city: São Paulo
     date: '15/03/2025 17:00'
