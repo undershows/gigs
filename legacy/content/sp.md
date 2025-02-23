@@ -5104,5 +5104,21 @@ gigs:
     city: São Paulo
     date: '21/02/2025 18:00'
     daysGroup: 21/22/23
+  - poster: 472500796_606926581840350_1060195402156098886_n.jpeg
+    city: São Paulo
+    date: '22/02/2025 19:00'
+    daysGroup: 21/22/23
+  - poster: Show_Mogi.png
+    city: Mogi das Cruzes
+    date: '22/02/2025 19:00'
+    daysGroup: 21/22/23
+  - poster: 477795906_10231302145154364_9038817174183762319_n.jpg
+    city: São Paulo
+    date: '22/02/2025 19:00'
+    daysGroup: 21/22/23
+  - poster: 479523071_9166544713432061_2164031408381777639_n.jpg
+    city: Sumaré
+    date: '22/02/2025 19:00'
+    daysGroup: 21/22/23
 ---
 

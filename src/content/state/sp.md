@@ -26,10 +26,6 @@ gigs:
     date: '21/03/2025 19:00'
     daysGroup: 21/22/23
     ticketsUrl: 'https://www.clubedoingresso.com/evento/marcomalditofestival-cariocaclub'
-  - poster: 472500796_606926581840350_1060195402156098886_n.jpeg
-    city: São Paulo
-    date: '22/02/2025 19:00'
-    daysGroup: 21/22/23
   - poster: 472219626_482207091562821_1434749775651793338_n.jpeg
     city: Santo André
     date: '05/07/2025 12:00'
@@ -53,18 +49,10 @@ gigs:
     city: Osasco
     date: '22/03/2025 18:00'
     daysGroup: 21/22/23
-  - poster: Show_Mogi.png
-    city: Mogi das Cruzes
-    date: '22/02/2025 19:00'
-    daysGroup: 21/22/23
   - poster: 479523807_1352006485942052_104936255747579643_n.jpg
     city: São Paulo
     date: '15/03/2025 17:00'
     daysGroup: 14/15/16
-  - poster: 477795906_10231302145154364_9038817174183762319_n.jpg
-    city: São Paulo
-    date: '22/02/2025 19:00'
-    daysGroup: 21/22/23
   - poster: 12-04_resized.jpg
     city: São Paulo
     date: '11/04/2025 21:00'
@@ -87,7 +75,8 @@ gigs:
     city: São Paulo
     date: '08/03/2025 19:00'
     daysGroup: 07/08/09
-    ticketsUrl: 'https://www.sympla.com.br/evento/dischava-odio-social-bday-mauro-djs-smash-it-up/2843555'
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/dischava-odio-social-bday-mauro-djs-smash-it-up/2843555
   - poster: 481423616_1836367443870654_2070125799795080182_n.jpeg
     city: São Paulo
     date: '05/04/2025 19:00'
@@ -142,9 +131,5 @@ gigs:
     city: Santo André
     date: '18/04/2025 19:00'
     daysGroup: 18/19/20
-  - poster: 479523071_9166544713432061_2164031408381777639_n.jpg
-    city: Sumaré
-    date: '22/02/2025 19:00'
-    daysGroup: 21/22/23
 ---
 

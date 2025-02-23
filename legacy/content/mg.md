@@ -313,5 +313,9 @@ gigs:
     city: Uberaba
     date: '07/02/2025 18:00'
     daysGroup: 07/08/09
+  - poster: 480462128_9157709637655864_2626343954250174939_n.jpg
+    city: Belo Horizonte
+    date: '22/02/2025 15:00'
+    daysGroup: 21/22/23
 ---
 
