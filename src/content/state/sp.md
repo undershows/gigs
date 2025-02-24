@@ -24,7 +24,7 @@ gigs:
   - poster: 469600543_18247181188263705_7603923187443628932_n.jpg
     city: São Paulo
     date: '21/03/2025 19:00'
-    daysGroup: 21/22/23
+    daysGroup: 19/20/21/22/23
     ticketsUrl: 'https://www.clubedoingresso.com/evento/marcomalditofestival-cariocaclub'
   - poster: 472219626_482207091562821_1434749775651793338_n.jpeg
     city: Santo André
@@ -48,7 +48,7 @@ gigs:
   - poster: 472777938_10014401908574844_1933987536055418147_n.jpg
     city: Osasco
     date: '22/03/2025 18:00'
-    daysGroup: 21/22/23
+    daysGroup: 19/20/21/22/23
   - poster: 479523807_1352006485942052_104936255747579643_n.jpg
     city: São Paulo
     date: '15/03/2025 17:00'
@@ -70,7 +70,7 @@ gigs:
   - poster: 480372299_29007248915540326_1770710296562296404_n.jpg
     city: São Paulo
     date: '23/03/2025 14:00'
-    daysGroup: 21/22/23
+    daysGroup: 19/20/21/22/23
   - poster: 480885201_18490414564043724_4938308461101598477_n.jpg
     city: São Paulo
     date: '08/03/2025 19:00'
@@ -131,5 +131,10 @@ gigs:
     city: Santo André
     date: '18/04/2025 19:00'
     daysGroup: 18/19/20
+  - poster: undershows_fest_iv.jpg
+    city: São Paulo
+    date: '19/03/2025 18:00'
+    daysGroup: 19/20/21/22/23
+    ticketsUrl: 'https://ticket.com.vc/evento/undershows-fest-iv'
 ---
 
