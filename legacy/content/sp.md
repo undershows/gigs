@@ -5120,5 +5120,13 @@ gigs:
     city: Sumaré
     date: '22/02/2025 19:00'
     daysGroup: 21/22/23
+  - poster: 476498699_18154827307351395_6629182271269391523_n.jpg
+    city: São Bernardo do Campo
+    date: '23/02/2025 17:00'
+    daysGroup: 21/22/23
+  - poster: 480123572_2178482362627749_3578320269906040537_n.jpg
+    city: Votuporanga
+    date: '23/02/2025 16:00'
+    daysGroup: 21/22/23
 ---
 
