@@ -82,11 +82,6 @@ gigs:
     date: '05/04/2025 19:00'
     daysGroup: 04/05/06
     ticketsUrl: 'https://www.sympla.com.br/evento/horace-green-contra-ceu/2843562'
-  - poster: 480576038_18011129852686980_7096562688023518612_n.jpeg
-    city: São Paulo
-    date: '27/02/2025 19:00'
-    daysGroup: 27/28/29/30
-    ticketsUrl: 'https://www.sympla.com.br/evento/cromulents-austria-e-refugiadas/2819335'
   - poster: 480851934_17866460409331673_8016120112266010455_n.jpeg
     city: São José dos Campos
     date: '08/03/2025 18:00'

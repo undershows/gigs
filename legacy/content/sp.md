@@ -5128,5 +5128,10 @@ gigs:
     city: Votuporanga
     date: '23/02/2025 16:00'
     daysGroup: 21/22/23
+  - poster: 480576038_18011129852686980_7096562688023518612_n.jpeg
+    city: São Paulo
+    date: '27/02/2025 19:00'
+    daysGroup: 27/28/29/30
+    ticketsUrl: 'https://www.sympla.com.br/evento/cromulents-austria-e-refugiadas/2819335'
 ---
 
