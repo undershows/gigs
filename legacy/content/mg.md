@@ -317,5 +317,9 @@ gigs:
     city: Belo Horizonte
     date: '22/02/2025 15:00'
     daysGroup: 21/22/23
+  - poster: 472120518_1785559618851906_4834707240446453496_n.jpeg
+    city: Contagem
+    date: '01/03/2025 17:00'
+    daysGroup: 01/02
 ---
 

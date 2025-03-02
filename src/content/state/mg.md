@@ -18,10 +18,6 @@ gigs:
     daysGroup: 21/22/23
     ticketsUrl: >-
       https://www.sympla.com.br/evento/marco-maldito-festival-belo-horizonte-2025/2764494
-  - poster: 472120518_1785559618851906_4834707240446453496_n.jpeg
-    city: Contagem
-    date: '01/03/2025 17:00'
-    daysGroup: 01/02
   - poster: 471466948_560299436987656_6417124023595106532_n.jpeg
     city: Belo Horizonte
     date: '09/05/2025 17:00'
