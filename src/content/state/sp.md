@@ -2,11 +2,6 @@
 abbr: SP
 name: São Paulo
 gigs:
-  - poster: 5e2445a7-e7a4-4219-be0b-9e0bcfefb983.jpeg
-    city: São Paulo
-    date: '09/03/2025 14:00'
-    daysGroup: 07/08/09
-    ticketsUrl: 'https://bilheto.com.br/comprar/2604/m-a-d-metal-fest-sao-paulo'
   - poster: 1177eb09-9816-4fb6-8406-2a214c577775.jpeg
     city: São Paulo
     date: '18/10/2025 18:00'
@@ -36,8 +31,8 @@ gigs:
     ticketsUrl: 'https://www.clubedoingresso.com/evento/upfrontalfestival-theexploited'
   - poster: 472494203_483047851087726_5721993972506755847_n.jpeg
     city: São Paulo
-    date: '08/03/2025 14:00'
-    daysGroup: 07/08/09
+    date: '16/03/2025 16:00'
+    daysGroup: 14/15/16
     ticketsUrl: 'https://www.sympla.com.br/evento/metal-metal-festival/2730624'
   - poster: 472777938_10014401908574844_1933987536055418147_n.jpg
     city: Osasco
@@ -112,5 +107,9 @@ gigs:
     date: '19/03/2025 18:00'
     daysGroup: 19/20/21/22/23
     ticketsUrl: 'https://ticket.com.vc/evento/undershows-fest-iv'
+  - poster: 481105098_18388460620129357_3446554562830045948_n.jpeg
+    city: São Paulo
+    date: '08/03/2025 17:00'
+    daysGroup: 07/08/09
 ---
 
