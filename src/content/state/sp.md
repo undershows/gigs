@@ -115,5 +115,9 @@ gigs:
     city: Marília
     date: '08/03/2025 21:00'
     daysGroup: 07/08/09
+  - poster: 482324641_643989604790761_8886474296229396246_n.jpg
+    city: Ribeirão Preto
+    date: '22/03/2025 18:00'
+    daysGroup: 19/20/21/22/23
 ---
 
