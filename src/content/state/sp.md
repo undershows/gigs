@@ -111,5 +111,9 @@ gigs:
     city: Agudos
     date: '09/03/2025 17:00'
     daysGroup: 07/08/09
+  - poster: d8e013fe-cff6-4bd3-8c6a-4d862a6b41d4.jpeg
+    city: Marília
+    date: '08/03/2025 21:00'
+    daysGroup: 07/08/09
 ---
 
