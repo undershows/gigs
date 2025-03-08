@@ -5133,5 +5133,16 @@ gigs:
     date: '27/02/2025 19:00'
     daysGroup: 27/28/29/30
     ticketsUrl: 'https://www.sympla.com.br/evento/cromulents-austria-e-refugiadas/2819335'
+  - poster: cirith_ungol_sp_07.jpg
+    city: São Paulo
+    date: '07/03/2025 19:00'
+    daysGroup: 07/08/09
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/cirith-ungol-nightdemon-hellish-war-chumbo/2366428
+  - poster: 481511934_18380274340114615_1316958125483207176_n.jpg
+    city: São Paulo
+    date: '07/03/2025 19:00'
+    daysGroup: 07/08/09
+    ticketsUrl: 'https://meaple.com.br/bradorecords/vazio-podridao-caligem-e-nameless-god'
 ---
 

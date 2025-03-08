@@ -7,12 +7,6 @@ gigs:
     date: '09/03/2025 14:00'
     daysGroup: 07/08/09
     ticketsUrl: 'https://bilheto.com.br/comprar/2604/m-a-d-metal-fest-sao-paulo'
-  - poster: cirith_ungol_sp_07.jpg
-    city: São Paulo
-    date: '07/03/2025 19:00'
-    daysGroup: 07/08/09
-    ticketsUrl: >-
-      https://www.sympla.com.br/evento/cirith-ungol-nightdemon-hellish-war-chumbo/2366428
   - poster: 1177eb09-9816-4fb6-8406-2a214c577775.jpeg
     city: São Paulo
     date: '18/10/2025 18:00'
@@ -86,11 +80,6 @@ gigs:
     city: São José dos Campos
     date: '08/03/2025 18:00'
     daysGroup: 07/08/09
-  - poster: 481511934_18380274340114615_1316958125483207176_n.jpg
-    city: São Paulo
-    date: '07/03/2025 19:00'
-    daysGroup: 07/08/09
-    ticketsUrl: 'https://meaple.com.br/bradorecords/vazio-podridao-caligem-e-nameless-god'
   - poster: 481166184_17937111554976239_8768366478289466249_n.jpg
     city: São Paulo
     date: '16/03/2025 13:00'
