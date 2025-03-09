@@ -47,34 +47,15 @@ gigs:
     date: '11/04/2025 21:00'
     daysGroup: 10/11/12/13
     ticketsUrl: 'https://www.clubedoingresso.com/evento/diadfestival'
-  - poster: 478322546_18490961014009270_105291325924196186_n.jpg
-    city: São Paulo
-    date: '08/03/2025 17:00'
-    daysGroup: 07/08/09
-    ticketsUrl: 'https://www.hoppin.com.br/jaihc'
-  - poster: ride_the_cross_metal_fest.jpeg
-    city: São Paulo
-    date: '08/03/2025 17:00'
-    daysGroup: 07/08/09
   - poster: 480372299_29007248915540326_1770710296562296404_n.jpg
     city: São Paulo
     date: '23/03/2025 14:00'
     daysGroup: 19/20/21/22/23
-  - poster: 480885201_18490414564043724_4938308461101598477_n.jpg
-    city: São Paulo
-    date: '08/03/2025 19:00'
-    daysGroup: 07/08/09
-    ticketsUrl: >-
-      https://www.sympla.com.br/evento/dischava-odio-social-bday-mauro-djs-smash-it-up/2843555
   - poster: 481423616_1836367443870654_2070125799795080182_n.jpeg
     city: São Paulo
     date: '05/04/2025 19:00'
     daysGroup: 04/05/06
     ticketsUrl: 'https://www.sympla.com.br/evento/horace-green-contra-ceu/2843562'
-  - poster: 480851934_17866460409331673_8016120112266010455_n.jpeg
-    city: São José dos Campos
-    date: '08/03/2025 18:00'
-    daysGroup: 07/08/09
   - poster: 481166184_17937111554976239_8768366478289466249_n.jpg
     city: São Paulo
     date: '16/03/2025 13:00'
@@ -110,10 +91,6 @@ gigs:
   - poster: 8bfd44bd-35f1-4f21-92f7-9ce91dde7a5c.jpeg
     city: Agudos
     date: '09/03/2025 17:00'
-    daysGroup: 07/08/09
-  - poster: d8e013fe-cff6-4bd3-8c6a-4d862a6b41d4.jpeg
-    city: Marília
-    date: '08/03/2025 21:00'
     daysGroup: 07/08/09
   - poster: 482324641_643989604790761_8886474296229396246_n.jpg
     city: Ribeirão Preto

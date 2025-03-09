@@ -5144,5 +5144,28 @@ gigs:
     date: '07/03/2025 19:00'
     daysGroup: 07/08/09
     ticketsUrl: 'https://meaple.com.br/bradorecords/vazio-podridao-caligem-e-nameless-god'
+  - poster: 478322546_18490961014009270_105291325924196186_n.jpg
+    city: São Paulo
+    date: '08/03/2025 17:00'
+    daysGroup: 07/08/09
+    ticketsUrl: 'https://www.hoppin.com.br/jaihc'
+  - poster: ride_the_cross_metal_fest.jpeg
+    city: São Paulo
+    date: '08/03/2025 17:00'
+    daysGroup: 07/08/09
+  - poster: 480885201_18490414564043724_4938308461101598477_n.jpg
+    city: São Paulo
+    date: '08/03/2025 19:00'
+    daysGroup: 07/08/09
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/dischava-odio-social-bday-mauro-djs-smash-it-up/2843555
+  - poster: 480851934_17866460409331673_8016120112266010455_n.jpeg
+    city: São José dos Campos
+    date: '08/03/2025 18:00'
+    daysGroup: 07/08/09
+  - poster: d8e013fe-cff6-4bd3-8c6a-4d862a6b41d4.jpeg
+    city: Marília
+    date: '08/03/2025 21:00'
+    daysGroup: 07/08/09
 ---
 
