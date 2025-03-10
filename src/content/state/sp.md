@@ -88,10 +88,6 @@ gigs:
     date: '19/03/2025 18:00'
     daysGroup: 19/20/21/22/23
     ticketsUrl: 'https://ticket.com.vc/evento/undershows-fest-iv'
-  - poster: 8bfd44bd-35f1-4f21-92f7-9ce91dde7a5c.jpeg
-    city: Agudos
-    date: '09/03/2025 17:00'
-    daysGroup: 07/08/09
   - poster: 482324641_643989604790761_8886474296229396246_n.jpg
     city: Ribeirão Preto
     date: '22/03/2025 18:00'

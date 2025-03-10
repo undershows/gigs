@@ -501,5 +501,10 @@ gigs:
     city: Curitiba
     date: '08/02/2025 19:00'
     daysGroup: 07/08/09
+  - poster: 470936691_1547417749311360_1618778249013518681_n.jpeg
+    city: Curitiba
+    date: '09/03/2025 15:00'
+    daysGroup: 07/08/09
+    ticketsUrl: 'https://bilheto.com.br/comprar/2962'
 ---
 
