@@ -321,5 +321,10 @@ gigs:
     city: Contagem
     date: '01/03/2025 17:00'
     daysGroup: 01/02
+  - poster: 437778097_1139907330693913_3482651407327768481_n.jpeg
+    city: Belo Horizonte
+    date: '14/03/2025 19:00'
+    daysGroup: 14/15/16
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/gutalax-belohorizonte'
 ---
 
