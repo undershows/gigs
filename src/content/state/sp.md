@@ -38,10 +38,6 @@ gigs:
     city: Osasco
     date: '22/03/2025 18:00'
     daysGroup: 19/20/21/22/23
-  - poster: 479523807_1352006485942052_104936255747579643_n.jpg
-    city: São Paulo
-    date: '15/03/2025 17:00'
-    daysGroup: 14/15/16
   - poster: 12-04_resized.jpg
     city: São Paulo
     date: '11/04/2025 21:00'

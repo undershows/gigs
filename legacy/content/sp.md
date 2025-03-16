@@ -5171,5 +5171,9 @@ gigs:
     city: Agudos
     date: '09/03/2025 17:00'
     daysGroup: 07/08/09
+  - poster: 479523807_1352006485942052_104936255747579643_n.jpg
+    city: São Paulo
+    date: '15/03/2025 17:00'
+    daysGroup: 14/15/16
 ---
 
