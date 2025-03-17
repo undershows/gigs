@@ -5175,5 +5175,18 @@ gigs:
     city: São Paulo
     date: '15/03/2025 17:00'
     daysGroup: 14/15/16
+  - poster: 471959387_1753940242121099_8378333221454488810_n.jpg
+    city: São José dos Campos
+    date: '16/03/2025 18:00'
+    daysGroup: 14/15/16
+  - poster: 472494203_483047851087726_5721993972506755847_n.jpeg
+    city: São Paulo
+    date: '16/03/2025 16:00'
+    daysGroup: 14/15/16
+    ticketsUrl: 'https://www.sympla.com.br/evento/metal-metal-festival/2730624'
+  - poster: 481166184_17937111554976239_8768366478289466249_n.jpg
+    city: São Paulo
+    date: '16/03/2025 13:00'
+    daysGroup: 14/15/16
 ---
 

@@ -20,20 +20,11 @@ gigs:
     date: '05/07/2025 12:00'
     daysGroup: 04/05/06
     ticketsUrl: 'https://uticket.com.br/event/01KHKCXDXT25S9'
-  - poster: 471959387_1753940242121099_8378333221454488810_n.jpg
-    city: São José dos Campos
-    date: '16/03/2025 18:00'
-    daysGroup: 14/15/16
   - poster: 468309079_918415553721599_1467964846111727463_n.jpeg
     city: São Paulo
     date: '11/05/2025 14:00'
     daysGroup: 09/10/11
     ticketsUrl: 'https://www.clubedoingresso.com/evento/upfrontalfestival-theexploited'
-  - poster: 472494203_483047851087726_5721993972506755847_n.jpeg
-    city: São Paulo
-    date: '16/03/2025 16:00'
-    daysGroup: 14/15/16
-    ticketsUrl: 'https://www.sympla.com.br/evento/metal-metal-festival/2730624'
   - poster: 472777938_10014401908574844_1933987536055418147_n.jpg
     city: Osasco
     date: '22/03/2025 18:00'
@@ -52,10 +43,6 @@ gigs:
     date: '05/04/2025 19:00'
     daysGroup: 04/05/06
     ticketsUrl: 'https://www.sympla.com.br/evento/horace-green-contra-ceu/2843562'
-  - poster: 481166184_17937111554976239_8768366478289466249_n.jpg
-    city: São Paulo
-    date: '16/03/2025 13:00'
-    daysGroup: 14/15/16
   - poster: 479183936_2178482555961063_6180651499196869753_n.jpg
     city: São Paulo
     date: '29/03/2025 16:00'
