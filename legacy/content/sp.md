@@ -5188,5 +5188,10 @@ gigs:
     city: São Paulo
     date: '16/03/2025 13:00'
     daysGroup: 14/15/16
+  - poster: undershows_fest_iv.jpg
+    city: São Paulo
+    date: '19/03/2025 18:00'
+    daysGroup: 19/20/21/22/23
+    ticketsUrl: 'https://ticket.com.vc/evento/undershows-fest-iv'
 ---
 

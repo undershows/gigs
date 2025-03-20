@@ -66,11 +66,6 @@ gigs:
     city: Santo André
     date: '18/04/2025 19:00'
     daysGroup: 18/19/20
-  - poster: undershows_fest_iv.jpg
-    city: São Paulo
-    date: '19/03/2025 18:00'
-    daysGroup: 19/20/21/22/23
-    ticketsUrl: 'https://ticket.com.vc/evento/undershows-fest-iv'
   - poster: 482324641_643989604790761_8886474296229396246_n.jpg
     city: Ribeirão Preto
     date: '22/03/2025 18:00'
