@@ -75,5 +75,9 @@ gigs:
     date: '16/04/2025 20:00'
     daysGroup: 16/17/18/19/20
     ticketsUrl: 'https://www.sympla.com.br/evento/knife-nervochaos-vulture/2855575'
+  - poster: 485897058_9841790309221455_4631620042578249869_n.jpg
+    city: São Paulo
+    date: '23/03/2025 13:59'
+    daysGroup: 19/20/21/22/23
 ---
 
