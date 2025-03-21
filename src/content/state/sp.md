@@ -9,7 +9,7 @@ gigs:
   - poster: 48a38ad8-1cb0-42ae-86bc-53b0a618dde8.jpeg
     city: Peruíbe
     date: '20/04/2025 10:00'
-    daysGroup: 18/19/20
+    daysGroup: 16/17/18/19/20
   - poster: 469600543_18247181188263705_7603923187443628932_n.jpg
     city: São Paulo
     date: '21/03/2025 19:00'
@@ -65,10 +65,15 @@ gigs:
   - poster: 479607678_28394341740213479_561183204609068043_n.jpg
     city: Santo André
     date: '18/04/2025 19:00'
-    daysGroup: 18/19/20
+    daysGroup: 16/17/18/19/20
   - poster: 482324641_643989604790761_8886474296229396246_n.jpg
     city: Ribeirão Preto
     date: '22/03/2025 18:00'
     daysGroup: 19/20/21/22/23
+  - poster: 16-04_resized_Campinas-SP.jpg
+    city: Campinas
+    date: '16/04/2025 20:00'
+    daysGroup: 16/17/18/19/20
+    ticketsUrl: 'https://www.sympla.com.br/evento/knife-nervochaos-vulture/2855575'
 ---
 
