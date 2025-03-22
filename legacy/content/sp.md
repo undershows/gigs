@@ -5193,5 +5193,10 @@ gigs:
     date: '19/03/2025 18:00'
     daysGroup: 19/20/21/22/23
     ticketsUrl: 'https://ticket.com.vc/evento/undershows-fest-iv'
+  - poster: 469600543_18247181188263705_7603923187443628932_n.jpg
+    city: São Paulo
+    date: '21/03/2025 19:00'
+    daysGroup: 19/20/21/22/23
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/marcomalditofestival-cariocaclub'
 ---
 

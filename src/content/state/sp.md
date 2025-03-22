@@ -10,11 +10,6 @@ gigs:
     city: Peruíbe
     date: '20/04/2025 10:00'
     daysGroup: 16/17/18/19/20
-  - poster: 469600543_18247181188263705_7603923187443628932_n.jpg
-    city: São Paulo
-    date: '21/03/2025 19:00'
-    daysGroup: 19/20/21/22/23
-    ticketsUrl: 'https://www.clubedoingresso.com/evento/marcomalditofestival-cariocaclub'
   - poster: 472219626_482207091562821_1434749775651793338_n.jpeg
     city: Santo André
     date: '05/07/2025 12:00'
