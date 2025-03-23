@@ -20,10 +20,6 @@ gigs:
     date: '11/05/2025 14:00'
     daysGroup: 09/10/11
     ticketsUrl: 'https://www.clubedoingresso.com/evento/upfrontalfestival-theexploited'
-  - poster: 472777938_10014401908574844_1933987536055418147_n.jpg
-    city: Osasco
-    date: '22/03/2025 18:00'
-    daysGroup: 19/20/21/22/23
   - poster: 12-04_resized.jpg
     city: São Paulo
     date: '11/04/2025 21:00'
@@ -61,10 +57,6 @@ gigs:
     city: Santo André
     date: '18/04/2025 19:00'
     daysGroup: 16/17/18/19/20
-  - poster: 482324641_643989604790761_8886474296229396246_n.jpg
-    city: Ribeirão Preto
-    date: '22/03/2025 18:00'
-    daysGroup: 19/20/21/22/23
   - poster: 16-04_resized_Campinas-SP.jpg
     city: Campinas
     date: '16/04/2025 20:00'

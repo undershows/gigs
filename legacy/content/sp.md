@@ -5198,5 +5198,13 @@ gigs:
     date: '21/03/2025 19:00'
     daysGroup: 19/20/21/22/23
     ticketsUrl: 'https://www.clubedoingresso.com/evento/marcomalditofestival-cariocaclub'
+  - poster: 472777938_10014401908574844_1933987536055418147_n.jpg
+    city: Osasco
+    date: '22/03/2025 18:00'
+    daysGroup: 19/20/21/22/23
+  - poster: 482324641_643989604790761_8886474296229396246_n.jpg
+    city: Ribeirão Preto
+    date: '22/03/2025 18:00'
+    daysGroup: 19/20/21/22/23
 ---
 
