@@ -326,5 +326,11 @@ gigs:
     date: '14/03/2025 19:00'
     daysGroup: 14/15/16
     ticketsUrl: 'https://www.clubedoingresso.com/evento/gutalax-belohorizonte'
+  - poster: 23-03-2025_BH_resized.jpg
+    city: Belo Horizonte
+    date: '23/03/2025 16:00'
+    daysGroup: 21/22/23
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/marco-maldito-festival-belo-horizonte-2025/2764494
 ---
 

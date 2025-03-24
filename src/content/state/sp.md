@@ -25,10 +25,6 @@ gigs:
     date: '11/04/2025 21:00'
     daysGroup: 10/11/12/13
     ticketsUrl: 'https://www.clubedoingresso.com/evento/diadfestival'
-  - poster: 480372299_29007248915540326_1770710296562296404_n.jpg
-    city: São Paulo
-    date: '23/03/2025 14:00'
-    daysGroup: 19/20/21/22/23
   - poster: 481423616_1836367443870654_2070125799795080182_n.jpeg
     city: São Paulo
     date: '05/04/2025 19:00'
@@ -62,9 +58,5 @@ gigs:
     date: '16/04/2025 20:00'
     daysGroup: 16/17/18/19/20
     ticketsUrl: 'https://www.sympla.com.br/evento/knife-nervochaos-vulture/2855575'
-  - poster: 485897058_9841790309221455_4631620042578249869_n.jpg
-    city: São Paulo
-    date: '23/03/2025 13:59'
-    daysGroup: 19/20/21/22/23
 ---
 

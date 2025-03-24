@@ -7,12 +7,6 @@ gigs:
     date: '18/04/2025 18:00'
     daysGroup: 18/19/20
     ticketsUrl: 'https://www.sympla.com.br/evento/profanvs-diaboli-art-2025/2604339'
-  - poster: 23-03-2025_BH_resized.jpg
-    city: Belo Horizonte
-    date: '23/03/2025 16:00'
-    daysGroup: 21/22/23
-    ticketsUrl: >-
-      https://www.sympla.com.br/evento/marco-maldito-festival-belo-horizonte-2025/2764494
   - poster: 471466948_560299436987656_6417124023595106532_n.jpeg
     city: Belo Horizonte
     date: '09/05/2025 17:00'
