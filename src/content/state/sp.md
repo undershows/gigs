@@ -62,5 +62,13 @@ gigs:
     city: São José dos Campos
     date: '05/04/2025 18:00'
     daysGroup: 04/05/06
+  - poster: desmanche2903.png
+    city: São Paulo
+    date: '29/03/2025 20:00'
+    daysGroup: 28/29/30
+  - poster: IMG_0285.jpeg
+    city: São Paulo
+    date: '30/03/2025 10:00'
+    daysGroup: 28/29/30
 ---
 
