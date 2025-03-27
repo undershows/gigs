@@ -58,5 +58,9 @@ gigs:
     date: '16/04/2025 20:00'
     daysGroup: 16/17/18/19/20
     ticketsUrl: 'https://www.sympla.com.br/evento/knife-nervochaos-vulture/2855575'
+  - poster: 486787747_9520989074663189_5752039922105518371_n.jpg
+    city: São José dos Campos
+    date: '05/04/2025 18:00'
+    daysGroup: 04/05/06
 ---
 
