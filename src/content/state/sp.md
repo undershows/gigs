@@ -70,5 +70,40 @@ gigs:
     city: São Paulo
     date: '30/03/2025 10:00'
     daysGroup: 28/29/30
+  - poster: 6d74e924-2e86-44c3-8a9a-2d38f2b73e09.jpeg
+    city: Santo André
+    date: '05/04/2025 19:00'
+    daysGroup: 04/05/06
+  - poster: 57994ba5-8a0f-4d5f-a284-d51e2662b569.jpeg
+    city: São Bernardo do Campo
+    date: '30/03/2025 17:00'
+    daysGroup: 28/29/30
+  - poster: f79cbdb1-1410-47db-a8c5-dd506bdf976b.jpeg
+    city: São Bernardo do Campo
+    date: '27/04/2025 16:00'
+    daysGroup: 25/26/27
+  - poster: 4c1e63de-a1fe-467a-915e-1683cffe450f.jpeg
+    city: São Paulo
+    date: '17/05/2025 19:00'
+    daysGroup: 16/17/18
+  - poster: b8b20a41-66a7-469a-b0e1-73203c4ac717.jpeg
+    city: São Paulo
+    date: '06/04/2025 17:00'
+    daysGroup: 04/05/06
+    ticketsUrl: 'https://www.sympla.com.br/evento/tragico-pat-e-os-condenados-sociopatas/2866350'
+  - poster: ce3680da-4278-46da-a4c0-8a3017bbf77e.jpeg
+    city: São José dos Campos
+    date: '04/05/2025 18:00'
+    daysGroup: 01/02/03/04
+  - poster: detestation-rot-vertical.jpg
+    city: Santo André
+    date: '09/05/2025 19:00'
+    daysGroup: 09/10/11
+    ticketsUrl: 'https://ticket.com.vc/evento/detestation-eua-rot-cerne-74-club'
+  - poster: 481768831_970036715107967_297699855381139585_n.jpg
+    city: Campinas
+    date: '18/05/2025 17:00'
+    daysGroup: 16/17/18
+    ticketsUrl: 'https://www.sympla.com.br/evento/detestation-eua-ao-vivo-no-woodstock-music-bar-der-lamento-odiar-detesto/2861220'
 ---
 
