@@ -95,6 +95,7 @@ gigs:
     city: São José dos Campos
     date: '04/05/2025 18:00'
     daysGroup: 01/02/03/04
+    ticketsUrl: 'https://www.sympla.com.br/evento/soco-na-fuca-fest-com-sangue-de-bode-tragico-sussurro/2881024'
   - poster: detestation-rot-vertical.jpg
     city: Santo André
     date: '09/05/2025 19:00'
@@ -105,5 +106,10 @@ gigs:
     date: '18/05/2025 17:00'
     daysGroup: 16/17/18
     ticketsUrl: 'https://www.sympla.com.br/evento/detestation-eua-ao-vivo-no-woodstock-music-bar-der-lamento-odiar-detesto/2861220'
+  - poster: 01_Acussed_Post_02-min.jpg
+    city: São Paulo
+    date: '01/05/2025 14:00'
+    daysGroup: 01/02/03/04
+    ticketsUrl: 'https://ticket.com.vc/evento/kool-metal-fest'
 ---
 
