@@ -30,10 +30,6 @@ gigs:
     date: '05/04/2025 19:00'
     daysGroup: 04/05/06
     ticketsUrl: 'https://www.sympla.com.br/evento/horace-green-contra-ceu/2843562'
-  - poster: 479183936_2178482555961063_6180651499196869753_n.jpg
-    city: São Paulo
-    date: '29/03/2025 16:00'
-    daysGroup: 28/29/30
   - poster: 477799072_2178482999294352_5722808656797153189_n.jpg
     city: Santo André
     date: '30/03/2025 17:00'
@@ -62,10 +58,6 @@ gigs:
     city: São José dos Campos
     date: '05/04/2025 18:00'
     daysGroup: 04/05/06
-  - poster: desmanche2903.png
-    city: São Paulo
-    date: '29/03/2025 20:00'
-    daysGroup: 28/29/30
   - poster: IMG_0285.jpeg
     city: São Paulo
     date: '30/03/2025 10:00'
@@ -90,12 +82,14 @@ gigs:
     city: São Paulo
     date: '06/04/2025 17:00'
     daysGroup: 04/05/06
-    ticketsUrl: 'https://www.sympla.com.br/evento/tragico-pat-e-os-condenados-sociopatas/2866350'
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/tragico-pat-e-os-condenados-sociopatas/2866350
   - poster: ce3680da-4278-46da-a4c0-8a3017bbf77e.jpeg
     city: São José dos Campos
     date: '04/05/2025 18:00'
     daysGroup: 01/02/03/04
-    ticketsUrl: 'https://www.sympla.com.br/evento/soco-na-fuca-fest-com-sangue-de-bode-tragico-sussurro/2881024'
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/soco-na-fuca-fest-com-sangue-de-bode-tragico-sussurro/2881024
   - poster: detestation-rot-vertical.jpg
     city: Santo André
     date: '09/05/2025 19:00'
@@ -105,7 +99,8 @@ gigs:
     city: Campinas
     date: '18/05/2025 17:00'
     daysGroup: 16/17/18
-    ticketsUrl: 'https://www.sympla.com.br/evento/detestation-eua-ao-vivo-no-woodstock-music-bar-der-lamento-odiar-detesto/2861220'
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/detestation-eua-ao-vivo-no-woodstock-music-bar-der-lamento-odiar-detesto/2861220
   - poster: 01_Acussed_Post_02-min.jpg
     city: São Paulo
     date: '01/05/2025 14:00'

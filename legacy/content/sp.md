@@ -5214,5 +5214,13 @@ gigs:
     city: São Paulo
     date: '23/03/2025 13:59'
     daysGroup: 19/20/21/22/23
+  - poster: 479183936_2178482555961063_6180651499196869753_n.jpg
+    city: São Paulo
+    date: '29/03/2025 16:00'
+    daysGroup: 28/29/30
+  - poster: desmanche2903.png
+    city: São Paulo
+    date: '29/03/2025 20:00'
+    daysGroup: 28/29/30
 ---
 
