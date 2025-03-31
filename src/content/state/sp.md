@@ -30,16 +30,6 @@ gigs:
     date: '05/04/2025 19:00'
     daysGroup: 04/05/06
     ticketsUrl: 'https://www.sympla.com.br/evento/horace-green-contra-ceu/2843562'
-  - poster: 477799072_2178482999294352_5722808656797153189_n.jpg
-    city: Santo André
-    date: '30/03/2025 17:00'
-    daysGroup: 28/29/30
-    ticketsUrl: 'https://www.ddtickets.com.br/comprar/6/coroner-no-brasil'
-  - poster: 477545892_2178483479294304_5799414855714782515_n.jpg
-    city: São Paulo
-    date: '30/03/2025 17:00'
-    daysGroup: 28/29/30
-    ticketsUrl: 'https://fastix.com.br/events/pentagram-em-sao-paulo'
   - poster: 479186586_2178486005960718_6555825619908922642_n.jpg
     city: Cubatão
     date: '10/05/2025 18:30'
@@ -58,18 +48,10 @@ gigs:
     city: São José dos Campos
     date: '05/04/2025 18:00'
     daysGroup: 04/05/06
-  - poster: IMG_0285.jpeg
-    city: São Paulo
-    date: '30/03/2025 10:00'
-    daysGroup: 28/29/30
   - poster: 6d74e924-2e86-44c3-8a9a-2d38f2b73e09.jpeg
     city: Santo André
     date: '05/04/2025 19:00'
     daysGroup: 04/05/06
-  - poster: 57994ba5-8a0f-4d5f-a284-d51e2662b569.jpeg
-    city: São Bernardo do Campo
-    date: '30/03/2025 17:00'
-    daysGroup: 28/29/30
   - poster: f79cbdb1-1410-47db-a8c5-dd506bdf976b.jpeg
     city: São Bernardo do Campo
     date: '27/04/2025 16:00'

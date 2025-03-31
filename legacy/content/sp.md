@@ -5222,5 +5222,23 @@ gigs:
     city: São Paulo
     date: '29/03/2025 20:00'
     daysGroup: 28/29/30
+  - poster: 477799072_2178482999294352_5722808656797153189_n.jpg
+    city: Santo André
+    date: '30/03/2025 17:00'
+    daysGroup: 28/29/30
+    ticketsUrl: 'https://www.ddtickets.com.br/comprar/6/coroner-no-brasil'
+  - poster: 477545892_2178483479294304_5799414855714782515_n.jpg
+    city: São Paulo
+    date: '30/03/2025 17:00'
+    daysGroup: 28/29/30
+    ticketsUrl: 'https://fastix.com.br/events/pentagram-em-sao-paulo'
+  - poster: IMG_0285.jpeg
+    city: São Paulo
+    date: '30/03/2025 10:00'
+    daysGroup: 28/29/30
+  - poster: 57994ba5-8a0f-4d5f-a284-d51e2662b569.jpeg
+    city: São Bernardo do Campo
+    date: '30/03/2025 17:00'
+    daysGroup: 28/29/30
 ---
 
