@@ -5240,5 +5240,18 @@ gigs:
     city: São Bernardo do Campo
     date: '30/03/2025 17:00'
     daysGroup: 28/29/30
+  - poster: 481423616_1836367443870654_2070125799795080182_n.jpeg
+    city: São Paulo
+    date: '05/04/2025 19:00'
+    daysGroup: 04/05/06
+    ticketsUrl: 'https://www.sympla.com.br/evento/horace-green-contra-ceu/2843562'
+  - poster: 486787747_9520989074663189_5752039922105518371_n.jpg
+    city: São José dos Campos
+    date: '05/04/2025 18:00'
+    daysGroup: 04/05/06
+  - poster: 6d74e924-2e86-44c3-8a9a-2d38f2b73e09.jpeg
+    city: Santo André
+    date: '05/04/2025 19:00'
+    daysGroup: 04/05/06
 ---
 
