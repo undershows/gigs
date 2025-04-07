@@ -5253,5 +5253,11 @@ gigs:
     city: Santo André
     date: '05/04/2025 19:00'
     daysGroup: 04/05/06
+  - poster: b8b20a41-66a7-469a-b0e1-73203c4ac717.jpeg
+    city: São Paulo
+    date: '06/04/2025 17:00'
+    daysGroup: 04/05/06
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/tragico-pat-e-os-condenados-sociopatas/2866350
 ---
 

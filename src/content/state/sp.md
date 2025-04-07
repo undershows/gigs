@@ -47,12 +47,6 @@ gigs:
     city: São Paulo
     date: '17/05/2025 19:00'
     daysGroup: 16/17/18
-  - poster: b8b20a41-66a7-469a-b0e1-73203c4ac717.jpeg
-    city: São Paulo
-    date: '06/04/2025 17:00'
-    daysGroup: 04/05/06
-    ticketsUrl: >-
-      https://www.sympla.com.br/evento/tragico-pat-e-os-condenados-sociopatas/2866350
   - poster: ce3680da-4278-46da-a4c0-8a3017bbf77e.jpeg
     city: São José dos Campos
     date: '04/05/2025 18:00'
