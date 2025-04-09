@@ -4,15 +4,16 @@ import Link from "@/components/core/Link.astro";
 
 interface Props {
   mainState: string;
-  githubUrl: string;
-  posterMail: string;
   states: CollectionEntry<"state">[];
   currentState: CollectionEntry<"state">;
-  undershowsIG: string;
 }
 
-const { states, mainState, githubUrl, posterMail, currentState, undershowsIG } = Astro.props;
-const sortedStates = [...states].sort((a) => (a.slug === mainState ? -1 : 1));
+const { states, mainState, currentState } = Astro.props;
+const sortedStates = [...states].sort((a, b) => {
+  if (a.slug === mainState) return -1;
+  if (b.slug === mainState) return 1;
+  return a.slug.localeCompare(b.slug);
+});
 const { Content } = await currentState.render();
 
 const isLink = (state: CollectionEntry<"state">) =>
