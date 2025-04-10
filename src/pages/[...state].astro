@@ -41,9 +41,6 @@ const { states, currentState } = Astro.props;
 		states={states}
 		currentState={currentState}
 		mainState={import.meta.env.APP_MAIN_STATE}
-		githubUrl={import.meta.env.APP_GITHUB_URL}
-		posterMail={import.meta.env.APP_POSTER_MAIL}
-		undershowsIG={import.meta.env.APP_UNDERSHOWS_IG}
 	/>
 
 	<GigList state={currentState} />

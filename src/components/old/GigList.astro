@@ -9,10 +9,9 @@ import {
   isEqual,
   startOfDay,
 } from "date-fns";
-import locale from "date-fns/locale/pt-BR/index.js";
+import { ptBR } from "date-fns/locale";
 import * as R from "ramda";
-import { t } from "i18next";
-import { Image } from "@astrojs/image/components";
+import { Image } from "astro:assets";
 
 interface Props {
   state: CollectionEntry<"state">;
@@ -60,41 +59,18 @@ const daysGroupFromDate = (date: Date) => {
 
   return R.pipe(
     R.splitEvery(4),
-    R.find((days: number[]) => R.includes(getDate(date), days)),
+    R.find((days: readonly number[]) => R.includes(getDate(date), days)) as (list: readonly number[][]) => readonly number[],
     R.map((day: number) => R.toString(day).padStart(2, "0")),
     R.join("/")
   )(daysGroups);
 };
-
-/**
- * Get formatted month name.
- *
- * @param {string} monthNumber
- * @return {string}
- */
-
- const MONTH_TRANSLATIONS = {
-  January: "Janeiro",
-  February: "Fevereiro",
-  March: "Março",
-  April: "Abril",
-  May: "Maio",
-  June: "Junho",
-  July: "Julho",
-  August: "Agosto",
-  September: "Setembro",
-  October: "Outubro",
-  November: "Novembro",
-  December: "Dezembro",
-};
  
 const getFormattedMonthName = (monthNumber: string) => {
   const month = parse(monthNumber, "M-yyyy", Date.now());
-  const monthName = format(month, "MMMM"); // → ex: 'April'
+  const monthName = format(month, "MMMM");
+  const localizedMonthName = format(month, "MMMM", { locale: ptBR });
 
-  const translated = MONTH_TRANSLATIONS[monthName] ?? monthName;
-
-  return R.toUpper(`${translated}/${monthName}`);
+  return R.toUpper(`${localizedMonthName}/${monthName}`);
 };
 
 /**
@@ -102,7 +78,7 @@ const getFormattedMonthName = (monthNumber: string) => {
  */
 const getImageAlt = (gig: ParsedGig) =>
   `Cartaz de show em ${gig.city}, ${format(gig.date, "PPP 'às' HH:mm", {
-    locale,
+    locale: ptBR,
   })}`;
 
 /**
