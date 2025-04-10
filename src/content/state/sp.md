@@ -87,5 +87,10 @@ gigs:
     city: Bebedouro
     date: '07/06/2025 15:00'
     daysGroup: 06/07/08
+  - poster: chisel_la_iglesia_0605.jpg
+    city: São Paulo
+    date: '06/05/2025 19:30'
+    daysGroup: 06/07/08
+    ticketsUrl: 'https://ticket.com.vc/evento/the-chisel-uk-em-sao-paulo-data-extra'
 ---
 
