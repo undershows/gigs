@@ -69,5 +69,23 @@ gigs:
     date: '01/05/2025 14:00'
     daysGroup: 01/02/03/04
     ticketsUrl: 'https://ticket.com.vc/evento/kool-metal-fest'
+  - poster: 488868656_1292561346204758_3728015742932866595_n.jpg
+    city: São Paulo
+    date: '17/04/2025 19:00'
+    daysGroup: 16/17/18/19/20
+    ticketsUrl: 'https://101tickets.com.br/events/details/As-Mercenarias-e-Delinquentes-em-Sao-Paulo'
+  - poster: 487814030_10227929259273202_1172131541644980230_n.jpg
+    city: Presidente Prudente
+    date: '24/05/2025 20:00'
+    daysGroup: 23/24/25
+  - poster: 486612689_1081153180717843_8771457248953952751_n.jpg
+    city: São Paulo
+    date: '25/04/2025 20:30'
+    daysGroup: 25/26/27
+    ticketsUrl: 'https://www.sescsp.org.br/programacao/rot-musica-extrema/'
+  - poster: IMG-20250405-WA0000.jpg
+    city: Bebedouro
+    date: '07/06/2025 15:00'
+    daysGroup: 06/07/08
 ---
 
