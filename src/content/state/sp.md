@@ -92,5 +92,15 @@ gigs:
     date: '06/05/2025 19:30'
     daysGroup: 06/07/08
     ticketsUrl: 'https://ticket.com.vc/evento/the-chisel-uk-em-sao-paulo-data-extra'
+  - poster: 489656380_24231575153099844_942567001666103295_n.jpg
+    city: Sorocaba
+    date: '21/06/2025 22:00'
+    daysGroup: 20/21/22
+    ticketsUrl: 'https://www.sympla.com.br/evento/baltazar-em-panico-comemora-35-anos-de-rot-em-sorocaba/2905665'
+  - poster: setembro_negro_2025.jpg
+    city: São Paulo
+    date: '07/09/2025 13:00'
+    daysGroup: 05/06/07
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/setembro-negro'
 ---
 
