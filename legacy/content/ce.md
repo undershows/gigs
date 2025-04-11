@@ -116,5 +116,10 @@ gigs:
     daysGroup: 01/02/03
     ticketsUrl: >-
       https://www.sympla.com.br/evento/lucifers-child-nervochaos-imflawed-necrofilosophy-sysyphus/2556200
+  - poster: 10-04_resized.jpg
+    city: Fortaleza
+    date: '10/04/2025 18:00'
+    daysGroup: 10/11/12/13
+    ticketsUrl: 'https://meaple.com.br/m2f-producoes/fortaleza-extreme-festival'
 ---
 
