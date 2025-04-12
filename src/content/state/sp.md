@@ -20,11 +20,6 @@ gigs:
     date: '11/05/2025 14:00'
     daysGroup: 09/10/11
     ticketsUrl: 'https://www.clubedoingresso.com/evento/upfrontalfestival-theexploited'
-  - poster: 12-04_resized.jpg
-    city: São Paulo
-    date: '11/04/2025 21:00'
-    daysGroup: 10/11/12/13
-    ticketsUrl: 'https://www.clubedoingresso.com/evento/diadfestival'
   - poster: 479186586_2178486005960718_6555825619908922642_n.jpg
     city: Cubatão
     date: '10/05/2025 18:30'
@@ -73,7 +68,8 @@ gigs:
     city: São Paulo
     date: '17/04/2025 19:00'
     daysGroup: 16/17/18/19/20
-    ticketsUrl: 'https://101tickets.com.br/events/details/As-Mercenarias-e-Delinquentes-em-Sao-Paulo'
+    ticketsUrl: >-
+      https://101tickets.com.br/events/details/As-Mercenarias-e-Delinquentes-em-Sao-Paulo
   - poster: 487814030_10227929259273202_1172131541644980230_n.jpg
     city: Presidente Prudente
     date: '24/05/2025 20:00'
@@ -96,7 +92,8 @@ gigs:
     city: Sorocaba
     date: '21/06/2025 22:00'
     daysGroup: 20/21/22
-    ticketsUrl: 'https://www.sympla.com.br/evento/baltazar-em-panico-comemora-35-anos-de-rot-em-sorocaba/2905665'
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/baltazar-em-panico-comemora-35-anos-de-rot-em-sorocaba/2905665
   - poster: setembro_negro_2025.jpg
     city: São Paulo
     date: '07/09/2025 13:00'

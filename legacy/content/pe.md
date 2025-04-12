@@ -146,5 +146,10 @@ gigs:
     date: '10/04/2025 19:00'
     daysGroup: 10/11/12/13
     ticketsUrl: 'https://www.sympla.com.br/evento/sdb-em-recife/2787950'
+  - poster: 11-04_resized.jpg
+    city: Recife
+    date: '11/04/2025 21:00'
+    daysGroup: 10/11/12/13
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/recifeinchaos'
 ---
 

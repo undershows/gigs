@@ -5259,5 +5259,10 @@ gigs:
     daysGroup: 04/05/06
     ticketsUrl: >-
       https://www.sympla.com.br/evento/tragico-pat-e-os-condenados-sociopatas/2866350
+  - poster: 12-04_resized.jpg
+    city: São Paulo
+    date: '11/04/2025 21:00'
+    daysGroup: 10/11/12/13
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/diadfestival'
 ---
 
