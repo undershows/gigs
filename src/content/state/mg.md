@@ -16,10 +16,5 @@ gigs:
     city: Sete Lagoas
     date: '18/05/2025 12:00'
     daysGroup: 16/17/18
-  - poster: 484790647_10228384563267683_3057461804599992932_n.jpg
-    city: Belo Horizonte
-    date: '12/04/2025 16:00'
-    daysGroup: 10/11/12/13
-    ticketsUrl: 'https://101tickets.com.br/events/details/UNDERGROUND-PELA-LIBERDADE'
 ---
 

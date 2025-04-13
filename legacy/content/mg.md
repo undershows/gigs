@@ -332,5 +332,10 @@ gigs:
     daysGroup: 21/22/23
     ticketsUrl: >-
       https://www.sympla.com.br/evento/marco-maldito-festival-belo-horizonte-2025/2764494
+  - poster: 484790647_10228384563267683_3057461804599992932_n.jpg
+    city: Belo Horizonte
+    date: '12/04/2025 16:00'
+    daysGroup: 10/11/12/13
+    ticketsUrl: 'https://101tickets.com.br/events/details/UNDERGROUND-PELA-LIBERDADE'
 ---
 
