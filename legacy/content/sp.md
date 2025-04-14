@@ -5264,5 +5264,9 @@ gigs:
     date: '11/04/2025 21:00'
     daysGroup: 10/11/12/13
     ticketsUrl: 'https://www.clubedoingresso.com/evento/diadfestival'
+  - poster: 17b3a260-2a32-4045-8873-f3295b8a7dfa.jpeg
+    city: São Paulo
+    date: '13/04/2025 12:00'
+    daysGroup: 10/11/12/13
 ---
 

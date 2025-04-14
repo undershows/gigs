@@ -99,9 +99,5 @@ gigs:
     date: '07/09/2025 13:00'
     daysGroup: 05/06/07
     ticketsUrl: 'https://www.clubedoingresso.com/evento/setembro-negro'
-  - poster: 17b3a260-2a32-4045-8873-f3295b8a7dfa.jpeg
-    city: São Paulo
-    date: '13/04/2025 12:00'
-    daysGroup: 10/11/12/13
 ---
 
