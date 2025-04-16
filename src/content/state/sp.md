@@ -152,5 +152,17 @@ gigs:
     city: São Paulo
     date: '14/06/2025 15:00'
     daysGroup: 13/14/15
+  - poster: oinimigo_apnea_ousemorrer.jpg
+    city: São Paulo
+    date: '20/04/2025 18:00'
+    daysGroup: 16/17/18/19/20/21
+  - poster: 490514530_1724695698390504_2024072000773154920_n.jpg
+    city: São Paulo
+    date: '01/05/2025 12:00'
+    daysGroup: 01/02/03/04
+  - poster: 487795669_10232103620830755_3305196310159686684_n.jpg
+    city: São Paulo
+    date: '10/05/2025 18:00'
+    daysGroup: 09/10/11
 ---
 
