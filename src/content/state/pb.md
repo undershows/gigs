@@ -10,5 +10,9 @@ gigs:
     city: João Pessoa
     date: '26/04/2025 18:00'
     daysGroup: 25/26/27
+  - poster: a4e0f510-b191-4691-832d-5c3fb577e382.jpeg
+    city: João Pessoa
+    date: '17/05/2025 19:00'
+    daysGroup: 16/17/18
 ---
 
