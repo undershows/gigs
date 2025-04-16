@@ -148,5 +148,9 @@ gigs:
     city: São Paulo
     date: '20/04/2025 16:00'
     daysGroup: 16/17/18/19/20/21
+  - poster: 491424573_18273007741259589_5181393794971891671_n.jpg
+    city: São Paulo
+    date: '14/06/2025 15:00'
+    daysGroup: 13/14/15
 ---
 
