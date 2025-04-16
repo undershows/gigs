@@ -9,7 +9,7 @@ gigs:
   - poster: 48a38ad8-1cb0-42ae-86bc-53b0a618dde8.jpeg
     city: Peruíbe
     date: '20/04/2025 10:00'
-    daysGroup: 16/17/18/19/20
+    daysGroup: 16/17/18/19/20/21
   - poster: 472219626_482207091562821_1434749775651793338_n.jpeg
     city: Santo André
     date: '05/07/2025 12:00'
@@ -28,11 +28,11 @@ gigs:
   - poster: 479607678_28394341740213479_561183204609068043_n.jpg
     city: Santo André
     date: '18/04/2025 19:00'
-    daysGroup: 16/17/18/19/20
+    daysGroup: 16/17/18/19/20/21
   - poster: 16-04_resized_Campinas-SP.jpg
     city: Campinas
     date: '16/04/2025 20:00'
-    daysGroup: 16/17/18/19/20
+    daysGroup: 16/17/18/19/20/21
     ticketsUrl: 'https://www.sympla.com.br/evento/knife-nervochaos-vulture/2855575'
   - poster: f79cbdb1-1410-47db-a8c5-dd506bdf976b.jpeg
     city: São Bernardo do Campo
@@ -59,7 +59,7 @@ gigs:
     daysGroup: 16/17/18
     ticketsUrl: >-
       https://www.sympla.com.br/evento/detestation-eua-ao-vivo-no-woodstock-music-bar-der-lamento-odiar-detesto/2861220
-  - poster: 01_Acussed_Post_02-min.jpg
+  - poster: Cartaz_final_kmf_accused.jpg
     city: São Paulo
     date: '01/05/2025 14:00'
     daysGroup: 01/02/03/04
@@ -67,7 +67,7 @@ gigs:
   - poster: 488868656_1292561346204758_3728015742932866595_n.jpg
     city: São Paulo
     date: '17/04/2025 19:00'
-    daysGroup: 16/17/18/19/20
+    daysGroup: 16/17/18/19/20/21
     ticketsUrl: >-
       https://101tickets.com.br/events/details/As-Mercenarias-e-Delinquentes-em-Sao-Paulo
   - poster: 487814030_10227929259273202_1172131541644980230_n.jpg
@@ -99,5 +99,46 @@ gigs:
     date: '07/09/2025 13:00'
     daysGroup: 05/06/07
     ticketsUrl: 'https://www.clubedoingresso.com/evento/setembro-negro'
+  - poster: b6d9c4b3-e69a-4399-9f47-eb602f416d70.jpeg
+    city: São Paulo
+    date: '17/04/2025 19:00'
+    daysGroup: 16/17/18/19/20/21
+  - poster: 9a3a02f7-4346-4d7e-a9e1-f9e8bdc95585.jpeg
+    city: Marília
+    date: '21/04/2025 16:00'
+    daysGroup: 16/17/18/19/20/21
+  - poster: 98bdcfca-889d-4af3-94d0-3968791c1ae1.jpeg
+    city: Agudos
+    date: '20/04/2025 17:00'
+    daysGroup: 16/17/18/19/20/21
+  - poster: Rethink_EmChamas_ineamusdh.jpeg
+    city: São Paulo
+    date: '18/05/2025 16:00'
+    daysGroup: 16/17/18
+  - poster: 30-05_Marília_resized.jpg
+    city: Marília
+    date: '30/05/2025 20:00'
+    daysGroup: 29/30/31
+    ticketsUrl: 'https://www.sympla.com.br/evento/skeletal-remains-nervochaos-rotborn/2903199'
+  - poster: 31-05_Limeira_resized.jpg
+    city: Limeira
+    date: '31/05/2025 18:00'
+    daysGroup: 29/30/31
+    ticketsUrl: 'https://www.sympla.com.br/evento/skeletal-remains-nervochaos-desdominus-faces-of-death/2903298'
+  - poster: 491938048_3928350097477439_6066729506490824984_n.jpg
+    city: São José dos Campos
+    date: '30/04/2025 19:00'
+    daysGroup: 28/29/30
+    ticketsUrl: 'https://ticket.com.vc/evento/carnica-bad-trip-fest-ii'
+  - poster: 01-06_Aruja_resized.jpg
+    city: Arujá
+    date: '01/06/2025 18:00'
+    daysGroup: 01/02
+    ticketsUrl: 'https://www.sympla.com.br/evento/skeletal-remains-nervochaos-desdominus-faces-of-death/2903298'
+  - poster: 482836876_18360568087121660_4473720255117090701_n.jpg
+    city: São Paulo
+    date: '18/04/2025 19:00'
+    daysGroup: 16/17/18/19/20/21
+    ticketsUrl: 'https://101tickets.com.br/events/details/Kool-Metal-Fest-Session--'
 ---
 

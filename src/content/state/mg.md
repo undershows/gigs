@@ -16,5 +16,10 @@ gigs:
     city: Sete Lagoas
     date: '18/05/2025 12:00'
     daysGroup: 16/17/18
+  - poster: 490955187_10228704137536840_6188245813071600744_n.jpg
+    city: Belo Horizonte
+    date: '10/05/2025 16:00'
+    daysGroup: 09/10/11
+    ticketsUrl: 'https://101tickets.com.br/events/details/METALPUNK-OVERKILL-DETESTATION'
 ---
 
