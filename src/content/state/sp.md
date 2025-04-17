@@ -29,11 +29,6 @@ gigs:
     city: Santo André
     date: '18/04/2025 19:00'
     daysGroup: 16/17/18/19/20/21
-  - poster: 16-04_resized_Campinas-SP.jpg
-    city: Campinas
-    date: '16/04/2025 20:00'
-    daysGroup: 16/17/18/19/20/21
-    ticketsUrl: 'https://www.sympla.com.br/evento/knife-nervochaos-vulture/2855575'
   - poster: f79cbdb1-1410-47db-a8c5-dd506bdf976b.jpeg
     city: São Bernardo do Campo
     date: '27/04/2025 16:00'
@@ -119,12 +114,14 @@ gigs:
     city: Marília
     date: '30/05/2025 20:00'
     daysGroup: 29/30/31
-    ticketsUrl: 'https://www.sympla.com.br/evento/skeletal-remains-nervochaos-rotborn/2903199'
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/skeletal-remains-nervochaos-rotborn/2903199
   - poster: 31-05_Limeira_resized.jpg
     city: Limeira
     date: '31/05/2025 18:00'
     daysGroup: 29/30/31
-    ticketsUrl: 'https://www.sympla.com.br/evento/skeletal-remains-nervochaos-desdominus-faces-of-death/2903298'
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/skeletal-remains-nervochaos-desdominus-faces-of-death/2903298
   - poster: 491938048_3928350097477439_6066729506490824984_n.jpg
     city: São José dos Campos
     date: '30/04/2025 19:00'
@@ -134,7 +131,8 @@ gigs:
     city: Arujá
     date: '01/06/2025 18:00'
     daysGroup: 01/02
-    ticketsUrl: 'https://www.sympla.com.br/evento/skeletal-remains-nervochaos-desdominus-faces-of-death/2903298'
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/skeletal-remains-nervochaos-desdominus-faces-of-death/2903298
   - poster: 482836876_18360568087121660_4473720255117090701_n.jpg
     city: São Paulo
     date: '18/04/2025 19:00'

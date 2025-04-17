@@ -5268,5 +5268,10 @@ gigs:
     city: São Paulo
     date: '13/04/2025 12:00'
     daysGroup: 10/11/12/13
+  - poster: 16-04_resized_Campinas-SP.jpg
+    city: Campinas
+    date: '16/04/2025 20:00'
+    daysGroup: 16/17/18/19/20/21
+    ticketsUrl: 'https://www.sympla.com.br/evento/knife-nervochaos-vulture/2855575'
 ---
 
