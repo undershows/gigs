@@ -164,5 +164,9 @@ gigs:
     city: São Paulo
     date: '10/05/2025 18:00'
     daysGroup: 09/10/11
+  - poster: Flyer_FFFront_chug_fest_0125.png
+    city: São Paulo
+    date: '01/05/2025 19:00'
+    daysGroup: 01/02/03/04
 ---
 
