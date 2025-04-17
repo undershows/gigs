@@ -168,5 +168,6 @@ gigs:
     city: São Paulo
     date: '01/05/2025 19:00'
     daysGroup: 01/02/03/04
+    ticketsUrl: 'https://www.sympla.com.br/evento/chug-fest/2896832'
 ---
 
