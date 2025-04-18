@@ -59,12 +59,6 @@ gigs:
     date: '01/05/2025 14:00'
     daysGroup: 01/02/03/04
     ticketsUrl: 'https://ticket.com.vc/evento/kool-metal-fest'
-  - poster: 488868656_1292561346204758_3728015742932866595_n.jpg
-    city: São Paulo
-    date: '17/04/2025 19:00'
-    daysGroup: 16/17/18/19/20/21
-    ticketsUrl: >-
-      https://101tickets.com.br/events/details/As-Mercenarias-e-Delinquentes-em-Sao-Paulo
   - poster: 487814030_10227929259273202_1172131541644980230_n.jpg
     city: Presidente Prudente
     date: '24/05/2025 20:00'
@@ -94,10 +88,6 @@ gigs:
     date: '07/09/2025 13:00'
     daysGroup: 05/06/07
     ticketsUrl: 'https://www.clubedoingresso.com/evento/setembro-negro'
-  - poster: b6d9c4b3-e69a-4399-9f47-eb602f416d70.jpeg
-    city: São Paulo
-    date: '17/04/2025 19:00'
-    daysGroup: 16/17/18/19/20/21
   - poster: 9a3a02f7-4346-4d7e-a9e1-f9e8bdc95585.jpeg
     city: Marília
     date: '21/04/2025 16:00'

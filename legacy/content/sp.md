@@ -5273,5 +5273,15 @@ gigs:
     date: '16/04/2025 20:00'
     daysGroup: 16/17/18/19/20/21
     ticketsUrl: 'https://www.sympla.com.br/evento/knife-nervochaos-vulture/2855575'
+  - poster: 488868656_1292561346204758_3728015742932866595_n.jpg
+    city: São Paulo
+    date: '17/04/2025 19:00'
+    daysGroup: 16/17/18/19/20/21
+    ticketsUrl: >-
+      https://101tickets.com.br/events/details/As-Mercenarias-e-Delinquentes-em-Sao-Paulo
+  - poster: b6d9c4b3-e69a-4399-9f47-eb602f416d70.jpeg
+    city: São Paulo
+    date: '17/04/2025 19:00'
+    daysGroup: 16/17/18/19/20/21
 ---
 
