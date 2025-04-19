@@ -5283,5 +5283,14 @@ gigs:
     city: São Paulo
     date: '17/04/2025 19:00'
     daysGroup: 16/17/18/19/20/21
+  - poster: 479607678_28394341740213479_561183204609068043_n.jpg
+    city: Santo André
+    date: '18/04/2025 19:00'
+    daysGroup: 16/17/18/19/20/21
+  - poster: 482836876_18360568087121660_4473720255117090701_n.jpg
+    city: São Paulo
+    date: '18/04/2025 19:00'
+    daysGroup: 16/17/18/19/20/21
+    ticketsUrl: 'https://101tickets.com.br/events/details/Kool-Metal-Fest-Session--'
 ---
 

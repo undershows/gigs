@@ -25,10 +25,6 @@ gigs:
     date: '10/05/2025 18:30'
     daysGroup: 09/10/11
     ticketsUrl: 'https://www.sympla.com.br/evento/okavango-metal-fest-2025/2819286'
-  - poster: 479607678_28394341740213479_561183204609068043_n.jpg
-    city: Santo André
-    date: '18/04/2025 19:00'
-    daysGroup: 16/17/18/19/20/21
   - poster: f79cbdb1-1410-47db-a8c5-dd506bdf976b.jpeg
     city: São Bernardo do Campo
     date: '27/04/2025 16:00'
@@ -123,11 +119,6 @@ gigs:
     daysGroup: 01/02
     ticketsUrl: >-
       https://www.sympla.com.br/evento/skeletal-remains-nervochaos-desdominus-faces-of-death/2903298
-  - poster: 482836876_18360568087121660_4473720255117090701_n.jpg
-    city: São Paulo
-    date: '18/04/2025 19:00'
-    daysGroup: 16/17/18/19/20/21
-    ticketsUrl: 'https://101tickets.com.br/events/details/Kool-Metal-Fest-Session--'
   - poster: 488451309_18454875760077540_262135322404965685_n.jpg
     city: São Paulo
     date: '19/04/2025 12:00'
