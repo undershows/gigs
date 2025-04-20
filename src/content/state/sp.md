@@ -119,10 +119,6 @@ gigs:
     daysGroup: 01/02
     ticketsUrl: >-
       https://www.sympla.com.br/evento/skeletal-remains-nervochaos-desdominus-faces-of-death/2903298
-  - poster: 488451309_18454875760077540_262135322404965685_n.jpg
-    city: São Paulo
-    date: '19/04/2025 12:00'
-    daysGroup: 16/17/18/19/20/21
   - poster: 489874869_18457266820077540_3995660455238063287_n.jpeg
     city: São Paulo
     date: '20/04/2025 16:00'
