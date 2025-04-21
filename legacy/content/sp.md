@@ -5296,5 +5296,21 @@ gigs:
     city: São Paulo
     date: '19/04/2025 12:00'
     daysGroup: 16/17/18/19/20/21
+  - poster: 48a38ad8-1cb0-42ae-86bc-53b0a618dde8.jpeg
+    city: Peruíbe
+    date: '20/04/2025 10:00'
+    daysGroup: 16/17/18/19/20/21
+  - poster: 98bdcfca-889d-4af3-94d0-3968791c1ae1.jpeg
+    city: Agudos
+    date: '20/04/2025 17:00'
+    daysGroup: 16/17/18/19/20/21
+  - poster: 489874869_18457266820077540_3995660455238063287_n.jpeg
+    city: São Paulo
+    date: '20/04/2025 16:00'
+    daysGroup: 16/17/18/19/20/21
+  - poster: oinimigo_apnea_ousemorrer.jpg
+    city: São Paulo
+    date: '20/04/2025 18:00'
+    daysGroup: 16/17/18/19/20/21
 ---
 

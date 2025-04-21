@@ -6,10 +6,6 @@ gigs:
     city: São Paulo
     date: '18/10/2025 18:00'
     daysGroup: 17/18/19
-  - poster: 48a38ad8-1cb0-42ae-86bc-53b0a618dde8.jpeg
-    city: Peruíbe
-    date: '20/04/2025 10:00'
-    daysGroup: 16/17/18/19/20/21
   - poster: 472219626_482207091562821_1434749775651793338_n.jpeg
     city: Santo André
     date: '05/07/2025 12:00'
@@ -88,10 +84,6 @@ gigs:
     city: Marília
     date: '21/04/2025 16:00'
     daysGroup: 16/17/18/19/20/21
-  - poster: 98bdcfca-889d-4af3-94d0-3968791c1ae1.jpeg
-    city: Agudos
-    date: '20/04/2025 17:00'
-    daysGroup: 16/17/18/19/20/21
   - poster: Rethink_EmChamas_ineamusdh.jpeg
     city: São Paulo
     date: '18/05/2025 16:00'
@@ -119,18 +111,10 @@ gigs:
     daysGroup: 01/02
     ticketsUrl: >-
       https://www.sympla.com.br/evento/skeletal-remains-nervochaos-desdominus-faces-of-death/2903298
-  - poster: 489874869_18457266820077540_3995660455238063287_n.jpeg
-    city: São Paulo
-    date: '20/04/2025 16:00'
-    daysGroup: 16/17/18/19/20/21
   - poster: 491424573_18273007741259589_5181393794971891671_n.jpg
     city: São Paulo
     date: '14/06/2025 15:00'
     daysGroup: 13/14/15
-  - poster: oinimigo_apnea_ousemorrer.jpg
-    city: São Paulo
-    date: '20/04/2025 18:00'
-    daysGroup: 16/17/18/19/20/21
   - poster: 490514530_1724695698390504_2024072000773154920_n.jpg
     city: São Paulo
     date: '01/05/2025 12:00'
