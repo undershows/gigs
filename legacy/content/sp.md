@@ -5312,5 +5312,9 @@ gigs:
     city: São Paulo
     date: '20/04/2025 18:00'
     daysGroup: 16/17/18/19/20/21
+  - poster: 9a3a02f7-4346-4d7e-a9e1-f9e8bdc95585.jpeg
+    city: Marília
+    date: '21/04/2025 16:00'
+    daysGroup: 16/17/18/19/20/21
 ---
 

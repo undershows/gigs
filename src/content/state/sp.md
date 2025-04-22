@@ -80,10 +80,6 @@ gigs:
     date: '07/09/2025 13:00'
     daysGroup: 05/06/07
     ticketsUrl: 'https://www.clubedoingresso.com/evento/setembro-negro'
-  - poster: 9a3a02f7-4346-4d7e-a9e1-f9e8bdc95585.jpeg
-    city: Marília
-    date: '21/04/2025 16:00'
-    daysGroup: 16/17/18/19/20/21
   - poster: Rethink_EmChamas_ineamusdh.jpeg
     city: São Paulo
     date: '18/05/2025 16:00'
