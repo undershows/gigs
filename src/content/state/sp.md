@@ -189,5 +189,29 @@ gigs:
     date: '10/05/2025 18:00'
     daysGroup: 09/10/11
     ticketsUrl: 'https://www.sympla.com.br/evento/todo-mundo-e-legal-fest-paura-projeto-mayhem-militia-cranula/2868499'
+  - poster: 491446476_666877186274350_5596653075943482541_n.jpeg
+    city: São Paulo
+    date: '27/04/2025 14:00'
+    daysGroup: 25/26/27
+    ticketsUrl: 'https://www.sympla.com.br/evento/ska-na-paskoa/2891095'
+  - poster: 491445238_18266970535277180_7564616547860512161_n.webp
+    city: São José dos Campos
+    date: '30/04/2025 20:00'
+    daysGroup: 28/29/30
+    ticketsUrl: 'https://www.sympla.com.br/evento/despedida-valepunk-menores-atos-e-meu-funeral/2877532'
+  - poster: c360f600-7248-4a48-b586-c4cb76b00597.jpeg
+    city: Santo André
+    date: '04/05/2025 15:00'
+    daysGroup: 01/02/03/04
+    ticketsUrl: 'https://www.sympla.com.br/evento/facada-social-chaos-agravo-ao-vivo-no-74club/2920037'
+  - poster: e3e17c00-a12f-4539-ba13-2e7d06b14322.jpeg
+    city: Americana
+    date: '03/05/2025 20:00'
+    daysGroup: 01/02/03/04
+    ticketsUrl: 'https://ticket.com.vc/evento/fim-do-mundo-em-americanasp'
+  - poster: 491444210_707923505241670_5504639341342013621_n.jpeg
+    city: São Paulo
+    date: '16/05/2025 18:00'
+    daysGroup: 16/17/18
 ---
 
