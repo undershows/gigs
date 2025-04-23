@@ -95,17 +95,17 @@ const gigsByMonth = R.pipe(
 
 {gigsByMonth.map(([monthNumber, GigsByDaysGroup]: GigsByMonth) => (
   <>
-    <p style="font-size:30px; text-align:center;">
+    <p class="gig-month">
       {getFormattedMonthName(monthNumber)}
     </p>
     {GigsByDaysGroup.map(([daysGroup, gigs]: GigsByDaysGroup) => (
       <>
-        <p style="font-size:20px; text-align:center;">
+        <p class="gig-day">
           <b>{daysGroup}</b>
         </p>
         {gigs.map((gig: ParsedGig) => (
           <>
-            <p style="font-size:20px; text-align:center;">
+            <p class="gig-city">
               <b>{gig.city}/{state.data.abbr} ↓↓↓</b>
             </p>
             <div class="gig-container">

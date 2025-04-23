@@ -6,10 +6,10 @@ img {
 }
 
 .logo {
-  max-width: 200px;
-  height: auto;
   display: block;
   margin: 0 auto;
+  height: auto;
+  max-width: 200px;
 }
 
 p.normal {
@@ -28,7 +28,7 @@ body {
   grid-template-columns: repeat(auto-fit, minmax(60px, 1fr));
   gap: 6px;
   justify-items: center;
-  max-width: 900px; /* aumentamos no desktop */
+  max-width: 900px;
   margin: 0 auto;
   padding: 12px 0;
 }
@@ -52,19 +52,6 @@ body {
 .class1.active {
   font-weight: bold;
   border: 2px solid white;
-}
-
-@media (max-width: 600px) {
-  .class1 {
-    font-size: 14px;
-    padding: 6px 8px;
-    max-width: 60px;
-  }
-
-  .grid-states {
-    max-width: 100%;
-    grid-template-columns: repeat(auto-fit, minmax(48px, 1fr));
-  }
 }
 
 a.class1:link,
@@ -130,4 +117,104 @@ a.class2:active {
   vertical-align: top;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 1.3rem;
+}
+
+.compact-section {
+  text-align: center;
+  line-height: 1.6;
+  font-size: 23px;
+  color: #000;
+  padding: 8px;
+}
+
+.scissor-line {
+  font-weight: bold;
+  word-break: break-word;
+  overflow-wrap: break-word;
+}
+
+.email-line {
+  margin: 4px 0;
+  font-weight: bold;
+}
+
+.email-line a {
+  color: #002aff;
+  text-decoration: none;
+}
+
+.estados-titulo {
+  text-align: center;
+  font-size: 24px;
+  font-weight: bold;
+  margin-top: 16px;
+}
+
+.gig-month {
+  font-size: 30px;
+  text-align: center;
+}
+
+.gig-day {
+  font-size: 20px;
+  text-align: center;
+}
+
+.gig-city {
+  font-size: 20px;
+  text-align: center;
+}
+
+@media (max-width: 600px) {
+  .class1 {
+    font-size: 14px;
+    padding: 6px 8px;
+    max-width: 60px;
+  }
+
+  .grid-states {
+    max-width: 100%;
+    grid-template-columns: repeat(auto-fit, minmax(48px, 1fr));
+  }
+
+  .compact-section {
+    font-size: 16px;
+  }
+
+  .scissor-line {
+    font-size: 14px;
+  }
+
+  .email-line {
+    font-size: 15px;
+  }
+
+  .estados-titulo {
+    font-size: 16px;
+  }
+
+  .gig-month {
+    font-size: 20px;
+  }
+
+  .gig-day {
+    font-size: 16px;
+  }
+
+  .gig-city {
+    font-size: 16px;
+  }
+
+  .tickets-btn__text {
+    font-size: 0.9rem !important;
+  }
+
+  .tickets-btn__icon {
+    width: 20px !important;
+    height: 20px !important;
+  }
+
+  .logo {
+    max-width: 120px !important;
+  }
 }
