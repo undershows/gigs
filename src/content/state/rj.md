@@ -12,5 +12,10 @@ gigs:
     date: '02/05/2025 22:00'
     daysGroup: 01/02/03/04
     ticketsUrl: 'https://www.sympla.com.br/evento/02-05-infernal-grind-fest-rj/2915601'
+  - poster: revolta_hc_fest_paura_25.jpeg
+    city: Rio de Janeiro
+    date: '14/06/2025 19:00'
+    daysGroup: 13/14/15
+    ticketsUrl: 'https://www.sympla.com.br/evento/revolta-hc-fest/2900163'
 ---
 

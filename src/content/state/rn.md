@@ -1,14 +1,11 @@
 ---
 abbr: RN
 name: Rio Grande do Norte
-gigs: []
+gigs:
+  - poster: paura_natal_25.jpeg
+    city: Natal
+    date: '16/05/2025 16:00'
+    daysGroup: 16/17/18
+    ticketsUrl: 'https://www.outgo.com.br/paura-na-sede-cultural-dosol'
 ---
 
-<div class="no-gigs-message">
-
-**Nenhum show por aqui… por enquanto! 😢**
-
-Ainda não temos cartazes de nenhuma cidade do estado do Rio Grande do Norte.  
-Se você organiza eventos underground aí, **manda pra gente!**
-
-</div>

@@ -184,5 +184,10 @@ gigs:
     city: Presidente Prudente
     date: '29/05/2025 19:30'
     daysGroup: 29/30/31
+  - poster: todo_mundo_eh_legal_paura_25.jpeg
+    city: São Paulo
+    date: '10/05/2025 18:00'
+    daysGroup: 09/10/11
+    ticketsUrl: 'https://www.sympla.com.br/evento/todo-mundo-e-legal-fest-paura-projeto-mayhem-militia-cranula/2868499'
 ---
 
