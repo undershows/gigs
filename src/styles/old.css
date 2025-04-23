@@ -18,8 +18,11 @@ p.normal {
   font-size: 30px;
 }
 
-body {
+html, body {
+  width: 100%;
+  max-width: 100%;
   min-width: 0;
+  overflow-x: hidden;
   background-image: radial-gradient(blue, pink, gray);
 }
 
