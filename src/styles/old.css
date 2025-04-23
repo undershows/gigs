@@ -7,25 +7,26 @@ img {
 
 .logo {
   display: block;
-  margin: 0 auto;
+  margin-top: 2rem !important;
+  margin-left: auto;
+  margin-right: auto;
   height: auto;
   max-width: 200px;
 }
 
-p.normal {
-  line-height: 1.5;
-  text-align: center;
-  font-size: 30px;
-}
-
 html, body {
-  background-image: radial-gradient(ellipse at center, blue, pink, gray);
-  background-repeat: no-repeat;
-  background-size: cover;
+  width: 100%;
+  max-width: 100%;
+  min-width: 0;
+  min-height: 100vh;
+  overflow-x: hidden;
   margin: 0;
   padding-left: 0.5rem;
   padding-right: 0.5rem;
   box-sizing: border-box;
+  background-image: radial-gradient(ellipse at center, pink, gray);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .grid-states {
@@ -35,7 +36,9 @@ html, body {
   justify-items: center;
   max-width: 900px;
   margin: 0 auto;
-  padding: 12px 0;
+  padding-top: 4px;
+  padding-bottom: 0;
+  margin-bottom: 1rem;
 }
 
 .class1 {
@@ -52,6 +55,7 @@ html, body {
   width: 100%;
   max-width: 80px;
   text-transform: uppercase;
+  transition: all 0.2s ease-in-out;
 }
 
 .class1.active {
@@ -84,7 +88,6 @@ a.class2:active {
 }
 
 .gig-container,
-.no-gigs-message,
 .compact-section {
   max-width: 900px;
   width: 100%;
@@ -93,6 +96,22 @@ a.class2:active {
   text-align: center;
   padding: 0 1rem;
   box-sizing: border-box;
+}
+
+.no-gigs-message {
+  text-align: center;
+  font-family: 'Inter', sans-serif;
+  font-size: clamp(1rem, 2.5vw, 1.3rem);
+  line-height: 1.6;
+  padding: 0 1rem;
+  margin: 1rem auto 0 auto;
+  max-width: 900px;
+  width: 100%;
+  box-sizing: border-box;
+  min-height: 200px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
 
 .tickets-btn {
@@ -133,6 +152,7 @@ a.class2:active {
   font-size: 23px;
   color: #000;
   padding: 8px;
+  margin-top: 0 !important;
 }
 
 .scissor-line {
@@ -153,19 +173,23 @@ a.class2:active {
 }
 
 .estados-titulo {
+  font-family: sans-serif;
   text-align: center;
   font-size: 24px;
   font-weight: bold;
   margin-top: 16px;
+  margin-bottom: 0;
 }
 
 .gig-month {
-  font-size: 30px;
+  font-family: sans-serif;
+  font-size: 24px;
   text-align: center;
   font-weight: bold;
 }
 
 .gig-day {
+  font-family: sans-serif;
   font-size: 20px;
   text-align: center;
 }
@@ -173,15 +197,6 @@ a.class2:active {
 .gig-city {
   font-size: 20px;
   text-align: center;
-}
-
-.no-gigs-message {
-  text-align: center;
-  font-family: 'Inter', sans-serif;
-  font-size: clamp(1rem, 2.5vw, 1.3rem);
-  line-height: 1.6;
-  padding: 0 1rem;
-  margin-top: 2rem;
 }
 
 @media (max-width: 600px) {
@@ -204,6 +219,7 @@ a.class2:active {
   .compact-section {
     font-size: 16px;
     padding: 0 0.5rem;
+    margin-top: 0 !important;
   }
 
   .email-line {
@@ -212,10 +228,11 @@ a.class2:active {
 
   .estados-titulo {
     font-size: 16px;
+    font-weight: bold;
   }
 
   .gig-month {
-    font-size: 20px;
+    font-size: 16px;
     font-weight: bold;
   }
 
@@ -240,9 +257,9 @@ a.class2:active {
     max-width: 120px !important;
   }
 
-  .gig-container,
   .no-gigs-message {
     padding: 0 0.5rem;
+    font-size: 1rem;
   }
 }
 
