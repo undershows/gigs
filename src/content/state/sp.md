@@ -84,7 +84,7 @@ gigs:
     city: São Paulo
     date: '18/05/2025 16:00'
     daysGroup: 16/17/18
-  - poster: 30-05_Marília_resized.jpg
+  - poster: 30-05_Marilia_resized.jpg
     city: Marília
     date: '30/05/2025 20:00'
     daysGroup: 29/30/31
@@ -136,5 +136,49 @@ gigs:
     city: São Paulo
     date: '01/05/2025 17:00'
     daysGroup: 01/02/03/04
+  - poster: 489383366_517923151385581_3323688046598928303_n.jpg
+    city: São Paulo
+    date: '31/05/2025 18:00'
+    daysGroup: 29/30/31
+    ticketsUrl: 'https://pixelticket.com.br/eventos/26224/pense'
+  - poster: 491441154_18007895012733676_3013743408578671517_n.webp
+    city: São Paulo
+    date: '03/05/2025 20:00'
+    daysGroup: 01/02/03/04
+  - poster: 491442686_18275832523249197_5903979698290480944_n.webp
+    city: Santo André
+    date: '17/05/2025 19:00'
+    daysGroup: 16/17/18
+  - poster: 491423246_18313271008227380_8036787265082617485_n.jpg
+    city: São Paulo
+    date: '17/05/2025 19:00'
+    daysGroup: 16/17/18
+    ticketsUrl: 'https://101tickets.com.br/events/details/Inferno-Nuclear-Deathgeist-Critical-fear-em-sp'
+  - poster: 491497178_18502179844025079_8756560278352599258_n.jpg
+    city: Bauru
+    date: '26/04/2025 17:00'
+    daysGroup: 25/26/27
+    ticketsUrl: 'https://articket.com.br/e/3373/dead-fish-em-bauru'
+  - poster: 491444817_18121220836450122_7045231373496079907_n.jpg
+    city: São Bernardo do Campo
+    date: '26/04/2025 17:00'
+    daysGroup: 25/26/27
+  - poster: 491440987_18061677119483440_41730579860672270_n.jpg
+    city: São Paulo
+    date: '26/04/2025 19:00'
+    daysGroup: 25/26/27
+  - poster: 491441402_17984570039810563_5712300338352391181_n.webp
+    city: São Paulo
+    date: '24/05/2025 18:00'
+    daysGroup: 23/24/25
+  - poster: 491464874_18498930343044152_1848173602241771462_n.webp
+    city: São José dos Campos
+    date: '26/07/2025 22:00'
+    daysGroup: 25/26/27
+    ticketsUrl: 'https://www.sympla.com.br/evento/despedida-valepunk-garage-fuzz/2892140'
+  - poster: 491445210_17919747141081610_2870982329775366866_n.webp
+    city: São Paulo
+    date: '24/05/2025 18:00'
+    daysGroup: 23/24/25
 ---
 

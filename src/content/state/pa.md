@@ -11,5 +11,9 @@ gigs:
     city: Abaetetuba
     date: '02/05/2025 11:00'
     daysGroup: 01/02
+  - poster: 491445244_18310738864224500_7382032740236529623_n.webp
+    city: Icoaraci
+    date: '26/04/2025 19:00'
+    daysGroup: 25/26/27
 ---
 
