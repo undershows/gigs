@@ -8,7 +8,7 @@ gigs: []
 
 **Nenhum show por aqui… por enquanto! 😢**
 
-Ainda não temos cartazes cadastrados em nenhuma cidade do estado do Piauí.  
+Ainda não temos cartazes de nenhuma cidade do estado do Piauí.  
 Se você organiza eventos underground aí, **manda pra gente!**
 
 </div>

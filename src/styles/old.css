@@ -24,6 +24,9 @@ html, body {
   min-width: 0;
   overflow-x: hidden;
   background-image: radial-gradient(blue, pink, gray);
+  padding-left: 1rem;
+  padding-right: 1rem;
+  box-sizing: border-box;
 }
 
 .grid-states {
@@ -81,13 +84,15 @@ a.class2:active {
   text-decoration: underline;
 }
 
-.gig-container {
-  max-width: 600px;
+.gig-container,
+.no-gigs-message,
+.compact-section {
+  max-width: 900px;
   width: 100%;
   margin: 0 auto;
   margin-bottom: 20px;
   text-align: center;
-  padding: 0 12px;
+  padding: 0 1rem;
   box-sizing: border-box;
 }
 
