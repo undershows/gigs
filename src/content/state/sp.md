@@ -180,5 +180,9 @@ gigs:
     city: São Paulo
     date: '24/05/2025 18:00'
     daysGroup: 23/24/25
+  - poster: 29-05_PP_resized.jpg
+    city: Presidente Prudente
+    date: '29/05/2025 19:30'
+    daysGroup: 29/30/31
 ---
 
