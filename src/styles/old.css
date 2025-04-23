@@ -171,6 +171,15 @@ a.class2:active {
   text-align: center;
 }
 
+.no-gigs-message {
+  text-align: center;
+  font-family: 'Inter', sans-serif;
+  font-size: clamp(1rem, 2.5vw, 1.3rem);
+  line-height: 1.6;
+  padding: 0 1rem;
+  margin-top: 2rem;
+}
+
 @media (max-width: 600px) {
   .class1 {
     font-size: 14px;
