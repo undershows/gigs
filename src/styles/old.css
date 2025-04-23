@@ -19,7 +19,7 @@ p.normal {
 }
 
 body {
-  min-width: fit-content;
+  min-width: 0;
   background-image: radial-gradient(blue, pink, gray);
 }
 
