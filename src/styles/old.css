@@ -19,13 +19,12 @@ p.normal {
 }
 
 html, body {
-  width: 100%;
-  max-width: 100%;
-  min-width: 0;
-  overflow-x: hidden;
-  background-image: radial-gradient(blue, pink, gray);
-  padding-left: 1rem;
-  padding-right: 1rem;
+  background-image: radial-gradient(ellipse at center, blue, pink, gray);
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
   box-sizing: border-box;
 }
 
@@ -186,6 +185,11 @@ a.class2:active {
 }
 
 @media (max-width: 600px) {
+  html, body {
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+  }
+
   .class1 {
     font-size: 14px;
     padding: 6px 8px;
@@ -199,6 +203,7 @@ a.class2:active {
 
   .compact-section {
     font-size: 16px;
+    padding: 0 0.5rem;
   }
 
   .email-line {
@@ -233,6 +238,11 @@ a.class2:active {
 
   .logo {
     max-width: 120px !important;
+  }
+
+  .gig-container,
+  .no-gigs-message {
+    padding: 0 0.5rem;
   }
 }
 
