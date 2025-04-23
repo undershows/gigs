@@ -35,22 +35,9 @@ type GigsByMonth = [string, GigsByDaysGroup[]];
 
 const { state } = Astro.props;
 
-/**
- * Check if the first date is after or equal the second one.
- *
- * @param {Date} date
- * @param {Date} dateToCompare
- * @returns {boolean}
- */
 const isAfterOrEqual = (date: Date, dateToCompare: Date) =>
   isAfter(date, dateToCompare) || isEqual(date, dateToCompare);
 
-/**
- * Returns a days group from a date.
- *
- * @param {Date} date
- * @returns {string}
- */
 const daysGroupFromDate = (date: Date) => {
   const daysGroups = Array.from(
     { length: getDaysInMonth(date) },
@@ -64,26 +51,20 @@ const daysGroupFromDate = (date: Date) => {
     R.join("/")
   )(daysGroups);
 };
- 
+
 const getFormattedMonthName = (monthNumber: string) => {
   const month = parse(monthNumber, "M-yyyy", Date.now());
-  const monthName = format(month, "MMMM");
   const localizedMonthName = format(month, "MMMM", { locale: ptBR });
+  const englishMonthName = format(month, "MMMM");
 
-  return R.toUpper(`${localizedMonthName}/${monthName}`);
+  return `${localizedMonthName.toUpperCase()}/${englishMonthName.toUpperCase()}`;
 };
 
-/**
- * Get image alt.
- */
 const getImageAlt = (gig: ParsedGig) =>
   `Cartaz de show em ${gig.city}, ${format(gig.date, "PPP 'às' HH:mm", {
     locale: ptBR,
   })}`;
 
-/**
- * Gigs grouped by months and day groups.
- */
 const gigsByMonth = R.pipe(
   R.defaultTo([]),
   R.map((gig: Gig) => {
@@ -112,46 +93,88 @@ const gigsByMonth = R.pipe(
 )(state.data.gigs);
 ---
 
-{
-  gigsByMonth.map(([monthNumber, GigsByDaysGroup]: GigsByMonth) => (
-    <>
-      <p style="font-size:30px; text-align:center;">
-        {getFormattedMonthName(monthNumber)}
-      </p>
-      {GigsByDaysGroup.map(([daysGroup, gigs]: GigsByDaysGroup) => (
-        <>
-          <p style="font-size:20px; text-align:center;">
-            <b>{daysGroup}</b>
-          </p>
-          {gigs.map((gig: ParsedGig) => (
-            <>
-              <p style="font-size:20px; text-align:center;">
-                <b>
-                  {gig.city}/{state.data.abbr} ↓↓↓
-                </b>
-              </p>
-              <div class="gig-container">
-                <Image
-                  src={`/images/posters/${gig.poster}`}
-                  alt={getImageAlt(gig)}
-                  width={600}
-                  height={800}
-                  format="webp"
-                  class="gig-poster"
-                />
-                <>
-                  {gig.ticketsUrl && (
-                    <a href={gig.ticketsUrl} class="tickets-btn" target="_blank">
-                      <img src="/images/icons/ticket.svg" class="tickets-btn__icon" alt="Ícone de ingresso" />
-                      <span class="tickets-btn__text">Comprar ingressos</span>
-                    </a>
-                  )}
-                </>
-              </div>
-            </>
-          ))}
-        </>
-      ))}
-    </>
-  ))
-}
+{gigsByMonth.map(([monthNumber, GigsByDaysGroup]: GigsByMonth) => (
+  <>
+    <p style="font-size:30px; text-align:center;">
+      {getFormattedMonthName(monthNumber)}
+    </p>
+    {GigsByDaysGroup.map(([daysGroup, gigs]: GigsByDaysGroup) => (
+      <>
+        <p style="font-size:20px; text-align:center;">
+          <b>{daysGroup}</b>
+        </p>
+        {gigs.map((gig: ParsedGig) => (
+          <>
+            <p style="font-size:20px; text-align:center;">
+              <b>{gig.city}/{state.data.abbr} ↓↓↓</b>
+            </p>
+            <div class="gig-container">
+              <Image
+                src={`/images/posters/${gig.poster}`}
+                alt={getImageAlt(gig)}
+                width={600}
+                height={800}
+                format="webp"
+                class="gig-poster"
+              />
+              {gig.ticketsUrl && (
+                <a href={gig.ticketsUrl} class="tickets-btn" target="_blank">
+                  <img src="/images/icons/ticket.svg" class="tickets-btn__icon" alt="Ícone de ingresso" />
+                  <span class="tickets-btn__text">Comprar ingressos</span>
+                </a>
+              )}
+            </div>
+          </>
+        ))}
+      </>
+    ))}
+  </>
+))}
+
+<style>
+  .gig-container {
+    width: 100%;
+    max-width: 100%;
+    padding: 0 12px;
+    box-sizing: border-box;
+  }
+
+  .gig-poster {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+  }
+
+  .tickets-btn {
+    display: block;
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 0.5rem;
+    box-sizing: border-box;
+    border-radius: 0 0 10px 10px;
+    text-decoration: none;
+    background-color: #66223d;
+    color: #fff;
+  }
+
+  .tickets-btn:hover .tickets-btn__text {
+    text-decoration: underline;
+  }
+
+  .tickets-btn__icon {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    margin-right: 0.5rem;
+  }
+
+  .tickets-btn__text {
+    display: inline-block;
+    padding-top: 0.2rem;
+    vertical-align: top;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.3rem;
+  }
+</style>

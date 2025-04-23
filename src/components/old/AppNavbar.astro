@@ -22,24 +22,13 @@ const isLink = (state: CollectionEntry<"state">) =>
 ---
 
 <style>
-  .class1 {
-    display: inline-block;
-    margin: 0 -5px; /* Reduz o espaço entre os elementos */
-    padding: 1px; /* Mantém o tamanho do quadrado */
-    font-size: 24px; /* Aumenta ainda mais o tamanho da fonte das siglas */
-    width: auto; /* Remove largura fixa */
-    height: auto; /* Remove altura fixa */
-    text-align: center; /* Centraliza o conteúdo */
-    border-radius: 5px; /* Bordas arredondadas */
+  img.logo {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
   }
-
-  @media (max-width: 600px) { /* Estilo para telas menores */
-    .class1 {
-      font-size: 24px; /* Ajusta o tamanho das fontes em telas menores */
-      padding: 3px; /* Mantém o espaçamento adequado */
-    }
-  }
-
+  
   .compact-section {
     margin-bottom: 10px;
     line-height: 1.5;
@@ -64,21 +53,21 @@ const isLink = (state: CollectionEntry<"state">) =>
     class="logo"
   />
 
-  ESTADOS/STATES<br />
-  {
-    sortedStates.map((state, index) => (
-      <>
-        {index !== 0 ? " - " : ""} <!-- Espaçamento normal entre os traços -->
-        {isLink(state) ? (
+  <p style="text-align: center; font-size: 24px; font-weight: bold; margin-top: 16px;">ESTADOS/STATES</p>
+
+  <div class="grid-states">
+    {
+      sortedStates.map((state) =>
+        isLink(state) ? (
           <Link to={state.slug === mainState ? "" : state.slug} class="class1">
             {state.data.abbr}
           </Link>
         ) : (
-          <span class="class1">{state.data.abbr}</span>
-        )}
-      </>
-    ))
-  }
+          <span class="class1 active">{state.data.abbr}</span>
+        )
+      )
+    }
+  </div>  
 </p>
 
 <div class="compact-section" style="text-align: center; line-height: 1.6; font-size: 23px; color: #000;">
