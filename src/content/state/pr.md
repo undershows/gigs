@@ -24,5 +24,10 @@ gigs:
     date: '03/05/2025 23:00'
     daysGroup: 01/02/03/04
     ticketsUrl: 'https://www.sympla.com.br/evento/psycho-night-ovos-presley-the-brown-vampire-catz-e-dj-farofa/2911445'
+  - poster: 491468716_18301057381211039_6038580840628513266_n.jpg
+    city: Curitiba
+    date: '28/06/2025 20:00'
+    daysGroup: 27/28/29
+    ticketsUrl: 'https://meaple.com.br/belvedere/garotos-podres-bvdr-2025'
 ---
 

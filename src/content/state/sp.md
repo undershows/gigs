@@ -213,5 +213,31 @@ gigs:
     city: São Paulo
     date: '16/05/2025 18:00'
     daysGroup: 16/17/18
+  - poster: 490884802_17857063767410184_7807938410757380721_n.jpg
+    city: São Paulo
+    date: '06/06/2025 19:00'
+    daysGroup: 06/07/08
+  - poster: 491505101_17846351280459956_683679994851281877_n.webp
+    city: Pindamonhangaba
+    date: '15/06/2025 17:00'
+    daysGroup: 13/14/15
+    ticketsUrl: 'https://www.sympla.com.br/evento/metal-no-vale-fest-edicao-pindamonhangaba-sp/2925864'
+  - poster: 491433041_18388750993117524_6145887948576188761_n.jpg
+    city: São Paulo
+    date: '26/04/2025 16:20'
+    daysGroup: 25/26/27
+  - poster: 491498617_18326525227166853_6380123737762005870_n.webp
+    city: São Paulo
+    date: '24/05/2025 22:00'
+    daysGroup: 23/24/25
+  - poster: 491462354_18046113164594646_8970016837709594173_n.webp
+    city: São Paulo
+    date: '18/07/2025 17:00'
+    daysGroup: 18/19/20
+    ticketsUrl: 'https://www.bilheto.com.br/comprar/3417/bloodhunter-primeira-vez-em-sp'
+  - poster: 491445360_18499845193021484_399732864305590556_n.jpg
+    city: São Paulo
+    date: '25/04/2025 19:00'
+    daysGroup: 25/26/27
 ---
 
