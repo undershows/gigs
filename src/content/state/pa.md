@@ -19,10 +19,5 @@ gigs:
     city: Belém
     date: '03/05/2025 19:00'
     daysGroup: 01/02/03
-  - poster: fcbea142-5092-4319-938e-ef18ba4a9d32.jpeg
-    city: Belém
-    date: '23/04/2025 19:00'
-    daysGroup: 23/24/25/26/27
-    ticketsUrl: 'https://www.sympla.com.br/evento/chorume-quarta-autoral-23-04/2906666'
 ---
 
