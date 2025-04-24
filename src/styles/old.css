@@ -195,6 +195,8 @@ a.class2:active {
 }
 
 .gig-city {
+  font-family: sans-serif;
+
   font-size: 20px;
   text-align: center;
 }

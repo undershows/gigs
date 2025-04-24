@@ -237,7 +237,7 @@ gigs:
     ticketsUrl: 'https://www.bilheto.com.br/comprar/3417/bloodhunter-primeira-vez-em-sp'
   - poster: 491445360_18499845193021484_399732864305590556_n.jpg
     city: São Paulo
-    date: '25/04/2025 19:00'
+    date: '25/04/2025 21:00'
     daysGroup: 25/26/27
 ---
 
