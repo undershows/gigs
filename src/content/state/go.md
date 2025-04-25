@@ -16,9 +16,5 @@ gigs:
     date: '16/05/2025 19:00'
     daysGroup: 16/17/18
     ticketsUrl: 'https://www.bilheteriadigital.com/hellwaytrain-brasil-tour-2025-16-de-maio'
-  - poster: 487879350_18007613954723185_1324981812359242252_n.jpg
-    city: Goiânia
-    date: '25/04/2025 18:00'
-    daysGroup: 24/25/26/27
 ---
 

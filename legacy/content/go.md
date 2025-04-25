@@ -141,5 +141,9 @@ gigs:
     daysGroup: 07/08/09
     ticketsUrl: >-
       https://www.sympla.com.br/evento/papangu-pb-agnoizze-banana-bipolar/2788051
+  - poster: 487879350_18007613954723185_1324981812359242252_n.jpg
+    city: Goiânia
+    date: '24/04/2025 18:00'
+    daysGroup: 24/25/26/27
 ---
 
