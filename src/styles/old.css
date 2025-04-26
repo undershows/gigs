@@ -48,10 +48,12 @@ html, body {
   font-size: 18px;
   background-color: #f05291;
   color: black;
+  border: 3px solid transparent;
   border-radius: 6px;
   text-align: center;
   text-decoration: none;
   font-family: Tahoma, sans-serif;
+  font-weight: normal;
   box-sizing: border-box;
   width: 100%;
   max-width: 80px;
@@ -61,7 +63,8 @@ html, body {
 
 .class1.active {
   font-weight: bold;
-  border: 3px solid black;
+  //border: 3px solid black;
+  border-color: black;
 }
 
 /* Links padrão e secundário */
