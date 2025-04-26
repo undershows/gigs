@@ -239,5 +239,9 @@ gigs:
     city: São Paulo
     date: '01/05/2025 17:00'
     daysGroup: 01/02/03/04
+  - poster: 487111982_122143726544551515_3480702332235732645_n.jpg
+    city: São Paulo
+    date: '26/04/2025 14:00'
+    daysGroup: 25/26/27
 ---
 
