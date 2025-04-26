@@ -101,5 +101,9 @@ gigs:
     city: Vitória
     date: '11/01/2025 17:00'
     daysGroup: 10/11/12
+  - poster: 491151363_18133147813407235_6086537240449192093_n.jpg
+    city: Serra
+    date: '25/04/2025 19:00'
+    daysGroup: 25/26/27
 ---
 

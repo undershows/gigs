@@ -55,11 +55,6 @@ gigs:
     city: Presidente Prudente
     date: '24/05/2025 20:00'
     daysGroup: 23/24/25
-  - poster: 486612689_1081153180717843_8771457248953952751_n.jpg
-    city: São Paulo
-    date: '25/04/2025 20:30'
-    daysGroup: 25/26/27
-    ticketsUrl: 'https://www.sescsp.org.br/programacao/rot-musica-extrema/'
   - poster: IMG-20250405-WA0000.jpg
     city: Bebedouro
     date: '07/06/2025 15:00'
@@ -153,7 +148,8 @@ gigs:
     city: São Paulo
     date: '17/05/2025 19:00'
     daysGroup: 16/17/18
-    ticketsUrl: 'https://101tickets.com.br/events/details/Inferno-Nuclear-Deathgeist-Critical-fear-em-sp'
+    ticketsUrl: >-
+      https://101tickets.com.br/events/details/Inferno-Nuclear-Deathgeist-Critical-fear-em-sp
   - poster: 491497178_18502179844025079_8756560278352599258_n.jpg
     city: Bauru
     date: '26/04/2025 17:00'
@@ -188,7 +184,8 @@ gigs:
     city: São Paulo
     date: '10/05/2025 18:00'
     daysGroup: 09/10/11
-    ticketsUrl: 'https://www.sympla.com.br/evento/todo-mundo-e-legal-fest-paura-projeto-mayhem-militia-cranula/2868499'
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/todo-mundo-e-legal-fest-paura-projeto-mayhem-militia-cranula/2868499
   - poster: 491446476_666877186274350_5596653075943482541_n.jpeg
     city: São Paulo
     date: '27/04/2025 14:00'
@@ -198,12 +195,14 @@ gigs:
     city: São José dos Campos
     date: '30/04/2025 20:00'
     daysGroup: 28/29/30
-    ticketsUrl: 'https://www.sympla.com.br/evento/despedida-valepunk-menores-atos-e-meu-funeral/2877532'
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/despedida-valepunk-menores-atos-e-meu-funeral/2877532
   - poster: c360f600-7248-4a48-b586-c4cb76b00597.jpeg
     city: Santo André
     date: '04/05/2025 15:00'
     daysGroup: 01/02/03/04
-    ticketsUrl: 'https://www.sympla.com.br/evento/facada-social-chaos-agravo-ao-vivo-no-74club/2920037'
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/facada-social-chaos-agravo-ao-vivo-no-74club/2920037
   - poster: e3e17c00-a12f-4539-ba13-2e7d06b14322.jpeg
     city: Americana
     date: '03/05/2025 20:00'
@@ -221,7 +220,8 @@ gigs:
     city: Pindamonhangaba
     date: '15/06/2025 17:00'
     daysGroup: 13/14/15
-    ticketsUrl: 'https://www.sympla.com.br/evento/metal-no-vale-fest-edicao-pindamonhangaba-sp/2925864'
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/metal-no-vale-fest-edicao-pindamonhangaba-sp/2925864
   - poster: 491433041_18388750993117524_6145887948576188761_n.jpg
     city: São Paulo
     date: '26/04/2025 16:20'
@@ -235,10 +235,6 @@ gigs:
     date: '18/07/2025 17:00'
     daysGroup: 18/19/20
     ticketsUrl: 'https://www.bilheto.com.br/comprar/3417/bloodhunter-primeira-vez-em-sp'
-  - poster: 491445360_18499845193021484_399732864305590556_n.jpg
-    city: São Paulo
-    date: '25/04/2025 21:00'
-    daysGroup: 25/26/27
   - poster: f678e454-3b4a-4369-a5e7-a6a5681f8c2a.jpeg
     city: São Paulo
     date: '01/05/2025 17:00'

@@ -5316,5 +5316,14 @@ gigs:
     city: Marília
     date: '21/04/2025 16:00'
     daysGroup: 16/17/18/19/20/21
+  - poster: 486612689_1081153180717843_8771457248953952751_n.jpg
+    city: São Paulo
+    date: '25/04/2025 20:30'
+    daysGroup: 25/26/27
+    ticketsUrl: 'https://www.sescsp.org.br/programacao/rot-musica-extrema/'
+  - poster: 491445360_18499845193021484_399732864305590556_n.jpg
+    city: São Paulo
+    date: '25/04/2025 21:00'
+    daysGroup: 25/26/27
 ---
 
