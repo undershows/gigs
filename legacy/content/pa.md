@@ -116,5 +116,9 @@ gigs:
     date: '23/04/2025 19:00'
     daysGroup: 23/24/25/26/27
     ticketsUrl: 'https://www.sympla.com.br/evento/chorume-quarta-autoral-23-04/2906666'
+  - poster: 491445244_18310738864224500_7382032740236529623_n.webp
+    city: Icoaraci
+    date: '26/04/2025 19:00'
+    daysGroup: 25/26/27
 ---
 

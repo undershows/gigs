@@ -11,10 +11,6 @@ gigs:
     city: Abaetetuba
     date: '02/05/2025 11:00'
     daysGroup: 01/02/03
-  - poster: 491445244_18310738864224500_7382032740236529623_n.webp
-    city: Icoaraci
-    date: '26/04/2025 19:00'
-    daysGroup: 25/26/27
   - poster: 9a11e11f-fc8b-46b4-8d20-e2e495844a14.jpeg
     city: Belém
     date: '03/05/2025 19:00'

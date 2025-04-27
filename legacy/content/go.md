@@ -145,5 +145,9 @@ gigs:
     city: Goiânia
     date: '24/04/2025 18:00'
     daysGroup: 24/25/26/27
+  - poster: 489819142_18008521079723185_3397128475562583776_n.jpg
+    city: Goiânia
+    date: '26/04/2025 14:00'
+    daysGroup: 25/26/27
 ---
 

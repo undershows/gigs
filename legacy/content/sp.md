@@ -5325,5 +5325,30 @@ gigs:
     city: São Paulo
     date: '25/04/2025 21:00'
     daysGroup: 25/26/27
+  - poster: 491442260_18381009904140039_5360870151167171816_n.jpeg
+    city: São Paulo
+    date: '26/04/2025 17:00'
+    daysGroup: 25/26/27
+  - poster: 491497178_18502179844025079_8756560278352599258_n.jpg
+    city: Bauru
+    date: '26/04/2025 17:00'
+    daysGroup: 25/26/27
+    ticketsUrl: 'https://articket.com.br/e/3373/dead-fish-em-bauru'
+  - poster: 491444817_18121220836450122_7045231373496079907_n.jpg
+    city: São Bernardo do Campo
+    date: '26/04/2025 17:00'
+    daysGroup: 25/26/27
+  - poster: 491440987_18061677119483440_41730579860672270_n.jpg
+    city: São Paulo
+    date: '26/04/2025 19:00'
+    daysGroup: 25/26/27
+  - poster: 491433041_18388750993117524_6145887948576188761_n.jpg
+    city: São Paulo
+    date: '26/04/2025 16:20'
+    daysGroup: 25/26/27
+  - poster: 487111982_122143726544551515_3480702332235732645_n.jpg
+    city: São Paulo
+    date: '26/04/2025 14:00'
+    daysGroup: 25/26/27
 ---
 
