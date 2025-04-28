@@ -5350,5 +5350,14 @@ gigs:
     city: São Paulo
     date: '26/04/2025 14:00'
     daysGroup: 25/26/27
+  - poster: f79cbdb1-1410-47db-a8c5-dd506bdf976b.jpeg
+    city: São Bernardo do Campo
+    date: '27/04/2025 16:00'
+    daysGroup: 25/26/27
+  - poster: 491446476_666877186274350_5596653075943482541_n.jpeg
+    city: São Paulo
+    date: '27/04/2025 14:00'
+    daysGroup: 25/26/27
+    ticketsUrl: 'https://www.sympla.com.br/evento/ska-na-paskoa/2891095'
 ---
 

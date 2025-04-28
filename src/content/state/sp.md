@@ -21,10 +21,6 @@ gigs:
     date: '10/05/2025 18:30'
     daysGroup: 09/10/11
     ticketsUrl: 'https://www.sympla.com.br/evento/okavango-metal-fest-2025/2819286'
-  - poster: f79cbdb1-1410-47db-a8c5-dd506bdf976b.jpeg
-    city: São Bernardo do Campo
-    date: '27/04/2025 16:00'
-    daysGroup: 25/26/27
   - poster: 4c1e63de-a1fe-467a-915e-1683cffe450f.jpeg
     city: São Paulo
     date: '17/05/2025 19:00'
@@ -169,11 +165,6 @@ gigs:
     daysGroup: 09/10/11
     ticketsUrl: >-
       https://www.sympla.com.br/evento/todo-mundo-e-legal-fest-paura-projeto-mayhem-militia-cranula/2868499
-  - poster: 491446476_666877186274350_5596653075943482541_n.jpeg
-    city: São Paulo
-    date: '27/04/2025 14:00'
-    daysGroup: 25/26/27
-    ticketsUrl: 'https://www.sympla.com.br/evento/ska-na-paskoa/2891095'
   - poster: 491445238_18266970535277180_7564616547860512161_n.webp
     city: São José dos Campos
     date: '30/04/2025 20:00'
