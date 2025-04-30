@@ -218,5 +218,9 @@ gigs:
     date: '04/05/2025 17:00'
     daysGroup: 01/02/03/04
     ticketsUrl: 'https://www.sympla.com.br/evento/death-grind-assault/2835728'
+  - poster: 494458145_18321261703205086_4901909905628416151_n.jpeg
+    city: São Paulo
+    date: '17/05/2025 16:00'
+    daysGroup: 16/17/18
 ---
 
