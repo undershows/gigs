@@ -16,5 +16,9 @@ gigs:
     daysGroup: 16/17/18
     ticketsUrl: >-
       https://www.sympla.com.br/evento/paura-sp-e-plugins-pe-na-vila-do-porto/2897315
+  - poster: ca1ee3df-e4fd-4a3b-ae27-1cde9e5b440a.jpeg
+    city: João Pessoa
+    date: '10/05/2025 15:30'
+    daysGroup: 09/10/11
 ---
 
