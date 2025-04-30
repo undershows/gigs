@@ -213,5 +213,10 @@ gigs:
     city: São Paulo
     date: '30/04/2025 19:00'
     daysGroup: 28/29/30
+  - poster: b038a073-ce0a-42cb-8280-2bf07b4483e7.jpeg
+    city: São Paulo
+    date: '04/05/2025 17:00'
+    daysGroup: 01/02/03/04
+    ticketsUrl: 'https://www.sympla.com.br/evento/death-grind-assault/2835728'
 ---
 
