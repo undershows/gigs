@@ -11,10 +11,7 @@ gigs:
     city: Recife
     date: '18/05/2025 17:00'
     daysGroup: 16/17/18
-    ticketsUrl: 'https://www.sympla.com.br/evento/recife-mosh-trip-estelita-17-e-18-de-maio/2873282'
-  - poster: 491443298_18501811168036481_2588947140044213209_n.webp
-    city: Caruaru
-    date: '30/04/2025 18:00'
-    daysGroup: 28/29/30
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/recife-mosh-trip-estelita-17-e-18-de-maio/2873282
 ---
 

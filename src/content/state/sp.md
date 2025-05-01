@@ -87,11 +87,6 @@ gigs:
     daysGroup: 29/30/31
     ticketsUrl: >-
       https://www.sympla.com.br/evento/skeletal-remains-nervochaos-desdominus-faces-of-death/2903298
-  - poster: 491938048_3928350097477439_6066729506490824984_n.jpg
-    city: São José dos Campos
-    date: '30/04/2025 19:00'
-    daysGroup: 28/29/30
-    ticketsUrl: 'https://ticket.com.vc/evento/carnica-bad-trip-fest-ii'
   - poster: 01-06_Aruja_resized.jpg
     city: Arujá
     date: '01/06/2025 18:00'
@@ -165,12 +160,6 @@ gigs:
     daysGroup: 09/10/11
     ticketsUrl: >-
       https://www.sympla.com.br/evento/todo-mundo-e-legal-fest-paura-projeto-mayhem-militia-cranula/2868499
-  - poster: 491445238_18266970535277180_7564616547860512161_n.webp
-    city: São José dos Campos
-    date: '30/04/2025 20:00'
-    daysGroup: 28/29/30
-    ticketsUrl: >-
-      https://www.sympla.com.br/evento/despedida-valepunk-menores-atos-e-meu-funeral/2877532
   - poster: c360f600-7248-4a48-b586-c4cb76b00597.jpeg
     city: Santo André
     date: '04/05/2025 15:00'
@@ -209,10 +198,6 @@ gigs:
     city: São Paulo
     date: '01/05/2025 17:00'
     daysGroup: 01/02/03/04
-  - poster: ac14ad76-e1a7-41fa-ba22-bf12d20246eb.jpeg
-    city: São Paulo
-    date: '30/04/2025 19:00'
-    daysGroup: 28/29/30
   - poster: b038a073-ce0a-42cb-8280-2bf07b4483e7.jpeg
     city: São Paulo
     date: '04/05/2025 17:00'

@@ -151,5 +151,9 @@ gigs:
     date: '11/04/2025 21:00'
     daysGroup: 10/11/12/13
     ticketsUrl: 'https://www.clubedoingresso.com/evento/recifeinchaos'
+  - poster: 491443298_18501811168036481_2588947140044213209_n.webp
+    city: Caruaru
+    date: '30/04/2025 18:00'
+    daysGroup: 28/29/30
 ---
 

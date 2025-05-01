@@ -5359,5 +5359,20 @@ gigs:
     date: '27/04/2025 14:00'
     daysGroup: 25/26/27
     ticketsUrl: 'https://www.sympla.com.br/evento/ska-na-paskoa/2891095'
+  - poster: 491938048_3928350097477439_6066729506490824984_n.jpg
+    city: São José dos Campos
+    date: '30/04/2025 19:00'
+    daysGroup: 28/29/30
+    ticketsUrl: 'https://ticket.com.vc/evento/carnica-bad-trip-fest-ii'
+  - poster: 491445238_18266970535277180_7564616547860512161_n.webp
+    city: São José dos Campos
+    date: '30/04/2025 20:00'
+    daysGroup: 28/29/30
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/despedida-valepunk-menores-atos-e-meu-funeral/2877532
+  - poster: ac14ad76-e1a7-41fa-ba22-bf12d20246eb.jpeg
+    city: São Paulo
+    date: '30/04/2025 19:00'
+    daysGroup: 28/29/30
 ---
 
