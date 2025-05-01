@@ -29,5 +29,17 @@ gigs:
     date: '28/06/2025 20:00'
     daysGroup: 27/28/29
     ticketsUrl: 'https://meaple.com.br/belvedere/garotos-podres-bvdr-2025'
+  - poster: 492149036_695433816569787_8975895713691423068_n.jpeg
+    city: Maringá
+    date: '01/05/2025 19:00'
+    daysGroup: 01/02/03/04
+  - poster: 1000274992.jpg
+    city: Maringá
+    date: '18/05/2025 21:00'
+    daysGroup: 16/17/18
+  - poster: 1000274932.jpg
+    city: Londrina
+    date: '24/05/2025 21:00'
+    daysGroup: 23/24/25/26/27/28
 ---
 
