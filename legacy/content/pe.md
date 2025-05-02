@@ -155,5 +155,10 @@ gigs:
     city: Caruaru
     date: '30/04/2025 18:00'
     daysGroup: 28/29/30
+  - poster: 471821212_8843049709109590_6206541099248956226_n.jpg
+    city: Recife
+    date: '01/05/2025 20:00'
+    daysGroup: 01/02/03/04
+    ticketsUrl: 'https://www.sympla.com.br/evento/sdb-em-recife/2787950'
 ---
 

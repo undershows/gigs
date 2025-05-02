@@ -5374,5 +5374,27 @@ gigs:
     city: São Paulo
     date: '30/04/2025 19:00'
     daysGroup: 28/29/30
+  - poster: Cartaz_final_kmf_accused.jpg
+    city: São Paulo
+    date: '01/05/2025 14:00'
+    daysGroup: 01/02/03/04
+    ticketsUrl: 'https://ticket.com.vc/evento/kool-metal-fest'
+  - poster: 490514530_1724695698390504_2024072000773154920_n.jpg
+    city: São Paulo
+    date: '01/05/2025 12:00'
+    daysGroup: 01/02/03/04
+  - poster: Flyer_FFFront_chug_fest_0125.png
+    city: São Paulo
+    date: '01/05/2025 19:00'
+    daysGroup: 01/02/03/04
+    ticketsUrl: 'https://www.sympla.com.br/evento/chug-fest/2896832'
+  - poster: 491444819_18065869198950806_1411137368726481122_n.jpeg
+    city: São Paulo
+    date: '01/05/2025 17:00'
+    daysGroup: 01/02/03/04
+  - poster: f678e454-3b4a-4369-a5e7-a6a5681f8c2a.jpeg
+    city: São Paulo
+    date: '01/05/2025 17:00'
+    daysGroup: 01/02/03/04
 ---
 

@@ -42,11 +42,6 @@ gigs:
     daysGroup: 16/17/18
     ticketsUrl: >-
       https://www.sympla.com.br/evento/detestation-eua-ao-vivo-no-woodstock-music-bar-der-lamento-odiar-detesto/2861220
-  - poster: Cartaz_final_kmf_accused.jpg
-    city: São Paulo
-    date: '01/05/2025 14:00'
-    daysGroup: 01/02/03/04
-    ticketsUrl: 'https://ticket.com.vc/evento/kool-metal-fest'
   - poster: 487814030_10227929259273202_1172131541644980230_n.jpg
     city: Presidente Prudente
     date: '24/05/2025 20:00'
@@ -97,27 +92,14 @@ gigs:
     city: São Paulo
     date: '14/06/2025 15:00'
     daysGroup: 13/14/15
-  - poster: 490514530_1724695698390504_2024072000773154920_n.jpg
-    city: São Paulo
-    date: '01/05/2025 12:00'
-    daysGroup: 01/02/03/04
   - poster: 487795669_10232103620830755_3305196310159686684_n.jpg
     city: São Paulo
     date: '10/05/2025 18:00'
     daysGroup: 09/10/11
-  - poster: Flyer_FFFront_chug_fest_0125.png
-    city: São Paulo
-    date: '01/05/2025 19:00'
-    daysGroup: 01/02/03/04
-    ticketsUrl: 'https://www.sympla.com.br/evento/chug-fest/2896832'
   - poster: 490504900_1421003882367024_4487061157361869129_n.jpg
     city: São Paulo
     date: '17/05/2025 14:00'
     daysGroup: 16/17/18
-  - poster: 491444819_18065869198950806_1411137368726481122_n.jpeg
-    city: São Paulo
-    date: '01/05/2025 17:00'
-    daysGroup: 01/02/03/04
   - poster: 489383366_517923151385581_3323688046598928303_n.jpg
     city: São Paulo
     date: '31/05/2025 18:00'
@@ -194,10 +176,6 @@ gigs:
     date: '18/07/2025 17:00'
     daysGroup: 18/19/20
     ticketsUrl: 'https://www.bilheto.com.br/comprar/3417/bloodhunter-primeira-vez-em-sp'
-  - poster: f678e454-3b4a-4369-a5e7-a6a5681f8c2a.jpeg
-    city: São Paulo
-    date: '01/05/2025 17:00'
-    daysGroup: 01/02/03/04
   - poster: b038a073-ce0a-42cb-8280-2bf07b4483e7.jpeg
     city: São Paulo
     date: '04/05/2025 17:00'

@@ -517,5 +517,9 @@ gigs:
     daysGroup: 11/12/13
     ticketsUrl: >-
       https://www.sympla.com.br/evento/suffocation-knife-wisdom-tierra-maldita/2833643
+  - poster: 492149036_695433816569787_8975895713691423068_n.jpeg
+    city: Maringá
+    date: '01/05/2025 19:00'
+    daysGroup: 01/02/03/04
 ---
 
