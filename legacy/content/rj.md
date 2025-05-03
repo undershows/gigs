@@ -332,5 +332,10 @@ gigs:
     city: Rio de Janeiro
     date: '02/02/2025 19:00'
     daysGroup: 01/02
+  - poster: 491462431_18064188224299484_3699906316993769747_n.webp
+    city: Rio de Janeiro
+    date: '02/05/2025 22:00'
+    daysGroup: 01/02/03/04
+    ticketsUrl: 'https://www.sympla.com.br/evento/02-05-infernal-grind-fest-rj/2915601'
 ---
 
