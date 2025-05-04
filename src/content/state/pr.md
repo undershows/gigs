@@ -20,12 +20,6 @@ gigs:
     daysGroup: 23/24/25/26/27/28
     ticketsUrl: >-
       https://www.sympla.com.br/evento/skeletal-remains-nervochaos-holder/2903183
-  - poster: 491511278_2064673050685077_4142575261409854656_n.jpeg
-    city: Londrina
-    date: '03/05/2025 23:00'
-    daysGroup: 01/02/03/04
-    ticketsUrl: >-
-      https://www.sympla.com.br/evento/psycho-night-ovos-presley-the-brown-vampire-catz-e-dj-farofa/2911445
   - poster: 491468716_18301057381211039_6038580840628513266_n.jpg
     city: Curitiba
     date: '28/06/2025 20:00'

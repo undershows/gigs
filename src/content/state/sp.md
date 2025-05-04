@@ -105,10 +105,6 @@ gigs:
     date: '31/05/2025 18:00'
     daysGroup: 29/30/31
     ticketsUrl: 'https://pixelticket.com.br/eventos/26224/pense'
-  - poster: 491441154_18007895012733676_3013743408578671517_n.webp
-    city: São Paulo
-    date: '03/05/2025 20:00'
-    daysGroup: 01/02/03/04
   - poster: 491442686_18275832523249197_5903979698290480944_n.webp
     city: Santo André
     date: '17/05/2025 19:00'
@@ -148,11 +144,6 @@ gigs:
     daysGroup: 01/02/03/04
     ticketsUrl: >-
       https://www.sympla.com.br/evento/facada-social-chaos-agravo-ao-vivo-no-74club/2920037
-  - poster: e3e17c00-a12f-4539-ba13-2e7d06b14322.jpeg
-    city: Americana
-    date: '03/05/2025 20:00'
-    daysGroup: 01/02/03/04
-    ticketsUrl: 'https://ticket.com.vc/evento/fim-do-mundo-em-americanasp'
   - poster: 491444210_707923505241670_5504639341342013621_n.jpeg
     city: São Paulo
     date: '16/05/2025 18:00'

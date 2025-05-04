@@ -5396,5 +5396,14 @@ gigs:
     city: São Paulo
     date: '01/05/2025 17:00'
     daysGroup: 01/02/03/04
+  - poster: 491441154_18007895012733676_3013743408578671517_n.webp
+    city: São Paulo
+    date: '03/05/2025 20:00'
+    daysGroup: 01/02/03/04
+  - poster: e3e17c00-a12f-4539-ba13-2e7d06b14322.jpeg
+    city: Americana
+    date: '03/05/2025 20:00'
+    daysGroup: 01/02/03/04
+    ticketsUrl: 'https://ticket.com.vc/evento/fim-do-mundo-em-americanasp'
 ---
 
