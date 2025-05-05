@@ -5405,5 +5405,22 @@ gigs:
     date: '03/05/2025 20:00'
     daysGroup: 01/02/03/04
     ticketsUrl: 'https://ticket.com.vc/evento/fim-do-mundo-em-americanasp'
+  - poster: ce3680da-4278-46da-a4c0-8a3017bbf77e.jpeg
+    city: São José dos Campos
+    date: '04/05/2025 18:00'
+    daysGroup: 01/02/03/04
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/soco-na-fuca-fest-com-sangue-de-bode-tragico-sussurro/2881024
+  - poster: c360f600-7248-4a48-b586-c4cb76b00597.jpeg
+    city: Santo André
+    date: '04/05/2025 15:00'
+    daysGroup: 01/02/03/04
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/facada-social-chaos-agravo-ao-vivo-no-74club/2920037
+  - poster: b038a073-ce0a-42cb-8280-2bf07b4483e7.jpeg
+    city: São Paulo
+    date: '04/05/2025 17:00'
+    daysGroup: 01/02/03/04
+    ticketsUrl: 'https://www.sympla.com.br/evento/death-grind-assault/2835728'
 ---
 

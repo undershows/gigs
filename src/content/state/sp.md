@@ -25,12 +25,6 @@ gigs:
     city: São Paulo
     date: '17/05/2025 19:00'
     daysGroup: 16/17/18
-  - poster: ce3680da-4278-46da-a4c0-8a3017bbf77e.jpeg
-    city: São José dos Campos
-    date: '04/05/2025 18:00'
-    daysGroup: 01/02/03/04
-    ticketsUrl: >-
-      https://www.sympla.com.br/evento/soco-na-fuca-fest-com-sangue-de-bode-tragico-sussurro/2881024
   - poster: detestation-rot-vertical.jpg
     city: Santo André
     date: '09/05/2025 19:00'
@@ -138,12 +132,6 @@ gigs:
     daysGroup: 09/10/11
     ticketsUrl: >-
       https://www.sympla.com.br/evento/todo-mundo-e-legal-fest-paura-projeto-mayhem-militia-cranula/2868499
-  - poster: c360f600-7248-4a48-b586-c4cb76b00597.jpeg
-    city: Santo André
-    date: '04/05/2025 15:00'
-    daysGroup: 01/02/03/04
-    ticketsUrl: >-
-      https://www.sympla.com.br/evento/facada-social-chaos-agravo-ao-vivo-no-74club/2920037
   - poster: 491444210_707923505241670_5504639341342013621_n.jpeg
     city: São Paulo
     date: '16/05/2025 18:00'
@@ -167,11 +155,6 @@ gigs:
     date: '18/07/2025 17:00'
     daysGroup: 18/19/20
     ticketsUrl: 'https://www.bilheto.com.br/comprar/3417/bloodhunter-primeira-vez-em-sp'
-  - poster: b038a073-ce0a-42cb-8280-2bf07b4483e7.jpeg
-    city: São Paulo
-    date: '04/05/2025 17:00'
-    daysGroup: 01/02/03/04
-    ticketsUrl: 'https://www.sympla.com.br/evento/death-grind-assault/2835728'
   - poster: 494458145_18321261703205086_4901909905628416151_n.jpeg
     city: São Paulo
     date: '17/05/2025 16:00'
