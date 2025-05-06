@@ -172,5 +172,14 @@ gigs:
     city: Santa Gertrudes
     date: '07/06/2025 13:00'
     daysGroup: 06/07/08
+  - poster: 494751807_1740037576856316_2521110151589752695_n.jpg
+    city: São Paulo
+    date: '10/05/2025 18:00'
+    daysGroup: 09/10/11
+  - poster: 494644419_9669721259788030_1840764838312918801_n.jpg
+    city: São Paulo
+    date: '13/06/2025 20:00'
+    daysGroup: 13/14/15
+    ticketsUrl: 'https://www.sympla.com.br/evento/obscene-extreme-festival-brasil/2867005'
 ---
 
