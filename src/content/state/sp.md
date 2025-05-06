@@ -163,5 +163,14 @@ gigs:
     city: São Paulo
     date: '07/06/2025 12:00'
     daysGroup: 06/07/08
+  - poster: ac4e3e93-c28c-4f67-9587-aae8c04efdc8.jpeg
+    city: São Paulo
+    date: '10/05/2025 19:00'
+    daysGroup: 09/10/11
+    ticketsUrl: 'https://www.sympla.com.br/evento/mondo-massari-show-bike-e-giant-jellyfish/2912177'
+  - poster: 496388176_18513118267008709_8715416391378101825_n.jpg
+    city: Santa Gertrudes
+    date: '07/06/2025 13:00'
+    daysGroup: 06/07/08
 ---
 
