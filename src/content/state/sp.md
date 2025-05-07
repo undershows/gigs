@@ -44,11 +44,6 @@ gigs:
     city: Bebedouro
     date: '07/06/2025 15:00'
     daysGroup: 06/07/08
-  - poster: chisel_la_iglesia_0605.jpg
-    city: São Paulo
-    date: '06/05/2025 19:30'
-    daysGroup: 06/07/08
-    ticketsUrl: 'https://ticket.com.vc/evento/the-chisel-uk-em-sao-paulo-data-extra'
   - poster: 489656380_24231575153099844_942567001666103295_n.jpg
     city: Sorocaba
     date: '21/06/2025 22:00'
@@ -167,7 +162,8 @@ gigs:
     city: São Paulo
     date: '10/05/2025 19:00'
     daysGroup: 09/10/11
-    ticketsUrl: 'https://www.sympla.com.br/evento/mondo-massari-show-bike-e-giant-jellyfish/2912177'
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/mondo-massari-show-bike-e-giant-jellyfish/2912177
   - poster: 496388176_18513118267008709_8715416391378101825_n.jpg
     city: Santa Gertrudes
     date: '07/06/2025 13:00'

@@ -5422,5 +5422,10 @@ gigs:
     date: '04/05/2025 17:00'
     daysGroup: 01/02/03/04
     ticketsUrl: 'https://www.sympla.com.br/evento/death-grind-assault/2835728'
+  - poster: chisel_la_iglesia_0605.jpg
+    city: São Paulo
+    date: '06/05/2025 19:30'
+    daysGroup: 06/07/08
+    ticketsUrl: 'https://ticket.com.vc/evento/the-chisel-uk-em-sao-paulo-data-extra'
 ---
 
