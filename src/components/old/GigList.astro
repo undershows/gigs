@@ -23,6 +23,8 @@ type Gig = {
   city: string;
   daysGroup?: string;
   ticketsUrl?: string;
+  title?: string;
+  where?: string;
 };
 
 type ParsedGig = Gig & {
@@ -65,10 +67,24 @@ const getImageAlt = (gig: ParsedGig) =>
     locale: ptBR,
   })}`;
 
+  function parseInBrazil(dateStr: string): Date {
+  const [day, month, yearAndTime] = dateStr.split('/');
+  const [year, time] = yearAndTime.split(' ');
+  const [hours, minutes] = time.split(':');
+
+  return new Date(
+    Number(year),
+    Number(month) - 1,
+    Number(day),
+    Number(hours),
+    Number(minutes)
+  );
+}
+
 const gigsByMonth = R.pipe(
   R.defaultTo([]),
   R.map((gig: Gig) => {
-    const date = parse(gig.date, "dd/MM/yyyy HH:mm", Date.now());
+    const date = parseInBrazil(gig.date);
     return {
       ...gig,
       date,
@@ -103,29 +119,49 @@ const gigsByMonth = R.pipe(
         <p class="gig-day">
           <b>{daysGroup}</b>
         </p>
-        {gigs.map((gig: ParsedGig) => (
-          <>
-            <p class="gig-city">
-              <b>{gig.city}/{state.data.abbr} ↓↓↓</b>
-            </p>
-            <div class="gig-container">
-              <Image
-                src={`/images/posters/${gig.poster}`}
-                alt={getImageAlt(gig)}
-                width={600}
-                height={800}
-                format="webp"
-                class="gig-poster"
-              />
-              {gig.ticketsUrl && (
-                <a href={gig.ticketsUrl} class="tickets-btn" target="_blank">
-                  <img src="/images/icons/ticket.svg" class="tickets-btn__icon" alt="Ícone de ingresso" />
-                  <span class="tickets-btn__text">Comprar ingressos</span>
+        {gigs.map((gig: ParsedGig) => {
+          const fullTitle = gig.title ?? "Show";
+          const lines = [];
+          if (gig.ticketsUrl) {
+            lines.push(`Ingressos: ${gig.ticketsUrl}`);
+          }
+          lines.push('Divulgação: Undershows');
+          const details = encodeURIComponent(lines.join('\n'));
+          const location = gig.where ?? `${gig.city}/${state.data.abbr}`;
+          const startDate = new Date(gig.date.getTime() + 3 * 60 * 60 * 1000);
+          const endDate = new Date(startDate.getTime() + 1 * 60 * 1000);
+          const start = format(startDate, "yyyyMMdd'T'HHmmss'Z'");
+          const end = format(endDate, "yyyyMMdd'T'HHmmss'Z'");
+
+          const calendarUrl = `https://www.google.com/calendar/render?action=TEMPLATE&text=${encodeURIComponent(fullTitle)}&dates=${start}/${end}&details=${details}&location=${encodeURIComponent(location)}`;
+
+          return (
+            <>
+              <p class="gig-city">
+                <b>{gig.city}/{state.data.abbr} ↓↓↓</b>
+              </p>
+              <div class="gig-container">
+                <Image
+                  src={`/images/posters/${gig.poster}`}
+                  alt={getImageAlt(gig)}
+                  width={600}
+                  height={800}
+                  format="webp"
+                  class="gig-poster"
+                />
+                {gig.ticketsUrl && (
+                  <a href={gig.ticketsUrl} class="tickets-btn" target="_blank">
+                    <img src="/images/icons/ticket.svg" class="tickets-btn__icon" alt="Ícone de ingresso" />
+                    <span class="tickets-btn__text">Comprar ingressos</span>
+                  </a>
+                )}
+                <a href={calendarUrl} target="_blank" class="calendar-btn" rel="noopener noreferrer">
+                  📅 Adicionar no calendário
                 </a>
-              )}
-            </div>
-          </>
-        ))}
+              </div>
+            </>
+          );
+        })}
       </>
     ))}
   </>

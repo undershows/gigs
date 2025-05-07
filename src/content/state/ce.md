@@ -8,5 +8,7 @@ gigs:
     daysGroup: 03/04/05
     ticketsUrl: >-
       https://www.sympla.com.br/evento/colera-em-fortaleza-ce-nordeste-tour-2025-ophera-music-bar/2839985
+    title: Cólera + Diagnose + Pex + Abismo + Lixorganico
+    where: Ophera Music Bar
 ---
 

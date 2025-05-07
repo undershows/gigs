@@ -15,11 +15,13 @@ const stateCollection = defineCollection({
         /^(0[1-9]|[1-2][0-9]|3[0-1])(\/(0[1-9]|[1-2][0-9]|3[0-1]))*$/,
         { message: 'Invalid days group. Example: 09/10/11' }
       ).optional(),
-      ticketsUrl: z.string().url().optional()
+      ticketsUrl: z.string().url().optional(),
+      title: z.string().optional(),
+      where: z.string().optional()
     })).optional()
   })
 });
 
 export const collections = {
-  'state': stateCollection
+  state: stateCollection
 };

@@ -240,6 +240,20 @@ a.class2:active {
   margin-bottom: 0; /* cola no cartaz */
 }
 
+.calendar-btn {
+  display: inline-block;
+  margin-top: 0.5rem;
+  padding: 0.4rem 0.8rem;
+  background-color: #f05291;
+  color: #fff;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: bold;
+}
+.calendar-btn:hover {
+  background-color: #d23e79;
+}
+
 /* Responsividade (até 600px) */
 @media (max-width: 600px) {
   html, body {

@@ -6,176 +6,299 @@ gigs:
     city: São Paulo
     date: '18/10/2025 18:00'
     daysGroup: 17/18/19
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/visions-of-rock-sp'
+    title: Vision Of Rock com Metalucifer (JAP), Sabathan (SWE) + Cruel Force (GER) + Atomic Aggressor (CHI) ...
+    where: Vip Station
   - poster: 472219626_482207091562821_1434749775651793338_n.jpeg
     city: Santo André
     date: '05/07/2025 12:00'
     daysGroup: 04/05/06
     ticketsUrl: 'https://uticket.com.br/event/01KHKCXDXT25S9'
+    title: Urban Festival com Black Pantera + Pavilhão 9 + Rancore + Garage Fuzz ...
+    where: Espaço Força Viva
   - poster: 468309079_918415553721599_1467964846111727463_n.jpeg
     city: São Paulo
     date: '11/05/2025 14:00'
-    daysGroup: 09/10/11
+    daysGroup: 08/09/10/11
     ticketsUrl: 'https://www.clubedoingresso.com/evento/upfrontalfestival-theexploited'
+    title: Upfront Festival com The Exploited (UK) + Ratos de Porão + The Chisel (UK) + Fang (USA) ...
+    where: Carioca Club
   - poster: 479186586_2178486005960718_6555825619908922642_n.jpg
     city: Cubatão
     date: '10/05/2025 18:30'
-    daysGroup: 09/10/11
+    daysGroup: 08/09/10/11
     ticketsUrl: 'https://www.sympla.com.br/evento/okavango-metal-fest-2025/2819286'
+    title: Okavango Metal Fest com Torture Squad + Andralls + Siegrid Ingrid
+    where: EC Jardim Casqueiro
   - poster: 4c1e63de-a1fe-467a-915e-1683cffe450f.jpeg
     city: São Paulo
     date: '17/05/2025 19:00'
     daysGroup: 16/17/18
+    title: Riot Wolves + Intervenção + DJ Fish Nothing
+    where: Fenda 315
   - poster: detestation-rot-vertical.jpg
     city: Santo André
     date: '09/05/2025 19:00'
-    daysGroup: 09/10/11
+    daysGroup: 08/09/10/11
     ticketsUrl: 'https://ticket.com.vc/evento/detestation-eua-rot-cerne-74-club'
+    title: Detestation (USA) + ROT + CERNE
+    where: 74 Club
   - poster: 481768831_970036715107967_297699855381139585_n.jpg
     city: Campinas
     date: '18/05/2025 17:00'
     daysGroup: 16/17/18
     ticketsUrl: >-
       https://www.sympla.com.br/evento/detestation-eua-ao-vivo-no-woodstock-music-bar-der-lamento-odiar-detesto/2861220
+    title: Karasu Killer Inferno V com Detestation (USA) + Lamento + D.E.R + Odiär + Detësto
+    where: Woodstock Music Bar
   - poster: 487814030_10227929259273202_1172131541644980230_n.jpg
     city: Presidente Prudente
     date: '24/05/2025 20:00'
     daysGroup: 23/24/25
+    title: Kill'em the Sound III com Röt Stewart (BEL) + Subcut + Tarantino + Dissonância
+    where: Valete Bar
   - poster: IMG-20250405-WA0000.jpg
     city: Bebedouro
     date: '07/06/2025 15:00'
     daysGroup: 06/07/08
+    title: Fest. Punk 11 com Ação Direta + Pesadelo Brasileiro + Radiação + Parasitose ...
+    where: CEMEI Bernardina Ferreira de Andrade
   - poster: 489656380_24231575153099844_942567001666103295_n.jpg
     city: Sorocaba
     date: '21/06/2025 22:00'
     daysGroup: 20/21/22
     ticketsUrl: >-
       https://www.sympla.com.br/evento/baltazar-em-panico-comemora-35-anos-de-rot-em-sorocaba/2905665
+    title: Baltazar em Pânico com Rot + D.E.R + Vertices + BxCxTx + Estralo Sistem
+    where: Bar Augusta
   - poster: setembro_negro_2025.jpg
     city: São Paulo
     date: '07/09/2025 13:00'
     daysGroup: 05/06/07
     ticketsUrl: 'https://www.clubedoingresso.com/evento/setembro-negro'
+    title: Setembro Negro Festival Ed. XVI com Watain (SWE) + Candlemass (SWE) + Nervochaos ...
+    where: Vip Station
   - poster: Rethink_EmChamas_ineamusdh.jpeg
     city: São Paulo
     date: '18/05/2025 16:00'
     daysGroup: 16/17/18
+    title: Rethink + Vendetta + Em Chamas + Sem Remorso + Estorvo
+    where: Rock Together
   - poster: 30-05_Marilia_resized.jpg
     city: Marília
     date: '30/05/2025 20:00'
     daysGroup: 29/30/31
     ticketsUrl: >-
       https://www.sympla.com.br/evento/skeletal-remains-nervochaos-rotborn/2903199
+    title: Skeletal Remains (USA) + Nervochaos + Rotborn
+    where: Cão Pererê
   - poster: 31-05_Limeira_resized.jpg
     city: Limeira
     date: '31/05/2025 18:00'
     daysGroup: 29/30/31
     ticketsUrl: >-
       https://www.sympla.com.br/evento/skeletal-remains-nervochaos-desdominus-faces-of-death/2903298
+    title: Skeletal Remains (USA) + Nervochaos + Desdominus + Faces of Death
+    where: Mirage Eventos
   - poster: 01-06_Aruja_resized.jpg
     city: Arujá
     date: '01/06/2025 18:00'
     daysGroup: 01/02
     ticketsUrl: >-
-      https://www.sympla.com.br/evento/skeletal-remains-nervochaos-desdominus-faces-of-death/2903298
+      https://www.sympla.com.br/evento/skeletal-remains-nervochaos-pentacrostic-mortal-profecia/2903243
+    title: Skeletal Remains (USA) + Nervochaos + Pentacrostic + Mortal Profecia
+    where: Espaço Nordestino Arujá
   - poster: 491424573_18273007741259589_5181393794971891671_n.jpg
     city: São Paulo
     date: '14/06/2025 15:00'
     daysGroup: 13/14/15
+    title: Cólera + DZK + Os Insociáveis + Idade da Pedra
+    where: Gaz Burning Bar
   - poster: 487795669_10232103620830755_3305196310159686684_n.jpg
     city: São Paulo
     date: '10/05/2025 18:00'
-    daysGroup: 09/10/11
+    daysGroup: 08/09/10/11
+    title: Sub Pop Fest com 1983 + Autoexílio + Lágrima Negra + Junior Core + Marvin Arkhan
+    where: Depois do Fim do Mundo Studio
   - poster: 490504900_1421003882367024_4487061157361869129_n.jpg
     city: São Paulo
     date: '17/05/2025 14:00'
     daysGroup: 16/17/18
+    title: Detestation (USA) + Armagedom + Social Chaos + Vermenoise + Puukkojunkkari + Sista Noise System
+    where: Centro Cultural Tendal da Lapa
   - poster: 489383366_517923151385581_3323688046598928303_n.jpg
     city: São Paulo
     date: '31/05/2025 18:00'
     daysGroup: 29/30/31
     ticketsUrl: 'https://pixelticket.com.br/eventos/26224/pense'
+    title: Pense + Chuva Negra + Colina
+    where: Hangar 110
   - poster: 491442686_18275832523249197_5903979698290480944_n.webp
     city: Santo André
     date: '17/05/2025 19:00'
     daysGroup: 16/17/18
+    title: Bruxa Fest 7 Anos com Presidente Judas + WeeDevil + Finis Hominis
+    where: 74 Club
   - poster: 491423246_18313271008227380_8036787265082617485_n.jpg
     city: São Paulo
     date: '17/05/2025 19:00'
     daysGroup: 16/17/18
     ticketsUrl: >-
       https://101tickets.com.br/events/details/Inferno-Nuclear-Deathgeist-Critical-fear-em-sp
+    title: Inferno Nuclear + Deathgeist + Critical Fear
+    where: La Iglesia
   - poster: 491441402_17984570039810563_5712300338352391181_n.webp
     city: São Paulo
     date: '24/05/2025 18:00'
     daysGroup: 23/24/25
+    title: Militia + Sem Cultura + Stab
+    where: Estúdio Páprica
   - poster: 491464874_18498930343044152_1848173602241771462_n.webp
     city: São José dos Campos
     date: '26/07/2025 22:00'
     daysGroup: 25/26/27
     ticketsUrl: 'https://www.sympla.com.br/evento/despedida-valepunk-garage-fuzz/2892140'
+    title: Garage Fuzz + Apto Vulgar + Caosmaria + Samwise
+    where: Hocus Pocus Studio & Café
   - poster: 491445210_17919747141081610_2870982329775366866_n.webp
     city: São Paulo
     date: '24/05/2025 18:00'
     daysGroup: 23/24/25
+    ticketsUrl: 'https://www.sympla.com.br/evento/mantra-apresenta-pepler-homeminvisivel-zero-to-hero-dj-s/2924823'
+    title: Zero to Hero + homeninvisivel + Pepler
+    where: Fenda 315
   - poster: 29-05_PP_resized.jpg
     city: Presidente Prudente
     date: '29/05/2025 19:30'
     daysGroup: 29/30/31
+    title: Skeletal Remains (USA) + Subcut + Nervochaos
+    where: Riga Rock Bar
   - poster: todo_mundo_eh_legal_paura_25.jpeg
     city: São Paulo
     date: '10/05/2025 18:00'
-    daysGroup: 09/10/11
+    daysGroup: 08/09/10/11
     ticketsUrl: >-
       https://www.sympla.com.br/evento/todo-mundo-e-legal-fest-paura-projeto-mayhem-militia-cranula/2868499
+    title: Todo Mundo É Legal Fest com Paura + Projeto Mayhem + Crânula + Militia
+    where: Red Star Studios
   - poster: 491444210_707923505241670_5504639341342013621_n.jpeg
     city: São Paulo
     date: '16/05/2025 18:00'
     daysGroup: 16/17/18
+    ticketsUrl: 'https://www.sympla.com.br/evento/life-aquatic-o-tronxo/2926584'
+    title: O Tronxo + Life Aquatic
+    where: Fenda 315
   - poster: 490884802_17857063767410184_7807938410757380721_n.jpg
     city: São Paulo
     date: '06/06/2025 19:00'
     daysGroup: 06/07/08
+    ticketsUrl: 'https://ticket.com.vc/evento/papangu-em-sao-paulo'
+    title: Papangu
+    where: Burning House
   - poster: 491505101_17846351280459956_683679994851281877_n.webp
     city: Pindamonhangaba
     date: '15/06/2025 17:00'
     daysGroup: 13/14/15
     ticketsUrl: >-
       https://www.sympla.com.br/evento/metal-no-vale-fest-edicao-pindamonhangaba-sp/2925864
+    title: Metal no Vale Fest Ed. Pinda com Siegrid Ingrid + Head Krusher + Rottenblot ...
+    where: Bom Bar Pinda
   - poster: 491498617_18326525227166853_6380123737762005870_n.webp
     city: São Paulo
     date: '24/05/2025 22:00'
     daysGroup: 23/24/25
+    title: True Dark com Junior Core + Noah Noir + Marcos Santos + Sabrina Sam ...
+    where: Pantera
   - poster: 491462354_18046113164594646_8970016837709594173_n.webp
     city: São Paulo
     date: '18/07/2025 17:00'
     daysGroup: 18/19/20
     ticketsUrl: 'https://www.bilheto.com.br/comprar/3417/bloodhunter-primeira-vez-em-sp'
+    title: Bloodhunter (SPA) + Ereboros + Throw Me To The Wolves
+    where: Jai Club
   - poster: 494458145_18321261703205086_4901909905628416151_n.jpeg
     city: São Paulo
     date: '17/05/2025 16:00'
     daysGroup: 16/17/18
+    title: Lung Freak Party com Eletronic Dark + Barone Chess ...
+    where: Espaço Cultural Dona Xica
   - poster: 491441119_17877704193300673_8944428421484235099_n.jpeg
     city: São Paulo
     date: '07/06/2025 12:00'
     daysGroup: 06/07/08
+    title: Insubmissas Fest com Porno Massacre + Death Lotus + Destino Cruel + Disforia Queercore ...
+    where: Central Panelaço
   - poster: ac4e3e93-c28c-4f67-9587-aae8c04efdc8.jpeg
     city: São Paulo
     date: '10/05/2025 19:00'
-    daysGroup: 09/10/11
+    daysGroup: 08/09/10/11
     ticketsUrl: >-
       https://www.sympla.com.br/evento/mondo-massari-show-bike-e-giant-jellyfish/2912177
+    title: Mondo Massari com Bike + Giant Jellyfish
+    where: Fenda 315
   - poster: 496388176_18513118267008709_8715416391378101825_n.jpg
     city: Santa Gertrudes
     date: '07/06/2025 13:00'
     daysGroup: 06/07/08
+    title: Elas no Rock com Manger Cadavre? + Punho de Mahin + Cras + Deep Divers ...
+    where: Parque Municipal Ruy Raphael da Rocha
   - poster: 494751807_1740037576856316_2521110151589752695_n.jpg
     city: São Paulo
     date: '10/05/2025 18:00'
-    daysGroup: 09/10/11
+    daysGroup: 08/09/10/11
+    title: Cannabinoise com D.E.R. + MUFA + Rotten Entrails + Distravaätravä
+    where: Cafundó
   - poster: 494644419_9669721259788030_1840764838312918801_n.jpg
     city: São Paulo
     date: '13/06/2025 20:00'
     daysGroup: 13/14/15
     ticketsUrl: 'https://www.sympla.com.br/evento/obscene-extreme-festival-brasil/2867005'
+    title: Obscene Extreme SP com Agrotóxico + ROT + Podridão + Odio Social + Trachoma
+    where: Red Star Studios
+  - poster: 495622582_9568940463159431_2729989003576203891_n.jpg
+    city: São Paulo
+    date: '17/05/2025 19:00'
+    daysGroup: 16/17/18
+    title: The Gimme Gimme Gimmes (SCO) + Casa Civil + Rosa Tigre + Bong Brigade
+    where: Hangar 110
+  - poster: 18623502-21dd-47aa-b00b-77862faf89ca.jpeg
+    city: São Paulo
+    date: '09/05/2025 18:00'
+    daysGroup: 08/09/10/11
+    ticketsUrl: 'https://shotgun.live/pt-br/events/dente-canino-dirt-rats'
+    title: Dente Canino + Thee Dirty Rats
+    where: Porta Bar
+  - poster: punho_mahin_sesc_8525.jpg
+    city: São Paulo
+    date: '08/05/2025 21:00'
+    daysGroup: 08/09/10/11
+    ticketsUrl: 'https://www.sescsp.org.br/programacao/punho-de-mahin-sp/'
+    title: Punho de Mahin
+    where: Sesc Pompéia
+  - poster: rockaus_10525.jpg
+    city: São Paulo
+    date: '10/05/2025 17:00'
+    daysGroup: 08/09/10/11
+    title: Pat e os Condenados + Lepra + Manolos + Isolameneto Social ...
+    where: Rockaus Rock Bar
+  - poster: garotos_colera_10525.jpeg
+    city: São Paulo
+    date: '10/05/2025 17:00'
+    daysGroup: 08/09/10/11
+    title: Garotos Podres + Cólera
+    where: Casa de Cultura Tremenbé
+  - poster: desalmado_vazio10525.jpg
+    city: São Paulo
+    date: '10/05/2025 19:00'
+    daysGroup: 08/09/10/11
+    ticketsUrl: 'https://www.sympla.com.br/evento/burning-house-desalmado-vazio-hardgainer-e-cras/2880427'
+    title: Desalmado + Vazio + Hardgainer + Cras
+    where: Burning House
+  - poster: amesia_fogo_11525.jpg
+    city: São Paulo
+    date: '11/05/2025 17:00'
+    daysGroup: 08/09/10/11
+    title: Amnésia Coletiva + Fogo Cruzado + Refugiadas + Sociopatas + Pé Sujus
+    where: Red Star Studios
 ---
 
