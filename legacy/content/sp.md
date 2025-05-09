@@ -5427,5 +5427,12 @@ gigs:
     date: '06/05/2025 19:30'
     daysGroup: 06/07/08
     ticketsUrl: 'https://ticket.com.vc/evento/the-chisel-uk-em-sao-paulo-data-extra'
+  - poster: punho_mahin_sesc_8525.jpg
+    city: São Paulo
+    date: '08/05/2025 21:00'
+    daysGroup: 08/09/10/11
+    ticketsUrl: 'https://www.sescsp.org.br/programacao/punho-de-mahin-sp/'
+    title: Punho de Mahin
+    where: Sesc Pompéia
 ---
 

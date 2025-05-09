@@ -7,7 +7,9 @@ gigs:
     date: '18/10/2025 18:00'
     daysGroup: 17/18/19
     ticketsUrl: 'https://www.clubedoingresso.com/evento/visions-of-rock-sp'
-    title: Vision Of Rock com Metalucifer (JAP), Sabathan (SWE) + Cruel Force (GER) + Atomic Aggressor (CHI) ...
+    title: >-
+      Vision Of Rock com Metalucifer (JAP), Sabathan (SWE) + Cruel Force (GER) +
+      Atomic Aggressor (CHI) ...
     where: Vip Station
   - poster: 472219626_482207091562821_1434749775651793338_n.jpeg
     city: Santo André
@@ -21,7 +23,9 @@ gigs:
     date: '11/05/2025 14:00'
     daysGroup: 08/09/10/11
     ticketsUrl: 'https://www.clubedoingresso.com/evento/upfrontalfestival-theexploited'
-    title: Upfront Festival com The Exploited (UK) + Ratos de Porão + The Chisel (UK) + Fang (USA) ...
+    title: >-
+      Upfront Festival com The Exploited (UK) + Ratos de Porão + The Chisel (UK)
+      + Fang (USA) ...
     where: Carioca Club
   - poster: 479186586_2178486005960718_6555825619908922642_n.jpg
     city: Cubatão
@@ -49,19 +53,25 @@ gigs:
     daysGroup: 16/17/18
     ticketsUrl: >-
       https://www.sympla.com.br/evento/detestation-eua-ao-vivo-no-woodstock-music-bar-der-lamento-odiar-detesto/2861220
-    title: Karasu Killer Inferno V com Detestation (USA) + Lamento + D.E.R + Odiär + Detësto
+    title: >-
+      Karasu Killer Inferno V com Detestation (USA) + Lamento + D.E.R + Odiär +
+      Detësto
     where: Woodstock Music Bar
   - poster: 487814030_10227929259273202_1172131541644980230_n.jpg
     city: Presidente Prudente
     date: '24/05/2025 20:00'
     daysGroup: 23/24/25
-    title: Kill'em the Sound III com Röt Stewart (BEL) + Subcut + Tarantino + Dissonância
+    title: >-
+      Kill'em the Sound III com Röt Stewart (BEL) + Subcut + Tarantino +
+      Dissonância
     where: Valete Bar
   - poster: IMG-20250405-WA0000.jpg
     city: Bebedouro
     date: '07/06/2025 15:00'
     daysGroup: 06/07/08
-    title: Fest. Punk 11 com Ação Direta + Pesadelo Brasileiro + Radiação + Parasitose ...
+    title: >-
+      Fest. Punk 11 com Ação Direta + Pesadelo Brasileiro + Radiação +
+      Parasitose ...
     where: CEMEI Bernardina Ferreira de Andrade
   - poster: 489656380_24231575153099844_942567001666103295_n.jpg
     city: Sorocaba
@@ -76,7 +86,9 @@ gigs:
     date: '07/09/2025 13:00'
     daysGroup: 05/06/07
     ticketsUrl: 'https://www.clubedoingresso.com/evento/setembro-negro'
-    title: Setembro Negro Festival Ed. XVI com Watain (SWE) + Candlemass (SWE) + Nervochaos ...
+    title: >-
+      Setembro Negro Festival Ed. XVI com Watain (SWE) + Candlemass (SWE) +
+      Nervochaos ...
     where: Vip Station
   - poster: Rethink_EmChamas_ineamusdh.jpeg
     city: São Paulo
@@ -118,13 +130,17 @@ gigs:
     city: São Paulo
     date: '10/05/2025 18:00'
     daysGroup: 08/09/10/11
-    title: Sub Pop Fest com 1983 + Autoexílio + Lágrima Negra + Junior Core + Marvin Arkhan
+    title: >-
+      Sub Pop Fest com 1983 + Autoexílio + Lágrima Negra + Junior Core + Marvin
+      Arkhan
     where: Depois do Fim do Mundo Studio
   - poster: 490504900_1421003882367024_4487061157361869129_n.jpg
     city: São Paulo
     date: '17/05/2025 14:00'
     daysGroup: 16/17/18
-    title: Detestation (USA) + Armagedom + Social Chaos + Vermenoise + Puukkojunkkari + Sista Noise System
+    title: >-
+      Detestation (USA) + Armagedom + Social Chaos + Vermenoise + Puukkojunkkari
+      + Sista Noise System
     where: Centro Cultural Tendal da Lapa
   - poster: 489383366_517923151385581_3323688046598928303_n.jpg
     city: São Paulo
@@ -164,7 +180,8 @@ gigs:
     city: São Paulo
     date: '24/05/2025 18:00'
     daysGroup: 23/24/25
-    ticketsUrl: 'https://www.sympla.com.br/evento/mantra-apresenta-pepler-homeminvisivel-zero-to-hero-dj-s/2924823'
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/mantra-apresenta-pepler-homeminvisivel-zero-to-hero-dj-s/2924823
     title: Zero to Hero + homeninvisivel + Pepler
     where: Fenda 315
   - poster: 29-05_PP_resized.jpg
@@ -201,7 +218,9 @@ gigs:
     daysGroup: 13/14/15
     ticketsUrl: >-
       https://www.sympla.com.br/evento/metal-no-vale-fest-edicao-pindamonhangaba-sp/2925864
-    title: Metal no Vale Fest Ed. Pinda com Siegrid Ingrid + Head Krusher + Rottenblot ...
+    title: >-
+      Metal no Vale Fest Ed. Pinda com Siegrid Ingrid + Head Krusher +
+      Rottenblot ...
     where: Bom Bar Pinda
   - poster: 491498617_18326525227166853_6380123737762005870_n.webp
     city: São Paulo
@@ -226,7 +245,9 @@ gigs:
     city: São Paulo
     date: '07/06/2025 12:00'
     daysGroup: 06/07/08
-    title: Insubmissas Fest com Porno Massacre + Death Lotus + Destino Cruel + Disforia Queercore ...
+    title: >-
+      Insubmissas Fest com Porno Massacre + Death Lotus + Destino Cruel +
+      Disforia Queercore ...
     where: Central Panelaço
   - poster: ac4e3e93-c28c-4f67-9587-aae8c04efdc8.jpeg
     city: São Paulo
@@ -253,7 +274,9 @@ gigs:
     date: '13/06/2025 20:00'
     daysGroup: 13/14/15
     ticketsUrl: 'https://www.sympla.com.br/evento/obscene-extreme-festival-brasil/2867005'
-    title: Obscene Extreme SP com Agrotóxico + ROT + Podridão + Odio Social + Trachoma
+    title: >-
+      Obscene Extreme SP com Agrotóxico + ROT + Podridão + Odio Social +
+      Trachoma
     where: Red Star Studios
   - poster: 495622582_9568940463159431_2729989003576203891_n.jpg
     city: São Paulo
@@ -268,13 +291,6 @@ gigs:
     ticketsUrl: 'https://shotgun.live/pt-br/events/dente-canino-dirt-rats'
     title: Dente Canino + Thee Dirty Rats
     where: Porta Bar
-  - poster: punho_mahin_sesc_8525.jpg
-    city: São Paulo
-    date: '08/05/2025 21:00'
-    daysGroup: 08/09/10/11
-    ticketsUrl: 'https://www.sescsp.org.br/programacao/punho-de-mahin-sp/'
-    title: Punho de Mahin
-    where: Sesc Pompéia
   - poster: rockaus_10525.jpg
     city: São Paulo
     date: '10/05/2025 17:00'
@@ -291,7 +307,8 @@ gigs:
     city: São Paulo
     date: '10/05/2025 19:00'
     daysGroup: 08/09/10/11
-    ticketsUrl: 'https://www.sympla.com.br/evento/burning-house-desalmado-vazio-hardgainer-e-cras/2880427'
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/burning-house-desalmado-vazio-hardgainer-e-cras/2880427
     title: Desalmado + Vazio + Hardgainer + Cras
     where: Burning House
   - poster: amesia_fogo_11525.jpg
