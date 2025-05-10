@@ -40,13 +40,6 @@ gigs:
     daysGroup: 16/17/18
     title: Riot Wolves + Intervenção + DJ Fish Nothing
     where: Fenda 315
-  - poster: detestation-rot-vertical.jpg
-    city: Santo André
-    date: '09/05/2025 19:00'
-    daysGroup: 08/09/10/11
-    ticketsUrl: 'https://ticket.com.vc/evento/detestation-eua-rot-cerne-74-club'
-    title: Detestation (USA) + ROT + CERNE
-    where: 74 Club
   - poster: 481768831_970036715107967_297699855381139585_n.jpg
     city: Campinas
     date: '18/05/2025 17:00'
@@ -284,13 +277,6 @@ gigs:
     daysGroup: 16/17/18
     title: The Gimme Gimme Gimmes (SCO) + Casa Civil + Rosa Tigre + Bong Brigade
     where: Hangar 110
-  - poster: 18623502-21dd-47aa-b00b-77862faf89ca.jpeg
-    city: São Paulo
-    date: '09/05/2025 18:00'
-    daysGroup: 08/09/10/11
-    ticketsUrl: 'https://shotgun.live/pt-br/events/dente-canino-dirt-rats'
-    title: Dente Canino + Thee Dirty Rats
-    where: Porta Bar
   - poster: rockaus_10525.jpg
     city: São Paulo
     date: '10/05/2025 17:00'
