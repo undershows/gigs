@@ -351,5 +351,20 @@ gigs:
       The Exploited (UK) + Ratos de Porão + The Chisel (UK) + Fang (USA) +
       Escalpo
     where: Mister Rock
+  - poster: 490955187_10228704137536840_6188245813071600744_n.jpg
+    city: Belo Horizonte
+    date: '10/05/2025 16:00'
+    daysGroup: 09/10/11
+    ticketsUrl: 'https://101tickets.com.br/events/details/METALPUNK-OVERKILL-DETESTATION'
+    title: >-
+      Metalpunk Overkill com Detestation (USA) + Final Trágico + Alerta Vermelho
+      + ROT ...
+    where: Caverna Rock Pub
+  - poster: 490984239_18353038261196361_4938757312423378112_n.webp
+    city: Montes Claros
+    date: '10/05/2025 20:00'
+    daysGroup: 09/10/11
+    title: Hellway Train + Zeugma + Sick Civilization + Deadly Curse
+    where: De Leon Music Pub
 ---
 

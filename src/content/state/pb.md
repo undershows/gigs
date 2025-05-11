@@ -12,8 +12,10 @@ gigs:
     city: João Pessoa
     date: '17/05/2025 19:00'
     daysGroup: 16/17/18
-    ticketsUrl: https://www.bilheto.com.br/comprar/3311/joao-pessoa-metal-fest
-    title: João Pessoa Metal Fest com Sinal de Ataque + Necropolis + Bloody Dragon ...
+    ticketsUrl: 'https://www.bilheto.com.br/comprar/3311/joao-pessoa-metal-fest'
+    title: >-
+      João Pessoa Metal Fest com Sinal de Ataque + Necropolis + Bloody Dragon
+      ...
     where: Travel Pub
   - poster: paura_jp_25.jpeg
     city: João Pessoa
@@ -23,18 +25,12 @@ gigs:
       https://www.sympla.com.br/evento/paura-sp-e-plugins-pe-na-vila-do-porto/2897315
     title: Paura + Plugins
     where: Vila do Porto
-  - poster: ca1ee3df-e4fd-4a3b-ae27-1cde9e5b440a.jpeg
-    city: João Pessoa
-    date: '10/05/2025 15:00'
-    daysGroup: 09/10/11
-    title: Beco Underground com Incessante + Crânio + Arquivo Morto
-    where: Pátio da Música Urbana
   - poster: 83cc6d7b-9d0d-4f8e-9d91-51524a5cecd5.jpeg
     city: João Pessoa
     date: '30/05/2025 20:00'
     daysGroup: 29/30/31
     ticketsUrl: 'https://shotgun.live/pt-br/events/festival-terrivel'
     title: Festival Terrível com Cemitério + Crânio + Somoda ...
-    where: Vila do Porto  
+    where: Vila do Porto
 ---
 

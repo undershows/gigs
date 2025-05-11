@@ -27,13 +27,6 @@ gigs:
       Upfront Festival com The Exploited (UK) + Ratos de Porão + The Chisel (UK)
       + Fang (USA) ...
     where: Carioca Club
-  - poster: 479186586_2178486005960718_6555825619908922642_n.jpg
-    city: Cubatão
-    date: '10/05/2025 18:30'
-    daysGroup: 08/09/10/11
-    ticketsUrl: 'https://www.sympla.com.br/evento/okavango-metal-fest-2025/2819286'
-    title: Okavango Metal Fest com Torture Squad + Andralls + Siegrid Ingrid
-    where: EC Jardim Casqueiro
   - poster: 4c1e63de-a1fe-467a-915e-1683cffe450f.jpeg
     city: São Paulo
     date: '17/05/2025 19:00'
@@ -119,14 +112,6 @@ gigs:
     daysGroup: 13/14/15
     title: Cólera + DZK + Os Insociáveis + Idade da Pedra
     where: Gaz Burning Bar
-  - poster: 487795669_10232103620830755_3305196310159686684_n.jpg
-    city: São Paulo
-    date: '10/05/2025 18:00'
-    daysGroup: 08/09/10/11
-    title: >-
-      Sub Pop Fest com 1983 + Autoexílio + Lágrima Negra + Junior Core + Marvin
-      Arkhan
-    where: Depois do Fim do Mundo Studio
   - poster: 490504900_1421003882367024_4487061157361869129_n.jpg
     city: São Paulo
     date: '17/05/2025 14:00'
@@ -183,14 +168,6 @@ gigs:
     daysGroup: 29/30/31
     title: Skeletal Remains (USA) + Subcut + Nervochaos
     where: Riga Rock Bar
-  - poster: todo_mundo_eh_legal_paura_25.jpeg
-    city: São Paulo
-    date: '10/05/2025 18:00'
-    daysGroup: 08/09/10/11
-    ticketsUrl: >-
-      https://www.sympla.com.br/evento/todo-mundo-e-legal-fest-paura-projeto-mayhem-militia-cranula/2868499
-    title: Todo Mundo É Legal Fest com Paura + Projeto Mayhem + Crânula + Militia
-    where: Red Star Studios
   - poster: 491444210_707923505241670_5504639341342013621_n.jpeg
     city: São Paulo
     date: '16/05/2025 18:00'
@@ -242,26 +219,12 @@ gigs:
       Insubmissas Fest com Porno Massacre + Death Lotus + Destino Cruel +
       Disforia Queercore ...
     where: Central Panelaço
-  - poster: ac4e3e93-c28c-4f67-9587-aae8c04efdc8.jpeg
-    city: São Paulo
-    date: '10/05/2025 19:00'
-    daysGroup: 08/09/10/11
-    ticketsUrl: >-
-      https://www.sympla.com.br/evento/mondo-massari-show-bike-e-giant-jellyfish/2912177
-    title: Mondo Massari com Bike + Giant Jellyfish
-    where: Fenda 315
   - poster: 496388176_18513118267008709_8715416391378101825_n.jpg
     city: Santa Gertrudes
     date: '07/06/2025 13:00'
     daysGroup: 06/07/08
     title: Elas no Rock com Manger Cadavre? + Punho de Mahin + Cras + Deep Divers ...
     where: Parque Municipal Ruy Raphael da Rocha
-  - poster: 494751807_1740037576856316_2521110151589752695_n.jpg
-    city: São Paulo
-    date: '10/05/2025 18:00'
-    daysGroup: 08/09/10/11
-    title: Cannabinoise com D.E.R. + MUFA + Rotten Entrails + Distravaätravä
-    where: Cafundó
   - poster: 494644419_9669721259788030_1840764838312918801_n.jpg
     city: São Paulo
     date: '13/06/2025 20:00'
@@ -277,26 +240,6 @@ gigs:
     daysGroup: 16/17/18
     title: The Gimme Gimme Gimmes (SCO) + Casa Civil + Rosa Tigre + Bong Brigade
     where: Hangar 110
-  - poster: rockaus_10525.jpg
-    city: São Paulo
-    date: '10/05/2025 17:00'
-    daysGroup: 08/09/10/11
-    title: Pat e os Condenados + Lepra + Manolos + Isolameneto Social ...
-    where: Rockaus Rock Bar
-  - poster: garotos_colera_10525.jpeg
-    city: São Paulo
-    date: '10/05/2025 17:00'
-    daysGroup: 08/09/10/11
-    title: Garotos Podres + Cólera
-    where: Casa de Cultura Tremenbé
-  - poster: desalmado_vazio10525.jpg
-    city: São Paulo
-    date: '10/05/2025 19:00'
-    daysGroup: 08/09/10/11
-    ticketsUrl: >-
-      https://www.sympla.com.br/evento/burning-house-desalmado-vazio-hardgainer-e-cras/2880427
-    title: Desalmado + Vazio + Hardgainer + Cras
-    where: Burning House
   - poster: amesia_fogo_11525.jpg
     city: São Paulo
     date: '11/05/2025 17:00'

@@ -148,5 +148,11 @@ gigs:
     city: João Pessoa
     date: '26/04/2025 18:00'
     daysGroup: 25/26/27
+  - poster: ca1ee3df-e4fd-4a3b-ae27-1cde9e5b440a.jpeg
+    city: João Pessoa
+    date: '10/05/2025 15:00'
+    daysGroup: 09/10/11
+    title: Beco Underground com Incessante + Crânio + Arquivo Morto
+    where: Pátio da Música Urbana
 ---
 

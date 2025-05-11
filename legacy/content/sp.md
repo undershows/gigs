@@ -5448,5 +5448,62 @@ gigs:
     ticketsUrl: 'https://shotgun.live/pt-br/events/dente-canino-dirt-rats'
     title: Dente Canino + Thee Dirty Rats
     where: Porta Bar
+  - poster: 479186586_2178486005960718_6555825619908922642_n.jpg
+    city: Cubatão
+    date: '10/05/2025 18:30'
+    daysGroup: 08/09/10/11
+    ticketsUrl: 'https://www.sympla.com.br/evento/okavango-metal-fest-2025/2819286'
+    title: Okavango Metal Fest com Torture Squad + Andralls + Siegrid Ingrid
+    where: EC Jardim Casqueiro
+  - poster: 487795669_10232103620830755_3305196310159686684_n.jpg
+    city: São Paulo
+    date: '10/05/2025 18:00'
+    daysGroup: 08/09/10/11
+    title: >-
+      Sub Pop Fest com 1983 + Autoexílio + Lágrima Negra + Junior Core + Marvin
+      Arkhan
+    where: Depois do Fim do Mundo Studio
+  - poster: todo_mundo_eh_legal_paura_25.jpeg
+    city: São Paulo
+    date: '10/05/2025 18:00'
+    daysGroup: 08/09/10/11
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/todo-mundo-e-legal-fest-paura-projeto-mayhem-militia-cranula/2868499
+    title: Todo Mundo É Legal Fest com Paura + Projeto Mayhem + Crânula + Militia
+    where: Red Star Studios
+  - poster: ac4e3e93-c28c-4f67-9587-aae8c04efdc8.jpeg
+    city: São Paulo
+    date: '10/05/2025 19:00'
+    daysGroup: 08/09/10/11
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/mondo-massari-show-bike-e-giant-jellyfish/2912177
+    title: Mondo Massari com Bike + Giant Jellyfish
+    where: Fenda 315
+  - poster: 494751807_1740037576856316_2521110151589752695_n.jpg
+    city: São Paulo
+    date: '10/05/2025 18:00'
+    daysGroup: 08/09/10/11
+    title: Cannabinoise com D.E.R. + MUFA + Rotten Entrails + Distravaätravä
+    where: Cafundó
+  - poster: rockaus_10525.jpg
+    city: São Paulo
+    date: '10/05/2025 17:00'
+    daysGroup: 08/09/10/11
+    title: Pat e os Condenados + Lepra + Manolos + Isolameneto Social ...
+    where: Rockaus Rock Bar
+  - poster: garotos_colera_10525.jpeg
+    city: São Paulo
+    date: '10/05/2025 17:00'
+    daysGroup: 08/09/10/11
+    title: Garotos Podres + Cólera
+    where: Casa de Cultura Tremenbé
+  - poster: desalmado_vazio10525.jpg
+    city: São Paulo
+    date: '10/05/2025 19:00'
+    daysGroup: 08/09/10/11
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/burning-house-desalmado-vazio-hardgainer-e-cras/2880427
+    title: Desalmado + Vazio + Hardgainer + Cras
+    where: Burning House
 ---
 
