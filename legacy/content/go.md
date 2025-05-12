@@ -149,5 +149,14 @@ gigs:
     city: Goiânia
     date: '26/04/2025 14:00'
     daysGroup: 25/26/27
+  - poster: 487447512_24513051248281943_8216077681753158622_n.jpg
+    city: Goiânia
+    date: '11/05/2025 16:00'
+    daysGroup: 09/10/11
+    ticketsUrl: 'https://www.bilheteriadigital.com/noise-not-music-detestation-11-de-maio'
+    title: >-
+      Noise Not Music Vol. 6 com Detestation + Death From Above + Desastre +
+      Primitive Death
+    where: De Leon Music Pub
 ---
 

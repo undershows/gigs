@@ -5505,5 +5505,20 @@ gigs:
       https://www.sympla.com.br/evento/burning-house-desalmado-vazio-hardgainer-e-cras/2880427
     title: Desalmado + Vazio + Hardgainer + Cras
     where: Burning House
+  - poster: 468309079_918415553721599_1467964846111727463_n.jpeg
+    city: São Paulo
+    date: '11/05/2025 14:00'
+    daysGroup: 08/09/10/11
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/upfrontalfestival-theexploited'
+    title: >-
+      Upfront Festival com The Exploited (UK) + Ratos de Porão + The Chisel (UK)
+      + Fang (USA) ...
+    where: Carioca Club
+  - poster: amesia_fogo_11525.jpg
+    city: São Paulo
+    date: '11/05/2025 17:00'
+    daysGroup: 08/09/10/11
+    title: Amnésia Coletiva + Fogo Cruzado + Refugiadas + Sociopatas + Pé Sujus
+    where: Red Star Studios
 ---
 
