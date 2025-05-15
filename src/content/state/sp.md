@@ -231,5 +231,19 @@ gigs:
     daysGroup: 16/17/18
     title: The Gimme Gimme Gimmes (SCO) + Casa Civil + Rosa Tigre + Bong Brigade
     where: Hangar 110
+  - poster: 14-06_Ribeirao_Preto_resized.jpg
+    city: Ribeirão Preto
+    date: '14/06/2025 20:00'
+    daysGroup: 13/14/15
+    ticketsUrl: 'https://www.sympla.com.br/evento/immolation-nervochaos-lusferus/2951790'
+    title: Immolation (USA) + Nervochaos + Lusferus
+    where: Toca Pub Underground
+  - poster: 14-06_Ribeirao_Preto_resized.jpg
+    city: São Paulo
+    date: '15/06/2025 17:00'
+    daysGroup: 13/14/15
+    ticketsUrl: 'https://pixelticket.com.br/eventos/27102/immolation-nervochaos-spiritual-hate'
+    title: Immolation (USA) + Nervochaos + Spiritual Hate
+    where: Hangar 110
 ---
 
