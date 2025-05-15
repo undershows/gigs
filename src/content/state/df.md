@@ -54,5 +54,17 @@ gigs:
     ticketsUrl: 'https://www.furandoafila.com/evento/impurity-nk9v6p9'
     title: Impurity + Heia + Denied Redemption
     where: Alquimia Taberna Bar
+  - poster: lowlife_270525.jpeg
+    city: Brasília
+    date: '20/07/2025 20:00'
+    daysGroup: 18/19/20
+    title: Lowlife + Agressivo Pau Podi + Kankra
+    where: Infinu Comunidade Criativa
+  - poster: circulo_do_rock_setima_edicao.jpeg
+    city: Planaltina
+    date: '14/06/2025 20:00'
+    daysGroup: 13/14/15
+    title: CÍRCULO DO ROCK - 7 Edição com Hanuman + Primitive Death + Málida ...
+    where: Complexo Cultural de Planaltina
 ---
 
