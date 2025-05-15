@@ -21,5 +21,11 @@ gigs:
     daysGroup: 29/30/31
     title: 3º SHOW BENEFICIENTE NÍVER DA CAROL com Seconds of Noise + Ilizarov + Leprosy + Navalha
     where: Capim Pub
+  - poster: 1000195666.jpg
+    city: Formosa
+    date: '24/05/2025 16:00'
+    daysGroup: 23/24/25
+    title: CINE ROCK 2 com NW77
+    where: CEU Formosa, Parque Lago, Goiás
 ---
 

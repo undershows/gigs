@@ -53,7 +53,7 @@ gigs:
     daysGroup: 29/30/31
     title: CONVOCA 2025 com Never Look Back + Eskröta + Depois Do Inverno + Os Maltrapilhos ...
     where: Recanto Das Emas - Quadra 206
-  - poster: 496782243_18111006004492817_3752342570339648901_n.jpg
+  - poster: impurity_310825.png
     city: Brasília
     date: '31/08/2025 19:00'
     daysGroup: 29/30/31
