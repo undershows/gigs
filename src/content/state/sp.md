@@ -245,5 +245,11 @@ gigs:
     ticketsUrl: 'https://pixelticket.com.br/eventos/27102/immolation-nervochaos-spiritual-hate'
     title: Immolation (USA) + Nervochaos + Spiritual Hate
     where: Hangar 110
+  - poster: 497877814_18371524891133589_8725003978372801677_n.jpg
+    city: São Paulo
+    date: '18/05/2025 14:00'
+    daysGroup: 16/17/18
+    title: Gritando HC + João Gordo & Asteroides Trio
+    where: Centro Cultural Tendal da Lapa
 ---
 
