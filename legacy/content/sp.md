@@ -5520,5 +5520,12 @@ gigs:
     daysGroup: 08/09/10/11
     title: Amnésia Coletiva + Fogo Cruzado + Refugiadas + Sociopatas + Pé Sujus
     where: Red Star Studios
+  - poster: 491444210_707923505241670_5504639341342013621_n.jpeg
+    city: São Paulo
+    date: '16/05/2025 18:00'
+    daysGroup: 16/17/18
+    ticketsUrl: 'https://www.sympla.com.br/evento/life-aquatic-o-tronxo/2926584'
+    title: O Tronxo + Life Aquatic
+    where: Fenda 315
 ---
 

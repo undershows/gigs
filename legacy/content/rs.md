@@ -125,5 +125,10 @@ gigs:
     date: '20/03/2025 19:20'
     daysGroup: 20/21/22/23
     ticketsUrl: 'https://bileto.sympla.com.br/event/101491/d/293262/s/1996584'
+  - poster: 483278995_18489914911006714_9058417674229732028_n.jpg
+    city: Porto Alegre
+    date: '16/05/2025 19:00'
+    daysGroup: 16/17/18
+    ticketsUrl: 'https://shotgun.live/pt-br/events/detestation-eua-em-porto-alegre'
 ---
 

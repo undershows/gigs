@@ -181,5 +181,12 @@ gigs:
     date: '02/05/2025 20:00'
     daysGroup: 01/02/03/04
     ticketsUrl: 'https://www.outgo.com.br/hellway-train-stryke-by-lightning-natal'
+  - poster: paura_natal_25.jpeg
+    city: Natal
+    date: '16/05/2025 16:00'
+    daysGroup: 16/17/18
+    ticketsUrl: 'https://www.outgo.com.br/paura-na-sede-cultural-dosol'
+    title: Paura + Plugins + Born To Freedom
+    where: Sede Cultural DoSol
 ---
 

@@ -272,5 +272,13 @@ gigs:
     city: Brasília
     date: '09/02/2025 17:00'
     daysGroup: 07/08/09
+  - poster: headbanger_festival_21_01.jpeg
+    city: Brasília
+    date: '16/05/2025 19:00'
+    daysGroup: 16/17/18
+    title: >-
+      HEADBANGERS ATTACK FESTIVAL 21 ED. com Os Cabeloduro + Os Maltrapilhos +
+      Kidsgrace ...
+    where: Alquimia Taberna Bar
 ---
 

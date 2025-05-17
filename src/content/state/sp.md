@@ -159,13 +159,6 @@ gigs:
     daysGroup: 29/30/31
     title: Skeletal Remains (USA) + Subcut + Nervochaos
     where: Riga Rock Bar
-  - poster: 491444210_707923505241670_5504639341342013621_n.jpeg
-    city: São Paulo
-    date: '16/05/2025 18:00'
-    daysGroup: 16/17/18
-    ticketsUrl: 'https://www.sympla.com.br/evento/life-aquatic-o-tronxo/2926584'
-    title: O Tronxo + Life Aquatic
-    where: Fenda 315
   - poster: 490884802_17857063767410184_7807938410757380721_n.jpg
     city: São Paulo
     date: '06/06/2025 19:00'
@@ -242,7 +235,8 @@ gigs:
     city: São Paulo
     date: '15/06/2025 17:00'
     daysGroup: 13/14/15
-    ticketsUrl: 'https://pixelticket.com.br/eventos/27102/immolation-nervochaos-spiritual-hate'
+    ticketsUrl: >-
+      https://pixelticket.com.br/eventos/27102/immolation-nervochaos-spiritual-hate
     title: Immolation (USA) + Nervochaos + Spiritual Hate
     where: Hangar 110
   - poster: 497877814_18371524891133589_8725003978372801677_n.jpg
