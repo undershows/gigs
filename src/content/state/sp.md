@@ -18,12 +18,6 @@ gigs:
     ticketsUrl: 'https://uticket.com.br/event/01KHKCXDXT25S9'
     title: Urban Festival com Black Pantera + Pavilhão 9 + Rancore + Garage Fuzz ...
     where: Espaço Força Viva
-  - poster: 4c1e63de-a1fe-467a-915e-1683cffe450f.jpeg
-    city: São Paulo
-    date: '17/05/2025 19:00'
-    daysGroup: 16/17/18
-    title: Riot Wolves + Intervenção + DJ Fish Nothing
-    where: Fenda 315
   - poster: 481768831_970036715107967_297699855381139585_n.jpg
     city: Campinas
     date: '18/05/2025 17:00'
@@ -103,14 +97,6 @@ gigs:
     daysGroup: 13/14/15
     title: Cólera + DZK + Os Insociáveis + Idade da Pedra
     where: Gaz Burning Bar
-  - poster: 490504900_1421003882367024_4487061157361869129_n.jpg
-    city: São Paulo
-    date: '17/05/2025 14:00'
-    daysGroup: 16/17/18
-    title: >-
-      Detestation (USA) + Armagedom + Social Chaos + Vermenoise + Puukkojunkkari
-      + Sista Noise System
-    where: Centro Cultural Tendal da Lapa
   - poster: 489383366_517923151385581_3323688046598928303_n.jpg
     city: São Paulo
     date: '31/05/2025 18:00'
@@ -118,20 +104,6 @@ gigs:
     ticketsUrl: 'https://pixelticket.com.br/eventos/26224/pense'
     title: Pense + Chuva Negra + Colina
     where: Hangar 110
-  - poster: 491442686_18275832523249197_5903979698290480944_n.webp
-    city: Santo André
-    date: '17/05/2025 19:00'
-    daysGroup: 16/17/18
-    title: Bruxa Fest 7 Anos com Presidente Judas + WeeDevil + Finis Hominis
-    where: 74 Club
-  - poster: 491423246_18313271008227380_8036787265082617485_n.jpg
-    city: São Paulo
-    date: '17/05/2025 19:00'
-    daysGroup: 16/17/18
-    ticketsUrl: >-
-      https://101tickets.com.br/events/details/Inferno-Nuclear-Deathgeist-Critical-fear-em-sp
-    title: Inferno Nuclear + Deathgeist + Critical Fear
-    where: La Iglesia
   - poster: 491441402_17984570039810563_5712300338352391181_n.webp
     city: São Paulo
     date: '24/05/2025 18:00'
@@ -189,12 +161,6 @@ gigs:
     ticketsUrl: 'https://www.bilheto.com.br/comprar/3417/bloodhunter-primeira-vez-em-sp'
     title: Bloodhunter (SPA) + Ereboros + Throw Me To The Wolves
     where: Jai Club
-  - poster: 494458145_18321261703205086_4901909905628416151_n.jpeg
-    city: São Paulo
-    date: '17/05/2025 16:00'
-    daysGroup: 16/17/18
-    title: Lung Freak Party com Eletronic Dark + Barone Chess ...
-    where: Espaço Cultural Dona Xica
   - poster: 491441119_17877704193300673_8944428421484235099_n.jpeg
     city: São Paulo
     date: '07/06/2025 12:00'
@@ -218,12 +184,6 @@ gigs:
       Obscene Extreme SP com Agrotóxico + ROT + Podridão + Odio Social +
       Trachoma
     where: Red Star Studios
-  - poster: 495622582_9568940463159431_2729989003576203891_n.jpg
-    city: São Paulo
-    date: '17/05/2025 19:00'
-    daysGroup: 16/17/18
-    title: The Gimme Gimme Gimmes (SCO) + Casa Civil + Rosa Tigre + Bong Brigade
-    where: Hangar 110
   - poster: 14-06_Ribeirao_Preto_resized.jpg
     city: Ribeirão Preto
     date: '14/06/2025 20:00'

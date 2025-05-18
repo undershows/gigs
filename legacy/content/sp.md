@@ -5527,5 +5527,45 @@ gigs:
     ticketsUrl: 'https://www.sympla.com.br/evento/life-aquatic-o-tronxo/2926584'
     title: O Tronxo + Life Aquatic
     where: Fenda 315
+  - poster: 4c1e63de-a1fe-467a-915e-1683cffe450f.jpeg
+    city: São Paulo
+    date: '17/05/2025 19:00'
+    daysGroup: 16/17/18
+    title: Riot Wolves + Intervenção + DJ Fish Nothing
+    where: Fenda 315
+  - poster: 490504900_1421003882367024_4487061157361869129_n.jpg
+    city: São Paulo
+    date: '17/05/2025 14:00'
+    daysGroup: 16/17/18
+    title: >-
+      Detestation (USA) + Armagedom + Social Chaos + Vermenoise + Puukkojunkkari
+      + Sista Noise System
+    where: Centro Cultural Tendal da Lapa
+  - poster: 491442686_18275832523249197_5903979698290480944_n.webp
+    city: Santo André
+    date: '17/05/2025 19:00'
+    daysGroup: 16/17/18
+    title: Bruxa Fest 7 Anos com Presidente Judas + WeeDevil + Finis Hominis
+    where: 74 Club
+  - poster: 491423246_18313271008227380_8036787265082617485_n.jpg
+    city: São Paulo
+    date: '17/05/2025 19:00'
+    daysGroup: 16/17/18
+    ticketsUrl: >-
+      https://101tickets.com.br/events/details/Inferno-Nuclear-Deathgeist-Critical-fear-em-sp
+    title: Inferno Nuclear + Deathgeist + Critical Fear
+    where: La Iglesia
+  - poster: 494458145_18321261703205086_4901909905628416151_n.jpeg
+    city: São Paulo
+    date: '17/05/2025 16:00'
+    daysGroup: 16/17/18
+    title: Lung Freak Party com Eletronic Dark + Barone Chess ...
+    where: Espaço Cultural Dona Xica
+  - poster: 495622582_9568940463159431_2729989003576203891_n.jpg
+    city: São Paulo
+    date: '17/05/2025 19:00'
+    daysGroup: 16/17/18
+    title: The Gimme Gimme Gimmes (SCO) + Casa Civil + Rosa Tigre + Bong Brigade
+    where: Hangar 110
 ---
 

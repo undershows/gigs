@@ -9,14 +9,6 @@ gigs:
     ticketsUrl: 'https://www.sympla.com.br/evento/mosh-under-fest/2953247'
     title: MOSH UNDER FEST com Nightwolf + Ilizarov + Cosmic Abyss ...
     where: Moto Rock e Cia
-  - poster: headbanger_festival_21_02.jpeg
-    city: Brasília
-    date: '17/05/2025 18:00'
-    daysGroup: 16/17/18
-    title: >-
-      HEADBANGERS ATTACK FESTIVAL 21 ED. com Hellway Train + Postvmo +
-      Repulsores ...
-    where: Alquimia Taberna Bar
   - poster: obscure_hell_fest_010625.jpeg
     city: Brasília
     date: '01/06/2025 16:00'

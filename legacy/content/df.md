@@ -280,5 +280,13 @@ gigs:
       HEADBANGERS ATTACK FESTIVAL 21 ED. com Os Cabeloduro + Os Maltrapilhos +
       Kidsgrace ...
     where: Alquimia Taberna Bar
+  - poster: headbanger_festival_21_02.jpeg
+    city: Brasília
+    date: '17/05/2025 18:00'
+    daysGroup: 16/17/18
+    title: >-
+      HEADBANGERS ATTACK FESTIVAL 21 ED. com Hellway Train + Postvmo +
+      Repulsores ...
+    where: Alquimia Taberna Bar
 ---
 
