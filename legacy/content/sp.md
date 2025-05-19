@@ -5567,5 +5567,27 @@ gigs:
     daysGroup: 16/17/18
     title: The Gimme Gimme Gimmes (SCO) + Casa Civil + Rosa Tigre + Bong Brigade
     where: Hangar 110
+  - poster: 481768831_970036715107967_297699855381139585_n.jpg
+    city: Campinas
+    date: '18/05/2025 17:00'
+    daysGroup: 16/17/18
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/detestation-eua-ao-vivo-no-woodstock-music-bar-der-lamento-odiar-detesto/2861220
+    title: >-
+      Karasu Killer Inferno V com Detestation (USA) + Lamento + D.E.R + Odiär +
+      Detësto
+    where: Woodstock Music Bar
+  - poster: Rethink_EmChamas_ineamusdh.jpeg
+    city: São Paulo
+    date: '18/05/2025 16:00'
+    daysGroup: 16/17/18
+    title: Rethink + Vendetta + Em Chamas + Sem Remorso + Estorvo
+    where: Rock Together
+  - poster: 497877814_18371524891133589_8725003978372801677_n.jpg
+    city: São Paulo
+    date: '18/05/2025 14:00'
+    daysGroup: 16/17/18
+    title: Gritando HC + João Gordo & Asteroides Trio
+    where: Centro Cultural Tendal da Lapa
 ---
 

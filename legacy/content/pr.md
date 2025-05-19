@@ -527,5 +527,9 @@ gigs:
     daysGroup: 01/02/03/04
     ticketsUrl: >-
       https://www.sympla.com.br/evento/psycho-night-ovos-presley-the-brown-vampire-catz-e-dj-farofa/2911445
+  - poster: 1000274992.jpg
+    city: Maringá
+    date: '18/05/2025 21:00'
+    daysGroup: 16/17/18
 ---
 

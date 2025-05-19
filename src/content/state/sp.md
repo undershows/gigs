@@ -18,16 +18,6 @@ gigs:
     ticketsUrl: 'https://uticket.com.br/event/01KHKCXDXT25S9'
     title: Urban Festival com Black Pantera + Pavilhão 9 + Rancore + Garage Fuzz ...
     where: Espaço Força Viva
-  - poster: 481768831_970036715107967_297699855381139585_n.jpg
-    city: Campinas
-    date: '18/05/2025 17:00'
-    daysGroup: 16/17/18
-    ticketsUrl: >-
-      https://www.sympla.com.br/evento/detestation-eua-ao-vivo-no-woodstock-music-bar-der-lamento-odiar-detesto/2861220
-    title: >-
-      Karasu Killer Inferno V com Detestation (USA) + Lamento + D.E.R + Odiär +
-      Detësto
-    where: Woodstock Music Bar
   - poster: 487814030_10227929259273202_1172131541644980230_n.jpg
     city: Presidente Prudente
     date: '24/05/2025 20:00'
@@ -61,12 +51,6 @@ gigs:
       Setembro Negro Festival Ed. XVI com Watain (SWE) + Candlemass (SWE) +
       Nervochaos ...
     where: Vip Station
-  - poster: Rethink_EmChamas_ineamusdh.jpeg
-    city: São Paulo
-    date: '18/05/2025 16:00'
-    daysGroup: 16/17/18
-    title: Rethink + Vendetta + Em Chamas + Sem Remorso + Estorvo
-    where: Rock Together
   - poster: 30-05_Marilia_resized.jpg
     city: Marília
     date: '30/05/2025 20:00'
@@ -199,11 +183,5 @@ gigs:
       https://pixelticket.com.br/eventos/27102/immolation-nervochaos-spiritual-hate
     title: Immolation (USA) + Nervochaos + Spiritual Hate
     where: Hangar 110
-  - poster: 497877814_18371524891133589_8725003978372801677_n.jpg
-    city: São Paulo
-    date: '18/05/2025 14:00'
-    daysGroup: 16/17/18
-    title: Gritando HC + João Gordo & Asteroides Trio
-    where: Centro Cultural Tendal da Lapa
 ---
 

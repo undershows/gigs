@@ -165,5 +165,11 @@ gigs:
     ticketsUrl: 'https://www.bilheteriadigital.com/hellwaytrain-brasil-tour-2025-16-de-maio'
     title: Hellway Train + Zeugma + Sick Civilization + Deadly Curse
     where: De Leon Music Pub
+  - poster: worm_attack_3.png
+    city: Formosa
+    date: '18/05/2025 16:00'
+    daysGroup: 16/17/18
+    title: WORM ATTACK 3 com Repulsores + Ilizarov + Worm Tomb
+    where: 'CEU Formosa, Parque Lago, Goiás'
 ---
 

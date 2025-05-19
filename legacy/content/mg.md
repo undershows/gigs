@@ -366,5 +366,13 @@ gigs:
     daysGroup: 09/10/11
     title: Hellway Train + Zeugma + Sick Civilization + Deadly Curse
     where: De Leon Music Pub
+  - poster: 470674069_2105659026532684_5002245918320133983_n.jpeg
+    city: Sete Lagoas
+    date: '18/05/2025 12:00'
+    daysGroup: 16/17/18
+    title: >-
+      Underground Noise Fest com Arame + Espectro + Flagelador + Hellway Train
+      ...
+    where: Centro Cultural Nhô-Quim Drummond (Casarão)
 ---
 
