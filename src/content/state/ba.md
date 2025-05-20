@@ -1,14 +1,13 @@
 ---
 abbr: BA
 name: Bahia
-gigs: []
+gigs:
+  - poster: 08-06_salvaddor_resized.jpg
+    city: Salvador
+    date: '08/06/2025 19:00'
+    daysGroup: 06/07/08
+    ticketsUrl: 'https://www.sympla.com.br/evento/immolation-nervochaos-spiritual-carnage/2951764'
+    title: Immolation (USA) + Nervochaos + Headhunter DC
+    where: The Green House Music
 ---
 
-<div class="no-gigs-message">
-
-**Nenhum show por aqui… por enquanto! 😢**
-
-Ainda não temos cartazes de nenhuma cidade do estado da Bahia.  
-Se você organiza eventos underground aí, **manda pra gente!**
-
-</div>

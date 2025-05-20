@@ -183,5 +183,18 @@ gigs:
       https://pixelticket.com.br/eventos/27102/immolation-nervochaos-spiritual-hate
     title: Immolation (USA) + Nervochaos + Spiritual Hate
     where: Hangar 110
+  - poster: 499268598_10231025841641768_732634260745616842_n.jpg
+    city: São Paulo
+    date: '07/06/2025 16:00'
+    daysGroup: 06/07/08
+    ticketsUrl: 'https://www.hoppin.com.br/smashitup'
+    title: SMASH IT UP Edição Especial com Restos de Nada + Filhos da Desordem + Herdeiros da Revolta + Lixomania
+    where: Jai Club
+  - poster: 499681186_29527431113571689_4684109634864612427_n.jpg
+    city: São Paulo
+    date: '24/05/2025 18:00'
+    daysGroup: 23/24/25
+    title: Riot Wolves + Degeneração + Lixo Suburbano
+    where: Veganasso
 ---
 
