@@ -247,5 +247,11 @@ gigs:
     date: '14/02/2025 19:00'
     daysGroup: 14/15/16
     ticketsUrl: 'https://www.sympla.com.br/evento/14-02-sex-bruxa-stoned-fest/2772280'
+  - poster: 23-05_Floripa_resized.jpg
+    city: Florianópolis
+    date: '23/05/2025 20:00'
+    daysGroup: 23/24/25
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/skeletal-remains-nervochaos-oath-of-persistence/2903109
 ---
 
