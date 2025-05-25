@@ -56,5 +56,11 @@ gigs:
     daysGroup: 13/14/15
     title: CÍRCULO DO ROCK - 7 Edição com Hanuman + Primitive Death + Málida ...
     where: Complexo Cultural de Planaltina
+  - poster: IMG-20250324-WA0007.jpg
+    city: Taguatinga
+    date: '08/06/2025 14:00'
+    daysGroup: 06/07/08
+    title: Primitive Death + Xarope + Kankra ...
+    where: Moto Rock e Cia
 ---
 
