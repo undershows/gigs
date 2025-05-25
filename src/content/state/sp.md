@@ -171,5 +171,35 @@ gigs:
     ticketsUrl: 'https://www.ddtickets.com.br/comprar/31/possessed-em-sao-paulo'
     title: Possessed (USA) + Blasthrash + Siegred Ingrid ...
     where: Vip Station
+  - poster: 499216285_3756102054679937_691371309839252436_n.jpg
+    city: São José do Rio Preto
+    date: '06/06/2025 20:00'
+    daysGroup: 06/07/08
+    title: CARTA SOCIAL FEST 2 com Subcut + Pesadelo Brasileiro + Sakim de Kola ...
+    where: CapiHouse
+  - poster: 499969509_3756101988013277_4868553047607239896_n.jpg
+    city: Catanduva
+    date: '31/05/2025 15:00'
+    daysGroup: 29/30/31
+    title: NÃO PASSARÃO FEST com Pão Com Cebola + Radiação X + Caborja ..
+    where: Salão de Exposições da Estação Cultura - Catanduva
+  - poster: 499555952_3756101851346624_5539902275256697274_n.jpg
+    city: Colina
+    date: '14/06/2025 13:00'
+    daysGroup: 13/14/15
+    title: Caborja + Radiação X + G.Y.M.B ...
+    where: Aurora Cultura e Salgados
+  - poster: 496949750_9795127467240446_400884245282699247_n.jpg
+    city: Varzea Paulista
+    date: '31/05/2025 19:00'
+    daysGroup: 29/30/31
+    title: Skarnio + Trachoma + Freak Maniacs + No Prejudice
+    where: Bar'Phomet
+  - poster: 496999452_122154405050459227_1808220833651621553_n.jpg
+    city: São Paulo
+    date: '14/06/2025 18:00'
+    daysGroup: 13/14/15
+    title: Postvmo + DST + CoyoteBadTrip ...
+    where: Veganasso
 ---
 

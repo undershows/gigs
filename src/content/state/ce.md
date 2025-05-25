@@ -17,5 +17,11 @@ gigs:
     ticketsUrl: 'https://www.sympla.com.br/evento/immolation-nervochaos-sysyphus/2949526'
     title: Immolation (USA) + Nervochaos + Profane Anger
     where: Hard Noise
+  - poster: 499915168_9786831228104725_1400348674805617376_n.jpg
+    city: Fortaleza
+    date: '04/10/2025 22:00'
+    daysGroup: 03/04/05
+    title: Morbo + Kebranti + Disfagia + Agromorte ...
+    where: Covil Rock'n Bar
 ---
 
