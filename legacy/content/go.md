@@ -171,5 +171,11 @@ gigs:
     daysGroup: 16/17/18
     title: WORM ATTACK 3 com Repulsores + Ilizarov + Worm Tomb
     where: 'CEU Formosa, Parque Lago, Goiás'
+  - poster: 1000195666.jpg
+    city: Formosa
+    date: '24/05/2025 16:00'
+    daysGroup: 23/24/25
+    title: CINE ROCK 2 com NW77
+    where: 'CEU Formosa, Parque Lago, Goiás'
 ---
 

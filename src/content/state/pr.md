@@ -32,19 +32,7 @@ gigs:
     daysGroup: 27/28/29
     ticketsUrl: 'https://meaple.com.br/belvedere/garotos-podres-bvdr-2025'
     title: Garotos Podres + Macumbazilla + Mustaphorius
-    where: Belvedere   
-  - poster: 1000274932.jpg
-    city: Londrina
-    date: '24/05/2025 21:00'
-    daysGroup: 23/24/25/26/27/28
-    title: Surface + Proletas
-    where: Provisório Bar
-  - poster: 499525290_9778592535567568_7099814529807818630_n.jpg
-    city: Ponta Grossa
-    date: '24/05/2025 21:00'
-    daysGroup: 23/24/25/26/27/28
-    title: Odio Social + Tifo ...
-    where: CBGBAR
+    where: Belvedere
   - poster: 499056624_9778591508901004_4188957413786901037_n.jpg
     city: Curitiba
     date: '25/05/2025 18:00'

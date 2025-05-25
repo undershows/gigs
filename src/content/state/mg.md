@@ -2,12 +2,6 @@
 abbr: MG
 name: Minas Gerais
 gigs:
-  - poster: 491451866_18461316163078816_5807256906768765351_n.webp
-    city: Varginha
-    date: '24/05/2025 14:00'
-    daysGroup: 23/24/25
-    title: Skate Solidário com The Damnnation + Apto Vulgar + Dymons + Muleke Veio
-    where: Pista de Skate - Varginha/MG
   - poster: 13-06_BH_resized.jpg
     city: Belo Horizonte
     date: '13/06/2025 20:00'

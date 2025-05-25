@@ -531,5 +531,17 @@ gigs:
     city: Maringá
     date: '18/05/2025 21:00'
     daysGroup: 16/17/18
+  - poster: 1000274932.jpg
+    city: Londrina
+    date: '24/05/2025 21:00'
+    daysGroup: 23/24/25/26/27/28
+    title: Surface + Proletas
+    where: Provisório Bar
+  - poster: 499525290_9778592535567568_7099814529807818630_n.jpg
+    city: Ponta Grossa
+    date: '24/05/2025 21:00'
+    daysGroup: 23/24/25/26/27/28
+    title: Odio Social + Tifo ...
+    where: CBGBAR
 ---
 

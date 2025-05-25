@@ -5589,5 +5589,39 @@ gigs:
     daysGroup: 16/17/18
     title: Gritando HC + João Gordo & Asteroides Trio
     where: Centro Cultural Tendal da Lapa
+  - poster: 487814030_10227929259273202_1172131541644980230_n.jpg
+    city: Presidente Prudente
+    date: '24/05/2025 20:00'
+    daysGroup: 23/24/25
+    title: >-
+      Kill'em the Sound III com Röt Stewart (BEL) + Subcut + Tarantino +
+      Dissonância
+    where: Valete Bar
+  - poster: 491441402_17984570039810563_5712300338352391181_n.webp
+    city: São Paulo
+    date: '24/05/2025 18:00'
+    daysGroup: 23/24/25
+    title: Militia + Sem Cultura + Stab
+    where: Estúdio Páprica
+  - poster: 491445210_17919747141081610_2870982329775366866_n.webp
+    city: São Paulo
+    date: '24/05/2025 18:00'
+    daysGroup: 23/24/25
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/mantra-apresenta-pepler-homeminvisivel-zero-to-hero-dj-s/2924823
+    title: Zero to Hero + homeninvisivel + Pepler
+    where: Fenda 315
+  - poster: 491498617_18326525227166853_6380123737762005870_n.webp
+    city: São Paulo
+    date: '24/05/2025 22:00'
+    daysGroup: 23/24/25
+    title: True Dark com Junior Core + Noah Noir + Marcos Santos + Sabrina Sam ...
+    where: Pantera
+  - poster: 499681186_29527431113571689_4684109634864612427_n.jpg
+    city: São Paulo
+    date: '24/05/2025 18:00'
+    daysGroup: 23/24/25
+    title: Riot Wolves + Degeneração + Lixo Suburbano
+    where: Veganasso
 ---
 

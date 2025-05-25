@@ -18,14 +18,6 @@ gigs:
     ticketsUrl: 'https://uticket.com.br/event/01KHKCXDXT25S9'
     title: Urban Festival com Black Pantera + Pavilhão 9 + Rancore + Garage Fuzz ...
     where: Espaço Força Viva
-  - poster: 487814030_10227929259273202_1172131541644980230_n.jpg
-    city: Presidente Prudente
-    date: '24/05/2025 20:00'
-    daysGroup: 23/24/25
-    title: >-
-      Kill'em the Sound III com Röt Stewart (BEL) + Subcut + Tarantino +
-      Dissonância
-    where: Valete Bar
   - poster: IMG-20250405-WA0000.jpg
     city: Bebedouro
     date: '07/06/2025 15:00'
@@ -88,12 +80,6 @@ gigs:
     ticketsUrl: 'https://pixelticket.com.br/eventos/26224/pense'
     title: Pense + Chuva Negra + Colina
     where: Hangar 110
-  - poster: 491441402_17984570039810563_5712300338352391181_n.webp
-    city: São Paulo
-    date: '24/05/2025 18:00'
-    daysGroup: 23/24/25
-    title: Militia + Sem Cultura + Stab
-    where: Estúdio Páprica
   - poster: 491464874_18498930343044152_1848173602241771462_n.webp
     city: São José dos Campos
     date: '26/07/2025 22:00'
@@ -101,14 +87,6 @@ gigs:
     ticketsUrl: 'https://www.sympla.com.br/evento/despedida-valepunk-garage-fuzz/2892140'
     title: Garage Fuzz + Apto Vulgar + Caosmaria + Samwise
     where: Hocus Pocus Studio & Café
-  - poster: 491445210_17919747141081610_2870982329775366866_n.webp
-    city: São Paulo
-    date: '24/05/2025 18:00'
-    daysGroup: 23/24/25
-    ticketsUrl: >-
-      https://www.sympla.com.br/evento/mantra-apresenta-pepler-homeminvisivel-zero-to-hero-dj-s/2924823
-    title: Zero to Hero + homeninvisivel + Pepler
-    where: Fenda 315
   - poster: 29-05_PP_resized.jpg
     city: Presidente Prudente
     date: '29/05/2025 19:30'
@@ -132,12 +110,6 @@ gigs:
       Metal no Vale Fest Ed. Pinda com Siegrid Ingrid + Head Krusher +
       Rottenblot ...
     where: Bom Bar Pinda
-  - poster: 491498617_18326525227166853_6380123737762005870_n.webp
-    city: São Paulo
-    date: '24/05/2025 22:00'
-    daysGroup: 23/24/25
-    title: True Dark com Junior Core + Noah Noir + Marcos Santos + Sabrina Sam ...
-    where: Pantera
   - poster: 491462354_18046113164594646_8970016837709594173_n.webp
     city: São Paulo
     date: '18/07/2025 17:00'
@@ -188,13 +160,9 @@ gigs:
     date: '07/06/2025 16:00'
     daysGroup: 06/07/08
     ticketsUrl: 'https://www.hoppin.com.br/smashitup'
-    title: SMASH IT UP Edição Especial com Restos de Nada + Filhos da Desordem + Herdeiros da Revolta + Lixomania
+    title: >-
+      SMASH IT UP Edição Especial com Restos de Nada + Filhos da Desordem +
+      Herdeiros da Revolta + Lixomania
     where: Jai Club
-  - poster: 499681186_29527431113571689_4684109634864612427_n.jpg
-    city: São Paulo
-    date: '24/05/2025 18:00'
-    daysGroup: 23/24/25
-    title: Riot Wolves + Degeneração + Lixo Suburbano
-    where: Veganasso
 ---
 
