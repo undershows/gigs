@@ -288,5 +288,19 @@ gigs:
       HEADBANGERS ATTACK FESTIVAL 21 ED. com Hellway Train + Postvmo +
       Repulsores ...
     where: Alquimia Taberna Bar
+  - poster: mosh_under_fest_250525.jpeg
+    city: Taguatinga
+    date: '25/05/2025 16:00'
+    daysGroup: 23/24/25
+    ticketsUrl: 'https://www.sympla.com.br/evento/mosh-under-fest/2953247'
+    title: MOSH UNDER FEST com Nightwolf + Ilizarov + Cosmic Abyss ...
+    where: Moto Rock e Cia
+  - poster: lokapalooza_250525.jpeg
+    city: Brasília
+    date: '25/05/2025 16:00'
+    daysGroup: 23/24/25
+    ticketsUrl: 'https://shotgun.live/pt-br/festivals/lokapalooza-edicao-trash-metal'
+    title: LOKAPALOOZA SAVAGE THURSDAY com Transtorno Nuclear + Massacre Bestial ...
+    where: Infinu Comunidade Criativa
 ---
 

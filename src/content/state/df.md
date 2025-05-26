@@ -2,26 +2,12 @@
 abbr: DF
 name: Distrito Federal
 gigs:
-  - poster: mosh_under_fest_250525.jpeg
-    city: Taguatinga
-    date: '25/05/2025 16:00'
-    daysGroup: 23/24/25
-    ticketsUrl: 'https://www.sympla.com.br/evento/mosh-under-fest/2953247'
-    title: MOSH UNDER FEST com Nightwolf + Ilizarov + Cosmic Abyss ...
-    where: Moto Rock e Cia
   - poster: obscure_hell_fest_010625.jpeg
     city: Brasília
     date: '01/06/2025 16:00'
     daysGroup: 01/02
     ticketsUrl: 'https://shotgun.live/pt-br/festivals/obscure-hell-fest'
     title: OBSCURE HELL FEST com Vazio + Vultos Vocíferos + Murderess
-    where: Infinu Comunidade Criativa
-  - poster: lokapalooza_250525.jpeg
-    city: Brasília
-    date: '25/05/2025 16:00'
-    daysGroup: 23/24/25
-    ticketsUrl: 'https://shotgun.live/pt-br/festivals/lokapalooza-edicao-trash-metal'
-    title: LOKAPALOOZA SAVAGE THURSDAY com Transtorno Nuclear + Massacre Bestial ...
     where: Infinu Comunidade Criativa
   - poster: birthday_to_death_070625.jpeg
     city: Santa Maria
