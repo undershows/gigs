@@ -557,5 +557,13 @@ gigs:
     daysGroup: 23/24/25/26/27/28
     title: Odio Social + Tifo ...
     where: Lado B
+  - poster: 27-05_Foz_resized.jpg
+    city: Foz do Iguaçu
+    date: '27/05/2025 19:00'
+    daysGroup: 23/24/25/26/27/28
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/skeletal-remaiins-nervochaos-human-cremation/2903314
+    title: Skeletal Remains (USA) + Nervochaos + Human Cremation (PAR)
+    where: Casa Urbana
 ---
 
