@@ -24,5 +24,5 @@ if (isIos() && !isInStandaloneMode()) {
   `;
   document.body.appendChild(div);
 
-  setTimeout(() => div.remove(), 10000);
+  setTimeout(() => div.remove(), 5000);
 }
