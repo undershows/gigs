@@ -1,8 +1,8 @@
 const CACHE_NAME = "undershows-static-v1";
 const urlsToCache = [
   "/manifest.json",
-  "/images/icons/icon-192x192.png",
-  "/images/icons/icon-512x512.png"
+  "/images/icons/icon-192x192-v2.png",
+  "/images/icons/icon-512x512-v2.png"
 ];
 
 self.addEventListener("install", event => {
