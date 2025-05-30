@@ -5623,5 +5623,11 @@ gigs:
     daysGroup: 23/24/25
     title: Riot Wolves + Degeneração + Lixo Suburbano
     where: Veganasso
+  - poster: 29-05_PP_resized.jpg
+    city: Presidente Prudente
+    date: '29/05/2025 19:30'
+    daysGroup: 29/30/31
+    title: Skeletal Remains (USA) + Subcut + Nervochaos
+    where: Riga Rock Bar
 ---
 

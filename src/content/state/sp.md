@@ -87,12 +87,6 @@ gigs:
     ticketsUrl: 'https://www.sympla.com.br/evento/despedida-valepunk-garage-fuzz/2892140'
     title: Garage Fuzz + Apto Vulgar + Caosmaria + Samwise
     where: Hocus Pocus Studio & Café
-  - poster: 29-05_PP_resized.jpg
-    city: Presidente Prudente
-    date: '29/05/2025 19:30'
-    daysGroup: 29/30/31
-    title: Skeletal Remains (USA) + Subcut + Nervochaos
-    where: Riga Rock Bar
   - poster: 490884802_17857063767410184_7807938410757380721_n.jpg
     city: São Paulo
     date: '06/06/2025 19:00'
