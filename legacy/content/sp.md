@@ -5629,5 +5629,13 @@ gigs:
     daysGroup: 29/30/31
     title: Skeletal Remains (USA) + Subcut + Nervochaos
     where: Riga Rock Bar
+  - poster: 30-05_Marilia_resized.jpg
+    city: Marília
+    date: '30/05/2025 20:00'
+    daysGroup: 29/30/31
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/skeletal-remains-nervochaos-rotborn/2903199
+    title: Skeletal Remains (USA) + Nervochaos + Rotborn
+    where: Cão Pererê
 ---
 
