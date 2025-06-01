@@ -173,5 +173,11 @@ gigs:
     ticketsUrl: 'https://www.sympla.com.br/evento/cephalotripsy-oligarquia-chaoslace/2946373'
     title: Cephalotripsy (USA) + Oligarquia + Chaoslace
     where: House of Legends
+  - poster: IMG_9747.JPG
+    city: São Paulo
+    date: '15/06/2025 16:00'
+    daysGroup: 13/14/15
+    title: Rethink + Vendetta + Em Chamas + Se Remorso + Estorvo
+    where: Rock Together
 ---
 
