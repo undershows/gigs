@@ -5637,5 +5637,32 @@ gigs:
       https://www.sympla.com.br/evento/skeletal-remains-nervochaos-rotborn/2903199
     title: Skeletal Remains (USA) + Nervochaos + Rotborn
     where: Cão Pererê
+  - poster: 31-05_Limeira_resized.jpg
+    city: Limeira
+    date: '31/05/2025 18:00'
+    daysGroup: 29/30/31
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/skeletal-remains-nervochaos-desdominus-faces-of-death/2903298
+    title: Skeletal Remains (USA) + Nervochaos + Desdominus + Faces of Death
+    where: Mirage Eventos
+  - poster: 489383366_517923151385581_3323688046598928303_n.jpg
+    city: São Paulo
+    date: '31/05/2025 18:00'
+    daysGroup: 29/30/31
+    ticketsUrl: 'https://pixelticket.com.br/eventos/26224/pense'
+    title: Pense + Chuva Negra + Colina
+    where: Hangar 110
+  - poster: 499969509_3756101988013277_4868553047607239896_n.jpg
+    city: Catanduva
+    date: '31/05/2025 15:00'
+    daysGroup: 29/30/31
+    title: NÃO PASSARÃO FEST com Pão Com Cebola + Radiação X + Caborja ..
+    where: Salão de Exposições da Estação Cultura - Catanduva
+  - poster: 496949750_9795127467240446_400884245282699247_n.jpg
+    city: Varzea Paulista
+    date: '31/05/2025 19:00'
+    daysGroup: 29/30/31
+    title: Skarnio + Trachoma + Freak Maniacs + No Prejudice
+    where: Bar'Phomet
 ---
 

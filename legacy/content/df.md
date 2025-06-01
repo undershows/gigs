@@ -302,5 +302,13 @@ gigs:
     ticketsUrl: 'https://shotgun.live/pt-br/festivals/lokapalooza-edicao-trash-metal'
     title: LOKAPALOOZA SAVAGE THURSDAY com Transtorno Nuclear + Massacre Bestial ...
     where: Infinu Comunidade Criativa
+  - poster: 496782243_18111006004492817_3752342570339648901_n.jpg
+    city: Recanto das Emas
+    date: '31/05/2025 16:00'
+    daysGroup: 29/30/31
+    title: >-
+      CONVOCA 2025 com Never Look Back + Eskröta + Depois Do Inverno + Os
+      Maltrapilhos ...
+    where: Recanto Das Emas - Quadra 206
 ---
 
