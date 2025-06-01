@@ -160,5 +160,18 @@ gigs:
     daysGroup: 13/14/15
     title: Postvmo + DST + CoyoteBadTrip ...
     where: Veganasso
+  - poster: palpebrite_fest_06062025.jpg
+    city: São Paulo
+    date: '06/06/2025 18:00'
+    daysGroup: 06/07/08
+    title: PALPEBRITE FEST 2025 com Excluídos + Deserdados + Intervenção + Frente Niilista
+    where: Red Star Studios
+  - poster: 494574780_1880148786070960_1437405444177361590_n_resized.jpg
+    city: São Paulo
+    date: '08/08/2025 20:00'
+    daysGroup: 06/07/08
+    ticketsUrl: 'https://www.sympla.com.br/evento/cephalotripsy-oligarquia-chaoslace/2946373'
+    title: Cephalotripsy (USA) + Oligarquia + Chaoslace
+    where: House of Legends
 ---
 
