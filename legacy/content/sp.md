@@ -5664,5 +5664,13 @@ gigs:
     daysGroup: 29/30/31
     title: Skarnio + Trachoma + Freak Maniacs + No Prejudice
     where: Bar'Phomet
+  - poster: 01-06_Aruja_resized.jpg
+    city: Arujá
+    date: '01/06/2025 18:00'
+    daysGroup: 01/02
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/skeletal-remains-nervochaos-pentacrostic-mortal-profecia/2903243
+    title: Skeletal Remains (USA) + Nervochaos + Pentacrostic + Mortal Profecia
+    where: Espaço Nordestino Arujá
 ---
 

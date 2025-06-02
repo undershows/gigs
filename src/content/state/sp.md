@@ -43,14 +43,6 @@ gigs:
       Setembro Negro Festival Ed. XVI com Watain (SWE) + Candlemass (SWE) +
       Nervochaos ...
     where: Vip Station
-  - poster: 01-06_Aruja_resized.jpg
-    city: Arujá
-    date: '01/06/2025 18:00'
-    daysGroup: 01/02
-    ticketsUrl: >-
-      https://www.sympla.com.br/evento/skeletal-remains-nervochaos-pentacrostic-mortal-profecia/2903243
-    title: Skeletal Remains (USA) + Nervochaos + Pentacrostic + Mortal Profecia
-    where: Espaço Nordestino Arujá
   - poster: 491424573_18273007741259589_5181393794971891671_n.jpg
     city: São Paulo
     date: '14/06/2025 15:00'
@@ -164,13 +156,16 @@ gigs:
     city: São Paulo
     date: '06/06/2025 18:00'
     daysGroup: 06/07/08
-    title: PALPEBRITE FEST 2025 com Excluídos + Deserdados + Intervenção + Frente Niilista
+    title: >-
+      PALPEBRITE FEST 2025 com Excluídos + Deserdados + Intervenção + Frente
+      Niilista
     where: Red Star Studios
   - poster: 494574780_1880148786070960_1437405444177361590_n_resized.jpg
     city: São Paulo
     date: '08/08/2025 20:00'
     daysGroup: 06/07/08
-    ticketsUrl: 'https://www.sympla.com.br/evento/cephalotripsy-oligarquia-chaoslace/2946373'
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/cephalotripsy-oligarquia-chaoslace/2946373
     title: Cephalotripsy (USA) + Oligarquia + Chaoslace
     where: House of Legends
   - poster: IMG_9747.JPG

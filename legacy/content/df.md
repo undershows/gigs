@@ -310,5 +310,12 @@ gigs:
       CONVOCA 2025 com Never Look Back + Eskröta + Depois Do Inverno + Os
       Maltrapilhos ...
     where: Recanto Das Emas - Quadra 206
+  - poster: obscure_hell_fest_010625.jpeg
+    city: Brasília
+    date: '01/06/2025 16:00'
+    daysGroup: 01/02
+    ticketsUrl: 'https://shotgun.live/pt-br/festivals/obscure-hell-fest'
+    title: OBSCURE HELL FEST com Vazio + Vultos Vocíferos + Murderess
+    where: Infinu Comunidade Criativa
 ---
 

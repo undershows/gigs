@@ -2,13 +2,6 @@
 abbr: DF
 name: Distrito Federal
 gigs:
-  - poster: obscure_hell_fest_010625.jpeg
-    city: Brasília
-    date: '01/06/2025 16:00'
-    daysGroup: 01/02
-    ticketsUrl: 'https://shotgun.live/pt-br/festivals/obscure-hell-fest'
-    title: OBSCURE HELL FEST com Vazio + Vultos Vocíferos + Murderess
-    where: Infinu Comunidade Criativa
   - poster: birthday_to_death_070625.jpeg
     city: Santa Maria
     date: '07/06/2025 19:00'
@@ -44,33 +37,43 @@ gigs:
     city: Brasília
     date: '08/06/2025 10:00'
     daysGroup: 06/07/08
-    title: MANIFESTO SONORO com DF Front + Hanuman + Os Candangos + Papoulas + Minale ...
+    title: >-
+      MANIFESTO SONORO com DF Front + Hanuman + Os Candangos + Papoulas + Minale
+      ...
     where: Eixo 207 Norte
   - poster: bc35b144-28e5-49a3-b94c-5ae17b12965f.jpeg
     city: Brasília
     date: '22/08/2025 20:00'
     daysGroup: 22/23/24
     ticketsUrl: 'https://www.furandoafila.com/evento/ritual-alq-61axtqs'
-    title: RITUAL AQUIMICO III com Tarrasque + Caligo + The Cross + Summa + Estado Revoltoso
+    title: >-
+      RITUAL AQUIMICO III com Tarrasque + Caligo + The Cross + Summa + Estado
+      Revoltoso
     where: Alquimia Taberna Bar
   - poster: a2a341f9-f5e4-4fe9-b3a5-24c9e1e36cad.jpeg
     city: Brasília
     date: '23/08/2025 18:00'
     daysGroup: 22/23/24
     ticketsUrl: 'https://www.furandoafila.com/evento/ritual-al-fb03dm6'
-    title: RITUAL AQUIMICO III com Tarrasque + Caligo + The Cross + Summa + Estado Revoltoso
+    title: >-
+      RITUAL AQUIMICO III com Tarrasque + Caligo + The Cross + Summa + Estado
+      Revoltoso
     where: Alquimia Taberna Bar
   - poster: 580b445f-10a4-4af4-8e65-e2203dba30c6.jpeg
     city: Gama
     date: '16/08/2025 17:00'
     daysGroup: 15/16/17
-    title: INFERNALIA com Justabeli + Tarrasque + Estado Revoltoso + Eutanasia + Terrorcidio ..
+    title: >-
+      INFERNALIA com Justabeli + Tarrasque + Estado Revoltoso + Eutanasia +
+      Terrorcidio ..
     where: Galpãozinho do Gama
   - poster: 6bcc03a2-f8d8-4f13-8b62-c0b7fc82b4c7.jpeg
     city: Taguatinga
     date: '30/08/2025 20:00'
     daysGroup: 29/30/31
-    title: KIDSGRAÇA FEST PARTE 2 com Manger Cadavre? + Kidsgrace + Transtorno Nuclear + LowLife ...
+    title: >-
+      KIDSGRAÇA FEST PARTE 2 com Manger Cadavre? + Kidsgrace + Transtorno
+      Nuclear + LowLife ...
     where: Moto Rock e Cia
   - poster: 957290a8-8afd-45d9-96db-4f4824e01934.jpeg
     city: Brasília
