@@ -174,5 +174,17 @@ gigs:
     daysGroup: 13/14/15
     title: Rethink + Vendetta + Em Chamas + Se Remorso + Estorvo
     where: Rock Together
+  - poster: 0f36ad27-7622-4b3e-b5a2-c3c80ecc366c.jpeg
+    city: São Paulo
+    date: '12/07/2025 16:00'
+    daysGroup: 11/12/13
+    title: F.H.C + Skarnio + Trágico + Desprezo + Estado Sombrio + Maldita Ambição
+    where: NIÁ
+  - poster: Reposta_500082342_17910258333133262_8833426327211570711_n_Original.jpeg
+    city: Várzea Paulista
+    date: '14/06/2025 18:00'
+    daysGroup: 13/14/15
+    title: Mosca Negra + Trágico + Desfastio + Puro Ódio Punk
+    where: BAR'PHOMET
 ---
 
