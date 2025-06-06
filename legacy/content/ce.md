@@ -121,5 +121,12 @@ gigs:
     date: '10/04/2025 18:00'
     daysGroup: 10/11/12/13
     ticketsUrl: 'https://meaple.com.br/m2f-producoes/fortaleza-extreme-festival'
+  - poster: 05-06_Fortaleza_resized.jpg
+    city: Fortaleza
+    date: '05/06/2025 19:00'
+    daysGroup: 05/06/07/08
+    ticketsUrl: 'https://www.sympla.com.br/evento/immolation-nervochaos-sysyphus/2949526'
+    title: Immolation (USA) + Nervochaos + Profane Anger
+    where: Hard Noise
 ---
 
