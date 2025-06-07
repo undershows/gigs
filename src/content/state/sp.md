@@ -56,13 +56,6 @@ gigs:
     ticketsUrl: 'https://www.sympla.com.br/evento/despedida-valepunk-garage-fuzz/2892140'
     title: Garage Fuzz + Apto Vulgar + Caosmaria + Samwise
     where: Hocus Pocus Studio & Café
-  - poster: 490884802_17857063767410184_7807938410757380721_n.jpg
-    city: São Paulo
-    date: '06/06/2025 19:00'
-    daysGroup: 06/07/08
-    ticketsUrl: 'https://ticket.com.vc/evento/papangu-em-sao-paulo'
-    title: Papangu
-    where: Burning House
   - poster: 491505101_17846351280459956_683679994851281877_n.webp
     city: Pindamonhangaba
     date: '15/06/2025 17:00'
@@ -134,12 +127,6 @@ gigs:
     ticketsUrl: 'https://www.ddtickets.com.br/comprar/31/possessed-em-sao-paulo'
     title: Possessed (USA) + Blasthrash + Siegred Ingrid ...
     where: Vip Station
-  - poster: 499216285_3756102054679937_691371309839252436_n.jpg
-    city: São José do Rio Preto
-    date: '06/06/2025 20:00'
-    daysGroup: 06/07/08
-    title: CARTA SOCIAL FEST 2 com Subcut + Pesadelo Brasileiro + Sakim de Kola ...
-    where: CapiHouse
   - poster: 499555952_3756101851346624_5539902275256697274_n.jpg
     city: Colina
     date: '14/06/2025 13:00'
@@ -152,14 +139,6 @@ gigs:
     daysGroup: 13/14/15
     title: Postvmo + DST + CoyoteBadTrip ...
     where: Veganasso
-  - poster: palpebrite_fest_06062025.jpg
-    city: São Paulo
-    date: '06/06/2025 18:00'
-    daysGroup: 06/07/08
-    title: >-
-      PALPEBRITE FEST 2025 com Excluídos + Deserdados + Intervenção + Frente
-      Niilista
-    where: Red Star Studios
   - poster: 494574780_1880148786070960_1437405444177361590_n_resized.jpg
     city: São Paulo
     date: '08/08/2025 20:00'
@@ -186,17 +165,12 @@ gigs:
     daysGroup: 13/14/15
     title: Mosca Negra + Trágico + Desfastio + Puro Ódio Punk
     where: BAR'PHOMET
-  - poster: CAMPINAS2025.jpg
-    city: Campinas
-    date: '06/06/2025 19:00'
-    daysGroup: 06/07/08
-    title: Ação Direta + Ulster + Pátria Armada
-    where: Casa Rock
   - poster: saocarlos25tiozeka.jpg
     city: São Carlos
     date: '08/06/2025 17:00'
     daysGroup: 06/07/08
-    ticketsUrl: 'https://www.sympla.com.br/evento/acao-direta-38-anos-tour-sao-carlos-com-projeto-mayhem-e-lapada-dukao/2956801'    
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/acao-direta-38-anos-tour-sao-carlos-com-projeto-mayhem-e-lapada-dukao/2956801
     title: Ação Direta + Lapada Dukão + Projeto Mayhem
     where: Os Pirata
 ---

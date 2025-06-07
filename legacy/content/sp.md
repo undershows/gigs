@@ -5672,5 +5672,32 @@ gigs:
       https://www.sympla.com.br/evento/skeletal-remains-nervochaos-pentacrostic-mortal-profecia/2903243
     title: Skeletal Remains (USA) + Nervochaos + Pentacrostic + Mortal Profecia
     where: Espaço Nordestino Arujá
+  - poster: 490884802_17857063767410184_7807938410757380721_n.jpg
+    city: São Paulo
+    date: '06/06/2025 19:00'
+    daysGroup: 06/07/08
+    ticketsUrl: 'https://ticket.com.vc/evento/papangu-em-sao-paulo'
+    title: Papangu
+    where: Burning House
+  - poster: 499216285_3756102054679937_691371309839252436_n.jpg
+    city: São José do Rio Preto
+    date: '06/06/2025 20:00'
+    daysGroup: 06/07/08
+    title: CARTA SOCIAL FEST 2 com Subcut + Pesadelo Brasileiro + Sakim de Kola ...
+    where: CapiHouse
+  - poster: palpebrite_fest_06062025.jpg
+    city: São Paulo
+    date: '06/06/2025 18:00'
+    daysGroup: 06/07/08
+    title: >-
+      PALPEBRITE FEST 2025 com Excluídos + Deserdados + Intervenção + Frente
+      Niilista
+    where: Red Star Studios
+  - poster: CAMPINAS2025.jpg
+    city: Campinas
+    date: '06/06/2025 19:00'
+    daysGroup: 06/07/08
+    title: Ação Direta + Ulster + Pátria Armada
+    where: Casa Rock
 ---
 
