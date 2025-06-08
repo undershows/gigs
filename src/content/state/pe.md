@@ -2,14 +2,6 @@
 abbr: PE
 name: Pernambuco
 gigs:
-  - poster: 07-06_recife_resized.jpg
-    city: Recife
-    date: '07/06/2025 20:00'
-    daysGroup: 06/07/08
-    ticketsUrl: >-
-      https://www.sympla.com.br/evento/immolation-nervochaos-decomposed-god/2949873
-    title: Immolation (USA) + Nervochaos + Decomposed God
-    where: Red Dog Pub
   - poster: 489744478_17945330354967253_2257200237245065837_n.jpeg
     city: Recife
     date: '03/08/2025 17:00'

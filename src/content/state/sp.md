@@ -18,14 +18,6 @@ gigs:
     ticketsUrl: 'https://uticket.com.br/event/01KHKCXDXT25S9'
     title: Urban Festival com Black Pantera + Pavilhão 9 + Rancore + Garage Fuzz ...
     where: Espaço Força Viva
-  - poster: IMG-20250405-WA0000.jpg
-    city: Bebedouro
-    date: '07/06/2025 15:00'
-    daysGroup: 06/07/08
-    title: >-
-      Fest. Punk 11 com Ação Direta + Pesadelo Brasileiro + Radiação +
-      Parasitose ...
-    where: CEMEI Bernardina Ferreira de Andrade
   - poster: 489656380_24231575153099844_942567001666103295_n.jpg
     city: Sorocaba
     date: '21/06/2025 22:00'
@@ -73,20 +65,6 @@ gigs:
     ticketsUrl: 'https://www.bilheto.com.br/comprar/3417/bloodhunter-primeira-vez-em-sp'
     title: Bloodhunter (SPA) + Ereboros + Throw Me To The Wolves
     where: Jai Club
-  - poster: 491441119_17877704193300673_8944428421484235099_n.jpeg
-    city: São Paulo
-    date: '07/06/2025 12:00'
-    daysGroup: 06/07/08
-    title: >-
-      Insubmissas Fest com Porno Massacre + Death Lotus + Destino Cruel +
-      Disforia Queercore ...
-    where: Central Panelaço
-  - poster: 496388176_18513118267008709_8715416391378101825_n.jpg
-    city: Santa Gertrudes
-    date: '07/06/2025 13:00'
-    daysGroup: 06/07/08
-    title: Elas no Rock com Manger Cadavre? + Punho de Mahin + Cras + Deep Divers ...
-    where: Parque Municipal Ruy Raphael da Rocha
   - poster: 494644419_9669721259788030_1840764838312918801_n.jpg
     city: São Paulo
     date: '13/06/2025 20:00'
@@ -111,15 +89,6 @@ gigs:
       https://pixelticket.com.br/eventos/27102/immolation-nervochaos-spiritual-hate
     title: Immolation (USA) + Nervochaos + Spiritual Hate
     where: Hangar 110
-  - poster: 499268598_10231025841641768_732634260745616842_n.jpg
-    city: São Paulo
-    date: '07/06/2025 16:00'
-    daysGroup: 06/07/08
-    ticketsUrl: 'https://www.hoppin.com.br/smashitup'
-    title: >-
-      SMASH IT UP Edição Especial com Restos de Nada + Filhos da Desordem +
-      Herdeiros da Revolta + Lixomania
-    where: Jai Club
   - poster: 486164778_18381459460187569_8255927737864747949_n.jpg
     city: São Paulo
     date: '22/06/2025 19:00'

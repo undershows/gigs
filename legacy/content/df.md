@@ -317,5 +317,11 @@ gigs:
     ticketsUrl: 'https://shotgun.live/pt-br/festivals/obscure-hell-fest'
     title: OBSCURE HELL FEST com Vazio + Vultos Vocíferos + Murderess
     where: Infinu Comunidade Criativa
+  - poster: birthday_to_death_070625.jpeg
+    city: Santa Maria
+    date: '07/06/2025 19:00'
+    daysGroup: 06/07/08
+    title: BIRTHDAY TO DEATH com NW77 + Ogru + Mofo + Mota
+    where: DIG ROCK BAR
 ---
 
