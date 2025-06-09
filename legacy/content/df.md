@@ -323,5 +323,19 @@ gigs:
     daysGroup: 06/07/08
     title: BIRTHDAY TO DEATH com NW77 + Ogru + Mofo + Mota
     where: DIG ROCK BAR
+  - poster: IMG-20250324-WA0007.jpg
+    city: Taguatinga
+    date: '08/06/2025 14:00'
+    daysGroup: 06/07/08
+    title: Primitive Death + Xarope + Kankra ...
+    where: Moto Rock e Cia
+  - poster: f4f3e4da-69a5-4b10-8622-c5d3e62c768c.jpeg
+    city: Brasília
+    date: '08/06/2025 10:00'
+    daysGroup: 06/07/08
+    title: >-
+      MANIFESTO SONORO com DF Front + Hanuman + Os Candangos + Papoulas + Minale
+      ...
+    where: Eixo 207 Norte
 ---
 

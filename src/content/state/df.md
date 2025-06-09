@@ -21,20 +21,6 @@ gigs:
     daysGroup: 13/14/15
     title: CÍRCULO DO ROCK - 7 Edição com Hanuman + Primitive Death + Málida ...
     where: Complexo Cultural de Planaltina
-  - poster: IMG-20250324-WA0007.jpg
-    city: Taguatinga
-    date: '08/06/2025 14:00'
-    daysGroup: 06/07/08
-    title: Primitive Death + Xarope + Kankra ...
-    where: Moto Rock e Cia
-  - poster: f4f3e4da-69a5-4b10-8622-c5d3e62c768c.jpeg
-    city: Brasília
-    date: '08/06/2025 10:00'
-    daysGroup: 06/07/08
-    title: >-
-      MANIFESTO SONORO com DF Front + Hanuman + Os Candangos + Papoulas + Minale
-      ...
-    where: Eixo 207 Norte
   - poster: bc35b144-28e5-49a3-b94c-5ae17b12965f.jpeg
     city: Brasília
     date: '22/08/2025 20:00'

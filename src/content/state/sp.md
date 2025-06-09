@@ -134,13 +134,5 @@ gigs:
     daysGroup: 13/14/15
     title: Mosca Negra + Trágico + Desfastio + Puro Ódio Punk
     where: BAR'PHOMET
-  - poster: saocarlos25tiozeka.jpg
-    city: São Carlos
-    date: '08/06/2025 17:00'
-    daysGroup: 06/07/08
-    ticketsUrl: >-
-      https://www.sympla.com.br/evento/acao-direta-38-anos-tour-sao-carlos-com-projeto-mayhem-e-lapada-dukao/2956801
-    title: Ação Direta + Lapada Dukão + Projeto Mayhem
-    where: Os Pirata
 ---
 
