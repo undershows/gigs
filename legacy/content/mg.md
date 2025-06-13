@@ -380,5 +380,13 @@ gigs:
     daysGroup: 23/24/25
     title: Skate Solidário com The Damnnation + Apto Vulgar + Dymons + Muleke Veio
     where: Pista de Skate - Varginha/MG
+  - poster: 12-06_uberlandia_resized.jpg
+    city: Uberlândia
+    date: '12/06/2025 19:00'
+    daysGroup: 12/13/14/15
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/immolation-nervochaos-gore-autopsy/2951771
+    title: Immolation (USA) + Nervochaos + Gore Autopsy
+    where: Rei da Sinuca
 ---
 
