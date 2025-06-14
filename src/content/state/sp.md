@@ -65,15 +65,6 @@ gigs:
     ticketsUrl: 'https://www.bilheto.com.br/comprar/3417/bloodhunter-primeira-vez-em-sp'
     title: Bloodhunter (SPA) + Ereboros + Throw Me To The Wolves
     where: Jai Club
-  - poster: 494644419_9669721259788030_1840764838312918801_n.jpg
-    city: São Paulo
-    date: '13/06/2025 20:00'
-    daysGroup: 13/14/15
-    ticketsUrl: 'https://www.sympla.com.br/evento/obscene-extreme-festival-brasil/2867005'
-    title: >-
-      Obscene Extreme SP com Agrotóxico + ROT + Podridão + Odio Social +
-      Trachoma
-    where: Red Star Studios
   - poster: 14-06_Ribeirao_Preto_resized.jpg
     city: Ribeirão Preto
     date: '14/06/2025 20:00'

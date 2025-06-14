@@ -5738,5 +5738,14 @@ gigs:
       https://www.sympla.com.br/evento/acao-direta-38-anos-tour-sao-carlos-com-projeto-mayhem-e-lapada-dukao/2956801
     title: Ação Direta + Lapada Dukão + Projeto Mayhem
     where: Os Pirata
+  - poster: 494644419_9669721259788030_1840764838312918801_n.jpg
+    city: São Paulo
+    date: '13/06/2025 20:00'
+    daysGroup: 13/14/15
+    ticketsUrl: 'https://www.sympla.com.br/evento/obscene-extreme-festival-brasil/2867005'
+    title: >-
+      Obscene Extreme SP com Agrotóxico + ROT + Podridão + Odio Social +
+      Trachoma
+    where: Red Star Studios
 ---
 
