@@ -2,13 +2,6 @@
 abbr: RJ
 name: Rio de Janeiro
 gigs:
-  - poster: revolta_hc_fest_paura_25.jpeg
-    city: Rio de Janeiro
-    date: '14/06/2025 19:00'
-    daysGroup: 13/14/15
-    ticketsUrl: 'https://www.sympla.com.br/evento/revolta-hc-fest/2900163'
-    title: Revolta HC Fest com Paura + Norte Cartel + Liträo + Korja + Fårdo
-    where: Garage Grindhouse
   - poster: 489014801_18304412848209755_5796522066988464378_n.jpg
     city: Rio de Janeiro
     date: '26/07/2025 19:00'
@@ -20,7 +13,8 @@ gigs:
     city: Rio de Janeiro
     date: '15/06/2025 18:00'
     daysGroup: 13/14/15
-    ticketsUrl: 'https://shotgun.live/pt-br/events/ogna-suco-verde-visao-turva-ultima-sessao'
+    ticketsUrl: >-
+      https://shotgun.live/pt-br/events/ogna-suco-verde-visao-turva-ultima-sessao
     title: Ogna + Suco Verde + Visão Turva + Última Sessão
     where: Audio Rebel
 ---

@@ -15,12 +15,6 @@ gigs:
     daysGroup: 18/19/20
     title: Lowlife + Agressivo Pau Podi + Kankra
     where: Infinu Comunidade Criativa
-  - poster: circulo_do_rock_setima_edicao.jpeg
-    city: Planaltina
-    date: '14/06/2025 20:00'
-    daysGroup: 13/14/15
-    title: CÍRCULO DO ROCK - 7 Edição com Hanuman + Primitive Death + Málida ...
-    where: Complexo Cultural de Planaltina
   - poster: bc35b144-28e5-49a3-b94c-5ae17b12965f.jpeg
     city: Brasília
     date: '22/08/2025 20:00'
@@ -55,11 +49,5 @@ gigs:
       KIDSGRAÇA FEST PARTE 2 com Manger Cadavre? + Kidsgrace + Transtorno
       Nuclear + LowLife ...
     where: Moto Rock e Cia
-  - poster: 957290a8-8afd-45d9-96db-4f4824e01934.jpeg
-    city: Brasília
-    date: '14/06/2025 20:00'
-    daysGroup: 13/14/15
-    title: Lascados + Pesticide + Evil Corpse + Critical Fear
-    where: Alquimia Taberna Bar
 ---
 

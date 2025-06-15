@@ -337,5 +337,17 @@ gigs:
       MANIFESTO SONORO com DF Front + Hanuman + Os Candangos + Papoulas + Minale
       ...
     where: Eixo 207 Norte
+  - poster: circulo_do_rock_setima_edicao.jpeg
+    city: Planaltina
+    date: '14/06/2025 20:00'
+    daysGroup: 13/14/15
+    title: CÍRCULO DO ROCK - 7 Edição com Hanuman + Primitive Death + Málida ...
+    where: Complexo Cultural de Planaltina
+  - poster: 957290a8-8afd-45d9-96db-4f4824e01934.jpeg
+    city: Brasília
+    date: '14/06/2025 20:00'
+    daysGroup: 13/14/15
+    title: Lascados + Pesticide + Evil Corpse + Critical Fear
+    where: Alquimia Taberna Bar
 ---
 

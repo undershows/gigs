@@ -5747,5 +5747,36 @@ gigs:
       Obscene Extreme SP com Agrotóxico + ROT + Podridão + Odio Social +
       Trachoma
     where: Red Star Studios
+  - poster: 491424573_18273007741259589_5181393794971891671_n.jpg
+    city: São Paulo
+    date: '14/06/2025 15:00'
+    daysGroup: 13/14/15
+    title: Cólera + DZK + Os Insociáveis + Idade da Pedra
+    where: Gaz Burning Bar
+  - poster: 14-06_Ribeirao_Preto_resized.jpg
+    city: Ribeirão Preto
+    date: '14/06/2025 20:00'
+    daysGroup: 13/14/15
+    ticketsUrl: 'https://www.sympla.com.br/evento/immolation-nervochaos-lusferus/2951790'
+    title: Immolation (USA) + Nervochaos + Lusferus
+    where: Toca Pub Underground
+  - poster: 499555952_3756101851346624_5539902275256697274_n.jpg
+    city: Colina
+    date: '14/06/2025 13:00'
+    daysGroup: 13/14/15
+    title: Caborja + Radiação X + G.Y.M.B ...
+    where: Aurora Cultura e Salgados
+  - poster: 496999452_122154405050459227_1808220833651621553_n.jpg
+    city: São Paulo
+    date: '14/06/2025 18:00'
+    daysGroup: 13/14/15
+    title: Postvmo + DST + CoyoteBadTrip ...
+    where: Veganasso
+  - poster: Reposta_500082342_17910258333133262_8833426327211570711_n_Original.jpeg
+    city: Várzea Paulista
+    date: '14/06/2025 18:00'
+    daysGroup: 13/14/15
+    title: Mosca Negra + Trágico + Desfastio + Puro Ódio Punk
+    where: BAR'PHOMET
 ---
 

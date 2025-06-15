@@ -35,12 +35,6 @@ gigs:
       Setembro Negro Festival Ed. XVI com Watain (SWE) + Candlemass (SWE) +
       Nervochaos ...
     where: Vip Station
-  - poster: 491424573_18273007741259589_5181393794971891671_n.jpg
-    city: São Paulo
-    date: '14/06/2025 15:00'
-    daysGroup: 13/14/15
-    title: Cólera + DZK + Os Insociáveis + Idade da Pedra
-    where: Gaz Burning Bar
   - poster: 491464874_18498930343044152_1848173602241771462_n.webp
     city: São José dos Campos
     date: '26/07/2025 22:00'
@@ -66,13 +60,6 @@ gigs:
     title: Bloodhunter (SPA) + Ereboros + Throw Me To The Wolves
     where: Jai Club
   - poster: 14-06_Ribeirao_Preto_resized.jpg
-    city: Ribeirão Preto
-    date: '14/06/2025 20:00'
-    daysGroup: 13/14/15
-    ticketsUrl: 'https://www.sympla.com.br/evento/immolation-nervochaos-lusferus/2951790'
-    title: Immolation (USA) + Nervochaos + Lusferus
-    where: Toca Pub Underground
-  - poster: 14-06_Ribeirao_Preto_resized.jpg
     city: São Paulo
     date: '15/06/2025 17:00'
     daysGroup: 13/14/15
@@ -87,18 +74,6 @@ gigs:
     ticketsUrl: 'https://www.ddtickets.com.br/comprar/31/possessed-em-sao-paulo'
     title: Possessed (USA) + Blasthrash + Siegred Ingrid ...
     where: Vip Station
-  - poster: 499555952_3756101851346624_5539902275256697274_n.jpg
-    city: Colina
-    date: '14/06/2025 13:00'
-    daysGroup: 13/14/15
-    title: Caborja + Radiação X + G.Y.M.B ...
-    where: Aurora Cultura e Salgados
-  - poster: 496999452_122154405050459227_1808220833651621553_n.jpg
-    city: São Paulo
-    date: '14/06/2025 18:00'
-    daysGroup: 13/14/15
-    title: Postvmo + DST + CoyoteBadTrip ...
-    where: Veganasso
   - poster: 494574780_1880148786070960_1437405444177361590_n_resized.jpg
     city: São Paulo
     date: '08/08/2025 20:00'
@@ -119,11 +94,5 @@ gigs:
     daysGroup: 11/12/13
     title: F.H.C + Skarnio + Trágico + Desprezo + Estado Sombrio + Maldita Ambição
     where: NIÁ
-  - poster: Reposta_500082342_17910258333133262_8833426327211570711_n_Original.jpeg
-    city: Várzea Paulista
-    date: '14/06/2025 18:00'
-    daysGroup: 13/14/15
-    title: Mosca Negra + Trágico + Desfastio + Puro Ódio Punk
-    where: BAR'PHOMET
 ---
 
