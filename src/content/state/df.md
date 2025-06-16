@@ -49,5 +49,35 @@ gigs:
       KIDSGRAÇA FEST PARTE 2 com Manger Cadavre? + Kidsgrace + Transtorno
       Nuclear + LowLife ...
     where: Moto Rock e Cia
+  - poster: podrera_220625.jpeg
+    city: Taguatinga
+    date: '22/06/2025 16:00'
+    daysGroup: 20/21/22
+    title: PODRERA convida Zuada + Terror Revolucionário + Trash Town Terror ...
+    where: Moto Rock e Cia
+  - poster: wormattack4_120725.jpeg
+    city: Brasília
+    date: '12/07/2025 20:00'
+    daysGroup: 11/12/13
+    title: WORM ATTACK 4 com What I Want + Xarope + Transtorno Nuclear ...
+    where: Alquimia Taberna Bar
+  - poster: monstrosdorock_210625.jpeg
+    city: Santa Maria
+    date: '21/06/2025 19:00'
+    daysGroup: 20/21/22
+    title: MONSTROS DO ROCK EM SANTA MARIA com Nightwolf + Rota 040 + Amazing + Elysius
+    where: DIG Rock Bar
+  - poster: thelaws_060725.jpeg
+    city: Brasília
+    date: '06/07/2025 19:00'
+    daysGroup: 06/07/08
+    title: The Laws + Sarcofago + Muderless + Death Slam ...
+    where: Infinu Comunidade Criativa
+  - poster: meiodiaemponto_120725.jpeg
+    city: Ceilândia
+    date: '12/07/2025 12:00'
+    daysGroup: 11/12/13
+    title: MEIO DIA EM PONTO 2025 - Um Projeto de Cultura Popular
+    where: Praça Ferrock
 ---
 

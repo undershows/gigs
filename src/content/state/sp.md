@@ -59,7 +59,7 @@ gigs:
     ticketsUrl: 'https://www.bilheto.com.br/comprar/3417/bloodhunter-primeira-vez-em-sp'
     title: Bloodhunter (SPA) + Ereboros + Throw Me To The Wolves
     where: Jai Club
-  - poster: 14-06_Ribeirao_Preto_resized.jpg
+  - poster: 15-06_sampa_resized.jpg
     city: São Paulo
     date: '15/06/2025 17:00'
     daysGroup: 13/14/15
