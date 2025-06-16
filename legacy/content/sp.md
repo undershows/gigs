@@ -5778,5 +5778,29 @@ gigs:
     daysGroup: 13/14/15
     title: Mosca Negra + Trágico + Desfastio + Puro Ódio Punk
     where: BAR'PHOMET
+  - poster: 491505101_17846351280459956_683679994851281877_n.webp
+    city: Pindamonhangaba
+    date: '15/06/2025 17:00'
+    daysGroup: 13/14/15
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/metal-no-vale-fest-edicao-pindamonhangaba-sp/2925864
+    title: >-
+      Metal no Vale Fest Ed. Pinda com Siegrid Ingrid + Head Krusher +
+      Rottenblot ...
+    where: Bom Bar Pinda
+  - poster: 15-06_sampa_resized.jpg
+    city: São Paulo
+    date: '15/06/2025 17:00'
+    daysGroup: 13/14/15
+    ticketsUrl: >-
+      https://pixelticket.com.br/eventos/27102/immolation-nervochaos-spiritual-hate
+    title: Immolation (USA) + Nervochaos + Spiritual Hate
+    where: Hangar 110
+  - poster: IMG_9747.JPG
+    city: São Paulo
+    date: '15/06/2025 16:00'
+    daysGroup: 13/14/15
+    title: Rethink + Vendetta + Em Chamas + Se Remorso + Estorvo
+    where: Rock Together
 ---
 

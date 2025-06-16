@@ -42,16 +42,6 @@ gigs:
     ticketsUrl: 'https://www.sympla.com.br/evento/despedida-valepunk-garage-fuzz/2892140'
     title: Garage Fuzz + Apto Vulgar + Caosmaria + Samwise
     where: Hocus Pocus Studio & Café
-  - poster: 491505101_17846351280459956_683679994851281877_n.webp
-    city: Pindamonhangaba
-    date: '15/06/2025 17:00'
-    daysGroup: 13/14/15
-    ticketsUrl: >-
-      https://www.sympla.com.br/evento/metal-no-vale-fest-edicao-pindamonhangaba-sp/2925864
-    title: >-
-      Metal no Vale Fest Ed. Pinda com Siegrid Ingrid + Head Krusher +
-      Rottenblot ...
-    where: Bom Bar Pinda
   - poster: 491462354_18046113164594646_8970016837709594173_n.webp
     city: São Paulo
     date: '18/07/2025 17:00'
@@ -59,14 +49,6 @@ gigs:
     ticketsUrl: 'https://www.bilheto.com.br/comprar/3417/bloodhunter-primeira-vez-em-sp'
     title: Bloodhunter (SPA) + Ereboros + Throw Me To The Wolves
     where: Jai Club
-  - poster: 15-06_sampa_resized.jpg
-    city: São Paulo
-    date: '15/06/2025 17:00'
-    daysGroup: 13/14/15
-    ticketsUrl: >-
-      https://pixelticket.com.br/eventos/27102/immolation-nervochaos-spiritual-hate
-    title: Immolation (USA) + Nervochaos + Spiritual Hate
-    where: Hangar 110
   - poster: 486164778_18381459460187569_8255927737864747949_n.jpg
     city: São Paulo
     date: '22/06/2025 19:00'
@@ -82,12 +64,6 @@ gigs:
       https://www.sympla.com.br/evento/cephalotripsy-oligarquia-chaoslace/2946373
     title: Cephalotripsy (USA) + Oligarquia + Chaoslace
     where: House of Legends
-  - poster: IMG_9747.JPG
-    city: São Paulo
-    date: '15/06/2025 16:00'
-    daysGroup: 13/14/15
-    title: Rethink + Vendetta + Em Chamas + Se Remorso + Estorvo
-    where: Rock Together
   - poster: 0f36ad27-7622-4b3e-b5a2-c3c80ecc366c.jpeg
     city: São Paulo
     date: '12/07/2025 16:00'
