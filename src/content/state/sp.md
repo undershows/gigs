@@ -70,5 +70,35 @@ gigs:
     daysGroup: 11/12/13
     title: F.H.C + Skarnio + Trágico + Desprezo + Estado Sombrio + Maldita Ambição
     where: NIÁ
+  - poster: 508151383_9978942172199269_5742370569863820757_n.jpg
+    city: Campo Limpo Paulista
+    date: '28/06/2025 18:30'
+    daysGroup: 27/28/29
+    title: ESTORATIMPANO II com Odio Social + Sujeito a Lixo
+    where: Gu Kustom Bar
+  - poster: 508556622_10232945592999533_2979710659488891891_n.jpg
+    city: São Paulo
+    date: '12/07/2025 22:00'
+    daysGroup: 11/12/13
+    title: BATCAVE REUNION com Fabi Kirby + Death Boy + Nill Salles + Marcão + Junior Core + Jenny Jenny
+    where: Sub-Solo
+  - poster: 507943340_29893466793634784_2638747627287354965_n.jpg
+    city: Santos
+    date: '21/06/2025 21:00'
+    daysGroup: 20/21/22
+    title: Riot Wolves + Avante! + Krönikor + Maré Vermelha
+    where: Studio Phabiño
+  - poster: 499857046_122157892538459227_1086083464189037354_n.jpg
+    city: São Paulo
+    date: '26/07/2025 15:00'
+    daysGroup: 25/26/27
+    title: Trypophobia + Corrosiva + Aweti + Against X Filé
+    where: Porão da Cerveja
+  - poster: db59390c-1439-4ed8-ad19-99eb20775811.jpeg
+    city: São Paulo
+    date: '21/06/2025 17:00'
+    daysGroup: 20/21/22
+    title: Atos de Vingança + Agravo + Dischaos + Herdeiros do Ódio
+    where: NIÁ
 ---
 
