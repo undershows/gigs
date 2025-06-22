@@ -61,12 +61,6 @@ gigs:
     daysGroup: 11/12/13
     title: WORM ATTACK 4 com What I Want + Xarope + Transtorno Nuclear ...
     where: Alquimia Taberna Bar
-  - poster: monstrosdorock_210625.jpeg
-    city: Santa Maria
-    date: '21/06/2025 19:00'
-    daysGroup: 20/21/22
-    title: MONSTROS DO ROCK EM SANTA MARIA com Nightwolf + Rota 040 + Amazing + Elysius
-    where: DIG Rock Bar
   - poster: thelaws_060725.jpeg
     city: Brasília
     date: '06/07/2025 19:00'
@@ -84,7 +78,9 @@ gigs:
     date: '29/06/2025 16:00'
     daysGroup: 27/28/29
     ticketsUrl: 'https://www.sympla.com.br/evento/mosh-under-fest-2/3003500'
-    title: MOSH UNDER FEST com Fourkaos + Beholder's Cult + Viscerais + Morbid Devournment
+    title: >-
+      MOSH UNDER FEST com Fourkaos + Beholder's Cult + Viscerais + Morbid
+      Devournment
     where: Moto Rock e Cia
   - poster: ferrock_130725.jpeg
     city: Ceilândia

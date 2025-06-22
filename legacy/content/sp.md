@@ -5802,5 +5802,25 @@ gigs:
     daysGroup: 13/14/15
     title: Rethink + Vendetta + Em Chamas + Se Remorso + Estorvo
     where: Rock Together
+  - poster: 489656380_24231575153099844_942567001666103295_n.jpg
+    city: Sorocaba
+    date: '21/06/2025 22:00'
+    daysGroup: 20/21/22
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/baltazar-em-panico-comemora-35-anos-de-rot-em-sorocaba/2905665
+    title: Baltazar em Pânico com Rot + D.E.R + Vertices + BxCxTx + Estralo Sistem
+    where: Bar Augusta
+  - poster: 507943340_29893466793634784_2638747627287354965_n.jpg
+    city: Santos
+    date: '21/06/2025 21:00'
+    daysGroup: 20/21/22
+    title: Riot Wolves + Avante! + Krönikor + Maré Vermelha
+    where: Studio Phabiño
+  - poster: db59390c-1439-4ed8-ad19-99eb20775811.jpeg
+    city: São Paulo
+    date: '21/06/2025 17:00'
+    daysGroup: 20/21/22
+    title: Atos de Vingança + Agravo + Dischaos + Herdeiros do Ódio
+    where: NIÁ
 ---
 

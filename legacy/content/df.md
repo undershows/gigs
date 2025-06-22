@@ -349,5 +349,13 @@ gigs:
     daysGroup: 13/14/15
     title: Lascados + Pesticide + Evil Corpse + Critical Fear
     where: Alquimia Taberna Bar
+  - poster: monstrosdorock_210625.jpeg
+    city: Santa Maria
+    date: '21/06/2025 19:00'
+    daysGroup: 20/21/22
+    title: >-
+      MONSTROS DO ROCK EM SANTA MARIA com Nightwolf + Rota 040 + Amazing +
+      Elysius
+    where: DIG Rock Bar
 ---
 

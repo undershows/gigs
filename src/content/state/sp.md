@@ -18,14 +18,6 @@ gigs:
     ticketsUrl: 'https://uticket.com.br/event/01KHKCXDXT25S9'
     title: Urban Festival com Black Pantera + Pavilhão 9 + Rancore + Garage Fuzz ...
     where: Espaço Força Viva
-  - poster: 489656380_24231575153099844_942567001666103295_n.jpg
-    city: Sorocaba
-    date: '21/06/2025 22:00'
-    daysGroup: 20/21/22
-    ticketsUrl: >-
-      https://www.sympla.com.br/evento/baltazar-em-panico-comemora-35-anos-de-rot-em-sorocaba/2905665
-    title: Baltazar em Pânico com Rot + D.E.R + Vertices + BxCxTx + Estralo Sistem
-    where: Bar Augusta
   - poster: setembro_negro_2025.jpg
     city: São Paulo
     date: '07/09/2025 13:00'
@@ -80,25 +72,15 @@ gigs:
     city: São Paulo
     date: '12/07/2025 22:00'
     daysGroup: 11/12/13
-    title: BATCAVE REUNION com Fabi Kirby + Death Boy + Nill Salles + Marcão + Junior Core + Jenny Jenny
+    title: >-
+      BATCAVE REUNION com Fabi Kirby + Death Boy + Nill Salles + Marcão + Junior
+      Core + Jenny Jenny
     where: Sub-Solo
-  - poster: 507943340_29893466793634784_2638747627287354965_n.jpg
-    city: Santos
-    date: '21/06/2025 21:00'
-    daysGroup: 20/21/22
-    title: Riot Wolves + Avante! + Krönikor + Maré Vermelha
-    where: Studio Phabiño
   - poster: 499857046_122157892538459227_1086083464189037354_n.jpg
     city: São Paulo
     date: '26/07/2025 15:00'
     daysGroup: 25/26/27
     title: Trypophobia + Corrosiva + Aweti + Against X Filé
     where: Porão da Cerveja
-  - poster: db59390c-1439-4ed8-ad19-99eb20775811.jpeg
-    city: São Paulo
-    date: '21/06/2025 17:00'
-    daysGroup: 20/21/22
-    title: Atos de Vingança + Agravo + Dischaos + Herdeiros do Ódio
-    where: NIÁ
 ---
 
