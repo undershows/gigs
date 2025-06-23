@@ -357,5 +357,11 @@ gigs:
       MONSTROS DO ROCK EM SANTA MARIA com Nightwolf + Rota 040 + Amazing +
       Elysius
     where: DIG Rock Bar
+  - poster: podrera_220625.jpeg
+    city: Taguatinga
+    date: '22/06/2025 16:00'
+    daysGroup: 20/21/22
+    title: PODRERA convida Zuada + Terror Revolucionário + Trash Town Terror ...
+    where: Moto Rock e Cia
 ---
 

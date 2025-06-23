@@ -49,12 +49,6 @@ gigs:
       KIDSGRAÇA FEST PARTE 2 com Manger Cadavre? + Kidsgrace + Transtorno
       Nuclear + LowLife ...
     where: Moto Rock e Cia
-  - poster: podrera_220625.jpeg
-    city: Taguatinga
-    date: '22/06/2025 16:00'
-    daysGroup: 20/21/22
-    title: PODRERA convida Zuada + Terror Revolucionário + Trash Town Terror ...
-    where: Moto Rock e Cia
   - poster: wormattack4_120725.jpeg
     city: Brasília
     date: '12/07/2025 20:00'

@@ -5822,5 +5822,12 @@ gigs:
     daysGroup: 20/21/22
     title: Atos de Vingança + Agravo + Dischaos + Herdeiros do Ódio
     where: NIÁ
+  - poster: 486164778_18381459460187569_8255927737864747949_n.jpg
+    city: São Paulo
+    date: '22/06/2025 19:00'
+    daysGroup: 20/21/22
+    ticketsUrl: 'https://www.ddtickets.com.br/comprar/31/possessed-em-sao-paulo'
+    title: Possessed (USA) + Blasthrash + Siegred Ingrid ...
+    where: Vip Station
 ---
 
