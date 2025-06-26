@@ -82,5 +82,12 @@ gigs:
     daysGroup: 11/12/13
     title: FERROCK com Cólera + Cálida Essência + Terrocídio + Zuada ...
     where: Praça Ferrock
+  - poster: crossover_night_3.jpg
+    city: Brasília
+    date: '28/06/2025 18:00'
+    daysGroup: 27/28/29
+    ticketsUrl: 'https://www.sympla.com.br/evento/mosh-under-fest-2/3003500'
+    title: CROSSOVER NIGHT III com Trash Town Terror + KCC + Blackskull + Conteste + Cosmic Abyss + N.W.77
+    where: Zepelim
 ---
 

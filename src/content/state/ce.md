@@ -16,5 +16,12 @@ gigs:
     daysGroup: 03/04/05
     title: Morbo + Kebranti + Disfagia + Agromorte ...
     where: Covil Rock'n Bar
+  - poster: 513405050_17971893437905247_6420428281908090025_n.jpg
+    city: Fortaleza
+    date: '10/08/2025 17:00'
+    daysGroup: 08/09/10
+    ticketsUrl: 'https://bilheto.com.br/comprar/3696'
+    title: UNDERGROUND METAL FEST com Velho + Podridão + Sysyphus ...
+    where: Casarão Benfica
 ---
 

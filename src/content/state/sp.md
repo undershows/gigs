@@ -21,7 +21,7 @@ gigs:
   - poster: setembro_negro_2025.jpg
     city: São Paulo
     date: '07/09/2025 13:00'
-    daysGroup: 05/06/07
+    daysGroup: 04/05/06/07
     ticketsUrl: 'https://www.clubedoingresso.com/evento/setembro-negro'
     title: >-
       Setembro Negro Festival Ed. XVI com Watain (SWE) + Candlemass (SWE) +
@@ -52,7 +52,7 @@ gigs:
   - poster: 0f36ad27-7622-4b3e-b5a2-c3c80ecc366c.jpeg
     city: São Paulo
     date: '12/07/2025 16:00'
-    daysGroup: 11/12/13
+    daysGroup: 10/11/12/13
     title: F.H.C + Skarnio + Trágico + Desprezo + Estado Sombrio + Maldita Ambição
     where: NIÁ
   - poster: 508151383_9978942172199269_5742370569863820757_n.jpg
@@ -64,7 +64,7 @@ gigs:
   - poster: 508556622_10232945592999533_2979710659488891891_n.jpg
     city: São Paulo
     date: '12/07/2025 22:00'
-    daysGroup: 11/12/13
+    daysGroup: 10/11/12/13
     title: >-
       BATCAVE REUNION com Fabi Kirby + Death Boy + Nill Salles + Marcão + Junior
       Core + Jenny Jenny
@@ -75,5 +75,227 @@ gigs:
     daysGroup: 25/26/27
     title: Trypophobia + Corrosiva + Aweti + Against X Filé
     where: Porão da Cerveja
+  - poster: 505481225_18069958441987583_927618124109413666_n.jpg
+    city: São Paulo
+    date: '29/06/2025 16:00'
+    daysGroup: 27/28/29
+    title: Desprezo (Lançamento do 7") + Pode Pa + Sem Cultura + Pöstvmö + Escärro
+    where: Rock Together
+  - poster: 511993984_9933671376701199_5511849628259997267_n.jpg
+    city: São Paulo
+    date: '05/07/2025 15:00'
+    daysGroup: 04/05/06
+    title: Social Chaos + Test + Puukkojunkkari + Distravaätravä + Subvermes
+    where: Instituto Raiz da Serra
+  - poster: 511379434_17973592214896515_6348727905539506842_n.webp
+    city: São Paulo
+    date: '19/07/2025 20:00'
+    daysGroup: 18/19/20
+    ticketsUrl: 'https://101tickets.com.br/events/details/Fossilization-DER-coyote-bad-trip'
+    title: Fossilization + D.E.R. + Coyote Bad Trip
+    where: La Iglesia
+  - poster: 504005238_17974403612892428_6550338502167074981_n.jpg
+    city: São Paulo
+    date: '18/07/2025 19:00'
+    daysGroup: 18/19/20
+    ticketsUrl: 'https://www.sympla.com.br/evento/el-regreso-de-los-que-no-fueran-no-dfm-punho-de-mahin-traste-e-discurso-de-pobre/3006120'
+    title: Punho de Mahin + Discurso de Pobre + Traste
+    where: Depois Do Fim Do Mundo
+  - poster: 511522460_1051752237079181_4513938084669417698_n.jpeg
+    city: São Caetano do Sul
+    date: '28/06/2025 20:00'
+    daysGroup: 27/28/29
+    title: Siegrid Ingrid + Sacrifix
+    where: Necropole Hall
+  - poster: 503530847_2792765300934676_6619098260692544213_n.jpeg
+    city: São Paulo
+    date: '06/07/2025 18:00'
+    daysGroup: 05/06/07
+    title: Deaf Kids
+    where: Centro Cultural São Paulo
+  - poster: 510312566_18367047838183339_542136502656781053_n.jpg
+    city: Catanduva
+    date: '11/07/2025 18:00'
+    daysGroup: 10/11/12/13
+    ticketsUrl: 'https://www.sescsp.org.br/programacao/catandupedras-dia-11-7/'
+    title: CATANDUPEDRA com Crypta + Ratos de Porão + Pão Com Cebola
+    where: SESC Catanduva
+  - poster: 503424246_1760352681501442_8814554683569825859_n.jpeg
+    city: São Paulo
+    date: '06/07/2025 15:00'
+    daysGroup: 05/06/07
+    title: QUEBRA DENTE FEST com Cadáver de Anão + Casca de Ferida + Disgosto + Sem Cultura
+    where: Porão da Cerveja
+  - poster: 503590438_17843187063520604_7751758028063186027_n.webp
+    city: São Paulo
+    date: '12/07/2025 19:00'
+    daysGroup: 10/11/12/13
+    ticketsUrl: 'https://www.sympla.com.br/evento/burning-house-institution-escombro-militia-e-ingrate/3000943'
+    title: Institution + Escombro + Militia + Ingrate
+    where: Burning House
+  - poster: 511509000_1722323465050659_3048029482565320606_n.jpeg
+    city: Santo André
+    date: '29/06/2025 12:00'
+    daysGroup: 27/28/29
+    title: RESISTÊNCIA ROCK FEST com Punho de Mahin + Menores Atos + 88 NÃO! + Thiago DJ + Lamar ...
+    where: A Praieira
+  - poster: 509151410_18517614817052265_5052226409234171015_n.jpg
+    city: São Paulo
+    date: '04/09/2025 13:00'
+    daysGroup: 04/05/06/07
+    ticketsUrl: 'https://ticket.com.vc/evento/final-dose-uk-no-la-iglesias-em-sp'
+    title: Final Dose (UK) + Vazio + DOR
+    where: La Iglesia
+  - poster: 509746481_18055838267587100_3289982864114763965_n.webp
+    city: São José dos Campos
+    date: '26/07/2025 18:00'
+    daysGroup: 25/26/27
+    title: ECOS SUBURBANOS 2 com 88 NÃO! + PSHC + Inomináveis + Ejaculação Precoce
+    where: Dvel Estúdio
+  - poster: 504007757_17970523868869716_6596077546762677083_n.jpg
+    city: São Paulo
+    date: '07/09/2025 17:00'
+    daysGroup: 04/05/06/07
+    ticketsUrl: 'https://ticket.com.vc/evento/final-dose-uk-no-fffront-em-sp'
+    title: Final Dose (UK) + Obsoletion + Pele Fria + BIG
+    where: FFFront
+  - poster: 502308895_18054303407522933_4924053418785589185_n.webp
+    city: São Paulo
+    date: '10/07/2025 18:00'
+    daysGroup: 10/11/12/13
+    ticketsUrl: 'https://www.sympla.com.br/evento/caco-concha-no-porta/3009878'
+    title: CACO/CONCHA
+    where: PORTA
+  - poster: 513486540_18067983647483476_4155075763116749488_n.webp
+    city: São Paulo
+    date: '25/07/2025 20:00'
+    daysGroup: 25/26/27
+    ticketsUrl: 'https://101tickets.com.br/events/details/Megahertz,-Feitico-oculto-e-Antroforce-no-La-Igles'
+    title: Megahertz + Feitiço Oculto + Antroforce
+    where: La Iglesia
+  - poster: 503650419_18138809770412547_4151618268197003097_n.webp
+    city: São Paulo
+    date: '28/06/2025 18:00'
+    daysGroup: 27/28/29
+    title: Tunnel + Batalha + Dischavizer
+    where: NIÁ
+  - poster: 509671429_1785111715722060_8320483808364787169_n.jpeg
+    city: São Paulo
+    date: '12/07/2025 17:00'
+    daysGroup: 10/11/12/13
+    title: INVERNOISE com Vermenoise + Noiado + Malvagio + Xibari + MAKV
+    where: CRASH CLUB
+  - poster: 509918445_18183866044319587_2069213058925131173_n.webp
+    city: São Paulo
+    date: '12/07/2025 19:00'
+    daysGroup: 10/11/12/13
+    title: Herdeiros da Revolta + Condenados + Rejeitados
+    where: Depois Do Fim Do Mundo
+  - poster: 510410983_18485946109069798_284410632010090638_n.jpg
+    city: São Paulo
+    date: '27/07/2025 14:00'
+    daysGroup: 25/26/27
+    title: MATINÊ HARDCORE com Point Of No Return + Renegades Of Punk + Cätärro + Futuro + Noiado ...
+    where: Tendal da Lapa
+  - poster: 503655346_600059336468958_3100925996592753677_n.jpeg
+    city: Santo André
+    date: '25/07/2025 19:00'
+    daysGroup: 25/26/27
+    title: The Renegades Of Punk + Avante! + DJ Maycoln (Sweet Suburbia)
+    where: 74 Club
+  - poster: 503702045_18066795065280848_7385456081298736212_n.jpg
+    city: São Paulo
+    date: '29/06/2025 17:00'
+    daysGroup: 27/28/29
+    title: ARRAIÁ DO CAPETA com Under Influence + Dead Clones + Gomalakka
+    where: Depois Do Fim Do Mundo
+  - poster: 510911734_18516200986042748_2366819110082529180_n.webp
+    city: São Paulo
+    date: '08/11/2025 19:00'
+    daysGroup: 07/08/09
+    title: Cap'n Jazz
+    where: Cine Joia
+  - poster: 503408137_17855825391452432_4370673371611890720_n.jpg
+    city: São Paulo
+    date: '09/08/2025 17:00'
+    daysGroup: 06/07/08
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/heartcorefest-09-08'
+    title: HEARTCORE FEST com Medit + Demasia + Quebra + Punk Me Baby
+    where: Casa Lab
+  - poster: 509844269_18287396674249721_8782310175256459239_n.jpg
+    city: São Paulo
+    date: '09/08/2025 18:00'
+    daysGroup: 06/07/08
+    ticketsUrl: 'https://pixelticket.com.br/eventos/27713/anthares'
+    title: Anthares + Massvepower + Inferno Nuclear + Armadilha
+    where: Casa Lab
+  - poster: 511549860_17997352223684488_6256566855514662465_n.webp
+    city: São José dos Campos
+    date: '29/06/2025 18:00'
+    daysGroup: 27/28/29
+    ticketsUrl: 'https://www.bilheto.com.br/comprar/3407/'
+    title: Invasores de Cérebro + Cara de Porco + Homeless
+    where: Hocus Pocus
+  - poster: 503483080_18362608825197019_6478235673909497550_n.jpg
+    city: São Paulo
+    date: '27/06/2025 18:00'
+    daysGroup: 27/28/29
+    ticketsUrl: 'https://www.sympla.com.br/evento/pranada-em-sp-emicaeli-ao-vivo-estreia-do-vermelho-fantasma/2959632'
+    title: Emicaeli + Pranada + Vermelho Fantasma
+    where: FFFront
+  - poster: 510961697_18016632206726075_2686336805480263794_n.webp
+    city: São Paulo
+    date: '04/07/2025 20:00'
+    daysGroup: 04/05/06
+    title: Jovita + Kabeca Cheia + Sonial
+    where: A Porta Maldita
+  - poster: 502477239_3431169857026112_1446262622917192428_n.jpeg
+    city: São Paulo
+    date: '12/07/2025 17:00'
+    daysGroup: 10/11/12/13
+    title: ROQUE PAULERA com Paura + Bebê Feio + Cras
+    where: Estúdio Páprica
+  - poster: 509803215_17984901833830237_7166900998596849604_n.webp
+    city: São Paulo
+    date: '05/07/2025 19:00'
+    daysGroup: 04/05/06
+    ticketsUrl: 'https://www.sympla.com.br/evento/burning-house-infector-cell-faces-of-death-evil-sense-e-andralls/2911777'
+    title: ALIANÇA BRUTAL 5 com Faces of Death + Infector Cell + Evil Sense + Andralls
+    where: Burning House
+  - poster: 503469332_18511479859032461_4065807914892452941_n.jpg
+    city: Santo André
+    date: '05/07/2025 20:00'
+    daysGroup: 04/05/06
+    ticketsUrl: 'https://www.sympla.com.br/evento/bayside-kings-e-sapo-banjo-em-santo-andre-sp/2993462'
+    title: Bayside Kings + Sapo Banjo
+    where: 74 Club
+  - poster: 509813178_18270996115279211_6801368370915810220_n.webp
+    city: São Paulo
+    date: '11/07/2025 20:00'
+    daysGroup: 10/11/12/13
+    ticketsUrl: 'https://www.sympla.com.br/evento/a-porta-maldita-el-escama-delvindelux-decadas-infinitas/3011250'
+    title: Delvindelux + El Escama + Decadas Infinitas
+    where: A Porta Maldita
+  - poster: kool_metal_sessions_110725.jpg
+    city: São Paulo
+    date: '11/07/2025 19:00'
+    daysGroup: 10/11/12/13
+    ticketsUrl: 'https://ticket.com.vc/evento/basttardz-ma-em-sao-paulo'
+    title: Basttardz + Cemitério + Greve + PEN2 + Sem Cultura
+    where: La Iglesia
+  - poster: thesatansscourge_130725.jpg
+    city: São Paulo
+    date: '13/07/2025 17:00'
+    daysGroup: 10/11/12/13
+    ticketsUrl: 'https://ticket.com.vc/evento/the-satans-scourge-em-sp'
+    title: The Satan’s Scourge (COL) + Justabeli + Kvlto + Nameless Gods
+    where: La Iglesia
+  - poster: in_grind_we_rise_fest_030825.jpg
+    city: São Paulo
+    date: '03/08/2025 17:00'
+    daysGroup: 01/02/03
+    ticketsUrl: 'https://ticket.com.vc/evento/in-grind-we-rise-fest'
+    title: IN GRIND WE RISE FEST com Subcut + Void it + Deadly surgery + Trypophobia
+    where: La Iglesia
 ---
 
