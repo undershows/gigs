@@ -15,5 +15,12 @@ gigs:
     daysGroup: 27/28/29
     title: UP THE PUNX FEST com Surface + Leepra
     where: Tribos Bar
+  - poster: ayat050725.jpg
+    city: Curitiba
+    date: '05/07/2025 18:00'
+    daysGroup: 04/05/06
+    ticketsUrl: 'https://meaple.com.br/cpc-cwb/cpc-apresenta'
+    title: Joker + Stomp + Declive + Ayat Akrass + Clan dos Mortos Cicatriz + Your Fall
+    where: Belvedere
 ---
 

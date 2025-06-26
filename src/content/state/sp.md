@@ -297,5 +297,11 @@ gigs:
     ticketsUrl: 'https://ticket.com.vc/evento/in-grind-we-rise-fest'
     title: IN GRIND WE RISE FEST com Subcut + Void it + Deadly surgery + Trypophobia
     where: La Iglesia
+  - poster: 512670126_24359099163695834_5192075201306341276_n.jpg
+    city: São Paulo
+    date: '08/08/2025 18:00'
+    daysGroup: 06/07/08
+    title: LAMIGRA FEST com Subversores + Batalha + Estado Sombrio
+    where: Porão da Cerveja
 ---
 
