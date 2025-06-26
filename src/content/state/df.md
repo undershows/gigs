@@ -89,5 +89,17 @@ gigs:
     ticketsUrl: 'https://www.sympla.com.br/evento/mosh-under-fest-2/3003500'
     title: CROSSOVER NIGHT III com Trash Town Terror + KCC + Blackskull + Conteste + Cosmic Abyss + N.W.77
     where: Zepelim
+  - poster: mercearia_fest_4.jpeg
+    city: Taguatinga
+    date: '28/06/2025 20:00'
+    daysGroup: 27/28/29
+    title: MERCEARIA FEST 4 com Tarrasque + Mota + Song of Crows + Isolate
+    where: Moto Rock e Cia
+  - poster: sunday_noise_tagua_060725.jpeg
+    city: Taguatinga
+    date: '06/07/2025 15:00'
+    daysGroup: 06/07/08
+    title: SUNDAY NOISE com Autoextermínio + Quebraqueixo + Calmativa + Indigentes + Viscerais
+    where: Moto Rock e Cia
 ---
 
