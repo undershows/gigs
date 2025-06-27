@@ -101,5 +101,23 @@ gigs:
     daysGroup: 06/07/08
     title: SUNDAY NOISE com Autoextermínio + Quebraqueixo + Calmativa + Indigentes + Viscerais
     where: Moto Rock e Cia
+  - poster: darkraveunderground280625.jpeg
+    city: Santa Maria
+    date: '28/06/2025 19:00'
+    daysGroup: 27/28/29
+    title: DARK RAVE UNDERGROUND com Darktrip + DJ Aldine + Dj Dark Virus
+    where: Dig Rock Bar
+  - poster: santamariaprofana230825.jpeg
+    city: Santa Maria
+    date: '23/08/2025 19:00'
+    daysGroup: 22/23/24
+    title: SANTA MARIA PROFANA com Mitsein + Cerrado Hostail + What I Want + Zuada + Elka + Raika + Nikita + Kayne
+    where: Dig Rock Bar
+  - poster: underground_attack_260725.jpeg
+    city: Santa Maria
+    date: '26/07/2025 19:00'
+    daysGroup: 25/26/27
+    title: UNDERGROUND ATTACK com Death Slam + Leprosy + Seconds Of Noise + No Breath + Trash Town Terror
+    where: Dig Rock Bar
 ---
 
