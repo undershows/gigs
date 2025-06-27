@@ -21,5 +21,12 @@ gigs:
     daysGroup: 22/23/24
     title: HELLFIRE'S DOMINION IV com Velho ...
     where: Inferninho Under-Bar
+  - poster: niteroi_280625.jpeg
+    city: Niterói
+    date: '28/06/2025 20:00'
+    daysGroup: 27/28/29
+    ticketsUrl: 'https://www.sympla.com.br/evento/virias-fatal-lougo-mouro-estranhos-romanticos/2992198'
+    title: Lougo Mouro + Estranho Românticos + Virias Fatal
+    where: NEU Niterói
 ---
 
