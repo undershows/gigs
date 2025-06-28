@@ -334,5 +334,19 @@ gigs:
     daysGroup: 09/10/11/12/13
     title: Bastardz + Os Waldevinos + Em Chamas
     where: Lau Estúdio
+  - poster: 502553845_18398344069114615_5520710586491927852_n.webp
+    city: São Paulo
+    date: '26/07/2025 19:00'
+    daysGroup: 25/26/27
+    ticketsUrl: 'https://www.sympla.com.br/evento/mee-stomp-ato-falico-arize-no-la-iglesia/3014565'
+    title: Mee + Stomp + Ato Fálico + Arize
+    where: La Iglesia
+  - poster: 513288775_18509257681036297_2538352303494421128_n.webp
+    city: São Paulo
+    date: '04/07/2025 19:00'
+    daysGroup: 04/05/06
+    ticketsUrl: 'https://www.sympla.com.br/evento/gritando-h-c-libertariamente/2979992'
+    title: Gritando HC + Pacto Social + Pat E Os Condenados + Menstruação Anarquika
+    where: Red Star Studios
 ---
 
