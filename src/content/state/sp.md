@@ -52,7 +52,7 @@ gigs:
   - poster: 0f36ad27-7622-4b3e-b5a2-c3c80ecc366c.jpeg
     city: São Paulo
     date: '12/07/2025 16:00'
-    daysGroup: 10/11/12/13
+    daysGroup: 09/10/11/12/13
     title: F.H.C + Skarnio + Trágico + Desprezo + Estado Sombrio + Maldita Ambição
     where: NIÁ
   - poster: 508151383_9978942172199269_5742370569863820757_n.jpg
@@ -64,7 +64,7 @@ gigs:
   - poster: 508556622_10232945592999533_2979710659488891891_n.jpg
     city: São Paulo
     date: '12/07/2025 22:00'
-    daysGroup: 10/11/12/13
+    daysGroup: 09/10/11/12/13
     title: >-
       BATCAVE REUNION com Fabi Kirby + Death Boy + Nill Salles + Marcão + Junior
       Core + Jenny Jenny
@@ -116,7 +116,7 @@ gigs:
   - poster: 510312566_18367047838183339_542136502656781053_n.jpg
     city: Catanduva
     date: '11/07/2025 18:00'
-    daysGroup: 10/11/12/13
+    daysGroup: 09/10/11/12/13
     ticketsUrl: 'https://www.sescsp.org.br/programacao/catandupedras-dia-11-7/'
     title: CATANDUPEDRA com Crypta + Ratos de Porão + Pão Com Cebola
     where: SESC Catanduva
@@ -129,7 +129,7 @@ gigs:
   - poster: 503590438_17843187063520604_7751758028063186027_n.webp
     city: São Paulo
     date: '12/07/2025 19:00'
-    daysGroup: 10/11/12/13
+    daysGroup: 09/10/11/12/13
     ticketsUrl: 'https://www.sympla.com.br/evento/burning-house-institution-escombro-militia-e-ingrate/3000943'
     title: Institution + Escombro + Militia + Ingrate
     where: Burning House
@@ -162,7 +162,7 @@ gigs:
   - poster: 502308895_18054303407522933_4924053418785589185_n.webp
     city: São Paulo
     date: '10/07/2025 18:00'
-    daysGroup: 10/11/12/13
+    daysGroup: 09/10/11/12/13
     ticketsUrl: 'https://www.sympla.com.br/evento/caco-concha-no-porta/3009878'
     title: CACO/CONCHA
     where: PORTA
@@ -182,13 +182,13 @@ gigs:
   - poster: 509671429_1785111715722060_8320483808364787169_n.jpeg
     city: São Paulo
     date: '12/07/2025 17:00'
-    daysGroup: 10/11/12/13
+    daysGroup: 09/10/11/12/13
     title: INVERNOISE com Vermenoise + Noiado + Malvagio + Xibari + MAKV
     where: CRASH CLUB
   - poster: 509918445_18183866044319587_2069213058925131173_n.webp
     city: São Paulo
     date: '12/07/2025 19:00'
-    daysGroup: 10/11/12/13
+    daysGroup: 09/10/11/12/13
     title: Herdeiros da Revolta + Condenados + Rejeitados
     where: Depois Do Fim Do Mundo
   - poster: 510410983_18485946109069798_284410632010090638_n.jpg
@@ -252,7 +252,7 @@ gigs:
   - poster: 502477239_3431169857026112_1446262622917192428_n.jpeg
     city: São Paulo
     date: '12/07/2025 17:00'
-    daysGroup: 10/11/12/13
+    daysGroup: 09/10/11/12/13
     title: ROQUE PAULERA com Paura + Bebê Feio + Cras
     where: Estúdio Páprica
   - poster: 509803215_17984901833830237_7166900998596849604_n.webp
@@ -272,21 +272,21 @@ gigs:
   - poster: 509813178_18270996115279211_6801368370915810220_n.webp
     city: São Paulo
     date: '11/07/2025 20:00'
-    daysGroup: 10/11/12/13
+    daysGroup: 09/10/11/12/13
     ticketsUrl: 'https://www.sympla.com.br/evento/a-porta-maldita-el-escama-delvindelux-decadas-infinitas/3011250'
     title: Delvindelux + El Escama + Decadas Infinitas
     where: A Porta Maldita
   - poster: kool_metal_sessions_110725.jpg
     city: São Paulo
     date: '11/07/2025 19:00'
-    daysGroup: 10/11/12/13
+    daysGroup: 09/10/11/12/13
     ticketsUrl: 'https://ticket.com.vc/evento/basttardz-ma-em-sao-paulo'
     title: Basttardz + Cemitério + Greve + PEN2 + Sem Cultura
     where: La Iglesia
   - poster: thesatansscourge_130725.jpg
     city: São Paulo
     date: '13/07/2025 17:00'
-    daysGroup: 10/11/12/13
+    daysGroup: 09/10/11/12/13
     ticketsUrl: 'https://ticket.com.vc/evento/the-satans-scourge-em-sp'
     title: The Satan’s Scourge (COL) + Justabeli + Kvlto + Nameless Gods
     where: La Iglesia
@@ -303,5 +303,24 @@ gigs:
     daysGroup: 06/07/08
     title: LAMIGRA FEST com Subversores + Batalha + Estado Sombrio
     where: Porão da Cerveja
+  - poster: doc90_130725.jpg
+    city: São Paulo
+    date: '13/07/2025 18:00'
+    daysGroup: 09/10/11/12/13
+    ticketsUrl: 'https://www.eventbrite.com/e/sessao-do-hardcore-90-no-salad-days-tickets-1434755936629'
+    title: SESSÃO ESPECIAL DO HARDCORE 90 - Bate Papo com os diretores Marcelo Fonseca e George Ferreira
+    where: Salad Days
+  - poster: cantifest_230825.jpeg
+    city: São Paulo
+    date: '23/08/2025 16:00'
+    daysGroup: 09/10/11/12/13
+    title: HARDCORE BENEFICIENTE com Instituion + Crexpo + Estilhaço + Em Chamas + Gøssip
+    where: Rock Together
+  - poster: osasco_090725.jpg
+    city: Osasco
+    date: '09/07/2025 17:00'
+    daysGroup: 09/10/11/12/13
+    title: Bastardz + Os Waldevinos + Em Chamas
+    where: Lau Estúdio
 ---
 
