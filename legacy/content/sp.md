@@ -5829,5 +5829,13 @@ gigs:
     ticketsUrl: 'https://www.ddtickets.com.br/comprar/31/possessed-em-sao-paulo'
     title: Possessed (USA) + Blasthrash + Siegred Ingrid ...
     where: Vip Station
+  - poster: 503483080_18362608825197019_6478235673909497550_n.jpg
+    city: São Paulo
+    date: '27/06/2025 18:00'
+    daysGroup: 27/28/29
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/pranada-em-sp-emicaeli-ao-vivo-estreia-do-vermelho-fantasma/2959632
+    title: Emicaeli + Pranada + Vermelho Fantasma
+    where: FFFront
 ---
 

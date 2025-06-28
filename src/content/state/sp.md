@@ -98,7 +98,8 @@ gigs:
     city: São Paulo
     date: '18/07/2025 19:00'
     daysGroup: 18/19/20
-    ticketsUrl: 'https://www.sympla.com.br/evento/el-regreso-de-los-que-no-fueran-no-dfm-punho-de-mahin-traste-e-discurso-de-pobre/3006120'
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/el-regreso-de-los-que-no-fueran-no-dfm-punho-de-mahin-traste-e-discurso-de-pobre/3006120
     title: Punho de Mahin + Discurso de Pobre + Traste
     where: Depois Do Fim Do Mundo
   - poster: 511522460_1051752237079181_4513938084669417698_n.jpeg
@@ -124,20 +125,25 @@ gigs:
     city: São Paulo
     date: '06/07/2025 15:00'
     daysGroup: 05/06/07
-    title: QUEBRA DENTE FEST com Cadáver de Anão + Casca de Ferida + Disgosto + Sem Cultura
+    title: >-
+      QUEBRA DENTE FEST com Cadáver de Anão + Casca de Ferida + Disgosto + Sem
+      Cultura
     where: Porão da Cerveja
   - poster: 503590438_17843187063520604_7751758028063186027_n.webp
     city: São Paulo
     date: '12/07/2025 19:00'
     daysGroup: 09/10/11/12/13
-    ticketsUrl: 'https://www.sympla.com.br/evento/burning-house-institution-escombro-militia-e-ingrate/3000943'
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/burning-house-institution-escombro-militia-e-ingrate/3000943
     title: Institution + Escombro + Militia + Ingrate
     where: Burning House
   - poster: 511509000_1722323465050659_3048029482565320606_n.jpeg
     city: Santo André
     date: '29/06/2025 12:00'
     daysGroup: 27/28/29
-    title: RESISTÊNCIA ROCK FEST com Punho de Mahin + Menores Atos + 88 NÃO! + Thiago DJ + Lamar ...
+    title: >-
+      RESISTÊNCIA ROCK FEST com Punho de Mahin + Menores Atos + 88 NÃO! + Thiago
+      DJ + Lamar ...
     where: A Praieira
   - poster: 509151410_18517614817052265_5052226409234171015_n.jpg
     city: São Paulo
@@ -170,7 +176,8 @@ gigs:
     city: São Paulo
     date: '25/07/2025 20:00'
     daysGroup: 25/26/27
-    ticketsUrl: 'https://101tickets.com.br/events/details/Megahertz,-Feitico-oculto-e-Antroforce-no-La-Igles'
+    ticketsUrl: >-
+      https://101tickets.com.br/events/details/Megahertz,-Feitico-oculto-e-Antroforce-no-La-Igles
     title: Megahertz + Feitiço Oculto + Antroforce
     where: La Iglesia
   - poster: 503650419_18138809770412547_4151618268197003097_n.webp
@@ -195,7 +202,9 @@ gigs:
     city: São Paulo
     date: '27/07/2025 14:00'
     daysGroup: 25/26/27
-    title: MATINÊ HARDCORE com Point Of No Return + Renegades Of Punk + Cätärro + Futuro + Noiado ...
+    title: >-
+      MATINÊ HARDCORE com Point Of No Return + Renegades Of Punk + Cätärro +
+      Futuro + Noiado ...
     where: Tendal da Lapa
   - poster: 503655346_600059336468958_3100925996592753677_n.jpeg
     city: Santo André
@@ -236,13 +245,6 @@ gigs:
     ticketsUrl: 'https://www.bilheto.com.br/comprar/3407/'
     title: Invasores de Cérebro + Cara de Porco + Homeless
     where: Hocus Pocus
-  - poster: 503483080_18362608825197019_6478235673909497550_n.jpg
-    city: São Paulo
-    date: '27/06/2025 18:00'
-    daysGroup: 27/28/29
-    ticketsUrl: 'https://www.sympla.com.br/evento/pranada-em-sp-emicaeli-ao-vivo-estreia-do-vermelho-fantasma/2959632'
-    title: Emicaeli + Pranada + Vermelho Fantasma
-    where: FFFront
   - poster: 510961697_18016632206726075_2686336805480263794_n.webp
     city: São Paulo
     date: '04/07/2025 20:00'
@@ -259,21 +261,26 @@ gigs:
     city: São Paulo
     date: '05/07/2025 19:00'
     daysGroup: 04/05/06
-    ticketsUrl: 'https://www.sympla.com.br/evento/burning-house-infector-cell-faces-of-death-evil-sense-e-andralls/2911777'
-    title: ALIANÇA BRUTAL 5 com Faces of Death + Infector Cell + Evil Sense + Andralls
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/burning-house-infector-cell-faces-of-death-evil-sense-e-andralls/2911777
+    title: >-
+      ALIANÇA BRUTAL 5 com Faces of Death + Infector Cell + Evil Sense +
+      Andralls
     where: Burning House
   - poster: 503469332_18511479859032461_4065807914892452941_n.jpg
     city: Santo André
     date: '05/07/2025 20:00'
     daysGroup: 04/05/06
-    ticketsUrl: 'https://www.sympla.com.br/evento/bayside-kings-e-sapo-banjo-em-santo-andre-sp/2993462'
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/bayside-kings-e-sapo-banjo-em-santo-andre-sp/2993462
     title: Bayside Kings + Sapo Banjo
     where: 74 Club
   - poster: 509813178_18270996115279211_6801368370915810220_n.webp
     city: São Paulo
     date: '11/07/2025 20:00'
     daysGroup: 09/10/11/12/13
-    ticketsUrl: 'https://www.sympla.com.br/evento/a-porta-maldita-el-escama-delvindelux-decadas-infinitas/3011250'
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/a-porta-maldita-el-escama-delvindelux-decadas-infinitas/3011250
     title: Delvindelux + El Escama + Decadas Infinitas
     where: A Porta Maldita
   - poster: kool_metal_sessions_110725.jpg
@@ -307,14 +314,19 @@ gigs:
     city: São Paulo
     date: '13/07/2025 18:00'
     daysGroup: 09/10/11/12/13
-    ticketsUrl: 'https://www.eventbrite.com/e/sessao-do-hardcore-90-no-salad-days-tickets-1434755936629'
-    title: SESSÃO ESPECIAL DO HARDCORE 90 - Bate Papo com os diretores Marcelo Fonseca e George Ferreira
+    ticketsUrl: >-
+      https://www.eventbrite.com/e/sessao-do-hardcore-90-no-salad-days-tickets-1434755936629
+    title: >-
+      SESSÃO ESPECIAL DO HARDCORE 90 - Bate Papo com os diretores Marcelo
+      Fonseca e George Ferreira
     where: Salad Days
   - poster: cantifest_230825.jpeg
     city: São Paulo
     date: '23/08/2025 16:00'
     daysGroup: 09/10/11/12/13
-    title: HARDCORE BENEFICIENTE com Instituion + Crexpo + Estilhaço + Em Chamas + Gøssip
+    title: >-
+      HARDCORE BENEFICIENTE com Instituion + Crexpo + Estilhaço + Em Chamas +
+      Gøssip
     where: Rock Together
   - poster: osasco_090725.jpg
     city: Osasco
