@@ -363,5 +363,26 @@ gigs:
     daysGroup: 20/21/22
     title: PODRERA convida Zuada + Terror Revolucionário + Trash Town Terror ...
     where: Moto Rock e Cia
+  - poster: crossover_night_3.jpg
+    city: Brasília
+    date: '28/06/2025 18:00'
+    daysGroup: 27/28/29
+    ticketsUrl: 'https://www.sympla.com.br/evento/mosh-under-fest-2/3003500'
+    title: >-
+      CROSSOVER NIGHT III com Trash Town Terror + KCC + Blackskull + Conteste +
+      Cosmic Abyss + N.W.77
+    where: Zepelim
+  - poster: mercearia_fest_4.jpeg
+    city: Taguatinga
+    date: '28/06/2025 20:00'
+    daysGroup: 27/28/29
+    title: MERCEARIA FEST 4 com Tarrasque + Mota + Song of Crows + Isolate
+    where: Moto Rock e Cia
+  - poster: darkraveunderground280625.jpeg
+    city: Santa Maria
+    date: '28/06/2025 19:00'
+    daysGroup: 27/28/29
+    title: DARK RAVE UNDERGROUND com Darktrip + DJ Aldine + Dj Dark Virus
+    where: Dig Rock Bar
 ---
 

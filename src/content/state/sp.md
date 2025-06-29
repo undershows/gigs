@@ -55,12 +55,6 @@ gigs:
     daysGroup: 09/10/11/12/13
     title: F.H.C + Skarnio + Trágico + Desprezo + Estado Sombrio + Maldita Ambição
     where: NIÁ
-  - poster: 508151383_9978942172199269_5742370569863820757_n.jpg
-    city: Campo Limpo Paulista
-    date: '28/06/2025 18:30'
-    daysGroup: 27/28/29
-    title: ESTORATIMPANO II com Odio Social + Sujeito a Lixo
-    where: Gu Kustom Bar
   - poster: 508556622_10232945592999533_2979710659488891891_n.jpg
     city: São Paulo
     date: '12/07/2025 22:00'
@@ -102,12 +96,6 @@ gigs:
       https://www.sympla.com.br/evento/el-regreso-de-los-que-no-fueran-no-dfm-punho-de-mahin-traste-e-discurso-de-pobre/3006120
     title: Punho de Mahin + Discurso de Pobre + Traste
     where: Depois Do Fim Do Mundo
-  - poster: 511522460_1051752237079181_4513938084669417698_n.jpeg
-    city: São Caetano do Sul
-    date: '28/06/2025 20:00'
-    daysGroup: 27/28/29
-    title: Siegrid Ingrid + Sacrifix
-    where: Necropole Hall
   - poster: 503530847_2792765300934676_6619098260692544213_n.jpeg
     city: São Paulo
     date: '06/07/2025 18:00'
@@ -180,12 +168,6 @@ gigs:
       https://101tickets.com.br/events/details/Megahertz,-Feitico-oculto-e-Antroforce-no-La-Igles
     title: Megahertz + Feitiço Oculto + Antroforce
     where: La Iglesia
-  - poster: 503650419_18138809770412547_4151618268197003097_n.webp
-    city: São Paulo
-    date: '28/06/2025 18:00'
-    daysGroup: 27/28/29
-    title: Tunnel + Batalha + Dischavizer
-    where: NIÁ
   - poster: 509671429_1785111715722060_8320483808364787169_n.jpeg
     city: São Paulo
     date: '12/07/2025 17:00'
@@ -338,7 +320,8 @@ gigs:
     city: São Paulo
     date: '26/07/2025 19:00'
     daysGroup: 25/26/27
-    ticketsUrl: 'https://www.sympla.com.br/evento/mee-stomp-ato-falico-arize-no-la-iglesia/3014565'
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/mee-stomp-ato-falico-arize-no-la-iglesia/3014565
     title: Mee + Stomp + Ato Fálico + Arize
     where: La Iglesia
   - poster: 513288775_18509257681036297_2538352303494421128_n.webp

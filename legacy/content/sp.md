@@ -5837,5 +5837,23 @@ gigs:
       https://www.sympla.com.br/evento/pranada-em-sp-emicaeli-ao-vivo-estreia-do-vermelho-fantasma/2959632
     title: Emicaeli + Pranada + Vermelho Fantasma
     where: FFFront
+  - poster: 508151383_9978942172199269_5742370569863820757_n.jpg
+    city: Campo Limpo Paulista
+    date: '28/06/2025 18:30'
+    daysGroup: 27/28/29
+    title: ESTORATIMPANO II com Odio Social + Sujeito a Lixo
+    where: Gu Kustom Bar
+  - poster: 511522460_1051752237079181_4513938084669417698_n.jpeg
+    city: São Caetano do Sul
+    date: '28/06/2025 20:00'
+    daysGroup: 27/28/29
+    title: Siegrid Ingrid + Sacrifix
+    where: Necropole Hall
+  - poster: 503650419_18138809770412547_4151618268197003097_n.webp
+    city: São Paulo
+    date: '28/06/2025 18:00'
+    daysGroup: 27/28/29
+    title: Tunnel + Batalha + Dischavizer
+    where: NIÁ
 ---
 

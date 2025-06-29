@@ -201,5 +201,14 @@ gigs:
       SEXTA-FEIRA 13 BENEFICIENTE com Critical Fear + Sick Civilization +
       Lascados + Baba de Sheeva
     where: Capim Pub
+  - poster: santorock_280625.jpeg
+    city: Vila de São Jorge (Chapada dos Veadeiros)
+    date: '28/06/2025 20:00'
+    daysGroup: 27/28/29
+    ticketsUrl: 'https://www.ddtickets.com.br/comprar/31/possessed-em-sao-paulo'
+    title: >-
+      11ª Edição Santo Rock com Pedro Rocan (Projeto Minduim) + Gabriel Thomaz
+      Trio (Autoramas e Little Quail) ...
+    where: Risoteria Santo Cerrado
 ---
 

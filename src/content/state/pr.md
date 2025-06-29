@@ -2,13 +2,6 @@
 abbr: PR
 name: Paraná
 gigs:
-  - poster: 491468716_18301057381211039_6038580840628513266_n.jpg
-    city: Curitiba
-    date: '28/06/2025 20:00'
-    daysGroup: 27/28/29
-    ticketsUrl: 'https://meaple.com.br/belvedere/garotos-podres-bvdr-2025'
-    title: Garotos Podres + Macumbazilla + Mustaphorius
-    where: Belvedere
   - poster: upthepunkfest29062025.png
     city: Maringá
     date: '29/06/2025 18:00'
@@ -20,13 +13,17 @@ gigs:
     date: '05/07/2025 18:00'
     daysGroup: 04/05/06
     ticketsUrl: 'https://meaple.com.br/cpc-cwb/cpc-apresenta'
-    title: Joker + Stomp + Declive + Ayat Akrass + Clan dos Mortos Cicatriz + Your Fall
+    title: >-
+      Joker + Stomp + Declive + Ayat Akrass + Clan dos Mortos Cicatriz + Your
+      Fall
     where: Belvedere
   - poster: prejuizofest3_150825.JPG
     city: Curitiba
     date: '15/08/2025 19:00'
     daysGroup: 15/16/17
-    title: PREJUÍZO FEST III com Espectro + Better Leave Town + Not An Ideal Boy + Sometimes Sad
+    title: >-
+      PREJUÍZO FEST III com Espectro + Better Leave Town + Not An Ideal Boy +
+      Sometimes Sad
     where: Janaino Vegan
 ---
 
