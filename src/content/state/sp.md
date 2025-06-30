@@ -304,5 +304,18 @@ gigs:
     ticketsUrl: 'https://www.sympla.com.br/evento/gritando-h-c-libertariamente/2979992'
     title: Gritando HC + Pacto Social + Pat E Os Condenados + Menstruação Anarquika
     where: Red Star Studios
+  - poster: 1000260515.jpg
+    city: Serrana
+    date: '13/07/2025 12:00'
+    daysGroup: 09/10/11/12/13
+    title: CAIPIROROCK com Inocentes + Crypta + Black Pantera + Zumbis Do Esspaço ...
+    where: Praça da Bike
+  - poster: hof_110725.jpg
+    city: São Paulo
+    date: '11/07/2025 21:00'
+    daysGroup: 09/10/11/12/13
+    ticketsUrl: 'https://www.sympla.com.br/evento/bandas-seu-plutao-e-house-of-rock/2998328'
+    title: Seu Plutão + House Of Rock
+    where: House of Legends
 ---
 
