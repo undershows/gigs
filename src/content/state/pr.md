@@ -2,12 +2,6 @@
 abbr: PR
 name: Paraná
 gigs:
-  - poster: upthepunkfest29062025.png
-    city: Maringá
-    date: '29/06/2025 18:00'
-    daysGroup: 27/28/29
-    title: UP THE PUNX FEST com Surface + Leepra
-    where: Tribos Bar
   - poster: ayat050725.jpg
     city: Curitiba
     date: '05/07/2025 18:00'

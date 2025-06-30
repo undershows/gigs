@@ -384,5 +384,14 @@ gigs:
     daysGroup: 27/28/29
     title: DARK RAVE UNDERGROUND com Darktrip + DJ Aldine + Dj Dark Virus
     where: Dig Rock Bar
+  - poster: mosh_under_fest_290625.jpeg
+    city: Taguatinga
+    date: '29/06/2025 16:00'
+    daysGroup: 27/28/29
+    ticketsUrl: 'https://www.sympla.com.br/evento/mosh-under-fest-2/3003500'
+    title: >-
+      MOSH UNDER FEST com Fourkaos + Beholder's Cult + Viscerais + Morbid
+      Devournment
+    where: Moto Rock e Cia
 ---
 

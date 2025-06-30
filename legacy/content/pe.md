@@ -174,5 +174,13 @@ gigs:
       https://www.sympla.com.br/evento/immolation-nervochaos-decomposed-god/2949873
     title: Immolation (USA) + Nervochaos + Decomposed God
     where: Red Dog Pub
+  - poster: 511503513_18514041625036481_5466723137013112378_n.webp
+    city: Caruaru
+    date: '29/06/2025 18:00'
+    daysGroup: 27/28/29
+    title: >-
+      ALÉM DE ROCK? NADA! com Tartarugas de Patinetes + Junkie Brodis + Inanna
+      Punk
+    where: Metal Beer
 ---
 

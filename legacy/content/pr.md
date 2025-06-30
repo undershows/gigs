@@ -580,5 +580,11 @@ gigs:
     ticketsUrl: 'https://meaple.com.br/belvedere/garotos-podres-bvdr-2025'
     title: Garotos Podres + Macumbazilla + Mustaphorius
     where: Belvedere
+  - poster: upthepunkfest29062025.png
+    city: Maringá
+    date: '29/06/2025 18:00'
+    daysGroup: 27/28/29
+    title: UP THE PUNX FEST com Surface + Leepra
+    where: Tribos Bar
 ---
 

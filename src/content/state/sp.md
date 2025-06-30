@@ -69,12 +69,6 @@ gigs:
     daysGroup: 25/26/27
     title: Trypophobia + Corrosiva + Aweti + Against X Filé
     where: Porão da Cerveja
-  - poster: 505481225_18069958441987583_927618124109413666_n.jpg
-    city: São Paulo
-    date: '29/06/2025 16:00'
-    daysGroup: 27/28/29
-    title: Desprezo (Lançamento do 7") + Pode Pa + Sem Cultura + Pöstvmö + Escärro
-    where: Rock Together
   - poster: 511993984_9933671376701199_5511849628259997267_n.jpg
     city: São Paulo
     date: '05/07/2025 15:00'
@@ -125,14 +119,6 @@ gigs:
       https://www.sympla.com.br/evento/burning-house-institution-escombro-militia-e-ingrate/3000943
     title: Institution + Escombro + Militia + Ingrate
     where: Burning House
-  - poster: 511509000_1722323465050659_3048029482565320606_n.jpeg
-    city: Santo André
-    date: '29/06/2025 12:00'
-    daysGroup: 27/28/29
-    title: >-
-      RESISTÊNCIA ROCK FEST com Punho de Mahin + Menores Atos + 88 NÃO! + Thiago
-      DJ + Lamar ...
-    where: A Praieira
   - poster: 509151410_18517614817052265_5052226409234171015_n.jpg
     city: São Paulo
     date: '04/09/2025 13:00'
@@ -194,12 +180,6 @@ gigs:
     daysGroup: 25/26/27
     title: The Renegades Of Punk + Avante! + DJ Maycoln (Sweet Suburbia)
     where: 74 Club
-  - poster: 503702045_18066795065280848_7385456081298736212_n.jpg
-    city: São Paulo
-    date: '29/06/2025 17:00'
-    daysGroup: 27/28/29
-    title: ARRAIÁ DO CAPETA com Under Influence + Dead Clones + Gomalakka
-    where: Depois Do Fim Do Mundo
   - poster: 510911734_18516200986042748_2366819110082529180_n.webp
     city: São Paulo
     date: '08/11/2025 19:00'
@@ -220,13 +200,6 @@ gigs:
     ticketsUrl: 'https://pixelticket.com.br/eventos/27713/anthares'
     title: Anthares + Massvepower + Inferno Nuclear + Armadilha
     where: Casa Lab
-  - poster: 511549860_17997352223684488_6256566855514662465_n.webp
-    city: São José dos Campos
-    date: '29/06/2025 18:00'
-    daysGroup: 27/28/29
-    ticketsUrl: 'https://www.bilheto.com.br/comprar/3407/'
-    title: Invasores de Cérebro + Cara de Porco + Homeless
-    where: Hocus Pocus
   - poster: 510961697_18016632206726075_2686336805480263794_n.webp
     city: São Paulo
     date: '04/07/2025 20:00'
