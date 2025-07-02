@@ -27,5 +27,11 @@ gigs:
     daysGroup: 18/19/20
     title: KINTURA HARDCORE com Bixanu + Infront + Milkshake na Vala + Morte ao Rei
     where: Backstage Bar
+  - poster: IMG-20250701-WA0172.jpg
+    city: Natal
+    date: '05/07/2025 13:00'
+    daysGroup: 04/05/06
+    title: ANIVERSÁRIO BACKSTAGE com Jubarte Ataca + Born To Freedom + Tonantzin + Kataphero ...
+    where: Backstage Bar
 ---
 

@@ -38,5 +38,11 @@ gigs:
     daysGroup: 04/05/06
     title: The Laws + Nadam No Mercy + Leprosy
     where: De Leon Music Pub
+  - poster: confrapostour_050725.jpeg
+    city: Goiânia
+    date: '05/07/2025 20:00'
+    daysGroup: 04/05/06
+    title: Duckbob + Banana Bipolar
+    where: Woodstock Rock Bar
 ---
 

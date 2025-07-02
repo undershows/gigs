@@ -97,5 +97,11 @@ gigs:
       UNDERGROUND ATTACK com Death Slam + Leprosy + Seconds Of Noise + No Breath
       + Trash Town Terror
     where: Dig Rock Bar
+  - poster: 19feiravinil_050725.jpeg
+    city: Brasília
+    date: '05/07/2025 10:00'
+    daysGroup: 06/07/08
+    title: 19 Feira Do Vinil
+    where: Conic
 ---
 
