@@ -31,6 +31,7 @@ gigs:
     city: Natal
     date: '05/07/2025 13:00'
     daysGroup: 04/05/06
+    ticketsUrl: 'https://outgo.com.br/aniversario-do-backstage'
     title: ANIVERSÁRIO BACKSTAGE com Jubarte Ataca + Born To Freedom + Tonantzin + Kataphero ...
     where: Backstage Bar
 ---
