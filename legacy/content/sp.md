@@ -5882,5 +5882,18 @@ gigs:
     ticketsUrl: 'https://www.bilheto.com.br/comprar/3407/'
     title: Invasores de Cérebro + Cara de Porco + Homeless
     where: Hocus Pocus
+  - poster: 510961697_18016632206726075_2686336805480263794_n.webp
+    city: São Paulo
+    date: '04/07/2025 20:00'
+    daysGroup: 04/05/06
+    title: Jovita + Kabeca Cheia + Sonial
+    where: A Porta Maldita
+  - poster: 513288775_18509257681036297_2538352303494421128_n.webp
+    city: São Paulo
+    date: '04/07/2025 19:00'
+    daysGroup: 04/05/06
+    ticketsUrl: 'https://www.sympla.com.br/evento/gritando-h-c-libertariamente/2979992'
+    title: Gritando HC + Pacto Social + Pat E Os Condenados + Menstruação Anarquika
+    where: Red Star Studios
 ---
 

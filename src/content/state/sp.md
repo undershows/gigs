@@ -200,12 +200,6 @@ gigs:
     ticketsUrl: 'https://pixelticket.com.br/eventos/27713/anthares'
     title: Anthares + Massvepower + Inferno Nuclear + Armadilha
     where: Casa Lab
-  - poster: 510961697_18016632206726075_2686336805480263794_n.webp
-    city: São Paulo
-    date: '04/07/2025 20:00'
-    daysGroup: 04/05/06
-    title: Jovita + Kabeca Cheia + Sonial
-    where: A Porta Maldita
   - poster: 502477239_3431169857026112_1446262622917192428_n.jpeg
     city: São Paulo
     date: '12/07/2025 17:00'
@@ -297,13 +291,6 @@ gigs:
       https://www.sympla.com.br/evento/mee-stomp-ato-falico-arize-no-la-iglesia/3014565
     title: Mee + Stomp + Ato Fálico + Arize
     where: La Iglesia
-  - poster: 513288775_18509257681036297_2538352303494421128_n.webp
-    city: São Paulo
-    date: '04/07/2025 19:00'
-    daysGroup: 04/05/06
-    ticketsUrl: 'https://www.sympla.com.br/evento/gritando-h-c-libertariamente/2979992'
-    title: Gritando HC + Pacto Social + Pat E Os Condenados + Menstruação Anarquika
-    where: Red Star Studios
   - poster: 1000260515.jpg
     city: Serrana
     date: '13/07/2025 12:00'
