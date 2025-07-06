@@ -11,13 +11,6 @@ gigs:
       Vision Of Rock com Metalucifer (JAP), Sabathan (SWE) + Cruel Force (GER) +
       Atomic Aggressor (CHI) ...
     where: Vip Station
-  - poster: 472219626_482207091562821_1434749775651793338_n.jpeg
-    city: Santo André
-    date: '05/07/2025 12:00'
-    daysGroup: 04/05/06
-    ticketsUrl: 'https://uticket.com.br/event/01KHKCXDXT25S9'
-    title: Urban Festival com Black Pantera + Pavilhão 9 + Rancore + Garage Fuzz ...
-    where: Espaço Força Viva
   - poster: setembro_negro_2025.jpg
     city: São Paulo
     date: '07/09/2025 13:00'
@@ -69,12 +62,6 @@ gigs:
     daysGroup: 25/26/27
     title: Trypophobia + Corrosiva + Aweti + Against X Filé
     where: Porão da Cerveja
-  - poster: 511993984_9933671376701199_5511849628259997267_n.jpg
-    city: São Paulo
-    date: '05/07/2025 15:00'
-    daysGroup: 04/05/06
-    title: Social Chaos + Test + Puukkojunkkari + Distravaätravä + Subvermes
-    where: Instituto Raiz da Serra
   - poster: 511379434_17973592214896515_6348727905539506842_n.webp
     city: São Paulo
     date: '19/07/2025 20:00'
@@ -206,24 +193,6 @@ gigs:
     daysGroup: 09/10/11/12/13
     title: ROQUE PAULERA com Paura + Bebê Feio + Cras
     where: Estúdio Páprica
-  - poster: 509803215_17984901833830237_7166900998596849604_n.webp
-    city: São Paulo
-    date: '05/07/2025 19:00'
-    daysGroup: 04/05/06
-    ticketsUrl: >-
-      https://www.sympla.com.br/evento/burning-house-infector-cell-faces-of-death-evil-sense-e-andralls/2911777
-    title: >-
-      ALIANÇA BRUTAL 5 com Faces of Death + Infector Cell + Evil Sense +
-      Andralls
-    where: Burning House
-  - poster: 503469332_18511479859032461_4065807914892452941_n.jpg
-    city: Santo André
-    date: '05/07/2025 20:00'
-    daysGroup: 04/05/06
-    ticketsUrl: >-
-      https://www.sympla.com.br/evento/bayside-kings-e-sapo-banjo-em-santo-andre-sp/2993462
-    title: Bayside Kings + Sapo Banjo
-    where: 74 Club
   - poster: 509813178_18270996115279211_6801368370915810220_n.webp
     city: São Paulo
     date: '11/07/2025 20:00'

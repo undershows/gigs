@@ -393,5 +393,11 @@ gigs:
       MOSH UNDER FEST com Fourkaos + Beholder's Cult + Viscerais + Morbid
       Devournment
     where: Moto Rock e Cia
+  - poster: 19feiravinil_050725.jpeg
+    city: Brasília
+    date: '05/07/2025 10:00'
+    daysGroup: 06/07/08
+    title: 19 Feira Do Vinil
+    where: Conic
 ---
 

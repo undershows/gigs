@@ -196,5 +196,14 @@ gigs:
       https://www.sympla.com.br/evento/immolation-nervochaos-profane-anger/2949791
     title: Immolation (USA) + Nervochaos + Profane Anger
     where: Red Dog Pub
+  - poster: IMG-20250701-WA0172.jpg
+    city: Natal
+    date: '05/07/2025 13:00'
+    daysGroup: 04/05/06
+    ticketsUrl: 'https://outgo.com.br/aniversario-do-backstage'
+    title: >-
+      ANIVERSÁRIO BACKSTAGE com Jubarte Ataca + Born To Freedom + Tonantzin +
+      Kataphero ...
+    where: Backstage Bar
 ---
 
