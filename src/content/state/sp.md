@@ -77,12 +77,6 @@ gigs:
       https://www.sympla.com.br/evento/el-regreso-de-los-que-no-fueran-no-dfm-punho-de-mahin-traste-e-discurso-de-pobre/3006120
     title: Punho de Mahin + Discurso de Pobre + Traste
     where: Depois Do Fim Do Mundo
-  - poster: 503530847_2792765300934676_6619098260692544213_n.jpeg
-    city: São Paulo
-    date: '06/07/2025 18:00'
-    daysGroup: 05/06/07
-    title: Deaf Kids
-    where: Centro Cultural São Paulo
   - poster: 510312566_18367047838183339_542136502656781053_n.jpg
     city: Catanduva
     date: '11/07/2025 18:00'
@@ -90,14 +84,6 @@ gigs:
     ticketsUrl: 'https://www.sescsp.org.br/programacao/catandupedras-dia-11-7/'
     title: CATANDUPEDRA com Crypta + Ratos de Porão + Pão Com Cebola
     where: SESC Catanduva
-  - poster: 503424246_1760352681501442_8814554683569825859_n.jpeg
-    city: São Paulo
-    date: '06/07/2025 15:00'
-    daysGroup: 05/06/07
-    title: >-
-      QUEBRA DENTE FEST com Cadáver de Anão + Casca de Ferida + Disgosto + Sem
-      Cultura
-    where: Porão da Cerveja
   - poster: 503590438_17843187063520604_7751758028063186027_n.webp
     city: São Paulo
     date: '12/07/2025 19:00'

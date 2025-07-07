@@ -55,12 +55,6 @@ gigs:
     daysGroup: 11/12/13
     title: WORM ATTACK 4 com What I Want + Xarope + Transtorno Nuclear ...
     where: Alquimia Taberna Bar
-  - poster: thelaws_060725.jpeg
-    city: Brasília
-    date: '06/07/2025 19:00'
-    daysGroup: 06/07/08
-    title: The Laws + Sarcofago + Muderless + Death Slam ...
-    where: Infinu Comunidade Criativa
   - poster: meiodiaemponto_120725.jpeg
     city: Ceilândia
     date: '12/07/2025 12:00'
@@ -73,14 +67,6 @@ gigs:
     daysGroup: 11/12/13
     title: FERROCK com Cólera + Cálida Essência + Terrocídio + Zuada ...
     where: Praça Ferrock
-  - poster: sunday_noise_tagua_060725.jpeg
-    city: Taguatinga
-    date: '06/07/2025 15:00'
-    daysGroup: 06/07/08
-    title: >-
-      SUNDAY NOISE com Autoextermínio + Quebraqueixo + Calmativa + Indigentes +
-      Viscerais
-    where: Moto Rock e Cia
   - poster: santamariaprofana230825.jpeg
     city: Santa Maria
     date: '23/08/2025 19:00'

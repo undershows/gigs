@@ -5926,5 +5926,19 @@ gigs:
       https://www.sympla.com.br/evento/bayside-kings-e-sapo-banjo-em-santo-andre-sp/2993462
     title: Bayside Kings + Sapo Banjo
     where: 74 Club
+  - poster: 503530847_2792765300934676_6619098260692544213_n.jpeg
+    city: São Paulo
+    date: '06/07/2025 18:00'
+    daysGroup: 05/06/07
+    title: Deaf Kids
+    where: Centro Cultural São Paulo
+  - poster: 503424246_1760352681501442_8814554683569825859_n.jpeg
+    city: São Paulo
+    date: '06/07/2025 15:00'
+    daysGroup: 05/06/07
+    title: >-
+      QUEBRA DENTE FEST com Cadáver de Anão + Casca de Ferida + Disgosto + Sem
+      Cultura
+    where: Porão da Cerveja
 ---
 
