@@ -259,5 +259,12 @@ gigs:
     ticketsUrl: 'https://www.sympla.com.br/evento/bandas-seu-plutao-e-house-of-rock/2998328'
     title: Seu Plutão + House Of Rock
     where: House of Legends
+  - poster: kmf_260725.jpg
+    city: São Paulo
+    date: '26/07/2025 17:00'
+    daysGroup: 25/26/27
+    ticketsUrl: "https://ticket.com.vc/evento/kool-metal-session-na-burning-house"
+    title: DEAFKIDS + D.E.R. + Infamous Glory + Punho de Mahin + Escärro
+    where: Burning House
 ---
 

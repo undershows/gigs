@@ -11,7 +11,7 @@ gigs:
     where: Alquimia Taberna Bar
   - poster: lowlife_270525.jpeg
     city: Brasília
-    date: '20/07/2025 20:00'
+    date: '17/07/2025 20:00'
     daysGroup: 18/19/20
     title: Lowlife + Agressivo Pau Podi + Kankra
     where: Infinu Comunidade Criativa
