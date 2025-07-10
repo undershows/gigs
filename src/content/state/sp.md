@@ -232,12 +232,6 @@ gigs:
       HARDCORE BENEFICIENTE com Instituion + Crexpo + Estilhaço + Em Chamas +
       Gøssip
     where: Rock Together
-  - poster: osasco_090725.jpg
-    city: Osasco
-    date: '09/07/2025 17:00'
-    daysGroup: 09/10/11/12/13
-    title: Bastardz + Os Waldevinos + Em Chamas
-    where: Lau Estúdio
   - poster: 502553845_18398344069114615_5520710586491927852_n.webp
     city: São Paulo
     date: '26/07/2025 19:00'
@@ -263,7 +257,7 @@ gigs:
     city: São Paulo
     date: '26/07/2025 17:00'
     daysGroup: 25/26/27
-    ticketsUrl: "https://ticket.com.vc/evento/kool-metal-session-na-burning-house"
+    ticketsUrl: 'https://ticket.com.vc/evento/kool-metal-session-na-burning-house'
     title: DEAFKIDS + D.E.R. + Infamous Glory + Punho de Mahin + Escärro
     where: Burning House
 ---

@@ -5940,5 +5940,11 @@ gigs:
       QUEBRA DENTE FEST com Cadáver de Anão + Casca de Ferida + Disgosto + Sem
       Cultura
     where: Porão da Cerveja
+  - poster: osasco_090725.jpg
+    city: Osasco
+    date: '09/07/2025 17:00'
+    daysGroup: 09/10/11/12/13
+    title: Bastardz + Os Waldevinos + Em Chamas
+    where: Lau Estúdio
 ---
 
