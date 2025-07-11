@@ -112,13 +112,6 @@ gigs:
     ticketsUrl: 'https://ticket.com.vc/evento/final-dose-uk-no-fffront-em-sp'
     title: Final Dose (UK) + Obsoletion + Pele Fria + BIG
     where: FFFront
-  - poster: 502308895_18054303407522933_4924053418785589185_n.webp
-    city: São Paulo
-    date: '10/07/2025 18:00'
-    daysGroup: 09/10/11/12/13
-    ticketsUrl: 'https://www.sympla.com.br/evento/caco-concha-no-porta/3009878'
-    title: CACO/CONCHA
-    where: PORTA
   - poster: 513486540_18067983647483476_4155075763116749488_n.webp
     city: São Paulo
     date: '25/07/2025 20:00'

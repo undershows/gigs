@@ -5946,5 +5946,12 @@ gigs:
     daysGroup: 09/10/11/12/13
     title: Bastardz + Os Waldevinos + Em Chamas
     where: Lau Estúdio
+  - poster: 502308895_18054303407522933_4924053418785589185_n.webp
+    city: São Paulo
+    date: '10/07/2025 18:00'
+    daysGroup: 09/10/11/12/13
+    ticketsUrl: 'https://www.sympla.com.br/evento/caco-concha-no-porta/3009878'
+    title: CACO/CONCHA
+    where: PORTA
 ---
 
