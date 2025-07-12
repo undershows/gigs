@@ -5953,5 +5953,34 @@ gigs:
     ticketsUrl: 'https://www.sympla.com.br/evento/caco-concha-no-porta/3009878'
     title: CACO/CONCHA
     where: PORTA
+  - poster: 510312566_18367047838183339_542136502656781053_n.jpg
+    city: Catanduva
+    date: '11/07/2025 18:00'
+    daysGroup: 09/10/11/12/13
+    ticketsUrl: 'https://www.sescsp.org.br/programacao/catandupedras-dia-11-7/'
+    title: CATANDUPEDRA com Crypta + Ratos de Porão + Pão Com Cebola
+    where: SESC Catanduva
+  - poster: 509813178_18270996115279211_6801368370915810220_n.webp
+    city: São Paulo
+    date: '11/07/2025 20:00'
+    daysGroup: 09/10/11/12/13
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/a-porta-maldita-el-escama-delvindelux-decadas-infinitas/3011250
+    title: Delvindelux + El Escama + Decadas Infinitas
+    where: A Porta Maldita
+  - poster: kool_metal_sessions_110725.jpg
+    city: São Paulo
+    date: '11/07/2025 19:00'
+    daysGroup: 09/10/11/12/13
+    ticketsUrl: 'https://ticket.com.vc/evento/basttardz-ma-em-sao-paulo'
+    title: Basttardz + Cemitério + Greve + PEN2 + Sem Cultura
+    where: La Iglesia
+  - poster: hof_110725.jpg
+    city: São Paulo
+    date: '11/07/2025 21:00'
+    daysGroup: 09/10/11/12/13
+    ticketsUrl: 'https://www.sympla.com.br/evento/bandas-seu-plutao-e-house-of-rock/2998328'
+    title: Seu Plutão + House Of Rock
+    where: House of Legends
 ---
 
