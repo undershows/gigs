@@ -413,5 +413,17 @@ gigs:
       SUNDAY NOISE com Autoextermínio + Quebraqueixo + Calmativa + Indigentes +
       Viscerais
     where: Moto Rock e Cia
+  - poster: wormattack4_120725.jpeg
+    city: Brasília
+    date: '12/07/2025 20:00'
+    daysGroup: 11/12/13
+    title: WORM ATTACK 4 com What I Want + Xarope + Transtorno Nuclear ...
+    where: Alquimia Taberna Bar
+  - poster: meiodiaemponto_120725.jpeg
+    city: Ceilândia
+    date: '12/07/2025 12:00'
+    daysGroup: 11/12/13
+    title: MEIO DIA EM PONTO 2025 - Um Projeto de Cultura Popular
+    where: Praça Ferrock
 ---
 

@@ -5982,5 +5982,45 @@ gigs:
     ticketsUrl: 'https://www.sympla.com.br/evento/bandas-seu-plutao-e-house-of-rock/2998328'
     title: Seu Plutão + House Of Rock
     where: House of Legends
+  - poster: 0f36ad27-7622-4b3e-b5a2-c3c80ecc366c.jpeg
+    city: São Paulo
+    date: '12/07/2025 16:00'
+    daysGroup: 09/10/11/12/13
+    title: F.H.C + Skarnio + Trágico + Desprezo + Estado Sombrio + Maldita Ambição
+    where: NIÁ
+  - poster: 508556622_10232945592999533_2979710659488891891_n.jpg
+    city: São Paulo
+    date: '12/07/2025 22:00'
+    daysGroup: 09/10/11/12/13
+    title: >-
+      BATCAVE REUNION com Fabi Kirby + Death Boy + Nill Salles + Marcão + Junior
+      Core + Jenny Jenny
+    where: Sub-Solo
+  - poster: 503590438_17843187063520604_7751758028063186027_n.webp
+    city: São Paulo
+    date: '12/07/2025 19:00'
+    daysGroup: 09/10/11/12/13
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/burning-house-institution-escombro-militia-e-ingrate/3000943
+    title: Institution + Escombro + Militia + Ingrate
+    where: Burning House
+  - poster: 509671429_1785111715722060_8320483808364787169_n.jpeg
+    city: São Paulo
+    date: '12/07/2025 17:00'
+    daysGroup: 09/10/11/12/13
+    title: INVERNOISE com Vermenoise + Noiado + Malvagio + Xibari + MAKV
+    where: CRASH CLUB
+  - poster: 509918445_18183866044319587_2069213058925131173_n.webp
+    city: São Paulo
+    date: '12/07/2025 19:00'
+    daysGroup: 09/10/11/12/13
+    title: Herdeiros da Revolta + Condenados + Rejeitados
+    where: Depois Do Fim Do Mundo
+  - poster: 502477239_3431169857026112_1446262622917192428_n.jpeg
+    city: São Paulo
+    date: '12/07/2025 17:00'
+    daysGroup: 09/10/11/12/13
+    title: ROQUE PAULERA com Paura + Bebê Feio + Cras
+    where: Estúdio Páprica
 ---
 

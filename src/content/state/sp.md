@@ -42,20 +42,6 @@ gigs:
       https://www.sympla.com.br/evento/cephalotripsy-oligarquia-chaoslace/2946373
     title: Cephalotripsy (USA) + Oligarquia + Chaoslace
     where: House of Legends
-  - poster: 0f36ad27-7622-4b3e-b5a2-c3c80ecc366c.jpeg
-    city: São Paulo
-    date: '12/07/2025 16:00'
-    daysGroup: 09/10/11/12/13
-    title: F.H.C + Skarnio + Trágico + Desprezo + Estado Sombrio + Maldita Ambição
-    where: NIÁ
-  - poster: 508556622_10232945592999533_2979710659488891891_n.jpg
-    city: São Paulo
-    date: '12/07/2025 22:00'
-    daysGroup: 09/10/11/12/13
-    title: >-
-      BATCAVE REUNION com Fabi Kirby + Death Boy + Nill Salles + Marcão + Junior
-      Core + Jenny Jenny
-    where: Sub-Solo
   - poster: 499857046_122157892538459227_1086083464189037354_n.jpg
     city: São Paulo
     date: '26/07/2025 15:00'
@@ -77,14 +63,6 @@ gigs:
       https://www.sympla.com.br/evento/el-regreso-de-los-que-no-fueran-no-dfm-punho-de-mahin-traste-e-discurso-de-pobre/3006120
     title: Punho de Mahin + Discurso de Pobre + Traste
     where: Depois Do Fim Do Mundo
-  - poster: 503590438_17843187063520604_7751758028063186027_n.webp
-    city: São Paulo
-    date: '12/07/2025 19:00'
-    daysGroup: 09/10/11/12/13
-    ticketsUrl: >-
-      https://www.sympla.com.br/evento/burning-house-institution-escombro-militia-e-ingrate/3000943
-    title: Institution + Escombro + Militia + Ingrate
-    where: Burning House
   - poster: 509151410_18517614817052265_5052226409234171015_n.jpg
     city: São Paulo
     date: '04/09/2025 13:00'
@@ -113,18 +91,6 @@ gigs:
       https://101tickets.com.br/events/details/Megahertz,-Feitico-oculto-e-Antroforce-no-La-Igles
     title: Megahertz + Feitiço Oculto + Antroforce
     where: La Iglesia
-  - poster: 509671429_1785111715722060_8320483808364787169_n.jpeg
-    city: São Paulo
-    date: '12/07/2025 17:00'
-    daysGroup: 09/10/11/12/13
-    title: INVERNOISE com Vermenoise + Noiado + Malvagio + Xibari + MAKV
-    where: CRASH CLUB
-  - poster: 509918445_18183866044319587_2069213058925131173_n.webp
-    city: São Paulo
-    date: '12/07/2025 19:00'
-    daysGroup: 09/10/11/12/13
-    title: Herdeiros da Revolta + Condenados + Rejeitados
-    where: Depois Do Fim Do Mundo
   - poster: 510410983_18485946109069798_284410632010090638_n.jpg
     city: São Paulo
     date: '27/07/2025 14:00'
@@ -159,12 +125,6 @@ gigs:
     ticketsUrl: 'https://pixelticket.com.br/eventos/27713/anthares'
     title: Anthares + Massvepower + Inferno Nuclear + Armadilha
     where: Casa Lab
-  - poster: 502477239_3431169857026112_1446262622917192428_n.jpeg
-    city: São Paulo
-    date: '12/07/2025 17:00'
-    daysGroup: 09/10/11/12/13
-    title: ROQUE PAULERA com Paura + Bebê Feio + Cras
-    where: Estúdio Páprica
   - poster: thesatansscourge_130725.jpg
     city: São Paulo
     date: '13/07/2025 17:00'

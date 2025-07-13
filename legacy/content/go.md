@@ -222,5 +222,12 @@ gigs:
     daysGroup: 04/05/06
     title: Duckbob + Banana Bipolar
     where: Woodstock Rock Bar
+  - poster: colera_gyn_250625.jpeg
+    city: Goiânia
+    date: '12/07/2025 19:00'
+    daysGroup: 11/12/13
+    ticketsUrl: 'https://www.bilheteriadigital.com/colera-45-anos-em-goiania-12-de-julho'
+    title: Cólera + Os Maltrapilhos + Nosso Odio + Realife + Gerações Perdidas
+    where: De Leon Music Pub
 ---
 
