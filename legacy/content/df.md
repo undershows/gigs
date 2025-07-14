@@ -425,5 +425,11 @@ gigs:
     daysGroup: 11/12/13
     title: MEIO DIA EM PONTO 2025 - Um Projeto de Cultura Popular
     where: Praça Ferrock
+  - poster: ferrock_130725.jpeg
+    city: Ceilândia
+    date: '13/07/2025 14:00'
+    daysGroup: 11/12/13
+    title: FERROCK com Cólera + Cálida Essência + Terrocídio + Zuada ...
+    where: Praça Ferrock
 ---
 

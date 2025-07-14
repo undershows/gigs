@@ -49,12 +49,6 @@ gigs:
       KIDSGRAÇA FEST PARTE 2 com Manger Cadavre? + Kidsgrace + Transtorno
       Nuclear + LowLife ...
     where: Moto Rock e Cia
-  - poster: ferrock_130725.jpeg
-    city: Ceilândia
-    date: '13/07/2025 14:00'
-    daysGroup: 11/12/13
-    title: FERROCK com Cólera + Cálida Essência + Terrocídio + Zuada ...
-    where: Praça Ferrock
   - poster: santamariaprofana230825.jpeg
     city: Santa Maria
     date: '23/08/2025 19:00'

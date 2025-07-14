@@ -6022,5 +6022,28 @@ gigs:
     daysGroup: 09/10/11/12/13
     title: ROQUE PAULERA com Paura + Bebê Feio + Cras
     where: Estúdio Páprica
+  - poster: thesatansscourge_130725.jpg
+    city: São Paulo
+    date: '13/07/2025 17:00'
+    daysGroup: 09/10/11/12/13
+    ticketsUrl: 'https://ticket.com.vc/evento/the-satans-scourge-em-sp'
+    title: The Satan’s Scourge (COL) + Justabeli + Kvlto + Nameless Gods
+    where: La Iglesia
+  - poster: doc90_130725.jpg
+    city: São Paulo
+    date: '13/07/2025 18:00'
+    daysGroup: 09/10/11/12/13
+    ticketsUrl: >-
+      https://www.eventbrite.com/e/sessao-do-hardcore-90-no-salad-days-tickets-1434755936629
+    title: >-
+      SESSÃO ESPECIAL DO HARDCORE 90 - Bate Papo com os diretores Marcelo
+      Fonseca e George Ferreira
+    where: Salad Days
+  - poster: 1000260515.jpg
+    city: Serrana
+    date: '13/07/2025 12:00'
+    daysGroup: 09/10/11/12/13
+    title: CAIPIROROCK com Inocentes + Crypta + Black Pantera + Zumbis Do Esspaço ...
+    where: Praça da Bike
 ---
 

@@ -125,13 +125,6 @@ gigs:
     ticketsUrl: 'https://pixelticket.com.br/eventos/27713/anthares'
     title: Anthares + Massvepower + Inferno Nuclear + Armadilha
     where: Casa Lab
-  - poster: thesatansscourge_130725.jpg
-    city: São Paulo
-    date: '13/07/2025 17:00'
-    daysGroup: 09/10/11/12/13
-    ticketsUrl: 'https://ticket.com.vc/evento/the-satans-scourge-em-sp'
-    title: The Satan’s Scourge (COL) + Justabeli + Kvlto + Nameless Gods
-    where: La Iglesia
   - poster: in_grind_we_rise_fest_030825.jpg
     city: São Paulo
     date: '03/08/2025 17:00'
@@ -145,16 +138,6 @@ gigs:
     daysGroup: 06/07/08
     title: LAMIGRA FEST com Subversores + Batalha + Estado Sombrio
     where: Porão da Cerveja
-  - poster: doc90_130725.jpg
-    city: São Paulo
-    date: '13/07/2025 18:00'
-    daysGroup: 09/10/11/12/13
-    ticketsUrl: >-
-      https://www.eventbrite.com/e/sessao-do-hardcore-90-no-salad-days-tickets-1434755936629
-    title: >-
-      SESSÃO ESPECIAL DO HARDCORE 90 - Bate Papo com os diretores Marcelo
-      Fonseca e George Ferreira
-    where: Salad Days
   - poster: cantifest_230825.jpeg
     city: São Paulo
     date: '23/08/2025 16:00'
@@ -171,12 +154,6 @@ gigs:
       https://www.sympla.com.br/evento/mee-stomp-ato-falico-arize-no-la-iglesia/3014565
     title: Mee + Stomp + Ato Fálico + Arize
     where: La Iglesia
-  - poster: 1000260515.jpg
-    city: Serrana
-    date: '13/07/2025 12:00'
-    daysGroup: 09/10/11/12/13
-    title: CAIPIROROCK com Inocentes + Crypta + Black Pantera + Zumbis Do Esspaço ...
-    where: Praça da Bike
   - poster: kmf_260725.jpg
     city: São Paulo
     date: '26/07/2025 17:00'
