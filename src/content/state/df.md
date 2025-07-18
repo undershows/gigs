@@ -9,12 +9,6 @@ gigs:
     ticketsUrl: 'https://www.furandoafila.com/evento/impurity-nk9v6p9'
     title: Impurity + Heia + Denied Redemption
     where: Alquimia Taberna Bar
-  - poster: lowlife_270525.jpeg
-    city: Brasília
-    date: '17/07/2025 20:00'
-    daysGroup: 18/19/20
-    title: Lowlife + Agressivo Pau Podi + Kankra
-    where: Infinu Comunidade Criativa
   - poster: bc35b144-28e5-49a3-b94c-5ae17b12965f.jpeg
     city: Brasília
     date: '22/08/2025 20:00'

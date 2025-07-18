@@ -431,5 +431,11 @@ gigs:
     daysGroup: 11/12/13
     title: FERROCK com Cólera + Cálida Essência + Terrocídio + Zuada ...
     where: Praça Ferrock
+  - poster: lowlife_270525.jpeg
+    city: Brasília
+    date: '17/07/2025 20:00'
+    daysGroup: 18/19/20
+    title: Lowlife + Agressivo Pau Podi + Kankra
+    where: Infinu Comunidade Criativa
 ---
 
