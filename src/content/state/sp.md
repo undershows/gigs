@@ -27,13 +27,6 @@ gigs:
     ticketsUrl: 'https://www.sympla.com.br/evento/despedida-valepunk-garage-fuzz/2892140'
     title: Garage Fuzz + Apto Vulgar + Caosmaria + Samwise
     where: Hocus Pocus Studio & Café
-  - poster: 491462354_18046113164594646_8970016837709594173_n.webp
-    city: São Paulo
-    date: '18/07/2025 17:00'
-    daysGroup: 18/19/20
-    ticketsUrl: 'https://www.bilheto.com.br/comprar/3417/bloodhunter-primeira-vez-em-sp'
-    title: Bloodhunter (SPA) + Ereboros + Throw Me To The Wolves
-    where: Jai Club
   - poster: 494574780_1880148786070960_1437405444177361590_n_resized.jpg
     city: São Paulo
     date: '08/08/2025 20:00'
@@ -55,14 +48,6 @@ gigs:
     ticketsUrl: 'https://101tickets.com.br/events/details/Fossilization-DER-coyote-bad-trip'
     title: Fossilization + D.E.R. + Coyote Bad Trip
     where: La Iglesia
-  - poster: 504005238_17974403612892428_6550338502167074981_n.jpg
-    city: São Paulo
-    date: '18/07/2025 19:00'
-    daysGroup: 18/19/20
-    ticketsUrl: >-
-      https://www.sympla.com.br/evento/el-regreso-de-los-que-no-fueran-no-dfm-punho-de-mahin-traste-e-discurso-de-pobre/3006120
-    title: Punho de Mahin + Discurso de Pobre + Traste
-    where: Depois Do Fim Do Mundo
   - poster: 509151410_18517614817052265_5052226409234171015_n.jpg
     city: São Paulo
     date: '04/09/2025 13:00'

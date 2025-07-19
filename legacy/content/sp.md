@@ -6045,5 +6045,20 @@ gigs:
     daysGroup: 09/10/11/12/13
     title: CAIPIROROCK com Inocentes + Crypta + Black Pantera + Zumbis Do Esspaço ...
     where: Praça da Bike
+  - poster: 491462354_18046113164594646_8970016837709594173_n.webp
+    city: São Paulo
+    date: '18/07/2025 17:00'
+    daysGroup: 18/19/20
+    ticketsUrl: 'https://www.bilheto.com.br/comprar/3417/bloodhunter-primeira-vez-em-sp'
+    title: Bloodhunter (SPA) + Ereboros + Throw Me To The Wolves
+    where: Jai Club
+  - poster: 504005238_17974403612892428_6550338502167074981_n.jpg
+    city: São Paulo
+    date: '18/07/2025 19:00'
+    daysGroup: 18/19/20
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/el-regreso-de-los-que-no-fueran-no-dfm-punho-de-mahin-traste-e-discurso-de-pobre/3006120
+    title: Punho de Mahin + Discurso de Pobre + Traste
+    where: Depois Do Fim Do Mundo
 ---
 
