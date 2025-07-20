@@ -6060,5 +6060,12 @@ gigs:
       https://www.sympla.com.br/evento/el-regreso-de-los-que-no-fueran-no-dfm-punho-de-mahin-traste-e-discurso-de-pobre/3006120
     title: Punho de Mahin + Discurso de Pobre + Traste
     where: Depois Do Fim Do Mundo
+  - poster: 511379434_17973592214896515_6348727905539506842_n.webp
+    city: São Paulo
+    date: '19/07/2025 20:00'
+    daysGroup: 18/19/20
+    ticketsUrl: 'https://101tickets.com.br/events/details/Fossilization-DER-coyote-bad-trip'
+    title: Fossilization + D.E.R. + Coyote Bad Trip
+    where: La Iglesia
 ---
 

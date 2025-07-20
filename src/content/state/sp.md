@@ -41,13 +41,6 @@ gigs:
     daysGroup: 25/26/27
     title: Trypophobia + Corrosiva + Aweti + Against X Filé
     where: Porão da Cerveja
-  - poster: 511379434_17973592214896515_6348727905539506842_n.webp
-    city: São Paulo
-    date: '19/07/2025 20:00'
-    daysGroup: 18/19/20
-    ticketsUrl: 'https://101tickets.com.br/events/details/Fossilization-DER-coyote-bad-trip'
-    title: Fossilization + D.E.R. + Coyote Bad Trip
-    where: La Iglesia
   - poster: 509151410_18517614817052265_5052226409234171015_n.jpg
     city: São Paulo
     date: '04/09/2025 13:00'
@@ -150,7 +143,7 @@ gigs:
     city: São Paulo
     date: '24/07/2025 19:30'
     daysGroup: 25/26/27
-    ticketsUrl: https://www.ingresse.com/horacegreen-differdrama-baralto/
+    ticketsUrl: 'https://www.ingresse.com/horacegreen-differdrama-baralto/'
     title: Horace Green + Difer Drama
     where: Bar Alto
   - poster: 25d6f81e-4199-4bb0-8019-bae575769aaa.jpeg
@@ -163,7 +156,9 @@ gigs:
     city: Osasco
     date: '30/08/2025 19:00'
     daysGroup: 29/30/31
-    title: Inferno Nuclear + Mosca Negra + Feitiço Oculto + Agravo + Atropelo + Trágico
+    title: >-
+      Inferno Nuclear + Mosca Negra + Feitiço Oculto + Agravo + Atropelo +
+      Trágico
     where: Lau Estúdio
 ---
 

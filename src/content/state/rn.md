@@ -23,11 +23,5 @@ gigs:
       Ungodly Priest + Inferni + Funebre Cultum + Mortalha + Sheol + Afterbleed
       Splatter
     where: Backstage Bar
-  - poster: 509819817_17946994727995662_905375516377268836_n.jpg
-    city: Natal
-    date: '19/07/2025 19:00'
-    daysGroup: 18/19/20
-    title: KINTURA HARDCORE com Bixanu + Infront + Milkshake na Vala + Morte ao Rei
-    where: Backstage Bar
 ---
 
