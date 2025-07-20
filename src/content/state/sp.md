@@ -146,5 +146,24 @@ gigs:
     ticketsUrl: 'https://ticket.com.vc/evento/kool-metal-session-na-burning-house'
     title: DEAFKIDS + D.E.R. + Infamous Glory + Punho de Mahin + Escärro
     where: Burning House
+  - poster: 12504f81-ceb4-46f1-99d6-91cfe970c093.jpeg
+    city: São Paulo
+    date: '24/07/2025 19:30'
+    daysGroup: 25/26/27
+    ticketsUrl: https://www.ingresse.com/horacegreen-differdrama-baralto/
+    title: Horace Green + Difer Drama
+    where: Bar Alto
+  - poster: 25d6f81e-4199-4bb0-8019-bae575769aaa.jpeg
+    city: São Paulo
+    date: '09/08/2025 18:00'
+    daysGroup: 06/07/08
+    title: Good Intentions + Presto? + Em Chamas + Noiado
+    where: Rock Together
+  - poster: 1000157035.jpg
+    city: Osasco
+    date: '30/08/2025 19:00'
+    daysGroup: 29/30/31
+    title: Inferno Nuclear + Mosca Negra + Feitiço Oculto + Agravo + Atropelo + Trágico
+    where: Lau Estúdio
 ---
 
