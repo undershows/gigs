@@ -6067,5 +6067,12 @@ gigs:
     ticketsUrl: 'https://101tickets.com.br/events/details/Fossilization-DER-coyote-bad-trip'
     title: Fossilization + D.E.R. + Coyote Bad Trip
     where: La Iglesia
+  - poster: 12504f81-ceb4-46f1-99d6-91cfe970c093.jpeg
+    city: São Paulo
+    date: '24/07/2025 19:30'
+    daysGroup: 25/26/27
+    ticketsUrl: 'https://www.ingresse.com/horacegreen-differdrama-baralto/'
+    title: Horace Green + Difer Drama
+    where: Bar Alto
 ---
 
