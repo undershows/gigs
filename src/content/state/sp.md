@@ -61,14 +61,6 @@ gigs:
     ticketsUrl: 'https://ticket.com.vc/evento/final-dose-uk-no-fffront-em-sp'
     title: Final Dose (UK) + Obsoletion + Pele Fria + BIG
     where: FFFront
-  - poster: 513486540_18067983647483476_4155075763116749488_n.webp
-    city: São Paulo
-    date: '25/07/2025 20:00'
-    daysGroup: 25/26/27
-    ticketsUrl: >-
-      https://101tickets.com.br/events/details/Megahertz,-Feitico-oculto-e-Antroforce-no-La-Igles
-    title: Megahertz + Feitiço Oculto + Antroforce
-    where: La Iglesia
   - poster: 510410983_18485946109069798_284410632010090638_n.jpg
     city: São Paulo
     date: '27/07/2025 14:00'
@@ -77,12 +69,6 @@ gigs:
       MATINÊ HARDCORE com Point Of No Return + Renegades Of Punk + Cätärro +
       Futuro + Noiado ...
     where: Tendal da Lapa
-  - poster: 503655346_600059336468958_3100925996592753677_n.jpeg
-    city: Santo André
-    date: '25/07/2025 19:00'
-    daysGroup: 25/26/27
-    title: The Renegades Of Punk + Avante! + DJ Maycoln (Sweet Suburbia)
-    where: 74 Club
   - poster: 510911734_18516200986042748_2366819110082529180_n.webp
     city: São Paulo
     date: '08/11/2025 19:00'

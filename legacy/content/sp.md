@@ -6074,5 +6074,19 @@ gigs:
     ticketsUrl: 'https://www.ingresse.com/horacegreen-differdrama-baralto/'
     title: Horace Green + Difer Drama
     where: Bar Alto
+  - poster: 513486540_18067983647483476_4155075763116749488_n.webp
+    city: São Paulo
+    date: '25/07/2025 20:00'
+    daysGroup: 25/26/27
+    ticketsUrl: >-
+      https://101tickets.com.br/events/details/Megahertz,-Feitico-oculto-e-Antroforce-no-La-Igles
+    title: Megahertz + Feitiço Oculto + Antroforce
+    where: La Iglesia
+  - poster: 503655346_600059336468958_3100925996592753677_n.jpeg
+    city: Santo André
+    date: '25/07/2025 19:00'
+    daysGroup: 25/26/27
+    title: The Renegades Of Punk + Avante! + DJ Maycoln (Sweet Suburbia)
+    where: 74 Club
 ---
 
