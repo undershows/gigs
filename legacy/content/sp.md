@@ -6088,5 +6088,39 @@ gigs:
     daysGroup: 25/26/27
     title: The Renegades Of Punk + Avante! + DJ Maycoln (Sweet Suburbia)
     where: 74 Club
+  - poster: 491464874_18498930343044152_1848173602241771462_n.webp
+    city: São José dos Campos
+    date: '26/07/2025 22:00'
+    daysGroup: 25/26/27
+    ticketsUrl: 'https://www.sympla.com.br/evento/despedida-valepunk-garage-fuzz/2892140'
+    title: Garage Fuzz + Apto Vulgar + Caosmaria + Samwise
+    where: Hocus Pocus Studio & Café
+  - poster: 499857046_122157892538459227_1086083464189037354_n.jpg
+    city: São Paulo
+    date: '26/07/2025 15:00'
+    daysGroup: 25/26/27
+    title: Trypophobia + Corrosiva + Aweti + Against X Filé
+    where: Porão da Cerveja
+  - poster: 509746481_18055838267587100_3289982864114763965_n.webp
+    city: São José dos Campos
+    date: '26/07/2025 18:00'
+    daysGroup: 25/26/27
+    title: ECOS SUBURBANOS 2 com 88 NÃO! + PSHC + Inomináveis + Ejaculação Precoce
+    where: Dvel Estúdio
+  - poster: 502553845_18398344069114615_5520710586491927852_n.webp
+    city: São Paulo
+    date: '26/07/2025 19:00'
+    daysGroup: 25/26/27
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/mee-stomp-ato-falico-arize-no-la-iglesia/3014565
+    title: Mee + Stomp + Ato Fálico + Arize
+    where: La Iglesia
+  - poster: kmf_260725.jpg
+    city: São Paulo
+    date: '26/07/2025 17:00'
+    daysGroup: 25/26/27
+    ticketsUrl: 'https://ticket.com.vc/evento/kool-metal-session-na-burning-house'
+    title: DEAFKIDS + D.E.R. + Infamous Glory + Punho de Mahin + Escärro
+    where: Burning House
 ---
 

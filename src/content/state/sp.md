@@ -20,13 +20,6 @@ gigs:
       Setembro Negro Festival Ed. XVI com Watain (SWE) + Candlemass (SWE) +
       Nervochaos ...
     where: Vip Station
-  - poster: 491464874_18498930343044152_1848173602241771462_n.webp
-    city: São José dos Campos
-    date: '26/07/2025 22:00'
-    daysGroup: 25/26/27
-    ticketsUrl: 'https://www.sympla.com.br/evento/despedida-valepunk-garage-fuzz/2892140'
-    title: Garage Fuzz + Apto Vulgar + Caosmaria + Samwise
-    where: Hocus Pocus Studio & Café
   - poster: 494574780_1880148786070960_1437405444177361590_n_resized.jpg
     city: São Paulo
     date: '08/08/2025 20:00'
@@ -35,12 +28,6 @@ gigs:
       https://www.sympla.com.br/evento/cephalotripsy-oligarquia-chaoslace/2946373
     title: Cephalotripsy (USA) + Oligarquia + Chaoslace
     where: House of Legends
-  - poster: 499857046_122157892538459227_1086083464189037354_n.jpg
-    city: São Paulo
-    date: '26/07/2025 15:00'
-    daysGroup: 25/26/27
-    title: Trypophobia + Corrosiva + Aweti + Against X Filé
-    where: Porão da Cerveja
   - poster: 509151410_18517614817052265_5052226409234171015_n.jpg
     city: São Paulo
     date: '04/09/2025 13:00'
@@ -48,12 +35,6 @@ gigs:
     ticketsUrl: 'https://ticket.com.vc/evento/final-dose-uk-no-la-iglesias-em-sp'
     title: Final Dose (UK) + Vazio + DOR
     where: La Iglesia
-  - poster: 509746481_18055838267587100_3289982864114763965_n.webp
-    city: São José dos Campos
-    date: '26/07/2025 18:00'
-    daysGroup: 25/26/27
-    title: ECOS SUBURBANOS 2 com 88 NÃO! + PSHC + Inomináveis + Ejaculação Precoce
-    where: Dvel Estúdio
   - poster: 504007757_17970523868869716_6596077546762677083_n.jpg
     city: São Paulo
     date: '07/09/2025 17:00'
@@ -110,21 +91,6 @@ gigs:
       HARDCORE BENEFICIENTE com Instituion + Crexpo + Estilhaço + Em Chamas +
       Gøssip
     where: Rock Together
-  - poster: 502553845_18398344069114615_5520710586491927852_n.webp
-    city: São Paulo
-    date: '26/07/2025 19:00'
-    daysGroup: 25/26/27
-    ticketsUrl: >-
-      https://www.sympla.com.br/evento/mee-stomp-ato-falico-arize-no-la-iglesia/3014565
-    title: Mee + Stomp + Ato Fálico + Arize
-    where: La Iglesia
-  - poster: kmf_260725.jpg
-    city: São Paulo
-    date: '26/07/2025 17:00'
-    daysGroup: 25/26/27
-    ticketsUrl: 'https://ticket.com.vc/evento/kool-metal-session-na-burning-house'
-    title: DEAFKIDS + D.E.R. + Infamous Glory + Punho de Mahin + Escärro
-    where: Burning House
   - poster: 25d6f81e-4199-4bb0-8019-bae575769aaa.jpeg
     city: São Paulo
     date: '09/08/2025 18:00'

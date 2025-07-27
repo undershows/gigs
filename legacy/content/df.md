@@ -437,5 +437,19 @@ gigs:
     daysGroup: 18/19/20
     title: Lowlife + Agressivo Pau Podi + Kankra
     where: Infinu Comunidade Criativa
+  - poster: underground_attack_260725.jpeg
+    city: Santa Maria
+    date: '26/07/2025 19:00'
+    daysGroup: 25/26/27
+    title: >-
+      UNDERGROUND ATTACK com Death Slam + Leprosy + Seconds Of Noise + No Breath
+      + Trash Town Terror
+    where: Dig Rock Bar
+  - poster: 1000225688.jpg
+    city: Brasília
+    date: '26/07/2025 14:00'
+    daysGroup: 25/26/27
+    title: NW77 + Lowlife
+    where: Espaço Toma na Kombi
 ---
 

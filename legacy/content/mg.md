@@ -409,5 +409,11 @@ gigs:
     daysGroup: 27/28/29
     title: Divergência Socialista + The Us + Bê & Os Sadmen + Ataque de Marimbondo
     where: Memorial dos Direitos Humanos
+  - poster: PP_FEED_1080x1380_V1.jpg
+    city: Belo Horizonte
+    date: '26/07/2025 14:00'
+    daysGroup: 25/26/27
+    title: PARANOIA PARANOIA com Cätärro + Trash No Star + Tumor + Final Trágico
+    where: Instituto Helena Greco de Direitos Humanos e Cidadania
 ---
 
