@@ -42,14 +42,6 @@ gigs:
     ticketsUrl: 'https://ticket.com.vc/evento/final-dose-uk-no-fffront-em-sp'
     title: Final Dose (UK) + Obsoletion + Pele Fria + BIG
     where: FFFront
-  - poster: 510410983_18485946109069798_284410632010090638_n.jpg
-    city: São Paulo
-    date: '27/07/2025 14:00'
-    daysGroup: 25/26/27
-    title: >-
-      MATINÊ HARDCORE com Point Of No Return + Renegades Of Punk + Cätärro +
-      Futuro + Noiado ...
-    where: Tendal da Lapa
   - poster: 510911734_18516200986042748_2366819110082529180_n.webp
     city: São Paulo
     date: '08/11/2025 19:00'

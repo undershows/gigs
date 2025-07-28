@@ -6122,5 +6122,13 @@ gigs:
     ticketsUrl: 'https://ticket.com.vc/evento/kool-metal-session-na-burning-house'
     title: DEAFKIDS + D.E.R. + Infamous Glory + Punho de Mahin + Escärro
     where: Burning House
+  - poster: 510410983_18485946109069798_284410632010090638_n.jpg
+    city: São Paulo
+    date: '27/07/2025 14:00'
+    daysGroup: 25/26/27
+    title: >-
+      MATINÊ HARDCORE com Point Of No Return + Renegades Of Punk + Cätärro +
+      Futuro + Noiado ...
+    where: Tendal da Lapa
 ---
 
