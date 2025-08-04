@@ -6130,5 +6130,12 @@ gigs:
       MATINÊ HARDCORE com Point Of No Return + Renegades Of Punk + Cätärro +
       Futuro + Noiado ...
     where: Tendal da Lapa
+  - poster: in_grind_we_rise_fest_030825.jpg
+    city: São Paulo
+    date: '03/08/2025 17:00'
+    daysGroup: 01/02/03
+    ticketsUrl: 'https://ticket.com.vc/evento/in-grind-we-rise-fest'
+    title: IN GRIND WE RISE FEST com Subcut + Void it + Deadly surgery + Trypophobia
+    where: La Iglesia
 ---
 

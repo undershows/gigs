@@ -211,5 +211,11 @@ gigs:
     daysGroup: 18/19/20
     title: KINTURA HARDCORE com Bixanu + Infront + Milkshake na Vala + Morte ao Rei
     where: Backstage Bar
+  - poster: 1000198216.jpg
+    city: Natal
+    date: '03/08/2025 16:00'
+    daysGroup: 01/02/03
+    title: Frattelli + NW77 + Terror Revolucionário + Cätärro ...
+    where: Backstage Bar
 ---
 

@@ -62,13 +62,6 @@ gigs:
     ticketsUrl: 'https://pixelticket.com.br/eventos/27713/anthares'
     title: Anthares + Massvepower + Inferno Nuclear + Armadilha
     where: Casa Lab
-  - poster: in_grind_we_rise_fest_030825.jpg
-    city: São Paulo
-    date: '03/08/2025 17:00'
-    daysGroup: 01/02/03
-    ticketsUrl: 'https://ticket.com.vc/evento/in-grind-we-rise-fest'
-    title: IN GRIND WE RISE FEST com Subcut + Void it + Deadly surgery + Trypophobia
-    where: La Iglesia
   - poster: 512670126_24359099163695834_5192075201306341276_n.jpg
     city: São Paulo
     date: '08/08/2025 18:00'
