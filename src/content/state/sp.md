@@ -20,14 +20,6 @@ gigs:
       Setembro Negro Festival Ed. XVI com Watain (SWE) + Candlemass (SWE) +
       Nervochaos ...
     where: Vip Station
-  - poster: 494574780_1880148786070960_1437405444177361590_n_resized.jpg
-    city: São Paulo
-    date: '08/08/2025 20:00'
-    daysGroup: 06/07/08
-    ticketsUrl: >-
-      https://www.sympla.com.br/evento/cephalotripsy-oligarquia-chaoslace/2946373
-    title: Cephalotripsy (USA) + Oligarquia + Chaoslace
-    where: House of Legends
   - poster: 509151410_18517614817052265_5052226409234171015_n.jpg
     city: São Paulo
     date: '04/09/2025 13:00'
@@ -62,12 +54,6 @@ gigs:
     ticketsUrl: 'https://pixelticket.com.br/eventos/27713/anthares'
     title: Anthares + Massvepower + Inferno Nuclear + Armadilha
     where: Casa Lab
-  - poster: 512670126_24359099163695834_5192075201306341276_n.jpg
-    city: São Paulo
-    date: '08/08/2025 18:00'
-    daysGroup: 06/07/08
-    title: LAMIGRA FEST com Subversores + Batalha + Estado Sombrio
-    where: Porão da Cerveja
   - poster: cantifest_230825.jpeg
     city: São Paulo
     date: '23/08/2025 16:00'

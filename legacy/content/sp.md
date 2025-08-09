@@ -6137,5 +6137,19 @@ gigs:
     ticketsUrl: 'https://ticket.com.vc/evento/in-grind-we-rise-fest'
     title: IN GRIND WE RISE FEST com Subcut + Void it + Deadly surgery + Trypophobia
     where: La Iglesia
+  - poster: 494574780_1880148786070960_1437405444177361590_n_resized.jpg
+    city: São Paulo
+    date: '08/08/2025 20:00'
+    daysGroup: 06/07/08
+    ticketsUrl: >-
+      https://www.sympla.com.br/evento/cephalotripsy-oligarquia-chaoslace/2946373
+    title: Cephalotripsy (USA) + Oligarquia + Chaoslace
+    where: House of Legends
+  - poster: 512670126_24359099163695834_5192075201306341276_n.jpg
+    city: São Paulo
+    date: '08/08/2025 18:00'
+    daysGroup: 06/07/08
+    title: LAMIGRA FEST com Subversores + Batalha + Estado Sombrio
+    where: Porão da Cerveja
 ---
 

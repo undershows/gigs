@@ -217,5 +217,12 @@ gigs:
     daysGroup: 01/02/03
     title: Frattelli + NW77 + Terror Revolucionário + Cätärro ...
     where: Backstage Bar
+  - poster: 2_gran_magus_festival.jpeg
+    city: Natal
+    date: '08/08/2025 19:00'
+    daysGroup: 08/09/10
+    ticketsUrl: 'https://www.luciferrex.com.br/gran-magus-festival-ii/'
+    title: GRAN MAGUS FESTIVAL II com Velho + Podridão + Open The Coffin ...
+    where: Backstage Bar
 ---
 
