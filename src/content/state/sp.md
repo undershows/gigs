@@ -40,20 +40,6 @@ gigs:
     daysGroup: 07/08/09
     title: Cap'n Jazz
     where: Cine Joia
-  - poster: 503408137_17855825391452432_4370673371611890720_n.jpg
-    city: São Paulo
-    date: '09/08/2025 17:00'
-    daysGroup: 06/07/08
-    ticketsUrl: 'https://www.clubedoingresso.com/evento/heartcorefest-09-08'
-    title: HEARTCORE FEST com Medit + Demasia + Quebra + Punk Me Baby
-    where: Casa Lab
-  - poster: 509844269_18287396674249721_8782310175256459239_n.jpg
-    city: São Paulo
-    date: '09/08/2025 18:00'
-    daysGroup: 06/07/08
-    ticketsUrl: 'https://pixelticket.com.br/eventos/27713/anthares'
-    title: Anthares + Massvepower + Inferno Nuclear + Armadilha
-    where: Casa Lab
   - poster: cantifest_230825.jpeg
     city: São Paulo
     date: '23/08/2025 16:00'
@@ -61,12 +47,6 @@ gigs:
     title: >-
       HARDCORE BENEFICIENTE com Instituion + Crexpo + Estilhaço + Em Chamas +
       Gøssip
-    where: Rock Together
-  - poster: 25d6f81e-4199-4bb0-8019-bae575769aaa.jpeg
-    city: São Paulo
-    date: '09/08/2025 18:00'
-    daysGroup: 06/07/08
-    title: Good Intentions + Presto? + Em Chamas + Noiado
     where: Rock Together
   - poster: 1000157035.jpg
     city: Osasco
