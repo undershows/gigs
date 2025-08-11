@@ -128,5 +128,12 @@ gigs:
     ticketsUrl: 'https://www.sympla.com.br/evento/immolation-nervochaos-sysyphus/2949526'
     title: Immolation (USA) + Nervochaos + Profane Anger
     where: Hard Noise
+  - poster: 513405050_17971893437905247_6420428281908090025_n.jpg
+    city: Fortaleza
+    date: '10/08/2025 17:00'
+    daysGroup: 08/09/10
+    ticketsUrl: 'https://bilheto.com.br/comprar/3696'
+    title: UNDERGROUND METAL FEST com Velho + Podridão + Sysyphus ...
+    where: Casarão Benfica
 ---
 
