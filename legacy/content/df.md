@@ -451,5 +451,13 @@ gigs:
     daysGroup: 25/26/27
     title: NW77 + Lowlife
     where: Espaço Toma na Kombi
+  - poster: 580b445f-10a4-4af4-8e65-e2203dba30c6.jpeg
+    city: Gama
+    date: '16/08/2025 17:00'
+    daysGroup: 15/16/17
+    title: >-
+      INFERNALIA com Justabeli + Tarrasque + Estado Revoltoso + Eutanasia +
+      Terrorcidio ..
+    where: Galpãozinho do Gama
 ---
 

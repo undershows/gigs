@@ -27,14 +27,6 @@ gigs:
       RITUAL AQUIMICO III com Tarrasque + Caligo + The Cross + Summa + Estado
       Revoltoso
     where: Alquimia Taberna Bar
-  - poster: 580b445f-10a4-4af4-8e65-e2203dba30c6.jpeg
-    city: Gama
-    date: '16/08/2025 17:00'
-    daysGroup: 15/16/17
-    title: >-
-      INFERNALIA com Justabeli + Tarrasque + Estado Revoltoso + Eutanasia +
-      Terrorcidio ..
-    where: Galpãozinho do Gama
   - poster: 6bcc03a2-f8d8-4f13-8b62-c0b7fc82b4c7.jpeg
     city: Taguatinga
     date: '30/08/2025 20:00'
