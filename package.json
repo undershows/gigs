@@ -18,7 +18,7 @@
 	},
 	"dependencies": {
 		"@astrojs/sitemap": "^3.4.1",
-		"astro": "^5.10.1",
+		"astro": "^5.13.1",
 		"chalk": "^5.3.0",
 		"date-fns": "^4.1.0",
 		"ramda": "^0.28.0"
