@@ -459,5 +459,14 @@ gigs:
       INFERNALIA com Justabeli + Tarrasque + Estado Revoltoso + Eutanasia +
       Terrorcidio ..
     where: Galpãozinho do Gama
+  - poster: bc35b144-28e5-49a3-b94c-5ae17b12965f.jpeg
+    city: Brasília
+    date: '22/08/2025 20:00'
+    daysGroup: 22/23/24
+    ticketsUrl: 'https://www.furandoafila.com/evento/ritual-alq-61axtqs'
+    title: >-
+      RITUAL AQUIMICO III com Tarrasque + Caligo + The Cross + Summa + Estado
+      Revoltoso
+    where: Alquimia Taberna Bar
 ---
 

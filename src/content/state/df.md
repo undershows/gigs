@@ -9,15 +9,6 @@ gigs:
     ticketsUrl: 'https://www.furandoafila.com/evento/impurity-nk9v6p9'
     title: Impurity + Heia + Denied Redemption
     where: Alquimia Taberna Bar
-  - poster: bc35b144-28e5-49a3-b94c-5ae17b12965f.jpeg
-    city: Brasília
-    date: '22/08/2025 20:00'
-    daysGroup: 22/23/24
-    ticketsUrl: 'https://www.furandoafila.com/evento/ritual-alq-61axtqs'
-    title: >-
-      RITUAL AQUIMICO III com Tarrasque + Caligo + The Cross + Summa + Estado
-      Revoltoso
-    where: Alquimia Taberna Bar
   - poster: a2a341f9-f5e4-4fe9-b3a5-24c9e1e36cad.jpeg
     city: Brasília
     date: '23/08/2025 18:00'
