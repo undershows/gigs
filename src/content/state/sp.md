@@ -40,14 +40,6 @@ gigs:
     daysGroup: 07/08/09
     title: Cap'n Jazz
     where: Cine Joia
-  - poster: cantifest_230825.jpeg
-    city: São Paulo
-    date: '23/08/2025 16:00'
-    daysGroup: 09/10/11/12/13
-    title: >-
-      HARDCORE BENEFICIENTE com Instituion + Crexpo + Estilhaço + Em Chamas +
-      Gøssip
-    where: Rock Together
   - poster: 1000157035.jpg
     city: Osasco
     date: '30/08/2025 19:00'

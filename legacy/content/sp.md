@@ -6171,5 +6171,13 @@ gigs:
     daysGroup: 06/07/08
     title: Good Intentions + Presto? + Em Chamas + Noiado
     where: Rock Together
+  - poster: cantifest_230825.jpeg
+    city: São Paulo
+    date: '23/08/2025 16:00'
+    daysGroup: 09/10/11/12/13
+    title: >-
+      HARDCORE BENEFICIENTE com Instituion + Crexpo + Estilhaço + Em Chamas +
+      Gøssip
+    where: Rock Together
 ---
 

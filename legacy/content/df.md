@@ -468,5 +468,22 @@ gigs:
       RITUAL AQUIMICO III com Tarrasque + Caligo + The Cross + Summa + Estado
       Revoltoso
     where: Alquimia Taberna Bar
+  - poster: a2a341f9-f5e4-4fe9-b3a5-24c9e1e36cad.jpeg
+    city: Brasília
+    date: '23/08/2025 18:00'
+    daysGroup: 22/23/24
+    ticketsUrl: 'https://www.furandoafila.com/evento/ritual-al-fb03dm6'
+    title: >-
+      RITUAL AQUIMICO III com Tarrasque + Caligo + The Cross + Summa + Estado
+      Revoltoso
+    where: Alquimia Taberna Bar
+  - poster: santamariaprofana230825.jpeg
+    city: Santa Maria
+    date: '23/08/2025 19:00'
+    daysGroup: 22/23/24
+    title: >-
+      SANTA MARIA PROFANA com Mitsein + Cerrado Hostail + What I Want + Zuada +
+      Elka + Raika + Nikita + Kayne
+    where: Dig Rock Bar
 ---
 
