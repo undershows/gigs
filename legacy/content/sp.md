@@ -6179,5 +6179,13 @@ gigs:
       HARDCORE BENEFICIENTE com Instituion + Crexpo + Estilhaço + Em Chamas +
       Gøssip
     where: Rock Together
+  - poster: 1000157035.jpg
+    city: Osasco
+    date: '30/08/2025 19:00'
+    daysGroup: 29/30/31
+    title: >-
+      Inferno Nuclear + Mosca Negra + Feitiço Oculto + Agravo + Atropelo +
+      Trágico
+    where: Lau Estúdio
 ---
 

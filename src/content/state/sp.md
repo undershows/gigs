@@ -40,13 +40,5 @@ gigs:
     daysGroup: 07/08/09
     title: Cap'n Jazz
     where: Cine Joia
-  - poster: 1000157035.jpg
-    city: Osasco
-    date: '30/08/2025 19:00'
-    daysGroup: 29/30/31
-    title: >-
-      Inferno Nuclear + Mosca Negra + Feitiço Oculto + Agravo + Atropelo +
-      Trágico
-    where: Lau Estúdio
 ---
 

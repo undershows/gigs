@@ -485,5 +485,13 @@ gigs:
       SANTA MARIA PROFANA com Mitsein + Cerrado Hostail + What I Want + Zuada +
       Elka + Raika + Nikita + Kayne
     where: Dig Rock Bar
+  - poster: 6bcc03a2-f8d8-4f13-8b62-c0b7fc82b4c7.jpeg
+    city: Taguatinga
+    date: '30/08/2025 20:00'
+    daysGroup: 29/30/31
+    title: >-
+      KIDSGRAÇA FEST PARTE 2 com Manger Cadavre? + Kidsgrace + Transtorno
+      Nuclear + LowLife ...
+    where: Moto Rock e Cia
 ---
 
