@@ -493,5 +493,12 @@ gigs:
       KIDSGRAÇA FEST PARTE 2 com Manger Cadavre? + Kidsgrace + Transtorno
       Nuclear + LowLife ...
     where: Moto Rock e Cia
+  - poster: impurity_310825.png
+    city: Brasília
+    date: '31/08/2025 19:00'
+    daysGroup: 29/30/31
+    ticketsUrl: 'https://www.furandoafila.com/evento/impurity-nk9v6p9'
+    title: Impurity + Heia + Denied Redemption
+    where: Alquimia Taberna Bar
 ---
 
