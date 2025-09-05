@@ -6187,5 +6187,12 @@ gigs:
       Inferno Nuclear + Mosca Negra + Feitiço Oculto + Agravo + Atropelo +
       Trágico
     where: Lau Estúdio
+  - poster: 509151410_18517614817052265_5052226409234171015_n.jpg
+    city: São Paulo
+    date: '04/09/2025 13:00'
+    daysGroup: 04/05/06/07
+    ticketsUrl: 'https://ticket.com.vc/evento/final-dose-uk-no-la-iglesias-em-sp'
+    title: Final Dose (UK) + Vazio + DOR
+    where: La Iglesia
 ---
 
