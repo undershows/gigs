@@ -6194,5 +6194,21 @@ gigs:
     ticketsUrl: 'https://ticket.com.vc/evento/final-dose-uk-no-la-iglesias-em-sp'
     title: Final Dose (UK) + Vazio + DOR
     where: La Iglesia
+  - poster: setembro_negro_2025.jpg
+    city: São Paulo
+    date: '07/09/2025 13:00'
+    daysGroup: 04/05/06/07
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/setembro-negro'
+    title: >-
+      Setembro Negro Festival Ed. XVI com Watain (SWE) + Candlemass (SWE) +
+      Nervochaos ...
+    where: Vip Station
+  - poster: 504007757_17970523868869716_6596077546762677083_n.jpg
+    city: São Paulo
+    date: '07/09/2025 17:00'
+    daysGroup: 04/05/06/07
+    ticketsUrl: 'https://ticket.com.vc/evento/final-dose-uk-no-fffront-em-sp'
+    title: Final Dose (UK) + Obsoletion + Pele Fria + BIG
+    where: FFFront
 ---
 

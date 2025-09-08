@@ -11,22 +11,6 @@ gigs:
       Vision Of Rock com Metalucifer (JAP), Sabathan (SWE) + Cruel Force (GER) +
       Atomic Aggressor (CHI) ...
     where: Vip Station
-  - poster: setembro_negro_2025.jpg
-    city: São Paulo
-    date: '07/09/2025 13:00'
-    daysGroup: 04/05/06/07
-    ticketsUrl: 'https://www.clubedoingresso.com/evento/setembro-negro'
-    title: >-
-      Setembro Negro Festival Ed. XVI com Watain (SWE) + Candlemass (SWE) +
-      Nervochaos ...
-    where: Vip Station
-  - poster: 504007757_17970523868869716_6596077546762677083_n.jpg
-    city: São Paulo
-    date: '07/09/2025 17:00'
-    daysGroup: 04/05/06/07
-    ticketsUrl: 'https://ticket.com.vc/evento/final-dose-uk-no-fffront-em-sp'
-    title: Final Dose (UK) + Obsoletion + Pele Fria + BIG
-    where: FFFront
   - poster: 510911734_18516200986042748_2366819110082529180_n.webp
     city: São Paulo
     date: '08/11/2025 19:00'
