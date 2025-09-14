@@ -500,5 +500,11 @@ gigs:
     ticketsUrl: 'https://www.furandoafila.com/evento/impurity-nk9v6p9'
     title: Impurity + Heia + Denied Redemption
     where: Alquimia Taberna Bar
+  - poster: ratcave_130925.jpeg
+    city: Brasília
+    date: '13/09/2025 21:00'
+    daysGroup: 12/13/14
+    title: Jenni Sex + Das Projekt + Plastique Noir
+    where: Alquimia Taberna Bar
 ---
 
