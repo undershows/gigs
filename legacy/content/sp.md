@@ -6210,5 +6210,14 @@ gigs:
     ticketsUrl: 'https://ticket.com.vc/evento/final-dose-uk-no-fffront-em-sp'
     title: Final Dose (UK) + Obsoletion + Pele Fria + BIG
     where: FFFront
+  - poster: 1177eb09-9816-4fb6-8406-2a214c577775.jpeg
+    city: São Paulo
+    date: '18/10/2025 18:00'
+    daysGroup: 17/18/19
+    ticketsUrl: 'https://www.clubedoingresso.com/evento/visions-of-rock-sp'
+    title: >-
+      Vision Of Rock com Metalucifer (JAP), Sabathan (SWE) + Cruel Force (GER) +
+      Atomic Aggressor (CHI) ...
+    where: Vip Station
 ---
 
