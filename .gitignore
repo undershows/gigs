@@ -1,6 +1,5 @@
 # build output
 dist/
-
 # generated types
 .astro/
 
@@ -13,6 +12,7 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 
+
 # environment variables
 .env
 .env.production
@@ -20,5 +20,5 @@ pnpm-debug.log*
 # macOS-specific files
 .DS_Store
 
-# other
-*:Zone.Identifier
+# jetbrains setting folder
+.idea/

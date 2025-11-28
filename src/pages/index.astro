@@ -1,0 +1,309 @@
+---
+const STRAPI_URL = import.meta.env.PUBLIC_STRAPI_URL;
+
+const states = [
+  "SP", "AC", "AL", "AM", "AP", "BA", "CE", "DF", "ES",
+  "GO", "MA", "MG", "MS", "MT", "PA", "PB", "PE", "PI",
+  "PR", "RJ", "RN", "RO", "RR", "RS", "SC", "SE", "TO"
+];
+
+const res = await fetch(
+  `${STRAPI_URL}/api/shows?sort[0]=date:asc&populate=poster`
+);
+const json = await res.json();
+const allShows = json.data ?? [];
+
+const today = new Date();
+today.setHours(0, 0, 0, 0);
+
+const shows = allShows.filter((show) => {
+  const d = new Date(show.date);
+  d.setHours(0, 0, 0, 0);
+  return d >= today;
+});
+
+function getPosterUrl(show) {
+  const poster = show.poster;
+  if (!poster) return null;
+
+  const fmt = poster.formats?.medium || poster.formats?.small || poster;
+  const url = fmt.url || poster.url;
+  return url.startsWith("http") ? url : `${STRAPI_URL}${url}`;
+}
+
+function formatDate(dateStr) {
+  const d = new Date(dateStr);
+  return d.toLocaleDateString("pt-BR", {
+    day: "2-digit",
+    month: "2-digit",
+    year: "numeric",
+  });
+}
+---
+
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8" />
+    <title>Undershows – Agenda de Shows</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <style>
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        margin: 0;
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+          sans-serif;
+        background: linear-gradient(180deg, #5b2366, #ff2f7a);
+        min-height: 100vh;
+        color: #000;
+        display: flex;
+        justify-content: center;
+      }
+
+      main {
+        width: 100%;
+        max-width: 900px;
+        padding: 24px 16px 48px;
+        text-align: center;
+      }
+
+      .logo {
+        width: 180px;
+        max-width: 50vw;
+        margin: 0 auto 24px;
+        display: block;
+      }
+
+      h1 {
+        margin: 8px 0 24px;
+        font-size: 1.4rem;
+        letter-spacing: 0.08em;
+      }
+
+      .states-grid {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 12px;
+        justify-content: center;
+        margin-bottom: 40px;
+      }
+
+      .state-btn {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        width: 56px;
+        height: 40px;
+        border-radius: 8px;
+        border: 2px solid #ff7da8;
+        background: #ff4b92;
+        color: #000;
+        font-weight: 600;
+        text-decoration: none;
+        transition: transform 0.1s ease, box-shadow 0.1s ease,
+          background 0.1s ease, border-color 0.1s ease;
+        box-shadow: 0 2px 0 rgba(0, 0, 0, 0.25);
+      }
+
+      .state-btn--active {
+        background: #ff4b92;
+        border-color: #000;
+        border-width: 3px;
+        font-weight: 800;
+      }
+
+      .state-btn:hover {
+        transform: translateY(-1px);
+        box-shadow: 0 4px 0 rgba(0, 0, 0, 0.4);
+      }
+
+      .footer-text {
+        margin-top: 16px;
+        line-height: 1.6;
+        font-size: 0.95rem;
+      }
+
+      .footer-text a {
+        color: #000;
+        font-weight: 700;
+        text-decoration: none;
+      }
+
+      .footer-text a:hover {
+        text-decoration: underline;
+      }
+
+      .shows {
+        margin-top: 24px;
+        display: flex;
+        flex-direction: column;
+        gap: 24px;
+      }
+
+      .show-card {
+        text-align: center;
+        margin: 0 auto 32px;
+        max-width: 460px;
+      }
+
+      .show-title {
+        margin: 6px 0 4px;
+        font-weight: 800;
+        font-size: 1.1rem;
+      }
+
+      .show-info {
+        margin: 0 0 12px;
+        font-size: 0.95rem;
+        opacity: 0.9;
+      }
+
+      .poster-wrapper {
+        display: inline-block;
+        border-radius: 12px;
+        overflow: hidden;
+      }
+
+      .show-poster {
+        width: 100%;
+        max-width: 460px;
+        display: block;
+      }
+
+      .ticket-btn {
+        display: block;
+        width: 100%;
+        padding: 12px 0;
+        background: #000;
+        color: #f5f5f5;
+        text-decoration: none;
+        font-weight: 800;
+        font-size: 0.98rem;
+        border: none;
+        margin: 0;
+      }
+
+      .ticket-btn:hover {
+        background: #222;
+      }
+
+      .ticket-btn .emoji {
+        font-size: 1.3rem;
+        vertical-align: -2px;
+        margin-right: 6px;
+      }
+
+      .empty {
+        font-weight: bold;
+        margin-top: 8px;
+      }
+    </style>
+  </head>
+
+  <body>
+    <main>
+      <img src="/logo-undershows.png" alt="Undershows" class="logo" />
+      <h1>ESTADOS / STATES</h1>
+
+      <div class="states-grid">
+        {states.map((uf) => (
+          <a
+            href={`/?state=${uf}`}
+            class="state-btn"
+            data-state={uf}
+          >
+            {uf}
+          </a>
+        ))}
+      </div>
+
+      <section class="shows">
+        {shows.map((show) => {
+          const posterUrl = getPosterUrl(show);
+          const hasTicket = !!show.ticket_link;
+
+          return (
+            <article class="show-card" data-state={show.state}>
+              <h2 class="show-title">{show.title}</h2>
+              <p class="show-info">
+                {formatDate(show.date)} — {show.city}/{show.state}
+              </p>
+
+              <div class="poster-wrapper">
+                {posterUrl && (
+                  <img
+                    src={posterUrl}
+                    alt={show.title}
+                    class="show-poster"
+                    loading="lazy"
+                  />
+                )}
+
+                {hasTicket && (
+                  <a
+                    class="ticket-btn"
+                    href={show.ticket_link}
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    <span class="emoji">🎟️</span>Comprar Ingressos
+                  </a>
+                )}
+              </div>
+            </article>
+          );
+        })}
+      </section>
+
+      <p id="no-shows" class="empty" style="display:none;">
+        Nenhum show neste estado.
+      </p>
+
+      <div class="footer-text">
+        <p>
+          Cartazes de shows, só mandar por email:
+          <a href="mailto:undershowsbr@gmail.com">undershowsbr@gmail.com</a>
+        </p>
+        <p>
+          Curte vinil?
+          <a href="https://undershows.com.br" target="_blank">undershows.com.br</a>
+        </p>
+      </div>
+    </main>
+
+    <script>
+      (function () {
+        const params = new URLSearchParams(window.location.search);
+        const current = params.get("state") || "SP";
+
+        document.querySelectorAll(".state-btn").forEach((el) => {
+          const uf = el.getAttribute("data-state");
+          if (uf === current) {
+            el.classList.add("state-btn--active");
+          } else {
+            el.classList.remove("state-btn--active");
+          }
+        });
+
+        let visibleCount = 0;
+        document.querySelectorAll(".show-card").forEach((card) => {
+          const uf = card.getAttribute("data-state");
+          if (!current || uf === current) {
+            card.style.display = "";
+            visibleCount++;
+          } else {
+            card.style.display = "none";
+          }
+        });
+
+        const noShows = document.getElementById("no-shows");
+        if (noShows) {
+          noShows.style.display = visibleCount === 0 ? "" : "none";
+        }
+      })();
+    </script>
+  </body>
+</html>
