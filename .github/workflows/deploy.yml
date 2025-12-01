@@ -1,9 +1,12 @@
 name: Build and Deploy
+
 on:
   push:
     branches:
       - main
   workflow_dispatch:
+  schedule:
+    - cron: "5 3 * * *"
 
 env:
   PUBLIC_STRAPI_URL: ${{ vars.PUBLIC_STRAPI_URL }}
