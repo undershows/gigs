@@ -1,0 +1,37 @@
+name: Rebuild site from Strapi
+
+on:
+  repository_dispatch:
+    types: [rebuild_site]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install deps
+        run: yarn install
+
+      - name: Build
+        run: yarn build
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    steps:
+      - uses: actions/deploy-pages@v4
