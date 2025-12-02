@@ -1,6 +1,7 @@
 name: Rebuild site from Strapi
 
 on:
+  workflow_dispatch:
   repository_dispatch:
     types: [rebuild_site]
 
