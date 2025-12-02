@@ -5,34 +5,30 @@ on:
   repository_dispatch:
     types: [rebuild_site]
 
+env:
+  PUBLIC_STRAPI_URL: ${{ vars.PUBLIC_STRAPI_URL }}
+
 jobs:
-  build:
+  build-and-deploy:
     runs-on: ubuntu-latest
+    concurrency: ci-${{ github.ref }}
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout 🛎️
+        uses: actions/checkout@v4
 
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
           node-version: 20
 
-      - name: Install deps
-        run: yarn install
+      - name: Install and Build 🔧
+        run: |
+          yarn install
+          yarn build
 
-      - name: Build
-        run: yarn build
-
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+      - name: Deploy 🚀
+        uses: JamesIves/github-pages-deploy-action@v4.2.5
         with:
-          path: dist
-
-  deploy:
-    needs: build
-    runs-on: ubuntu-latest
-    permissions:
-      pages: write
-      id-token: write
-    steps:
-      - uses: actions/deploy-pages@v4
+          branch: gh-pages
+          folder: dist
