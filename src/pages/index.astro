@@ -8,7 +8,7 @@ const states = [
 ];
 
 const res = await fetch(
-  `${STRAPI_URL}/api/shows?sort[0]=date:asc&populate=poster`
+  `${STRAPI_URL}/api/shows?sort[0]=date:asc&pagination[page]=1&pagination[pageSize]=500&populate=poster`
 );
 const json = await res.json();
 const allShows = json.data ?? [];
