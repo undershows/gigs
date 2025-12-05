@@ -450,7 +450,7 @@ via Undershows: ${shareUrl}`;
           try {
             if (navigator.share) {
               await navigator.share({
-                title,
+                // Só usamos text pra evitar título duplicado em alguns apps desktop
                 text,
               });
 
