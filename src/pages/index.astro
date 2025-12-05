@@ -431,21 +431,25 @@ function formatDate(dateStr) {
           const date = btn.dataset.date;
           const city = btn.dataset.city;
           const state = btn.dataset.state;
-          const url = window.location.href;
+          const pageUrl = window.location.href;
 
-          const text = `${title}
+          const shareText = `${title}
 ${date} - ${city}/${state}
 
-via Undershows: ${url}`;
+via Undershows`;
 
           try {
             if (navigator.share) {
-              await navigator.share({ title, text, url });
+              await navigator.share({
+                title: `${title} - Undershows`,
+                text: shareText,
+                url: pageUrl,
+              });
             } else if (navigator.clipboard) {
-              await navigator.clipboard.writeText(text);
+              await navigator.clipboard.writeText(`${shareText}\n\n${pageUrl}`);
               alert("Link copiado! Cole no WhatsApp/Instagram 🤘");
             } else {
-              alert("Copie e cole:\n\n" + text);
+              alert("Copie e cole:\n\n" + shareText + "\n\n" + pageUrl);
             }
           } catch (err) {
             console.error("Erro ao compartilhar", err);
