@@ -452,8 +452,8 @@ via Undershows: ${shareUrl}`;
               await navigator.share({
                 title,
                 text,
-                url: shareUrl, // aqui continua o /cartaz/:id pra gerar o preview
               });
+
             } else if (navigator.clipboard) {
               // No fallback, vale a pena incluir o link do cartaz também:
               const fullText =
