@@ -360,8 +360,6 @@ function formatDate(dateStr) {
           if (uf === current) el.classList.add("state-btn--active");
         });
 
-        let visibleCount = 0;
-
         document.querySelectorAll(".show-card").forEach((card) => {
           const uf = card.getAttribute("data-state");
 
