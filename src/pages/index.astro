@@ -296,15 +296,23 @@ function formatDate(dateStr) {
         {shows.map((show) => {
           const posterUrl = getPosterUrl(show);
           const hasTicket = !!show.ticket_link;
+          const shareUrl = `https://shows.undershows.com.br/cartaz/${show.id}`;
 
           return (
             <article class="show-card" data-state={show.state}>
               <h2 class="show-title">{show.title}</h2>
-              <p class="show-info">{formatDate(show.date)} — {show.city}/{show.state}</p>
+              <p class="show-info">
+                {formatDate(show.date)} — {show.city}/{show.state}
+              </p>
 
               <div class="poster-wrapper">
                 {posterUrl && (
-                  <img src={posterUrl} alt={show.title} class="show-poster" loading="lazy" />
+                  <img
+                    src={posterUrl}
+                    alt={show.title}
+                    class="show-poster"
+                    loading="lazy"
+                  />
                 )}
 
                 {hasTicket && (
@@ -326,6 +334,7 @@ function formatDate(dateStr) {
                   data-city={show.city}
                   data-state={show.state}
                   data-poster={posterUrl}
+                  data-share-url={shareUrl}
                 >
                   <span class="emoji">📤</span>Divulgar o rolê
                 </button>
@@ -334,6 +343,7 @@ function formatDate(dateStr) {
           );
         })}
       </section>
+
 
       <p id="no-shows" class="empty" style="display:none;">Nenhum show neste estado.</p>
 
@@ -422,32 +432,42 @@ function formatDate(dateStr) {
     <!-- COMPARTILHAR -->
     <script>
       (function () {
+        const SITE_URL = "https://shows.undershows.com.br";
+
         async function shareShowFromButton(btn) {
           const title = btn.dataset.title;
           const date = btn.dataset.date;
           const city = btn.dataset.city;
           const state = btn.dataset.state;
-          const poster = btn.dataset.poster;
-          const site = "https://shows.undershows.com.br";
+          const shareUrl = btn.dataset.shareUrl || SITE_URL;
+
           const text =
-        `${poster}
+`${title}
+${date} - ${city}/${state}
 
-        ${title}
-        ${date} - ${city}/${state}
-
-        via Undershows: ${site}`;
+via Undershows: ${SITE_URL}`;
 
           try {
             if (navigator.share) {
               await navigator.share({
                 title,
-                text
+                text,
+                url: shareUrl, // aqui continua o /cartaz/:id pra gerar o preview
               });
             } else if (navigator.clipboard) {
-              await navigator.clipboard.writeText(text);
+              // No fallback, vale a pena incluir o link do cartaz também:
+              const fullText =
+`${title}
+${date} - ${city}/${state}
+
+Cartaz: ${shareUrl}
+
+via Undershows: ${SITE_URL}`;
+
+              await navigator.clipboard.writeText(fullText);
               alert("Link copiado! Cole no WhatsApp/Instagram 🤘");
             } else {
-              alert("Copie e cole:\n\n" + text);
+              alert("Copie e cole:\n\n" + text + "\n\nCartaz: " + shareUrl);
             }
           } catch (err) {
             console.error("Erro ao compartilhar", err);
@@ -462,5 +482,6 @@ function formatDate(dateStr) {
         });
       })();
     </script>
+
   </body>
 </html>

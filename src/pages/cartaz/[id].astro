@@ -1,0 +1,101 @@
+---
+/**
+ * Gera rotas estáticas /cartaz/:id no build.
+ * Aqui usamos diretamente import.meta.env dentro da função
+ * pra não depender de variável global tipo STRAPI_URL.
+ */
+export async function getStaticPaths() {
+  const baseUrl = import.meta.env.PUBLIC_STRAPI_URL || "https://cms.undershows.com.br";
+
+  const res = await fetch(
+    `${baseUrl}/api/shows?pagination[page]=1&pagination[pageSize]=500&populate=poster`
+  );
+
+  if (!res.ok) {
+    console.error("Erro ao buscar shows no Strapi:", res.status, await res.text());
+    return [];
+  }
+
+  const json = await res.json();
+  const allShows = json.data ?? [];
+
+  console.log("[cartaz] IDs gerados:", allShows.map((s) => s.id));
+
+  return allShows.map((show) => ({
+    params: { id: String(show.id) }, // /cartaz/59 etc
+    props: { show },                 // passa show inteiro pra página
+  }));
+}
+
+// Recebe o show vindo do getStaticPaths (NÃO faz novo fetch)
+const { show } = Astro.props;
+
+if (!show) {
+  throw new Error("Show não encontrado");
+}
+
+// Se o Strapi devolver { id, attributes: {...} }, usa attributes.
+// Se devolver { id, title, date, ... }, usa o próprio show.
+const attrs = show.attributes ?? show;
+
+const ASSETS_URL = import.meta.env.PUBLIC_ASSETS_URL || "https://assets.undershows.com.br";
+
+// Campos básicos
+const title = attrs.title || `Show #${show.id}`;
+const date = attrs.date || "";
+const city = attrs.city || "";
+const state = attrs.state || "";
+const description = `${date} - ${city}${state ? `/${state}` : ""}`;
+
+// Poster (continua igual)
+// Tenta achar a URL do poster em vários formatos possíveis
+const rawPoster =
+  attrs.poster?.data?.attributes?.url ??
+  attrs.poster?.url ??
+  attrs.poster?.data?.attributes?.formats?.medium?.url ??
+  attrs.poster?.formats?.medium?.url ??
+  attrs.poster?.data?.attributes?.formats?.large?.url ??
+  attrs.poster?.formats?.large?.url ??
+  null;
+
+const posterUrl = rawPoster
+  ? (rawPoster.startsWith("http")
+      ? rawPoster
+      : `${ASSETS_URL}${rawPoster}`)
+  : null;
+
+---
+
+<html lang="pt-br">
+  <head>
+    <meta charset="utf-8" />
+    <title>{title}</title>
+
+    <!-- OG tags p/ Whats, Insta, FB -->
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:image" content={posterUrl} />
+    <meta property="og:url" content={`https://shows.undershows.com.br/cartaz/${show.id}`} />
+    <meta property="og:type" content="website" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+  </head>
+
+  <body>
+    <h1>{title}</h1>
+    <p>{description}</p>
+
+    {posterUrl && <img src={posterUrl} alt={title} />}
+
+    <br /><br />
+
+    <a
+      href={`https://wa.me/?text=${encodeURIComponent(
+        `${title}\n${description}\n\nhttps://shows.undershows.com.br/cartaz/${show.id}`
+      )}`}
+      target="_blank"
+    >
+      Compartilhar no WhatsApp
+    </a>
+  </body>
+</html>
