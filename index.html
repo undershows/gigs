@@ -94,16 +94,16 @@
 Cartazes de shows, só mandar por email:
 <a href="mailto:undershowsbr@gmail.com" data-astro-cid-j7pv25f6>undershowsbr@gmail.com</a> </p> <p data-astro-cid-j7pv25f6>
 Curte vinil?
-<a href="https://undershows.com.br" target="_blank" data-astro-cid-j7pv25f6>undershows.com.br</a> </p> </div> </main> <!-- FILTRO ESTADO --> <script type="module">(function(){const e="https://shows.undershows.com.br";async function l(t){const a=t.dataset.title,s=t.dataset.date,n=t.dataset.city,c=t.dataset.state,o=t.dataset.shareUrl||e,i=`${a}
+<a href="https://undershows.com.br" target="_blank" data-astro-cid-j7pv25f6>undershows.com.br</a> </p> </div> </main> <!-- FILTRO ESTADO --> <script type="module">(function(){const r="https://shows.undershows.com.br";async function l(t){const a=t.dataset.title,s=t.dataset.date,n=t.dataset.city,c=t.dataset.state,e=t.dataset.shareUrl||r,i=`${a}
 ${s} - ${n}/${c}
 
-via Undershows: ${e}`;try{if(navigator.share)await navigator.share({title:a,text:i,url:o});else if(navigator.clipboard){const r=`${a}
+via Undershows: ${e}`;try{if(navigator.share)await navigator.share({title:a,text:i,url:e});else if(navigator.clipboard){const o=`${a}
 ${s} - ${n}/${c}
 
-Cartaz: ${o}
+Cartaz: ${e}
 
-via Undershows: ${e}`;await navigator.clipboard.writeText(r),alert("Link copiado! Cole no WhatsApp/Instagram 🤘")}else alert(`Copie e cole:
+via Undershows: ${r}`;await navigator.clipboard.writeText(o),alert("Link copiado! Cole no WhatsApp/Instagram 🤘")}else alert(`Copie e cole:
 
 `+i+`
 
-Cartaz: `+o)}catch(r){console.error("Erro ao compartilhar",r)}}document.addEventListener("click",function(t){const a=t.target.closest("[data-share-show]");a&&(t.preventDefault(),l(a))})})();</script> <!-- BUSCA --> <script type="module">(function(){document.getElementById("search").addEventListener("input",function(){const e=this.value.toLowerCase().trim(),s=new URLSearchParams(window.location.search).get("state")||"SP";let n=0;document.querySelectorAll(".show-card").forEach(t=>{if(t.getAttribute("data-state")!==s){t.style.display="none";return}const a=t.querySelector(".show-title")?.textContent.toLowerCase()||"",i=t.querySelector(".show-info")?.textContent.toLowerCase()||"";e===""||a.includes(e)||i.includes(e)?(t.style.display="",n++):t.style.display="none"});const o=document.getElementById("no-shows");o&&(o.style.display=n===0?"":"none")})})();</script> <!-- COMPARTILHAR --> <script type="module">(function(){const e=new URLSearchParams(window.location.search).get("state")||"SP";document.querySelectorAll(".state-btn").forEach(t=>{t.getAttribute("data-state")===e&&t.classList.add("state-btn--active")});let s=0;document.querySelectorAll(".show-card").forEach(t=>{t.getAttribute("data-state")===e?(t.style.display="",s++):t.style.display="none"});const a=document.getElementById("no-shows");a&&(a.style.display=s===0?"":"none")})();</script> </body> </html>
+Cartaz: `+e)}catch(o){console.error("Erro ao compartilhar",o)}}document.addEventListener("click",function(t){const a=t.target.closest("[data-share-show]");a&&(t.preventDefault(),l(a))})})();</script> <!-- BUSCA --> <script type="module">(function(){document.getElementById("search").addEventListener("input",function(){const e=this.value.toLowerCase().trim(),s=new URLSearchParams(window.location.search).get("state")||"SP";let n=0;document.querySelectorAll(".show-card").forEach(t=>{if(t.getAttribute("data-state")!==s){t.style.display="none";return}const a=t.querySelector(".show-title")?.textContent.toLowerCase()||"",i=t.querySelector(".show-info")?.textContent.toLowerCase()||"";e===""||a.includes(e)||i.includes(e)?(t.style.display="",n++):t.style.display="none"});const o=document.getElementById("no-shows");o&&(o.style.display=n===0?"":"none")})})();</script> <!-- COMPARTILHAR --> <script type="module">(function(){const e=new URLSearchParams(window.location.search).get("state")||"SP";document.querySelectorAll(".state-btn").forEach(t=>{t.getAttribute("data-state")===e&&t.classList.add("state-btn--active")});let s=0;document.querySelectorAll(".show-card").forEach(t=>{t.getAttribute("data-state")===e?(t.style.display="",s++):t.style.display="none"});const a=document.getElementById("no-shows");a&&(a.style.display=s===0?"":"none")})();</script> </body> </html>
