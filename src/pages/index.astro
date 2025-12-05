@@ -40,7 +40,6 @@ function formatDate(dateStr) {
   });
 }
 ---
-
 <html lang="pt-BR">
   <head>
     <meta charset="utf-8" />
@@ -49,14 +48,17 @@ function formatDate(dateStr) {
     <meta http-equiv="Cache-Control" content="no-store, no-cache, must-revalidate, max-age=0" />
     <meta http-equiv="Pragma" content="no-cache" />
     <meta http-equiv="Expires" content="0" />
+
     <link rel="icon" type="image/x-icon" href="/favicon.ico">
     <link rel="apple-touch-icon" href="/images/icons/icon-180x180.png">
     <link rel="icon" type="image/png" sizes="192x192" href="/images/icons/icon-192x192-v2.png">
     <link rel="icon" type="image/png" sizes="512x512" href="/images/icons/icon-512x512-v2.png">
     <link rel="manifest" href="/manifest.json">
+
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-title" content="Undershows">
     <meta name="apple-mobile-web-app-status-bar-style" content="black">
+
     <link rel="preload" as="image" href="https://undershows.nyc3.cdn.digitaloceanspaces.com/logo-undershows.webp" />
 
     <style>
@@ -81,6 +83,7 @@ function formatDate(dateStr) {
         text-align: center;
       }
 
+      /* LOGO */
       .logo {
         width: 180px;
         max-width: 50vw;
@@ -88,20 +91,21 @@ function formatDate(dateStr) {
         display: block;
       }
 
+      /* ESTADOS */
       .states-grid {
         display: flex;
         flex-wrap: wrap;
         justify-content: center;
         gap: 6px;
         margin: 0 auto 20px;
-        max-width: 320px; /* controla quantos cabem por linha no mobile */
+        max-width: 320px;
       }
 
       .state-btn {
         display: inline-flex;
         align-items: center;
         justify-content: center;
-        width: 44px;        /* mais estreito → cabe 6–7 por linha */
+        width: 44px;
         height: 32px;
         border-radius: 8px;
         border: 2px solid #ff7da8;
@@ -110,12 +114,8 @@ function formatDate(dateStr) {
         font-weight: 600;
         font-size: 0.8rem;
         text-decoration: none;
-        transition:
-          transform 0.1s ease,
-          box-shadow 0.1s ease,
-          background 0.1s ease,
-          border-color 0.1s ease;
-        box-shadow: 0 2px 0 rgba(0, 0, 0, 0.25);
+        transition: transform 0.1s ease, box-shadow 0.1s ease;
+        box-shadow: 0 2px 0 rgba(0,0,0,0.25);
       }
 
       .state-btn--active {
@@ -127,7 +127,7 @@ function formatDate(dateStr) {
 
       .state-btn:hover {
         transform: translateY(-1px);
-        box-shadow: 0 4px 0 rgba(0, 0, 0, 0.4);
+        box-shadow: 0 4px 0 rgba(0,0,0,0.4);
       }
 
       @media (min-width: 600px) {
@@ -136,7 +136,6 @@ function formatDate(dateStr) {
           gap: 8px;
           margin-bottom: 24px;
         }
-
         .state-btn {
           width: 56px;
           height: 36px;
@@ -144,22 +143,24 @@ function formatDate(dateStr) {
         }
       }
 
-      .footer-text {
-        margin-top: 16px;
-        line-height: 1.6;
-        font-size: 0.95rem;
-      }
-
-      .footer-text a {
+      /* BUSCA */
+      .search-input {
+        width: 100%;
+        padding: 10px;
+        border: 3px solid #000;
+        border-radius: 10px;
+        text-align: center;
+        font-size: 1rem;
+        font-weight: 800;
+        background: #ffffff;
         color: #000;
-        font-weight: 700;
-        text-decoration: none;
       }
 
-      .footer-text a:hover {
-        text-decoration: underline;
+      .search-input:focus::placeholder {
+        opacity: 0;
       }
 
+      /* CARTAZES */
       .shows {
         margin-top: 16px;
         display: flex;
@@ -180,23 +181,25 @@ function formatDate(dateStr) {
       }
 
       .show-info {
-        margin: 0 0 12px;
+        margin: 0 0 8px;
         font-size: 0.95rem;
         opacity: 0.9;
       }
 
       .poster-wrapper {
-        display: inline-block;
+        display: block;
         border-radius: 12px;
         overflow: hidden;
+        max-width: 460px;
+        margin: 0 auto;
       }
 
       .show-poster {
         width: 100%;
-        max-width: 460px;
         display: block;
       }
 
+      /* BOTÕES */
       .ticket-btn {
         display: flex;
         align-items: center;
@@ -207,27 +210,57 @@ function formatDate(dateStr) {
         background: #000;
         color: #f5f5f5;
         font-weight: 800;
-        text-decoration: none;
         font-size: 0.98rem;
         border: none;
-        margin: 0;
+        cursor: pointer;
+      }
+
+      .ticket-btn + .ticket-btn {
+        border-top: 1px solid #333;
+      }
+
+      .ticket-btn .emoji {
+        font-size: 1.6rem;
+        line-height: 1;
       }
 
       .ticket-btn:hover {
         background: #222;
       }
 
-      .ticket-btn .emoji {
-        font-size: 1.6rem;
-        line-height: 1;
-        display: flex;
-        align-items: center;
+      /* FOOTER */
+      .footer-text {
+        margin-top: 16px;
+        line-height: 1.6;
+        font-size: 0.95rem;
       }
 
-      .empty {
-        font-weight: bold;
-        margin-top: 8px;
+      .footer-text a {
+        color: #000;
+        font-weight: 700;
+        text-decoration: none;
       }
+
+      .footer-text a:hover {
+        text-decoration: underline;
+      }
+
+      #search {
+        color: #000;
+        font-weight: 800;
+      }
+
+      #search::placeholder {
+        color: #000;
+        font-weight: 800;
+        opacity: 1;
+        transition: opacity 0.15s ease-in-out;
+      }
+
+      #search:focus::placeholder {
+        opacity: 0;
+      }
+
     </style>
   </head>
 
@@ -239,23 +272,27 @@ function formatDate(dateStr) {
           src="https://undershows.nyc3.cdn.digitaloceanspaces.com/logo-undershows.png"
           alt="Undershows"
           class="logo"
-          width="180"
-          height="180"
         />
       </picture>
 
+      <!-- ESTADOS -->
       <div class="states-grid">
         {states.map((uf) => (
-          <a
-            href={`/?state=${uf}`}
-            class="state-btn"
-            data-state={uf}
-          >
-            {uf}
-          </a>
+          <a href={`/?state=${uf}`} class="state-btn" data-state={uf}>{uf}</a>
         ))}
       </div>
 
+      <!-- BUSCA -->
+      <div style="max-width:300px;margin:12px auto 18px;">
+        <input
+          id="search"
+          type="text"
+          placeholder="🔍 Buscar show…"
+          class="search-input"
+        />
+      </div>
+
+      <!-- SHOWS -->
       <section class="shows">
         {shows.map((show) => {
           const posterUrl = getPosterUrl(show);
@@ -264,18 +301,11 @@ function formatDate(dateStr) {
           return (
             <article class="show-card" data-state={show.state}>
               <h2 class="show-title">{show.title}</h2>
-              <p class="show-info">
-                {formatDate(show.date)} — {show.city}/{show.state}
-              </p>
+              <p class="show-info">{formatDate(show.date)} — {show.city}/{show.state}</p>
 
               <div class="poster-wrapper">
                 {posterUrl && (
-                  <img
-                    src={posterUrl}
-                    alt={show.title}
-                    class="show-poster"
-                    loading="lazy"
-                  />
+                  <img src={posterUrl} alt={show.title} class="show-poster" loading="lazy" />
                 )}
 
                 {hasTicket && (
@@ -283,20 +313,29 @@ function formatDate(dateStr) {
                     class="ticket-btn"
                     href={show.ticket_link}
                     target="_blank"
-                    rel="noreferrer"
                   >
                     <span class="emoji">🎟️</span>Comprar Ingressos
                   </a>
                 )}
+
+                <button
+                  type="button"
+                  class="ticket-btn"
+                  data-share-show
+                  data-title={show.title}
+                  data-date={formatDate(show.date)}
+                  data-city={show.city}
+                  data-state={show.state}
+                >
+                  <span class="emoji">📤</span>Divulgar o rolê
+                </button>
               </div>
             </article>
           );
         })}
       </section>
 
-      <p id="no-shows" class="empty" style="display:none;">
-        Nenhum show neste estado.
-      </p>
+      <p id="no-shows" class="empty" style="display:none;">Nenhum show neste estado.</p>
 
       <div class="footer-text">
         <p>
@@ -310,6 +349,7 @@ function formatDate(dateStr) {
       </div>
     </main>
 
+    <!-- FILTRO ESTADO -->
     <script>
       (function () {
         const params = new URLSearchParams(window.location.search);
@@ -317,17 +357,15 @@ function formatDate(dateStr) {
 
         document.querySelectorAll(".state-btn").forEach((el) => {
           const uf = el.getAttribute("data-state");
-          if (uf === current) {
-            el.classList.add("state-btn--active");
-          } else {
-            el.classList.remove("state-btn--active");
-          }
+          if (uf === current) el.classList.add("state-btn--active");
         });
 
         let visibleCount = 0;
+
         document.querySelectorAll(".show-card").forEach((card) => {
           const uf = card.getAttribute("data-state");
-          if (!current || uf === current) {
+
+          if (uf === current) {
             card.style.display = "";
             visibleCount++;
           } else {
@@ -336,9 +374,86 @@ function formatDate(dateStr) {
         });
 
         const noShows = document.getElementById("no-shows");
-        if (noShows) {
-          noShows.style.display = visibleCount === 0 ? "" : "none";
+        if (noShows) noShows.style.display = visibleCount === 0 ? "" : "none";
+      })();
+    </script>
+
+    <!-- BUSCA -->
+    <script>
+      (function () {
+        const input = document.getElementById("search");
+
+        input.addEventListener("input", function () {
+          const term = this.value.toLowerCase().trim();
+          const params = new URLSearchParams(window.location.search);
+          const currentState = params.get("state") || "SP";
+          let visible = 0;
+
+          document.querySelectorAll(".show-card").forEach((card) => {
+            const cardState = card.getAttribute("data-state");
+
+            if (cardState !== currentState) {
+              card.style.display = "none";
+              return;
+            }
+
+            const title = card.querySelector(".show-title")?.textContent.toLowerCase() || "";
+            const info = card.querySelector(".show-info")?.textContent.toLowerCase() || "";
+
+            const matches =
+              term === "" ||
+              title.includes(term) ||
+              info.includes(term);
+
+            if (matches) {
+              card.style.display = "";
+              visible++;
+            } else {
+              card.style.display = "none";
+            }
+          });
+
+          const noShows = document.getElementById("no-shows");
+          if (noShows) noShows.style.display = visible === 0 ? "" : "none";
+        });
+      })();
+    </script>
+
+    <!-- COMPARTILHAR -->
+    <script>
+      (function () {
+        async function shareShowFromButton(btn) {
+          const title = btn.dataset.title;
+          const date = btn.dataset.date;
+          const city = btn.dataset.city;
+          const state = btn.dataset.state;
+          const url = window.location.href;
+
+          const text = `${title}
+${date} - ${city}/${state}
+
+via Undershows: ${url}`;
+
+          try {
+            if (navigator.share) {
+              await navigator.share({ title, text, url });
+            } else if (navigator.clipboard) {
+              await navigator.clipboard.writeText(text);
+              alert("Link copiado! Cole no WhatsApp/Instagram 🤘");
+            } else {
+              alert("Copie e cole:\n\n" + text);
+            }
+          } catch (err) {
+            console.error("Erro ao compartilhar", err);
+          }
         }
+
+        document.addEventListener("click", function (ev) {
+          const btn = ev.target.closest("[data-share-show]");
+          if (!btn) return;
+          ev.preventDefault();
+          shareShowFromButton(btn);
+        });
       })();
     </script>
   </body>
