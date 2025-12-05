@@ -355,15 +355,19 @@ function formatDate(dateStr) {
         const params = new URLSearchParams(window.location.search);
         const current = params.get("state") || "SP";
 
+        // destaca o estado atual
         document.querySelectorAll(".state-btn").forEach((el) => {
           const uf = el.getAttribute("data-state");
-          if (uf === current) el.classList.add("state-btn--active");
+          el.classList.toggle("state-btn--active", uf === current);
         });
+
+        // conta quantos shows ficam visíveis
+        let visibleCount = 0;
 
         document.querySelectorAll(".show-card").forEach((card) => {
           const uf = card.getAttribute("data-state");
 
-          if (uf === current) {
+          if (!current || uf === current) {
             card.style.display = "";
             visibleCount++;
           } else {
@@ -372,7 +376,9 @@ function formatDate(dateStr) {
         });
 
         const noShows = document.getElementById("no-shows");
-        if (noShows) noShows.style.display = visibleCount === 0 ? "" : "none";
+        if (noShows) {
+          noShows.style.display = visibleCount === 0 ? "" : "none";
+        }
       })();
     </script>
 
