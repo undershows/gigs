@@ -160,6 +160,22 @@ function formatDate(dateStr) {
         opacity: 0;
       }
 
+      #search {
+        color: #000;
+        font-weight: 800;
+      }
+
+      #search::placeholder {
+        color: #000;
+        font-weight: 800;
+        opacity: 1;
+        transition: opacity 0.15s ease-in-out;
+      }
+
+      #search:focus::placeholder {
+        opacity: 0;
+      }
+
       /* CARTAZES */
       .shows {
         margin-top: 16px;
@@ -244,23 +260,6 @@ function formatDate(dateStr) {
       .footer-text a:hover {
         text-decoration: underline;
       }
-
-      #search {
-        color: #000;
-        font-weight: 800;
-      }
-
-      #search::placeholder {
-        color: #000;
-        font-weight: 800;
-        opacity: 1;
-        transition: opacity 0.15s ease-in-out;
-      }
-
-      #search:focus::placeholder {
-        opacity: 0;
-      }
-
     </style>
   </head>
 
@@ -326,6 +325,7 @@ function formatDate(dateStr) {
                   data-date={formatDate(show.date)}
                   data-city={show.city}
                   data-state={show.state}
+                  data-poster={posterUrl}
                 >
                   <span class="emoji">📤</span>Divulgar o rolê
                 </button>
@@ -355,13 +355,11 @@ function formatDate(dateStr) {
         const params = new URLSearchParams(window.location.search);
         const current = params.get("state") || "SP";
 
-        // destaca o estado atual
         document.querySelectorAll(".state-btn").forEach((el) => {
           const uf = el.getAttribute("data-state");
-          el.classList.toggle("state-btn--active", uf === current);
+          if (uf === current) el.classList.add("state-btn--active");
         });
 
-        // conta quantos shows ficam visíveis
         let visibleCount = 0;
 
         document.querySelectorAll(".show-card").forEach((card) => {
@@ -376,9 +374,7 @@ function formatDate(dateStr) {
         });
 
         const noShows = document.getElementById("no-shows");
-        if (noShows) {
-          noShows.style.display = visibleCount === 0 ? "" : "none";
-        }
+        if (noShows) noShows.style.display = visibleCount === 0 ? "" : "none";
       })();
     </script>
 
@@ -431,25 +427,29 @@ function formatDate(dateStr) {
           const date = btn.dataset.date;
           const city = btn.dataset.city;
           const state = btn.dataset.state;
-          const pageUrl = window.location.href;
+          const poster = btn.dataset.poster;
+          const siteUrl = "https://shows.undershows.com.br";
 
-          const shareText = `${title}
+          // se tiver cartaz, usamos o link da imagem como URL principal do share
+          const urlToShare = poster || siteUrl;
+
+          const text = `${title}
 ${date} - ${city}/${state}
 
-via Undershows`;
+via Undershows: ${siteUrl}`;
 
           try {
             if (navigator.share) {
               await navigator.share({
-                title: `${title} - Undershows`,
-                text: shareText,
-                url: pageUrl,
+                title: `${title} – ${city}/${state}`,
+                text,
+                url: urlToShare,
               });
             } else if (navigator.clipboard) {
-              await navigator.clipboard.writeText(`${shareText}\n\n${pageUrl}`);
+              await navigator.clipboard.writeText(text + "\\n\\n" + urlToShare);
               alert("Link copiado! Cole no WhatsApp/Instagram 🤘");
             } else {
-              alert("Copie e cole:\n\n" + shareText + "\n\n" + pageUrl);
+              alert("Copie e cole:\\n\\n" + text + "\\n\\n" + urlToShare);
             }
           } catch (err) {
             console.error("Erro ao compartilhar", err);
