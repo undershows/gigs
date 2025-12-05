@@ -428,28 +428,26 @@ function formatDate(dateStr) {
           const city = btn.dataset.city;
           const state = btn.dataset.state;
           const poster = btn.dataset.poster;
-          const siteUrl = "https://shows.undershows.com.br";
+          const site = "https://shows.undershows.com.br";
+          const text =
+        `${poster}
 
-          // se tiver cartaz, usamos o link da imagem como URL principal do share
-          const urlToShare = poster || siteUrl;
+        ${title}
+        ${date} - ${city}/${state}
 
-          const text = `${title}
-${date} - ${city}/${state}
-
-via Undershows: ${siteUrl}`;
+        via Undershows: ${site}`;
 
           try {
             if (navigator.share) {
               await navigator.share({
-                title: `${title} – ${city}/${state}`,
-                text,
-                url: urlToShare,
+                title,
+                text
               });
             } else if (navigator.clipboard) {
-              await navigator.clipboard.writeText(text + "\\n\\n" + urlToShare);
+              await navigator.clipboard.writeText(text);
               alert("Link copiado! Cole no WhatsApp/Instagram 🤘");
             } else {
-              alert("Copie e cole:\\n\\n" + text + "\\n\\n" + urlToShare);
+              alert("Copie e cole:\n\n" + text);
             }
           } catch (err) {
             console.error("Erro ao compartilhar", err);
