@@ -286,7 +286,7 @@ function formatDate(dateStr) {
         <input
           id="search"
           type="text"
-          placeholder="🔍 Buscar show…"
+          placeholder="🔍 Buscar show, banda, data..."
           class="search-input"
         />
       </div>
@@ -299,7 +299,11 @@ function formatDate(dateStr) {
           const shareUrl = `https://shows.undershows.com.br/cartaz/${show.id}`;
 
           return (
-            <article class="show-card" data-state={show.state}>
+            <article
+              class="show-card"
+              data-state={show.state}
+              data-bands={show.bands || ""}>
+
               <h2 class="show-title">{show.title}</h2>
               <p class="show-info">
                 {formatDate(show.date)} — {show.city}/{show.state}
@@ -407,13 +411,18 @@ function formatDate(dateStr) {
               return;
             }
 
-            const title = card.querySelector(".show-title")?.textContent.toLowerCase() || "";
-            const info = card.querySelector(".show-info")?.textContent.toLowerCase() || "";
+            const title =
+              card.querySelector(".show-title")?.textContent.toLowerCase() || "";
+            const info =
+              card.querySelector(".show-info")?.textContent.toLowerCase() || "";
+            const bands =
+              card.dataset.bands?.toLowerCase() || "";
 
             const matches =
               term === "" ||
               title.includes(term) ||
-              info.includes(term);
+              info.includes(term) ||
+              bands.includes(term);
 
             if (matches) {
               card.style.display = "";
