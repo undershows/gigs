@@ -410,34 +410,6 @@ function getBands(show) {
     </main>
 
     <!-- FILTRO ESTADO -->
-    <script>
-      (function () {
-        const params = new URLSearchParams(window.location.search);
-        const current = params.get("state") || "SP";
-
-        document.querySelectorAll(".state-btn").forEach((el) => {
-          const uf = el.getAttribute("data-state");
-          if (uf === current) el.classList.add("state-btn--active");
-        });
-
-        let visibleCount = 0;
-
-        document.querySelectorAll(".show-card").forEach((card) => {
-          const uf = card.getAttribute("data-state");
-
-          if (!current || uf === current) {
-            card.style.display = "";
-            visibleCount++;
-          } else {
-            card.style.display = "none";
-          }
-        });
-
-        const noShows = document.getElementById("no-shows");
-        if (noShows) noShows.style.display = visibleCount === 0 ? "" : "none";
-      })();
-    </script>
-
     <!-- BUSCA (agnóstica a acento) -->
     <script>
       (function () {
@@ -452,22 +424,43 @@ function getBands(show) {
             .trim();
         }
 
-        input.addEventListener("input", function () {
-          const term = norm(this.value);
-
+        function aplicarFiltroPorEstado() {
           const params = new URLSearchParams(window.location.search);
           const currentState = params.get("state") || "SP";
           let visible = 0;
 
           document.querySelectorAll(".show-card").forEach((card) => {
-            const cardState = card.getAttribute("data-state");
+            const uf = card.getAttribute("data-state");
 
-            // ainda respeita o filtro de estado
-            if (cardState !== currentState) {
+            if (!currentState || uf === currentState) {
+              card.style.display = "";
+              visible++;
+            } else {
               card.style.display = "none";
-              return;
             }
+          });
 
+          const noShows = document.getElementById("no-shows");
+          if (noShows) {
+            noShows.textContent = "Nenhum show neste estado.";
+            noShows.style.display = visible === 0 ? "" : "none";
+          }
+        }
+
+        input.addEventListener("input", function () {
+          const term = norm(this.value);
+          const noShows = document.getElementById("no-shows");
+
+          // 🔹 Se a busca estiver vazia, volta a filtrar só por estado
+          if (term === "") {
+            aplicarFiltroPorEstado();
+            return;
+          }
+
+          // 🔹 Com termo digitado: busca em TODOS os estados
+          let visible = 0;
+
+          document.querySelectorAll(".show-card").forEach((card) => {
             const title = norm(
               card.querySelector(".show-title")?.textContent
             );
@@ -477,7 +470,6 @@ function getBands(show) {
             const bands = norm(card.dataset.bands);
 
             const matches =
-              term === "" ||
               title.includes(term) ||
               info.includes(term) ||
               bands.includes(term);
@@ -490,9 +482,14 @@ function getBands(show) {
             }
           });
 
-          const noShows = document.getElementById("no-shows");
-          if (noShows) noShows.style.display = visible === 0 ? "" : "none";
+          if (noShows) {
+            noShows.textContent = "Nenhum show encontrado para essa busca.";
+            noShows.style.display = visible === 0 ? "" : "none";
+          }
         });
+
+        // garante estado aplicado no load (caso a busca esteja vazia)
+        aplicarFiltroPorEstado();
       })();
     </script>
 
