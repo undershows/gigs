@@ -39,6 +39,23 @@ function formatDate(dateStr) {
     year: "numeric",
   });
 }
+
+function slugify(name) {
+  return name
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-+|-+$/g, "");
+}
+
+function getBands(show) {
+  const raw = show.bands || "";
+  return raw
+    .split(",")
+    .map((b) => b.trim())
+    .filter(Boolean);
+}
 ---
 <html lang="pt-BR">
   <head>
@@ -200,9 +217,24 @@ function formatDate(dateStr) {
       }
 
       .show-info {
-        margin: 0 0 8px;
+        margin: 0 0 4px;
         font-size: 0.95rem;
         opacity: 0.9;
+      }
+
+      .show-bands {
+        margin: 0 0 8px;
+        font-size: 0.9rem;
+      }
+
+      .show-bands a {
+        color: #000;
+        font-weight: 700;
+        text-decoration: none;
+      }
+
+      .show-bands a:hover {
+        text-decoration: underline;
       }
 
       .poster-wrapper {
@@ -312,6 +344,17 @@ function formatDate(dateStr) {
                 {formatDate(show.date)} — {show.city}/{show.state}
               </p>
 
+              {getBands(show).length > 0 && (
+                <p class="show-bands">
+                  {getBands(show).map((band, idx) => (
+                    <>
+                      {idx > 0 && " / "}
+                      <a href={`/artist/${slugify(band)}`}>{band}</a>
+                    </>
+                  ))}
+                </p>
+              )}
+
               <div class="poster-wrapper">
                 {posterUrl && (
                   <img
@@ -395,13 +438,23 @@ function formatDate(dateStr) {
       })();
     </script>
 
-    <!-- BUSCA -->
+    <!-- BUSCA (agnóstica a acento) -->
     <script>
       (function () {
         const input = document.getElementById("search");
 
+        // normaliza: tira acento e põe em minúsculo
+        function norm(str) {
+          return (str || "")
+            .normalize("NFD")
+            .replace(/[\u0300-\u036f]/g, "")
+            .toLowerCase()
+            .trim();
+        }
+
         input.addEventListener("input", function () {
-          const term = this.value.toLowerCase().trim();
+          const term = norm(this.value);
+
           const params = new URLSearchParams(window.location.search);
           const currentState = params.get("state") || "SP";
           let visible = 0;
@@ -409,17 +462,19 @@ function formatDate(dateStr) {
           document.querySelectorAll(".show-card").forEach((card) => {
             const cardState = card.getAttribute("data-state");
 
+            // ainda respeita o filtro de estado
             if (cardState !== currentState) {
               card.style.display = "none";
               return;
             }
 
-            const title =
-              card.querySelector(".show-title")?.textContent.toLowerCase() || "";
-            const info =
-              card.querySelector(".show-info")?.textContent.toLowerCase() || "";
-            const bands =
-              card.dataset.bands?.toLowerCase() || "";
+            const title = norm(
+              card.querySelector(".show-title")?.textContent
+            );
+            const info = norm(
+              card.querySelector(".show-info")?.textContent
+            );
+            const bands = norm(card.dataset.bands);
 
             const matches =
               term === "" ||
@@ -462,12 +517,10 @@ via Undershows: ${shareUrl}`;
           try {
             if (navigator.share) {
               await navigator.share({
-                // Só usamos text pra evitar título duplicado em alguns apps desktop
                 text,
               });
 
             } else if (navigator.clipboard) {
-              // No fallback, vale a pena incluir o link do cartaz também:
               const fullText =
 `${title}
 ${date} - ${city}/${state}

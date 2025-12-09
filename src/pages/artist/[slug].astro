@@ -1,0 +1,359 @@
+---
+export const prerender = false;
+
+const STRAPI_URL = import.meta.env.PUBLIC_STRAPI_URL ?? "";
+const SITE_URL = "https://shows.undershows.com.br";
+
+// helper pra slug de banda
+function slugify(name) {
+  return name
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-+|-+$/g, "");
+}
+
+function getBands(show) {
+  const raw = show.bands || "";
+  return raw
+    .split(",")
+    .map((b) => b.trim())
+    .filter(Boolean);
+}
+
+function formatDate(dateStr) {
+  const d = new Date(dateStr);
+  return d.toLocaleDateString("pt-BR", {
+    day: "2-digit",
+    month: "2-digit",
+    year: "numeric",
+  });
+}
+
+function getPosterUrl(show) {
+  if (!STRAPI_URL) return null;
+  const poster = show.poster;
+  if (!poster) return null;
+
+  const fmt = poster.formats?.medium || poster.formats?.small || poster;
+  const url = fmt.url || poster.url;
+  return url.startsWith("http") ? url : `${STRAPI_URL}${url}`;
+}
+
+const { slug } = Astro.params;
+
+// busca os shows (igual ao index)
+const res = await fetch(
+  `${STRAPI_URL}/api/shows?sort[0]=date:asc&pagination[page]=1&pagination[pageSize]=500&populate=poster`
+);
+const json = await res.json();
+const allShows = json.data ?? [];
+
+// só futuros
+const today = new Date();
+today.setHours(0, 0, 0, 0);
+
+const futureShows = allShows.filter((show) => {
+  const d = new Date(show.date);
+  d.setHours(0, 0, 0, 0);
+  return d >= today;
+});
+
+// filtra shows que têm essa banda no line
+const artistShows = [];
+let artistName = "";
+
+for (const show of futureShows) {
+  const bands = getBands(show);
+
+  for (const band of bands) {
+    if (slugify(band) === slug) {
+      artistShows.push(show);
+      if (!artistName) {
+        artistName = band;
+      }
+    }
+  }
+}
+
+// fallback: caso não ache nome bonitinho
+if (!artistName) {
+  artistName = slug.replace(/-/g, " ");
+}
+
+const PAGE_TITLE = `Shows com ${artistName} | Undershows`;
+---
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8" />
+    <title>{PAGE_TITLE}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
+    <link rel="apple-touch-icon" href="/images/icons/icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="/images/icons/icon-192x192-v2.png">
+    <link rel="icon" type="image/png" sizes="512x512" href="/images/icons/icon-512x512-v2.png">
+    <link rel="manifest" href="/manifest.json">
+
+    <style>
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        margin: 0;
+        font-family: system-ui, sans-serif;
+        min-height: 100vh;
+        color: #000;
+        display: flex;
+        justify-content: center;
+        background-image: radial-gradient(ellipse at center, #f05291, gray);
+      }
+
+      main {
+        width: 100%;
+        max-width: 900px;
+        padding: 24px 16px 48px;
+        text-align: center;
+      }
+
+      a {
+        text-decoration: none;
+        color: inherit;
+      }
+
+      .logo {
+        width: 160px;
+        max-width: 50vw;
+        margin: 0 auto 16px;
+        display: block;
+      }
+
+      h1 {
+        margin: 0 0 8px;
+        font-size: 1.4rem;
+      }
+
+      .subtitle {
+        margin: 0 0 16px;
+        font-size: 0.95rem;
+        opacity: 0.9;
+      }
+
+      .back-link {
+        display: inline-block;
+        margin-bottom: 16px;
+        font-size: 0.9rem;
+        font-weight: 700;
+        text-decoration: underline;
+      }
+
+      .shows {
+        margin-top: 8px;
+        display: flex;
+        flex-direction: column;
+        gap: 12px;
+      }
+
+      .show-card {
+        text-align: center;
+        margin: 0 auto 12px;
+        max-width: 460px;
+      }
+
+      .show-title {
+        margin: 6px 0 4px;
+        font-weight: 800;
+        font-size: 1.1rem;
+      }
+
+      .show-info {
+        margin: 0 0 4px;
+        font-size: 0.95rem;
+        opacity: 0.9;
+      }
+
+      .show-bands {
+        margin: 0 0 8px;
+        font-size: 0.9rem;
+      }
+
+      .poster-wrapper {
+        display: block;
+        border-radius: 12px;
+        overflow: hidden;
+        max-width: 460px;
+        margin: 0 auto;
+      }
+
+      .show-poster {
+        width: 100%;
+        display: block;
+      }
+
+      .ticket-btn {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 8px;
+        width: 100%;
+        padding: 12px 0;
+        background: #000;
+        color: #f5f5f5;
+        font-weight: 800;
+        font-size: 0.98rem;
+        border: none;
+        cursor: pointer;
+      }
+
+      .ticket-btn + .ticket-btn {
+        border-top: 1px solid #333;
+      }
+
+      .ticket-btn .emoji {
+        font-size: 1.6rem;
+        line-height: 1;
+      }
+
+      .ticket-btn:hover {
+        background: #222;
+      }
+
+      .empty {
+        margin-top: 24px;
+        font-size: 0.95rem;
+      }
+    </style>
+  </head>
+
+  <body>
+    <main>
+      <a href="/">
+        <picture>
+          <source srcset="https://assets.undershows.com.br/logo-undershows.webp" type="image/webp" />
+          <img
+            src="https://assets.undershows.com.br/logo-undershows.png"
+            alt="Undershows"
+            class="logo"
+          />
+        </picture>
+      </a>
+
+      <a href="/" class="back-link">← Ver todos os shows</a>
+
+      <h1>Shows com {artistName}</h1>
+      <p class="subtitle">Rolês futuros que têm essa banda no line-up.</p>
+
+      {artistShows.length === 0 && (
+        <p class="empty">
+          Ainda não tem nenhum show futuro cadastrado com <strong>{artistName}</strong>.
+        </p>
+      )}
+
+      {artistShows.length > 0 && (
+        <section class="shows">
+          {artistShows.map((show) => {
+            const posterUrl = getPosterUrl(show);
+            const hasTicket = !!show.ticket_link;
+            const shareUrl = `${SITE_URL}/cartaz/${show.id}`;
+
+            return (
+              <article class="show-card">
+                <h2 class="show-title">{show.title}</h2>
+                <p class="show-info">
+                  {formatDate(show.date)} — {show.city}/{show.state}
+                </p>
+
+                {show.bands && (
+                  <p class="show-bands">
+                    {show.bands}
+                  </p>
+                )}
+
+                <div class="poster-wrapper">
+                  {posterUrl && (
+                    <img
+                      src={posterUrl}
+                      alt={show.title}
+                      class="show-poster"
+                      loading="lazy"
+                    />
+                  )}
+
+                  {hasTicket && (
+                    <a
+                      class="ticket-btn"
+                      href={show.ticket_link}
+                      target="_blank"
+                    >
+                      <span class="emoji">🎟️</span>Comprar Ingressos
+                    </a>
+                  )}
+
+                  <button
+                    type="button"
+                    class="ticket-btn"
+                    data-share-show
+                    data-title={show.title}
+                    data-date={formatDate(show.date)}
+                    data-city={show.city}
+                    data-state={show.state}
+                    data-share-url={shareUrl}
+                  >
+                    <span class="emoji">📤</span>Divulgar o rolê
+                  </button>
+                </div>
+              </article>
+            );
+          })}
+        </section>
+      )}
+    </main>
+
+    <script>
+      (function () {
+        async function shareShowFromButton(btn) {
+          const title = btn.dataset.title;
+          const date = btn.dataset.date;
+          const city = btn.dataset.city;
+          const state = btn.dataset.state;
+          const shareUrl = btn.dataset.shareUrl || "https://shows.undershows.com.br";
+
+          const text =
+`${title}
+${date} - ${city}/${state}
+
+via Undershows: ${shareUrl}`;
+
+          try {
+            if (navigator.share) {
+              await navigator.share({ text });
+            } else if (navigator.clipboard) {
+              const fullText =
+`${title}
+${date} - ${city}/${state}
+
+Cartaz: ${shareUrl}
+
+via Undershows: https://shows.undershows.com.br`;
+              await navigator.clipboard.writeText(fullText);
+              alert("Link copiado! Cole no WhatsApp/Instagram 🤘");
+            } else {
+              alert("Copie e cole:\n\n" + text + "\n\nCartaz: " + shareUrl);
+            }
+          } catch (err) {
+            console.error("Erro ao compartilhar", err);
+          }
+        }
+
+        document.addEventListener("click", function (ev) {
+          const btn = ev.target.closest("[data-share-show]");
+          if (!btn) return;
+          ev.preventDefault();
+          shareShowFromButton(btn);
+        });
+      })();
+    </script>
+  </body>
+</html>
