@@ -1,27 +1,7 @@
 ---
-export const prerender = false;
-
-const STRAPI_URL = import.meta.env.PUBLIC_STRAPI_URL ?? "";
 const SITE_URL = "https://shows.undershows.com.br";
 
-// helper pra slug de banda
-function slugify(name) {
-  return name
-    .normalize("NFD")
-    .replace(/[\u0300-\u036f]/g, "")
-    .toLowerCase()
-    .replace(/[^a-z0-9]+/g, "-")
-    .replace(/^-+|-+$/g, "");
-}
-
-function getBands(show) {
-  const raw = show.bands || "";
-  return raw
-    .split(",")
-    .map((b) => b.trim())
-    .filter(Boolean);
-}
-
+// formata data
 function formatDate(dateStr) {
   const d = new Date(dateStr);
   return d.toLocaleDateString("pt-BR", {
@@ -31,8 +11,11 @@ function formatDate(dateStr) {
   });
 }
 
+// pega URL do poster
 function getPosterUrl(show) {
+  const STRAPI_URL = import.meta.env.PUBLIC_STRAPI_URL ?? "";
   if (!STRAPI_URL) return null;
+
   const poster = show.poster;
   if (!poster) return null;
 
@@ -41,45 +24,75 @@ function getPosterUrl(show) {
   return url.startsWith("http") ? url : `${STRAPI_URL}${url}`;
 }
 
-const { slug } = Astro.params;
+// 🔁 gera todas as rotas /artist/<slug> em build time
+export async function getStaticPaths() {
+  const STRAPI_URL = import.meta.env.PUBLIC_STRAPI_URL ?? "";
 
-// busca os shows (igual ao index)
-const res = await fetch(
-  `${STRAPI_URL}/api/shows?sort[0]=date:asc&pagination[page]=1&pagination[pageSize]=500&populate=poster`
-);
-const json = await res.json();
-const allShows = json.data ?? [];
+  if (!STRAPI_URL) {
+    console.warn("PUBLIC_STRAPI_URL não definido no ambiente.");
+  }
 
-// só futuros
-const today = new Date();
-today.setHours(0, 0, 0, 0);
+  // helper de slug **local**, só pra esta função
+  function slugify(name) {
+    return name
+      .normalize("NFD")
+      .replace(/[\u0300-\u036f]/g, "")
+      .toLowerCase()
+      .replace(/[^a-z0-9]+/g, "-")
+      .replace(/^-+|-+$/g, "");
+  }
 
-const futureShows = allShows.filter((show) => {
-  const d = new Date(show.date);
-  d.setHours(0, 0, 0, 0);
-  return d >= today;
-});
+  const res = await fetch(
+    `${STRAPI_URL}/api/shows?sort[0]=date:asc&pagination[page]=1&pagination[pageSize]=500&populate=poster`
+  );
+  const json = await res.json();
+  const allShows = json.data ?? [];
 
-// filtra shows que têm essa banda no line
-const artistShows = [];
-let artistName = "";
+  const today = new Date();
+  today.setHours(0, 0, 0, 0);
 
-for (const show of futureShows) {
-  const bands = getBands(show);
+  // bandSlug -> { name, shows[] }
+  const bandsMap = new Map();
 
-  for (const band of bands) {
-    if (slugify(band) === slug) {
-      artistShows.push(show);
-      if (!artistName) {
-        artistName = band;
+  for (const show of allShows) {
+    const d = new Date(show.date);
+    d.setHours(0, 0, 0, 0);
+    if (d < today) continue; // só futuros
+
+    const raw = show.bands || "";
+    const bands = raw
+      .split(",")
+      .map((b) => b.trim())
+      .filter(Boolean);
+
+    for (const band of bands) {
+      const s = slugify(band);
+      if (!bandsMap.has(s)) {
+        bandsMap.set(s, { name: band, shows: [] });
       }
+      bandsMap.get(s).shows.push(show);
     }
   }
+
+  return Array.from(bandsMap.entries()).map(([slug, info]) => ({
+    params: { slug },
+    props: {
+      artistName: info.name,
+      shows: info.shows,
+    },
+  }));
 }
 
-// fallback: caso não ache nome bonitinho
-if (!artistName) {
-  artistName = slug.replace(/-/g, " ");
+// props passados pelo getStaticPaths
+const { artistName, shows } = Astro.props;
+
+// helper SÓ pro template (não usado no getStaticPaths)
+function getBands(show) {
+  const raw = show.bands || "";
+  return raw
+    .split(",")
+    .map((b) => b.trim())
+    .filter(Boolean);
 }
 
 const PAGE_TITLE = `Shows com ${artistName} | Undershows`;
@@ -245,15 +258,15 @@ const PAGE_TITLE = `Shows com ${artistName} | Undershows`;
       <h1>Shows com {artistName}</h1>
       <p class="subtitle">Rolês futuros que têm essa banda no line-up.</p>
 
-      {artistShows.length === 0 && (
+      {shows.length === 0 && (
         <p class="empty">
           Ainda não tem nenhum show futuro cadastrado com <strong>{artistName}</strong>.
         </p>
       )}
 
-      {artistShows.length > 0 && (
+      {shows.length > 0 && (
         <section class="shows">
-          {artistShows.map((show) => {
+          {shows.map((show) => {
             const posterUrl = getPosterUrl(show);
             const hasTicket = !!show.ticket_link;
             const shareUrl = `${SITE_URL}/cartaz/${show.id}`;
@@ -265,9 +278,9 @@ const PAGE_TITLE = `Shows com ${artistName} | Undershows`;
                   {formatDate(show.date)} — {show.city}/{show.state}
                 </p>
 
-                {show.bands && (
+                {getBands(show).length > 0 && (
                   <p class="show-bands">
-                    {show.bands}
+                    {getBands(show).join(" / ")}
                   </p>
                 )}
 
