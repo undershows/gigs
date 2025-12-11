@@ -16,9 +16,13 @@ const allShows = json.data ?? [];
 const today = new Date();
 today.setHours(0, 0, 0, 0);
 
+function parseLocalDate(dateStr) {
+  const [y, m, d] = dateStr.split("-").map(Number);
+  return new Date(y, m - 1, d);
+}
+
 const shows = allShows.filter((show) => {
-  const d = new Date(show.date);
-  d.setHours(0, 0, 0, 0);
+  const d = parseLocalDate(show.date);
   return d >= today;
 });
 
