@@ -7,19 +7,57 @@ const states = [
   "PR", "RJ", "RN", "RO", "RR", "RS", "SC", "SE", "TO"
 ];
 
-const res = await fetch(
-  `${STRAPI_URL}/api/shows?sort[0]=date:asc&pagination[page]=1&pagination[pageSize]=500&populate=poster`
-);
-const json = await res.json();
-const allShows = json.data ?? [];
-
 const today = new Date();
 today.setHours(0, 0, 0, 0);
 
+function toYMD(d) {
+  const y = d.getFullYear();
+  const m = String(d.getMonth() + 1).padStart(2, "0");
+  const day = String(d.getDate()).padStart(2, "0");
+  return `${y}-${m}-${day}`;
+}
+
 function parseLocalDate(dateStr) {
-  const [y, m, d] = dateStr.split("-").map(Number);
+  const [y, m, d] = String(dateStr).split("-").map(Number);
   return new Date(y, m - 1, d);
 }
+
+async function fetchUpcomingShows({ pageSize = 300 } = {}) {
+  const all = [];
+  let page = 1;
+
+  const minDate = toYMD(today);
+
+  while (true) {
+    const url =
+      `${STRAPI_URL}/api/shows` +
+      `?sort[0]=date:asc` +
+      `&filters[date][$gte]=${encodeURIComponent(minDate)}` +
+      `&pagination[page]=${page}` +
+      `&pagination[pageSize]=${pageSize}` +
+      `&populate=poster`;
+
+    const res = await fetch(url);
+    if (!res.ok) throw new Error(`Strapi ${res.status}`);
+
+    const json = await res.json();
+    const data = json?.data ?? [];
+
+    all.push(...data);
+
+    if (data.length < pageSize) break;
+
+    page++;
+  }
+
+  return all;
+}
+
+const allShows = await fetchUpcomingShows({ pageSize: 100 });
+
+# Debug
+#console.log("TOTAL", allShows.length);
+#console.log("ULTIMO", allShows.at(-1)?.title, allShows.at(-1)?.date);
 
 const shows = allShows.filter((show) => {
   const d = parseLocalDate(show.date);
@@ -36,7 +74,7 @@ function getPosterUrl(show) {
 }
 
 function formatDate(dateStr) {
-  const d = new Date(dateStr);
+  const d = parseLocalDate(dateStr);
   return d.toLocaleDateString("pt-BR", {
     day: "2-digit",
     month: "2-digit",
@@ -61,6 +99,7 @@ function getBands(show) {
     .filter(Boolean);
 }
 ---
+
 <html lang="pt-BR">
   <head>
     <meta charset="utf-8" />
@@ -83,9 +122,7 @@ function getBands(show) {
     <link rel="preload" as="image" href="https://assets.undershows.com.br/logo-undershows.webp" />
 
     <style>
-      * {
-        box-sizing: border-box;
-      }
+      * { box-sizing: border-box; }
 
       body {
         margin: 0;
@@ -97,9 +134,7 @@ function getBands(show) {
         background-image: radial-gradient(ellipse at center, #f05291, gray);
       }
 
-      a {
-        text-decoration: none;
-      }
+      a { text-decoration: none; }
       main {
         width: 100%;
         max-width: 900px;
@@ -107,7 +142,6 @@ function getBands(show) {
         text-align: center;
       }
 
-      /* LOGO */
       .logo {
         width: 180px;
         max-width: 50vw;
@@ -115,7 +149,6 @@ function getBands(show) {
         display: block;
       }
 
-      /* ESTADOS */
       .states-grid {
         display: flex;
         flex-wrap: wrap;
@@ -155,19 +188,10 @@ function getBands(show) {
       }
 
       @media (min-width: 600px) {
-        .states-grid {
-          max-width: 480px;
-          gap: 8px;
-          margin-bottom: 24px;
-        }
-        .state-btn {
-          width: 56px;
-          height: 36px;
-          font-size: 0.9rem;
-        }
+        .states-grid { max-width: 480px; gap: 8px; margin-bottom: 24px; }
+        .state-btn { width: 56px; height: 36px; font-size: 0.9rem; }
       }
 
-      /* BUSCA */
       .search-input {
         width: 100%;
         padding: 10px;
@@ -180,27 +204,17 @@ function getBands(show) {
         color: #000;
       }
 
-      .search-input:focus::placeholder {
-        opacity: 0;
-      }
+      .search-input:focus::placeholder { opacity: 0; }
 
-      #search {
-        color: #000;
-        font-weight: 800;
-      }
-
+      #search { color: #000; font-weight: 800; }
       #search::placeholder {
         color: #000;
         font-weight: 800;
         opacity: 1;
         transition: opacity 0.15s ease-in-out;
       }
+      #search:focus::placeholder { opacity: 0; }
 
-      #search:focus::placeholder {
-        opacity: 0;
-      }
-
-      /* CARTAZES */
       .shows {
         margin-top: 16px;
         display: flex;
@@ -226,20 +240,14 @@ function getBands(show) {
         opacity: 0.9;
       }
 
-      .show-bands {
-        margin: 0 0 8px;
-        font-size: 0.9rem;
-      }
+      .show-bands { margin: 0 0 8px; font-size: 0.9rem; }
 
       .show-bands a {
         color: #000;
         font-weight: 700;
         text-decoration: none;
       }
-
-      .show-bands a:hover {
-        text-decoration: underline;
-      }
+      .show-bands a:hover { text-decoration: underline; }
 
       .poster-wrapper {
         display: block;
@@ -249,12 +257,8 @@ function getBands(show) {
         margin: 0 auto;
       }
 
-      .show-poster {
-        width: 100%;
-        display: block;
-      }
+      .show-poster { width: 100%; display: block; }
 
-      /* BOTÕES */
       .ticket-btn {
         display: flex;
         align-items: center;
@@ -270,20 +274,11 @@ function getBands(show) {
         cursor: pointer;
       }
 
-      .ticket-btn + .ticket-btn {
-        border-top: 1px solid #333;
-      }
+      .ticket-btn + .ticket-btn { border-top: 1px solid #333; }
 
-      .ticket-btn .emoji {
-        font-size: 1.6rem;
-        line-height: 1;
-      }
+      .ticket-btn .emoji { font-size: 1.6rem; line-height: 1; }
+      .ticket-btn:hover { background: #222; }
 
-      .ticket-btn:hover {
-        background: #222;
-      }
-
-      /* FOOTER */
       .footer-text {
         margin-top: 16px;
         line-height: 1.6;
@@ -295,10 +290,7 @@ function getBands(show) {
         font-weight: 700;
         text-decoration: none;
       }
-
-      .footer-text a:hover {
-        text-decoration: underline;
-      }
+      .footer-text a:hover { text-decoration: underline; }
     </style>
   </head>
 
@@ -398,7 +390,6 @@ function getBands(show) {
         })}
       </section>
 
-
       <p id="no-shows" class="empty" style="display:none;">Nenhum show neste estado.</p>
 
       <div class="footer-text">
@@ -413,13 +404,11 @@ function getBands(show) {
       </div>
     </main>
 
-    <!-- FILTRO ESTADO -->
-    <!-- BUSCA (agnóstica a acento) -->
+    <!-- FILTRO ESTADO + BUSCA -->
     <script>
       (function () {
         const input = document.getElementById("search");
 
-        // normaliza: tira acento e põe em minúsculo
         function norm(str) {
           return (str || "")
             .normalize("NFD")
@@ -455,22 +444,16 @@ function getBands(show) {
           const term = norm(this.value);
           const noShows = document.getElementById("no-shows");
 
-          // 🔹 Se a busca estiver vazia, volta a filtrar só por estado
           if (term === "") {
             aplicarFiltroPorEstado();
             return;
           }
 
-          // 🔹 Com termo digitado: busca em TODOS os estados
           let visible = 0;
 
           document.querySelectorAll(".show-card").forEach((card) => {
-            const title = norm(
-              card.querySelector(".show-title")?.textContent
-            );
-            const info = norm(
-              card.querySelector(".show-info")?.textContent
-            );
+            const title = norm(card.querySelector(".show-title")?.textContent);
+            const info = norm(card.querySelector(".show-info")?.textContent);
             const bands = norm(card.dataset.bands);
 
             const matches =
@@ -492,7 +475,6 @@ function getBands(show) {
           }
         });
 
-        // garante estado aplicado no load (caso a busca esteja vazia)
         aplicarFiltroPorEstado();
       })();
     </script>
@@ -517,10 +499,7 @@ via Undershows: ${shareUrl}`;
 
           try {
             if (navigator.share) {
-              await navigator.share({
-                text,
-              });
-
+              await navigator.share({ text });
             } else if (navigator.clipboard) {
               const fullText =
 `${title}
