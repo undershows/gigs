@@ -55,9 +55,9 @@ async function fetchUpcomingShows({ pageSize = 300 } = {}) {
 
 const allShows = await fetchUpcomingShows({ pageSize: 100 });
 
-# Debug
-#console.log("TOTAL", allShows.length);
-#console.log("ULTIMO", allShows.at(-1)?.title, allShows.at(-1)?.date);
+// Debug
+// console.log("TOTAL", allShows.length);
+// console.log("ULTIMO", allShows.at(-1)?.title, allShows.at(-1)?.date);
 
 const shows = allShows.filter((show) => {
   const d = parseLocalDate(show.date);
