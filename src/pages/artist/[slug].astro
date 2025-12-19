@@ -11,16 +11,24 @@ function formatDate(dateStr) {
   });
 }
 
-// pega URL do poster
+// pega URL do poster (suporta poster "chapado" e poster do Strapi com data/attributes)
 function getPosterUrl(show) {
   const STRAPI_URL = import.meta.env.PUBLIC_STRAPI_URL ?? "";
   if (!STRAPI_URL) return null;
 
-  const poster = show.poster;
+  const posterRaw = show.poster;
+  if (!posterRaw) return null;
+
+  // Strapi pode vir como:
+  // - poster = { url, formats... }
+  // - poster = { data: { attributes: { url, formats... } } }
+  const poster = posterRaw?.data?.attributes || posterRaw;
   if (!poster) return null;
 
   const fmt = poster.formats?.medium || poster.formats?.small || poster;
-  const url = fmt.url || poster.url;
+  const url = fmt?.url || poster?.url;
+  if (!url) return null;
+
   return url.startsWith("http") ? url : `${STRAPI_URL}${url}`;
 }
 
@@ -42,11 +50,22 @@ export async function getStaticPaths() {
       .replace(/^-+|-+$/g, "");
   }
 
-  const res = await fetch(
-    `${STRAPI_URL}/api/shows?sort[0]=date:asc&pagination[page]=1&pagination[pageSize]=500&populate=poster`
-  );
-  const json = await res.json();
-  const allShows = json.data ?? [];
+  // ⚠️ Seu Strapi aparentemente tem maxLimit ~100.
+  // Então paginamos até acabar.
+  let page = 1;
+  let pageCount = 1;
+  const allShows = [];
+
+  do {
+    const res = await fetch(
+      `${STRAPI_URL}/api/shows?sort[0]=date:asc&pagination[page]=${page}&pagination[pageSize]=100&populate=poster`
+    );
+    const json = await res.json();
+
+    allShows.push(...(json.data ?? []));
+    pageCount = json.meta?.pagination?.pageCount ?? 1;
+    page++;
+  } while (page <= pageCount);
 
   const today = new Date();
   today.setHours(0, 0, 0, 0);
@@ -110,9 +129,7 @@ const PAGE_TITLE = `Shows com ${artistName} | Undershows`;
     <link rel="manifest" href="/manifest.json">
 
     <style>
-      * {
-        box-sizing: border-box;
-      }
+      * { box-sizing: border-box; }
 
       body {
         margin: 0;
@@ -131,10 +148,7 @@ const PAGE_TITLE = `Shows com ${artistName} | Undershows`;
         text-align: center;
       }
 
-      a {
-        text-decoration: none;
-        color: inherit;
-      }
+      a { text-decoration: none; color: inherit; }
 
       .logo {
         width: 160px;
@@ -143,10 +157,7 @@ const PAGE_TITLE = `Shows com ${artistName} | Undershows`;
         display: block;
       }
 
-      h1 {
-        margin: 0 0 8px;
-        font-size: 1.4rem;
-      }
+      h1 { margin: 0 0 8px; font-size: 1.4rem; }
 
       .subtitle {
         margin: 0 0 16px;
@@ -187,10 +198,7 @@ const PAGE_TITLE = `Shows com ${artistName} | Undershows`;
         opacity: 0.9;
       }
 
-      .show-bands {
-        margin: 0 0 8px;
-        font-size: 0.9rem;
-      }
+      .show-bands { margin: 0 0 8px; font-size: 0.9rem; }
 
       .poster-wrapper {
         display: block;
@@ -200,10 +208,7 @@ const PAGE_TITLE = `Shows com ${artistName} | Undershows`;
         margin: 0 auto;
       }
 
-      .show-poster {
-        width: 100%;
-        display: block;
-      }
+      .show-poster { width: 100%; display: block; }
 
       .ticket-btn {
         display: flex;
@@ -220,23 +225,13 @@ const PAGE_TITLE = `Shows com ${artistName} | Undershows`;
         cursor: pointer;
       }
 
-      .ticket-btn + .ticket-btn {
-        border-top: 1px solid #333;
-      }
+      .ticket-btn + .ticket-btn { border-top: 1px solid #333; }
 
-      .ticket-btn .emoji {
-        font-size: 1.6rem;
-        line-height: 1;
-      }
+      .ticket-btn .emoji { font-size: 1.6rem; line-height: 1; }
 
-      .ticket-btn:hover {
-        background: #222;
-      }
+      .ticket-btn:hover { background: #222; }
 
-      .empty {
-        margin-top: 24px;
-        font-size: 0.95rem;
-      }
+      .empty { margin-top: 24px; font-size: 0.95rem; }
     </style>
   </head>
 
