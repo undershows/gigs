@@ -7,23 +7,38 @@
 export async function getStaticPaths() {
   const baseUrl = import.meta.env.PUBLIC_STRAPI_URL || "https://cms.undershows.com.br";
 
-  const res = await fetch(
-    `${baseUrl}/api/shows?pagination[page]=1&pagination[pageSize]=500&populate=poster`
-  );
+  const pageSize = 100; // geralmente respeita maxLimit do Strapi
+  let page = 1;
+  const allShows = [];
 
-  if (!res.ok) {
-    console.error("Erro ao buscar shows no Strapi:", res.status, await res.text());
-    return [];
+  while (true) {
+    const res = await fetch(
+      `${baseUrl}/api/shows` +
+      `?sort[0]=id:asc` +
+      `&pagination[page]=${page}` +
+      `&pagination[pageSize]=${pageSize}` +
+      `&populate=poster`
+    );
+
+    if (!res.ok) {
+      console.error("Erro ao buscar shows no Strapi:", res.status, await res.text());
+      return [];
+    }
+
+    const json = await res.json();
+    const data = json.data ?? [];
+
+    allShows.push(...data);
+
+    if (data.length < pageSize) break;
+    page++;
   }
 
-  const json = await res.json();
-  const allShows = json.data ?? [];
-
-  console.log("[cartaz] IDs gerados:", allShows.map((s) => s.id));
+  console.log("[cartaz] TOTAL gerados:", allShows.length);
 
   return allShows.map((show) => ({
-    params: { id: String(show.id) }, // /cartaz/59 etc
-    props: { show },                 // passa show inteiro pra página
+    params: { id: String(show.id) },
+    props: { show },
   }));
 }
 
