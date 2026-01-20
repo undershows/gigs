@@ -1,5 +1,6 @@
 ---
 const SITE_URL = "https://shows.undershows.com.br";
+const ASSETS_URL = import.meta.env.PUBLIC_ASSETS_URL || "https://media.undershows.com.br";
 
 // formata data
 function formatDate(dateStr) {
@@ -25,11 +26,16 @@ function getPosterUrl(show) {
   const poster = posterRaw?.data?.attributes || posterRaw;
   if (!poster) return null;
 
-  const fmt = poster.formats?.medium || poster.formats?.small || poster;
-  const url = fmt?.url || poster?.url;
+  // regra: medium > large > RAW (original)
+  // (não usa small nem thumbnail)
+  const url =
+    poster.formats?.medium?.url ||
+    poster.formats?.large?.url ||
+    poster.url;
+
   if (!url) return null;
 
-  return url.startsWith("http") ? url : `${STRAPI_URL}${url}`;
+  return url.startsWith("http") ? url : `${ASSETS_URL}${url}`;
 }
 
 // 🔁 gera todas as rotas /artist/<slug> em build time

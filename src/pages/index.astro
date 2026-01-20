@@ -1,5 +1,6 @@
 ---
 const STRAPI_URL = import.meta.env.PUBLIC_STRAPI_URL;
+const ASSETS_URL = import.meta.env.PUBLIC_ASSETS_URL || "https://media.undershows.com.br";
 
 const states = [
   "SP", "AC", "AL", "AM", "AP", "BA", "CE", "DF", "ES",
@@ -65,12 +66,20 @@ const shows = allShows.filter((show) => {
 });
 
 function getPosterUrl(show) {
-  const poster = show.poster;
+  const posterRaw = show.poster;
+  if (!posterRaw) return null;
+
+  const poster = posterRaw?.data?.attributes || posterRaw;
   if (!poster) return null;
 
-  const fmt = poster.formats?.medium || poster.formats?.small || poster;
-  const url = fmt.url || poster.url;
-  return url.startsWith("http") ? url : `${STRAPI_URL}${url}`;
+  const url =
+    poster.formats?.medium?.url ||
+    poster.formats?.large?.url ||
+    poster.url;
+
+  if (!url) return null;
+
+  return url.startsWith("http") ? url : `${ASSETS_URL}${url}`;
 }
 
 function formatDate(dateStr) {
