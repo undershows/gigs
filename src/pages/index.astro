@@ -56,10 +56,6 @@ async function fetchUpcomingShows({ pageSize = 300 } = {}) {
 
 const allShows = await fetchUpcomingShows({ pageSize: 100 });
 
-// Debug
-// console.log("TOTAL", allShows.length);
-// console.log("ULTIMO", allShows.at(-1)?.title, allShows.at(-1)?.date);
-
 const shows = allShows.filter((show) => {
   const d = parseLocalDate(show.date);
   return d >= today;
@@ -288,17 +284,32 @@ function getBands(show) {
       .ticket-btn .emoji { font-size: 1.6rem; line-height: 1; }
       .ticket-btn:hover { background: #222; }
 
+      .box {
+        max-width: 520px;
+        margin: 20px auto 0;
+        background: rgba(255,255,255,0.75);
+        border: 3px solid #000;
+        border-radius: 14px;
+        padding: 16px;
+      }
+
       .footer-text {
-        margin-top: 16px;
         line-height: 1.6;
         font-size: 0.95rem;
       }
 
+      .footer-text p {
+        margin: 10px 0;
+        font-weight: 700;
+        color: #000;
+      }
+
       .footer-text a {
         color: #000;
-        font-weight: 700;
-        text-decoration: none;
+        font-weight: 800;
+        text-decoration: underline;
       }
+
       .footer-text a:hover { text-decoration: underline; }
     </style>
   </head>
@@ -399,16 +410,25 @@ function getBands(show) {
         })}
       </section>
 
-      <p id="no-shows" class="empty" style="display:none;">Nenhum show neste estado.</p>
-
-      <div class="footer-text">
-        <p>
-          Cartazes de shows, só mandar por email:
-          <a href="mailto:undershowsbr@gmail.com">undershowsbr@gmail.com</a>
+      <div class="box footer-text">
+        <p id="no-shows" class="empty" style="display:none;">
+          No momento não temos shows cadastrados nesse estado. 😔🎸
         </p>
+
         <p>
-          Curte vinil?
-          <a href="https://undershows.com.br" target="_blank">undershows.com.br</a>
+          Você pode enviar o cartaz por e-mail:
+          <a href="mailto:undershowsbr@gmail.com">undershowsbr@gmail.com</a>
+          ou pelo WhatsApp:
+          <a href="https://wa.me/551152862298?text=Oi!%20Quero%20enviar%20um%20cartaz%20de%20show%20para%20a%20Undershows." target="_blank" rel="noopener">
+            (11) 5286-2298
+          </a>
+        </p>
+
+        <p>
+          Aliás, se você curte vinil ou CD, dá uma olhadinha na nossa loja virtual:
+          <a href="https://undershows.com.br" target="_blank" rel="noopener">
+            undershows.com.br
+          </a>
         </p>
       </div>
     </main>
@@ -444,7 +464,7 @@ function getBands(show) {
 
           const noShows = document.getElementById("no-shows");
           if (noShows) {
-            noShows.textContent = "Nenhum show neste estado.";
+            noShows.textContent = "No momento não temos shows cadastrados nesse estado. 😔🎸";
             noShows.style.display = visible === 0 ? "" : "none";
           }
         }
@@ -479,7 +499,7 @@ function getBands(show) {
           });
 
           if (noShows) {
-            noShows.textContent = "Nenhum show encontrado para essa busca.";
+            noShows.textContent = "Nenhum show encontrado para essa busca. 😔🎸";
             noShows.style.display = visible === 0 ? "" : "none";
           }
         });

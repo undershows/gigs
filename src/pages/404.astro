@@ -1,0 +1,90 @@
+---
+const SITE_URL = "https://shows.undershows.com.br";
+---
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8" />
+    <title>Página não encontrada | Undershows</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="robots" content="noindex" />
+    <style>
+      * { box-sizing: border-box; }
+      body {
+        margin: 0;
+        font-family: system-ui, sans-serif;
+        min-height: 100vh;
+        color: #000;
+        display: flex;
+        justify-content: center;
+        background-image: radial-gradient(ellipse at center, #f05291, gray);
+      }
+      main {
+        width: 100%;
+        max-width: 900px;
+        padding: 24px 16px 48px;
+        text-align: center;
+      }
+      .logo {
+        width: 160px;
+        max-width: 50vw;
+        margin: 0 auto 16px;
+        display: block;
+      }
+      .box {
+        max-width: 520px;
+        margin: 0 auto;
+        background: rgba(255,255,255,0.75);
+        border: 3px solid #000;
+        border-radius: 14px;
+        padding: 16px;
+      }
+      h1 { margin: 0 0 8px; font-size: 1.4rem; }
+      p { margin: 10px 0; line-height: 1.5; font-weight: 700; }
+      a { color: #000; text-decoration: underline; font-weight: 800; }
+      .btn {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        margin-top: 12px;
+        padding: 10px 14px;
+        border-radius: 10px;
+        border: 3px solid #000;
+        background: #ff4b92;
+        box-shadow: 0 2px 0 rgba(0,0,0,0.25);
+        text-decoration: none;
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <a href="/">
+        <picture>
+          <source srcset="https://media.undershows.com.br/logo-undershows.webp" type="image/webp" />
+          <img src="https://media.undershows.com.br/logo-undershows.png" alt="Undershows" class="logo" />
+        </picture>
+      </a>
+
+      <div class="box">
+        <h1>No momento não temos shows cadastrados dessa banda.</h1>
+
+        <p>
+          Você pode enviar o cartaz por e-mail:
+          <a href="mailto:undershowsbr@gmail.com">undershowsbr@gmail.com</a>
+          ou pelo WhatsApp:
+          <a href="https://wa.me/551152862298?text=Oi!%20Quero%20enviar%20um%20cartaz%20de%20show%20para%20a%20Undershows." target="_blank" rel="noopener">
+            (11) 5286-2298
+          </a>
+        </p>
+
+        <p>
+          Aliás, se você curte vinil ou CD, dá uma olhadinha na nossa loja virtual:
+          <a href="https://undershows.com.br" target="_blank" rel="noopener">
+            undershows.com.br
+          </a>
+        </p>
+
+        <a class="btn" href={`${SITE_URL}/`}>← Voltar pros shows</a>
+      </div>
+    </main>
+  </body>
+</html>
