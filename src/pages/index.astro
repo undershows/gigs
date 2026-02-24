@@ -129,14 +129,19 @@ function getBands(show) {
     <style>
       * { box-sizing: border-box; }
 
-      body {
+      html, body {
         margin: 0;
+        min-height: 100%;
+        background: radial-gradient(ellipse at center, #f05291, gray);
+        background-color: #f05291;
+        overscroll-behavior-y: none;
+      }
+
+      body {
         font-family: system-ui, sans-serif;
-        min-height: 100vh;
         color: #000;
         display: flex;
         justify-content: center;
-        background-image: radial-gradient(ellipse at center, #f05291, gray);
       }
 
       a { text-decoration: none; }
@@ -149,9 +154,11 @@ function getBands(show) {
 
       .logo {
         width: 180px;
+        height: 180px;
         max-width: 50vw;
         margin: 0 auto 24px;
         display: block;
+        object-fit: contain;
       }
 
       .states-grid {
@@ -322,6 +329,8 @@ function getBands(show) {
           src="https://media.undershows.com.br/logo-undershows.png"
           alt="Undershows"
           class="logo"
+          width="180"
+          height="180"
         />
       </picture>
 
