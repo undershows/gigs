@@ -64,7 +64,7 @@ export async function getStaticPaths() {
 
   do {
     const res = await fetch(
-      `${STRAPI_URL}/api/shows?sort[0]=date:asc&pagination[page]=${page}&pagination[pageSize]=100&populate=poster`
+      `${STRAPI_URL}/api/shows?sort[0]=date:asc&sort[1]=id:asc&pagination[page]=${page}&pagination[pageSize]=100&populate=poster`
     );
     const json = await res.json();
 
