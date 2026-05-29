@@ -152,6 +152,24 @@ function getBands(show) {
         text-align: center;
       }
 
+      .shop-callout {
+        margin: 0 0 8px;
+        font-size: 0.9rem;
+        font-weight: 700;
+        color: #000;
+        opacity: 0.9;
+
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 6px;
+      }
+
+      .vinyl-icon {
+        width: 16px;
+        height: 16px;
+        object-fit: contain;
+      }
       .logo {
         width: 180px;
         height: 180px;
@@ -323,16 +341,32 @@ function getBands(show) {
 
   <body>
     <main>
-      <picture>
-        <source srcset="https://media.undershows.com.br/logo-undershows.webp" type="image/webp" />
-        <img
-          src="https://media.undershows.com.br/logo-undershows.png"
-          alt="Undershows"
-          class="logo"
-          width="180"
-          height="180"
-        />
-      </picture>
+
+      <p class="shop-callout">
+        <img src="/images/icon-vinil.png" alt="" class="vinyl-icon" />
+        Visite nossa loja, clique no logo!
+      </p>
+
+      <a
+        href="https://undershows.com.br"
+        target="_blank"
+        rel="noopener noreferrer"
+        aria-label="Ir para a loja Undershows"
+      >
+        <picture>
+          <source
+            srcset="https://media.undershows.com.br/logo-undershows.webp"
+            type="image/webp"
+          />
+          <img
+            src="https://media.undershows.com.br/logo-undershows.png"
+            alt="Undershows"
+            class="logo"
+            width="180"
+            height="180"
+          />
+        </picture>
+      </a>
 
       <!-- ESTADOS -->
       <div class="states-grid">
