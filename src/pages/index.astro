@@ -153,7 +153,7 @@ function getBands(show) {
       }
 
       .shop-callout {
-        margin: 0 0 8px;
+        margin: 0 0 4px;
         font-size: 0.9rem;
         font-weight: 700;
         color: #000;
@@ -174,7 +174,7 @@ function getBands(show) {
         width: 180px;
         height: 180px;
         max-width: 50vw;
-        margin: 0 auto 24px;
+        margin: 12px auto 32px;
         display: block;
         object-fit: contain;
       }
@@ -183,23 +183,23 @@ function getBands(show) {
         display: flex;
         flex-wrap: wrap;
         justify-content: center;
-        gap: 6px;
-        margin: 0 auto 20px;
-        max-width: 320px;
+        gap: 8px;
+        margin: 0 auto 28px;
+        max-width: 380px;
       }
 
       .state-btn {
         display: inline-flex;
         align-items: center;
         justify-content: center;
-        width: 44px;
-        height: 32px;
+        width: 48px;
+        height: 36px;
         border-radius: 8px;
         border: 2px solid #ff7da8;
         background: #ff4b92;
         color: #000;
         font-weight: 600;
-        font-size: 0.8rem;
+        font-size: 0.85rem;
         text-decoration: none;
         transition: transform 0.1s ease, box-shadow 0.1s ease;
         box-shadow: 0 2px 0 rgba(0,0,0,0.25);
@@ -224,53 +224,56 @@ function getBands(show) {
 
       .search-input {
         width: 100%;
-        padding: 10px;
-        border: 3px solid #000;
-        border-radius: 10px;
+        padding: 12px 20px;
+        border: 2px solid rgba(255, 255, 255, 0.8);
+        border-radius: 999px;
         text-align: center;
         font-size: 1rem;
-        font-weight: 800;
-        background: #ffffff;
+        font-weight: 700;
+        background: rgba(255, 255, 255, 0.2);
         color: #000;
+        outline: none;
+        transition: border-color 0.2s ease, background 0.2s ease;
       }
 
-      .search-input:focus::placeholder { opacity: 0; }
+      .search-input:focus {
+        border-color: #fff;
+        background: rgba(255, 255, 255, 0.35);
+      }
 
-      #search { color: #000; font-weight: 800; }
       #search::placeholder {
-        color: #000;
-        font-weight: 800;
-        opacity: 1;
+        color: rgba(0, 0, 0, 0.85);
+        font-weight: 700;
         transition: opacity 0.15s ease-in-out;
       }
       #search:focus::placeholder { opacity: 0; }
 
       .shows {
-        margin-top: 16px;
+        margin-top: 24px;
         display: flex;
         flex-direction: column;
-        gap: 12px;
+        gap: 24px;
       }
 
       .show-card {
         text-align: center;
-        margin: 0 auto 12px;
+        margin: 0 auto;
         max-width: 460px;
       }
 
       .show-title {
-        margin: 6px 0 4px;
+        margin: 0 0 6px;
         font-weight: 800;
-        font-size: 1.1rem;
+        font-size: 1.15rem;
       }
 
       .show-info {
-        margin: 0 0 4px;
+        margin: 0 0 6px;
         font-size: 0.95rem;
         opacity: 0.9;
       }
 
-      .show-bands { margin: 0 0 8px; font-size: 0.9rem; }
+      .show-bands { margin: 0 0 12px; font-size: 0.9rem; }
 
       .show-bands a {
         color: #000;
@@ -287,7 +290,19 @@ function getBands(show) {
         margin: 0 auto;
       }
 
-      .show-poster { width: 100%; display: block; }
+      .show-poster {
+        width: 100%;
+        display: block;
+      }
+
+      .show-actions {
+        display: flex;
+        flex-direction: column;
+        gap: 2px;
+        margin-top: 2px;
+        border-radius: 12px;
+        overflow: hidden;
+      }
 
       .ticket-btn {
         display: flex;
@@ -302,12 +317,12 @@ function getBands(show) {
         font-size: 0.98rem;
         border: none;
         cursor: pointer;
+        text-decoration: none;
+        transition: background 0.15s ease;
       }
 
-      .ticket-btn + .ticket-btn { border-top: 1px solid #333; }
-
-      .ticket-btn .emoji { font-size: 1.6rem; line-height: 1; }
       .ticket-btn:hover { background: #222; }
+      .ticket-btn .emoji { font-size: 1.1rem; line-height: 1; }
 
       .box {
         max-width: 520px;
@@ -376,7 +391,7 @@ function getBands(show) {
       </div>
 
       <!-- BUSCA -->
-      <div style="max-width:300px;margin:12px auto 18px;">
+      <div style="max-width:340px;margin:0 auto 28px;">
         <input
           id="search"
           type="text"
@@ -423,7 +438,9 @@ function getBands(show) {
                     loading="lazy"
                   />
                 )}
+              </div>
 
+              <div class="show-actions">
                 {hasTicket && (
                   <a
                     class="ticket-btn"
