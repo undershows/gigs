@@ -103,6 +103,12 @@ function getBands(show) {
     .map((b) => b.trim())
     .filter(Boolean);
 }
+
+// Só aceita links http(s) — bloqueia javascript:, data:, etc. vindos do CMS
+function getTicketLink(show) {
+  const link = String(show.ticket_link || "").trim();
+  return /^https?:\/\//i.test(link) ? link : null;
+}
 ---
 
 <html lang="pt-BR">
@@ -110,9 +116,10 @@ function getBands(show) {
     <meta charset="utf-8" />
     <title>Undershows</title>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta http-equiv="Cache-Control" content="no-store, no-cache, must-revalidate, max-age=0" />
-    <meta http-equiv="Pragma" content="no-cache" />
-    <meta http-equiv="Expires" content="0" />
+    <meta
+      http-equiv="Content-Security-Policy"
+      content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https://media.undershows.com.br https://assets.undershows.com.br https://cms.undershows.com.br; connect-src 'self'; object-src 'none'; base-uri 'self'; form-action 'self'"
+    />
 
     <link rel="icon" type="image/x-icon" href="/favicon.ico">
     <link rel="apple-touch-icon" href="/images/icons/icon-180x180.png">
@@ -404,7 +411,7 @@ function getBands(show) {
       <section class="shows">
         {shows.map((show) => {
           const posterUrl = getPosterUrl(show);
-          const hasTicket = !!show.ticket_link;
+          const ticketLink = getTicketLink(show);
           const shareUrl = `https://shows.undershows.com.br/cartaz/${show.id}`;
 
           return (
@@ -441,11 +448,12 @@ function getBands(show) {
               </div>
 
               <div class="show-actions">
-                {hasTicket && (
+                {ticketLink && (
                   <a
                     class="ticket-btn"
-                    href={show.ticket_link}
+                    href={ticketLink}
                     target="_blank"
+                    rel="noopener noreferrer"
                   >
                     <span class="emoji">🎟️</span>Comprar Ingressos
                   </a>

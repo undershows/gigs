@@ -111,6 +111,12 @@ export async function getStaticPaths() {
 // props passados pelo getStaticPaths
 const { artistName, shows } = Astro.props;
 
+// Só aceita links http(s) — bloqueia javascript:, data:, etc. vindos do CMS
+function getTicketLink(show) {
+  const link = String(show.ticket_link || "").trim();
+  return /^https?:\/\//i.test(link) ? link : null;
+}
+
 // helper SÓ pro template (não usado no getStaticPaths)
 function getBands(show) {
   const raw = show.bands || "";
@@ -127,6 +133,10 @@ const PAGE_TITLE = `Shows com ${artistName} | Undershows`;
     <meta charset="utf-8" />
     <title>{PAGE_TITLE}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      http-equiv="Content-Security-Policy"
+      content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https://media.undershows.com.br https://assets.undershows.com.br https://cms.undershows.com.br; connect-src 'self'; object-src 'none'; base-uri 'self'; form-action 'self'"
+    />
 
     <link rel="icon" type="image/x-icon" href="/favicon.ico">
     <link rel="apple-touch-icon" href="/images/icons/icon-180x180.png">
@@ -269,7 +279,7 @@ const PAGE_TITLE = `Shows com ${artistName} | Undershows`;
         <section class="shows">
           {shows.map((show) => {
             const posterUrl = getPosterUrl(show);
-            const hasTicket = !!show.ticket_link;
+            const ticketLink = getTicketLink(show);
             const shareUrl = `${SITE_URL}/cartaz/${show.id}`;
 
             return (
@@ -295,11 +305,12 @@ const PAGE_TITLE = `Shows com ${artistName} | Undershows`;
                     />
                   )}
 
-                  {hasTicket && (
+                  {ticketLink && (
                     <a
                       class="ticket-btn"
-                      href={show.ticket_link}
+                      href={ticketLink}
                       target="_blank"
+                      rel="noopener noreferrer"
                     >
                       <span class="emoji">🎟️</span>Comprar Ingressos
                     </a>

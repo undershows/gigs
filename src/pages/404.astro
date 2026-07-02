@@ -7,6 +7,10 @@ const SITE_URL = "https://shows.undershows.com.br";
     <title>Página não encontrada | Undershows</title>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="robots" content="noindex" />
+    <meta
+      http-equiv="Content-Security-Policy"
+      content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https://media.undershows.com.br https://assets.undershows.com.br https://cms.undershows.com.br; connect-src 'self'; object-src 'none'; base-uri 'self'; form-action 'self'"
+    />
     <style>
       * { box-sizing: border-box; }
       body {
