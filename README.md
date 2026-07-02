@@ -1,43 +1,58 @@
-# Astro Starter Kit: Minimal
+# Undershows — Site de Shows
+
+Site estático com a agenda de shows da [Undershows](https://undershows.com.br), publicado em [shows.undershows.com.br](https://shows.undershows.com.br). É consumido pelo app Android da Undershows e também funciona como PWA (instalável pelo navegador).
+
+## Como funciona
+
+Não existe backend em produção. O conteúdo vem do Strapi **em build time**: o Astro busca os shows na API do CMS, gera todas as páginas como HTML estático e o resultado é publicado no GitHub Pages.
+
+```
+Strapi (cms.undershows.com.br)
+        │  fetch no build
+        ▼
+Astro build ──► dist/ ──► GitHub Pages (branch gh-pages)
+```
+
+### Rotas
+
+| Rota | Descrição |
+|------|-----------|
+| `/` | Agenda de shows futuros, com filtro por estado e busca |
+| `/cartaz/:id` | Página de compartilhamento de um show (OG tags p/ WhatsApp/Instagram) |
+| `/artist/:slug` | Shows futuros de uma banda |
+| `/404` | Página não encontrada |
+
+Todas geradas via `getStaticPaths()` no build — um show novo no Strapi só aparece no site após um rebuild.
+
+## Desenvolvimento
+
+Requisitos: **Node 22.12+** e yarn.
 
 ```sh
-npm create astro@latest -- --template minimal
+yarn install
+yarn dev        # dev server em localhost:4321
+yarn build      # gera o site em ./dist/
+yarn preview    # serve o build local
 ```
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+### Variáveis de ambiente
 
-## 🚀 Project Structure
+Copie `.env.example` para `.env`:
 
-Inside of your Astro project, you'll see the following folders and files:
+| Variável | Descrição | Padrão |
+|----------|-----------|--------|
+| `PUBLIC_STRAPI_URL` | URL da API do Strapi | `https://cms.undershows.com.br` |
+| `PUBLIC_ASSETS_URL` | Base para URLs relativas de imagens | `https://media.undershows.com.br` |
 
-```text
-/
-├── public/
-├── src/
-│   └── pages/
-│       └── index.astro
-└── package.json
-```
+## Deploy
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+Dois workflows no GitHub Actions, ambos buildam e publicam na branch `gh-pages`:
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
+- **`deploy.yml`** — roda a cada push na `main`, diariamente às 03:05 UTC (cron) ou manualmente (`workflow_dispatch`).
+- **`rebuild.yml`** — roda via `repository_dispatch` (evento `rebuild_site`), disparado pelo Strapi quando o conteúdo muda, ou manualmente.
 
-Any static assets, like images, can be placed in the `public/` directory.
+## Segurança
 
-## 🧞 Commands
-
-All commands are run from the root of the project, from a terminal:
-
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
-
-## 👀 Want to learn more?
-
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+- Links de ingresso vindos do CMS só são renderizados se forem `http(s)://` (bloqueia `javascript:` etc.).
+- Todas as páginas têm Content-Security-Policy via meta tag; links externos usam `rel="noopener noreferrer"`.
+- As actions do CI são pinadas por SHA de commit e o `GITHUB_TOKEN` tem permissão mínima (`contents: write`).
