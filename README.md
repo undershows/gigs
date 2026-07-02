@@ -1,5 +1,10 @@
 # Undershows — Site de Shows
 
+[![Build and Deploy](https://github.com/undershows/gigs/actions/workflows/deploy.yml/badge.svg)](https://github.com/undershows/gigs/actions/workflows/deploy.yml)
+[![Site](https://img.shields.io/website?url=https%3A%2F%2Fshows.undershows.com.br&label=shows.undershows.com.br)](https://shows.undershows.com.br)
+[![Astro](https://img.shields.io/badge/Astro-7-BC52EE?logo=astro&logoColor=white)](https://astro.build)
+[![Node](https://img.shields.io/badge/node-%E2%89%A522.12-339933?logo=node.js&logoColor=white)](https://nodejs.org)
+
 Site estático com a agenda de shows da [Undershows](https://undershows.com.br), publicado em [shows.undershows.com.br](https://shows.undershows.com.br). É consumido pelo app Android da Undershows e também funciona como PWA (instalável pelo navegador).
 
 ## Como funciona
