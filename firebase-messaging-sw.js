@@ -2,11 +2,15 @@
  * Registrado em escopo dedicado (/firebase-cloud-messaging-push-scope) pelo client,
  * então coexiste com o /service-worker.js de cache sem conflito.
  *
+ * Usa os SDKs compat VENDORADOS (mesma origem, /vendor/*) em vez do gstatic:
+ * a CSP que o Cloudflare injeta (também no header do .js do SW) só permite
+ * script-src 'self', então importScripts do gstatic é bloqueado — self-host resolve.
+ *
  * Sem onBackgroundMessage de propósito: para mensagens com bloco `notification`,
- * o SDK do FCM exibe a notificação automaticamente (usando notification + webpush.notification).
+ * o SDK do FCM exibe a notificação automaticamente (notification + webpush.notification).
  * Definir onBackgroundMessage aqui causaria notificação DUPLICADA. */
-importScripts("https://www.gstatic.com/firebasejs/12.17.1/firebase-app-compat.js");
-importScripts("https://www.gstatic.com/firebasejs/12.17.1/firebase-messaging-compat.js");
+importScripts("/vendor/firebase-app-compat.js");
+importScripts("/vendor/firebase-messaging-compat.js");
 
 firebase.initializeApp({
   apiKey: "AIzaSyBYg3i2JhINM6Q14T1-qPdjj5TQNwcfKzI",
