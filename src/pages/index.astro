@@ -118,7 +118,7 @@ function getTicketLink(show) {
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta
       http-equiv="Content-Security-Policy"
-      content="default-src 'self'; script-src 'self' 'unsafe-inline' https://www.gstatic.com; style-src 'self' 'unsafe-inline'; img-src 'self' data: https://media.undershows.com.br https://assets.undershows.com.br https://cms.undershows.com.br; connect-src 'self' https://cms.undershows.com.br https://firebaseinstallations.googleapis.com https://fcmregistrations.googleapis.com; object-src 'none'; base-uri 'self'; form-action 'self'"
+      content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https://media.undershows.com.br https://assets.undershows.com.br https://cms.undershows.com.br; connect-src 'self' https://cms.undershows.com.br https://firebaseinstallations.googleapis.com https://fcmregistrations.googleapis.com; object-src 'none'; base-uri 'self'; form-action 'self'"
     />
 
     <link rel="icon" type="image/x-icon" href="/favicon.ico">
@@ -669,7 +669,6 @@ via Undershows: ${SITE_URL}`;
     <!-- AVISOS DE SHOWS (Web Push via FCM) -->
     <script>
       (function () {
-        const FB_VERSION = "12.17.1";
         const VAPID_KEY =
           "BLSTasErFJnimal8uqI7If1IhkEKjQMVwnYqp3yanywm03g7RZZH9VNil4Q7Ecup1DcWDuFDIIPPsNJtQVJn48M";
         const FIREBASE_CONFIG = {
@@ -704,20 +703,33 @@ via Undershows: ${SITE_URL}`;
           window.navigator.standalone === true ||
           window.matchMedia("(display-mode: standalone)").matches;
 
-        // Carrega o Firebase sob demanda, pega o token e cadastra no CMS.
+        // Carrega um script (UMD) sob demanda, uma vez.
+        function loadScript(src) {
+          return new Promise(function (resolve, reject) {
+            if (document.querySelector('script[data-fb="' + src + '"]')) return resolve();
+            const s = document.createElement("script");
+            s.src = src;
+            s.async = true;
+            s.dataset.fb = src;
+            s.onload = resolve;
+            s.onerror = function () {
+              reject(new Error("falha ao carregar " + src));
+            };
+            document.head.appendChild(s);
+          });
+        }
+
+        // Carrega o Firebase (compat, self-hostado) sob demanda, pega o token e cadastra no CMS.
         async function obterECadastrarToken() {
           const registration = await navigator.serviceWorker.register(
             "/firebase-messaging-sw.js",
             { scope: SW_SCOPE }
           );
-          const base = "https://www.gstatic.com/firebasejs/" + FB_VERSION;
-          const { initializeApp } = await import(base + "/firebase-app.js");
-          const { getMessaging, getToken } = await import(
-            base + "/firebase-messaging.js"
-          );
-          const app = initializeApp(FIREBASE_CONFIG);
-          const messaging = getMessaging(app);
-          const token = await getToken(messaging, {
+          await loadScript("/vendor/firebase-app-compat.js");
+          await loadScript("/vendor/firebase-messaging-compat.js");
+          if (!firebase.apps.length) firebase.initializeApp(FIREBASE_CONFIG);
+          const messaging = firebase.messaging();
+          const token = await messaging.getToken({
             vapidKey: VAPID_KEY,
             serviceWorkerRegistration: registration,
           });
