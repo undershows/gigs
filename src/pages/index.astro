@@ -118,7 +118,7 @@ function getTicketLink(show) {
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta
       http-equiv="Content-Security-Policy"
-      content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https://media.undershows.com.br https://assets.undershows.com.br https://cms.undershows.com.br; connect-src 'self'; object-src 'none'; base-uri 'self'; form-action 'self'"
+      content="default-src 'self'; script-src 'self' 'unsafe-inline' https://www.gstatic.com; style-src 'self' 'unsafe-inline'; img-src 'self' data: https://media.undershows.com.br https://assets.undershows.com.br https://cms.undershows.com.br; connect-src 'self' https://cms.undershows.com.br https://firebaseinstallations.googleapis.com https://fcmregistrations.googleapis.com; object-src 'none'; base-uri 'self'; form-action 'self'"
     />
 
     <link rel="icon" type="image/x-icon" href="/favicon.ico">
@@ -185,6 +185,40 @@ function getTicketLink(show) {
         display: block;
         object-fit: contain;
         border-radius: 50%;
+      }
+
+      .notif-optin {
+        margin: 0 auto 24px;
+        max-width: 380px;
+      }
+      .notif-btn {
+        display: inline-flex;
+        align-items: center;
+        gap: 8px;
+        padding: 10px 18px;
+        border-radius: 999px;
+        border: 2px solid #ff7da8;
+        background: #ff4b92;
+        color: #000;
+        font-weight: 700;
+        font-size: 0.95rem;
+        cursor: pointer;
+        box-shadow: 0 2px 0 rgba(0,0,0,0.25);
+        transition: transform 0.1s ease, box-shadow 0.1s ease;
+      }
+      .notif-btn:active {
+        transform: translateY(1px);
+        box-shadow: 0 1px 0 rgba(0,0,0,0.25);
+      }
+      .notif-btn[disabled] {
+        opacity: 0.6;
+        cursor: default;
+      }
+      .notif-hint {
+        margin: 8px 0 0;
+        font-size: 0.8rem;
+        color: #000;
+        opacity: 0.85;
       }
 
       .states-grid {
@@ -390,6 +424,12 @@ function getTicketLink(show) {
           />
         </picture>
       </a>
+
+      <!-- AVISOS DE SHOWS (Web Push) -->
+      <div class="notif-optin" id="notif-optin" hidden>
+        <button type="button" id="notif-btn" class="notif-btn">🔔 Ativar avisos de shows</button>
+        <p class="notif-hint" id="notif-hint" hidden></p>
+      </div>
 
       <!-- ESTADOS -->
       <div class="states-grid">
@@ -622,6 +662,129 @@ via Undershows: ${SITE_URL}`;
           if (!btn) return;
           ev.preventDefault();
           shareShowFromButton(btn);
+        });
+      })();
+    </script>
+
+    <!-- AVISOS DE SHOWS (Web Push via FCM) -->
+    <script>
+      (function () {
+        const FB_VERSION = "12.17.1";
+        const VAPID_KEY =
+          "BLSTasErFJnimal8uqI7If1IhkEKjQMVwnYqp3yanywm03g7RZZH9VNil4Q7Ecup1DcWDuFDIIPPsNJtQVJn48M";
+        const FIREBASE_CONFIG = {
+          apiKey: "AIzaSyBYg3i2JhINM6Q14T1-qPdjj5TQNwcfKzI",
+          authDomain: "undershows.firebaseapp.com",
+          projectId: "undershows",
+          storageBucket: "undershows.firebasestorage.app",
+          messagingSenderId: "432774323974",
+          appId: "1:432774323974:web:c3dd042aaf2172b3bf8887",
+        };
+        const FCM_ENDPOINT = "https://cms.undershows.com.br/api/fcm-tokens";
+        const SW_SCOPE = "/firebase-cloud-messaging-push-scope";
+        const REFRESH_KEY = "notif_last_refresh";
+        const REFRESH_MS = 7 * 24 * 60 * 60 * 1000; // 7 dias
+
+        const box = document.getElementById("notif-optin");
+        const btn = document.getElementById("notif-btn");
+        const hint = document.getElementById("notif-hint");
+        if (!box || !btn) return;
+
+        function showHint(msg) {
+          hint.textContent = msg;
+          hint.hidden = false;
+        }
+
+        const pushSupported =
+          "serviceWorker" in navigator &&
+          "Notification" in window &&
+          "PushManager" in window;
+        const isIOS = /iP(hone|ad|od)/.test(navigator.userAgent);
+        const isStandalone =
+          window.navigator.standalone === true ||
+          window.matchMedia("(display-mode: standalone)").matches;
+
+        // Carrega o Firebase sob demanda, pega o token e cadastra no CMS.
+        async function obterECadastrarToken() {
+          const registration = await navigator.serviceWorker.register(
+            "/firebase-messaging-sw.js",
+            { scope: SW_SCOPE }
+          );
+          const base = "https://www.gstatic.com/firebasejs/" + FB_VERSION;
+          const { initializeApp } = await import(base + "/firebase-app.js");
+          const { getMessaging, getToken } = await import(
+            base + "/firebase-messaging.js"
+          );
+          const app = initializeApp(FIREBASE_CONFIG);
+          const messaging = getMessaging(app);
+          const token = await getToken(messaging, {
+            vapidKey: VAPID_KEY,
+            serviceWorkerRegistration: registration,
+          });
+          if (!token) throw new Error("token vazio");
+          const res = await fetch(FCM_ENDPOINT, {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({ token, platform: "web" }),
+          });
+          if (!res.ok) throw new Error("cms " + res.status);
+          localStorage.setItem(REFRESH_KEY, String(Date.now()));
+        }
+
+        // --- Estado inicial: o botão só existe pra quem ainda não decidiu ---
+        if (Notification.permission === "granted") {
+          box.hidden = true; // já ativado: nada na tela (igual Android)
+          // Revalida o token no máximo 1x por semana (FCM pode rotacionar).
+          const last = Number(localStorage.getItem(REFRESH_KEY) || 0);
+          if (pushSupported && Date.now() - last > REFRESH_MS) {
+            obterECadastrarToken().catch((e) =>
+              console.error("[push] refresh falhou", e)
+            );
+          }
+          return;
+        }
+        if (Notification.permission === "denied") {
+          box.hidden = true; // recusou antes: não insiste
+          return;
+        }
+        // ainda não decidiu → mostra o botão
+        box.hidden = false;
+
+        btn.addEventListener("click", async function () {
+          // iPhone só recebe push com a PWA instalada na tela de início.
+          if (isIOS && !isStandalone) {
+            showHint(
+              "No iPhone: toque em Compartilhar → “Adicionar à Tela de Início” e abra o app por ali para ativar."
+            );
+            return;
+          }
+          if (!pushSupported) {
+            showHint("Seu navegador não suporta notificações push.");
+            return;
+          }
+          btn.disabled = true;
+          const original = btn.textContent;
+          btn.textContent = "Ativando…";
+          try {
+            const permission = await Notification.requestPermission();
+            if (permission !== "granted") {
+              btn.textContent = original;
+              btn.disabled = false;
+              showHint("Permissão não concedida.");
+              return;
+            }
+            await obterECadastrarToken();
+            btn.textContent = "🔔 Avisos ativados";
+            showHint("Pronto! Você vai receber os avisos de shows.");
+            setTimeout(function () {
+              box.hidden = true;
+            }, 4000);
+          } catch (err) {
+            console.error("[push] erro ao ativar", err);
+            btn.textContent = original;
+            btn.disabled = false;
+            showHint("Não deu pra ativar agora. Tente novamente.");
+          }
         });
       })();
     </script>
