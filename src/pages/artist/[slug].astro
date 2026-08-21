@@ -1,4 +1,7 @@
 ---
+// slug/canonicalização de bandas centralizados em src/lib/bands.ts
+import { slugify, getBands } from "../../lib/bands";
+
 const SITE_URL = "https://shows.undershows.com.br";
 const ASSETS_URL = import.meta.env.PUBLIC_ASSETS_URL || "https://media.undershows.com.br";
 
@@ -46,15 +49,6 @@ export async function getStaticPaths() {
     console.warn("PUBLIC_STRAPI_URL não definido no ambiente.");
   }
 
-  // helper de slug **local**, só pra esta função
-  function slugify(name) {
-    return name
-      .normalize("NFD")
-      .replace(/[\u0300-\u036f]/g, "")
-      .toLowerCase()
-      .replace(/[^a-z0-9]+/g, "-")
-      .replace(/^-+|-+$/g, "");
-  }
 
   // ⚠️ Seu Strapi aparentemente tem maxLimit ~100.
   // Então paginamos até acabar.
@@ -84,13 +78,7 @@ export async function getStaticPaths() {
     d.setHours(0, 0, 0, 0);
     if (d < today) continue; // só futuros
 
-    const raw = show.bands || "";
-    const bands = raw
-      .split(",")
-      .map((b) => b.trim())
-      .filter(Boolean);
-
-    for (const band of bands) {
+    for (const band of getBands(show)) {
       const s = slugify(band);
       if (!bandsMap.has(s)) {
         bandsMap.set(s, { name: band, shows: [] });
@@ -117,14 +105,6 @@ function getTicketLink(show) {
   return /^https?:\/\//i.test(link) ? link : null;
 }
 
-// helper SÓ pro template (não usado no getStaticPaths)
-function getBands(show) {
-  const raw = show.bands || "";
-  return raw
-    .split(",")
-    .map((b) => b.trim())
-    .filter(Boolean);
-}
 
 const PAGE_TITLE = `Shows com ${artistName} | Undershows`;
 ---

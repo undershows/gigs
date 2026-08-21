@@ -87,22 +87,8 @@ function formatDate(dateStr) {
   });
 }
 
-function slugify(name) {
-  return name
-    .normalize("NFD")
-    .replace(/[\u0300-\u036f]/g, "")
-    .toLowerCase()
-    .replace(/[^a-z0-9]+/g, "-")
-    .replace(/^-+|-+$/g, "");
-}
-
-function getBands(show) {
-  const raw = show.bands || "";
-  return raw
-    .split(",")
-    .map((b) => b.trim())
-    .filter(Boolean);
-}
+// slug/canonicaliza\u00e7\u00e3o de bandas centralizados em src/lib/bands.ts
+import { slugify, getBands } from "../lib/bands";
 
 // Só aceita links http(s) — bloqueia javascript:, data:, etc. vindos do CMS
 function getTicketLink(show) {
