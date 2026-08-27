@@ -25,9 +25,22 @@ Astro build ──► dist/ ──► GitHub Pages (branch gh-pages)
 | `/` | Agenda de shows futuros, com filtro por estado e busca |
 | `/cartaz/:id` | Página de compartilhamento de um show (OG tags p/ WhatsApp/Instagram) |
 | `/artist/:slug` | Shows futuros de uma banda |
+| `/calendar/:uf.ics` | Feed iCalendar (RFC 5545) com os shows futuros de um estado — assinável no Google Calendar, Apple Calendar, Outlook etc. |
 | `/404` | Página não encontrada |
 
 Todas geradas via `getStaticPaths()` no build — um show novo no Strapi só aparece no site após um rebuild.
+
+### Calendário por estado
+
+Na home, o botão "Adicionar ao Google Calendar" (e o link "copiar link do feed") aponta pro `.ics`
+do estado selecionado (`/calendar/<UF>.ics`, ex. `/calendar/SP.ics`), gerado em `src/pages/calendar/[state].ics.ts`
+com a lógica de montagem do feed em `src/lib/ics.ts`.
+
+Como o site é 100% estático, o feed é regenerado a cada build — inclusive os disparados pelo Strapi
+via `rebuild.yml` a cada mudança no cartaz. O link de assinatura nunca muda; só o conteúdo. A
+velocidade com que cada app de calendário busca a atualização depende do intervalo de refresh dele
+(o feed sinaliza `X-PUBLISHED-TTL`/`REFRESH-INTERVAL` de 6h, que o Google Calendar tende a ignorar
+e o Apple Calendar/Outlook geralmente respeitam).
 
 ## Desenvolvimento
 

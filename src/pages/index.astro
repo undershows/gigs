@@ -245,6 +245,76 @@ function getTicketLink(show) {
         box-shadow: 0 4px 0 rgba(0,0,0,0.4);
       }
 
+      .gcal-optin {
+        margin: 0 auto 24px;
+        max-width: 380px;
+      }
+
+      .gcal-btn-wrapper {
+        border-radius: 12px;
+        overflow: hidden;
+      }
+
+      .gcal-icon { flex-shrink: 0; }
+
+      .ics-block {
+        margin: 14px auto 0;
+      }
+      .ics-hint {
+        margin: 0 0 8px;
+        font-size: 0.8rem;
+        color: #000;
+        opacity: 0.85;
+      }
+
+      .ics-copy-row {
+        display: flex;
+        gap: 6px;
+      }
+      .ics-url-input {
+        flex: 1;
+        min-width: 0;
+        height: 36px;
+        padding: 0 10px;
+        border-radius: 8px;
+        border: 2px solid rgba(0, 0, 0, 0.15);
+        background: rgba(255, 255, 255, 0.55);
+        color: #000;
+        font-size: 0.72rem;
+        font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+      }
+      .ics-copy-btn {
+        position: relative;
+        flex-shrink: 0;
+        height: 36px;
+        padding: 0 14px;
+        border-radius: 8px;
+        border: none;
+        background: #000;
+        color: #f5f5f5;
+        font-weight: 700;
+        font-size: 0.78rem;
+        cursor: pointer;
+        overflow: hidden;
+        transition: background 0.15s ease;
+      }
+      .ics-copy-btn:hover { background: #222; }
+      .ics-copy-btn-success {
+        position: absolute;
+        inset: 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 4px;
+        background: #1b8f3a;
+        color: #fff;
+        transform: translateY(100%);
+        transition: transform 0.22s ease;
+      }
+      .ics-copy-btn.copied .ics-copy-btn-success {
+        transform: translateY(0);
+      }
+
       @media (min-width: 600px) {
         .states-grid { max-width: 480px; gap: 8px; margin-bottom: 24px; }
         .state-btn { width: 56px; height: 36px; font-size: 0.9rem; }
@@ -424,6 +494,40 @@ function getTicketLink(show) {
         ))}
       </div>
 
+      <!-- CALENDÁRIO DO ESTADO -->
+      <div class="gcal-optin" id="gcal-optin">
+        <div class="gcal-btn-wrapper">
+          <a id="gcal-link" class="ticket-btn" href="#" target="_blank" rel="noopener noreferrer">
+            <svg class="gcal-icon" width="18" height="18" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+              <rect x="2" y="3" width="20" height="19" rx="3" fill="#fff" />
+              <rect x="2" y="3" width="20" height="6" rx="3" fill="#4285F4" />
+              <rect x="2" y="6" width="20" height="3" fill="#4285F4" />
+              <rect x="6" y="1" width="2" height="4" rx="1" fill="#fff" />
+              <rect x="16" y="1" width="2" height="4" rx="1" fill="#fff" />
+              <rect x="6" y="12" width="4" height="4" fill="#34A853" />
+              <rect x="14" y="12" width="4" height="4" fill="#FBBC05" />
+              <rect x="6" y="17" width="4" height="3" fill="#EA4335" />
+              <rect x="14" y="17" width="4" height="3" fill="#4285F4" />
+            </svg>
+            <span>Adicionar shows de <span class="state-label">SP</span> ao Google Calendar</span>
+          </a>
+        </div>
+
+        <div class="ics-block">
+          <p class="ics-hint">
+            Para outros apps de calendário como Apple Calendar e Outlook, use este
+            link para adicionar um calendário com os shows de <span class="state-label">SP</span>:
+          </p>
+          <div class="ics-copy-row">
+            <input id="ics-url" class="ics-url-input" type="text" readonly value="" aria-label="Link do feed de calendário" />
+            <button type="button" id="ics-copy-btn" class="ics-copy-btn">
+              <span class="ics-copy-btn-label">Copiar link</span>
+              <span class="ics-copy-btn-success" aria-hidden="true">✓ Copiado!</span>
+            </button>
+          </div>
+        </div>
+      </div>
+
       <!-- BUSCA -->
       <div style="max-width:340px;margin:0 auto 28px;">
         <input
@@ -541,6 +645,27 @@ function getTicketLink(show) {
             .trim();
         }
 
+        // Atualiza o botão "Adicionar ao Google Calendar" e o link do .ics
+        // pro estado atualmente selecionado.
+        function atualizarLinksCalendario(currentState) {
+          const gcalLink = document.getElementById("gcal-link");
+          const icsUrlInput = document.getElementById("ics-url");
+          if (!gcalLink || !icsUrlInput) return;
+
+          const icsUrl = `${window.location.origin}/calendar/${currentState}.ics`;
+          const webcalUrl = icsUrl.replace(/^https?:/, "webcal:");
+
+          gcalLink.href =
+            "https://calendar.google.com/calendar/render?cid=" +
+            encodeURIComponent(webcalUrl);
+
+          document.querySelectorAll(".state-label").forEach((el) => {
+            el.textContent = currentState;
+          });
+
+          icsUrlInput.value = icsUrl;
+        }
+
         function aplicarFiltroPorEstado() {
           const params = new URLSearchParams(window.location.search);
           const currentState = params.get("state") || "SP";
@@ -562,6 +687,8 @@ function getTicketLink(show) {
             noShows.textContent = "No momento não temos shows cadastrados nesse estado. 😔🎸";
             noShows.style.display = visible === 0 ? "" : "none";
           }
+
+          atualizarLinksCalendario(currentState);
         }
 
         input.addEventListener("input", function () {
@@ -598,6 +725,47 @@ function getTicketLink(show) {
             noShows.style.display = visible === 0 ? "" : "none";
           }
         });
+
+        // Botão "Copiar link" do feed .ics — copia pro clipboard e mostra
+        // uma animação de sucesso em vez de um alert().
+        const icsUrlInput = document.getElementById("ics-url");
+        const icsCopyBtn = document.getElementById("ics-copy-btn");
+        let icsCopyTimeout;
+
+        if (icsUrlInput) {
+          icsUrlInput.addEventListener("click", function () {
+            this.select();
+          });
+          icsUrlInput.addEventListener("focus", function () {
+            this.select();
+          });
+        }
+
+        if (icsCopyBtn && icsUrlInput) {
+          icsCopyBtn.addEventListener("click", async function () {
+            const url = icsUrlInput.value;
+            if (!url) return;
+
+            try {
+              if (navigator.clipboard) {
+                await navigator.clipboard.writeText(url);
+              } else {
+                icsUrlInput.select();
+                document.execCommand("copy");
+              }
+            } catch (err) {
+              console.error("Erro ao copiar link do calendário", err);
+              icsUrlInput.select();
+              return;
+            }
+
+            icsCopyBtn.classList.add("copied");
+            clearTimeout(icsCopyTimeout);
+            icsCopyTimeout = setTimeout(function () {
+              icsCopyBtn.classList.remove("copied");
+            }, 1800);
+          });
+        }
 
         aplicarFiltroPorEstado();
       })();
