@@ -107,6 +107,26 @@ function getTicketLink(show) {
 
 
 const PAGE_TITLE = `Shows com ${artistName} | Undershows`;
+
+// Texto do botão "Divulgar a agenda": lista as próximas datas e fecha com o
+// link da página da banda. Limita a lista pra não virar um textão no WhatsApp.
+const { slug } = Astro.params;
+const artistUrl = `${SITE_URL}/artist/${slug}/`;
+const MAX_DATAS = 6;
+const linhasAgenda = shows
+  .slice(0, MAX_DATAS)
+  .map((show) => `${formatDate(show.date)} — ${show.city}/${show.state}`);
+const restantes = shows.length - linhasAgenda.length;
+if (restantes > 0) {
+  linhasAgenda.push(`…e mais ${restantes} show${restantes > 1 ? "s" : ""}`);
+}
+const shareAgendaText = [
+  `Shows com ${artistName} 🤘`,
+  "",
+  ...linhasAgenda,
+  "",
+  `Agenda completa: ${artistUrl}`,
+].join("\n");
 ---
 <html lang="pt-BR">
   <head>
@@ -229,6 +249,46 @@ const PAGE_TITLE = `Shows com ${artistName} | Undershows`;
       .ticket-btn:hover { background: #222; }
 
       .empty { margin-top: 24px; font-size: 0.95rem; }
+
+      .share-actions {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 10px;
+        margin: 0 auto 20px;
+      }
+
+      .share-agenda {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        gap: 8px;
+        margin: 0;
+        padding: 11px 20px;
+        border-radius: 999px;
+        border: 3px solid #000;
+        background: #ff4b92;
+        color: #000;
+        font-weight: 800;
+        font-size: 0.95rem;
+        cursor: pointer;
+        box-shadow: 0 2px 0 rgba(0, 0, 0, 0.25);
+        transition: transform 0.1s ease, box-shadow 0.1s ease;
+      }
+
+      .share-agenda:hover {
+        transform: translateY(-1px);
+        box-shadow: 0 4px 0 rgba(0, 0, 0, 0.4);
+      }
+
+      .share-agenda .emoji { font-size: 1.2rem; line-height: 1; }
+
+      .share-agenda--ghost { background: rgba(255, 255, 255, 0.8); }
+
+      .share-agenda.copiado {
+        background: #1b8f3a;
+        color: #fff;
+      }
     </style>
   </head>
 
@@ -249,6 +309,28 @@ const PAGE_TITLE = `Shows com ${artistName} | Undershows`;
 
       <h1>Shows com {artistName}</h1>
       <p class="subtitle">Rolês futuros que têm essa banda no line-up.</p>
+
+      {shows.length > 0 && (
+        <div class="share-actions">
+          <button
+            type="button"
+            class="share-agenda"
+            data-share-agenda
+            data-text={shareAgendaText}
+          >
+            <span class="emoji">📤</span>Divulgar a agenda
+          </button>
+
+          <button
+            type="button"
+            class="share-agenda share-agenda--ghost"
+            data-copy-link
+            data-url={artistUrl}
+          >
+            <span class="emoji">🔗</span><span class="copy-label">Copiar link</span>
+          </button>
+        </div>
+      )}
 
       {shows.length === 0 && (
         <p class="empty">
@@ -353,7 +435,74 @@ via Undershows: https://shows.undershows.com.br`;
           }
         }
 
+        // Compartilha a agenda inteira da banda (texto montado no build).
+        async function shareAgenda(btn) {
+          const text = btn.dataset.text || "";
+          if (!text) return;
+
+          try {
+            if (navigator.share) {
+              await navigator.share({ text });
+            } else if (navigator.clipboard) {
+              await navigator.clipboard.writeText(text);
+              alert("Agenda copiada! Cole no WhatsApp/Instagram 🤘");
+            } else {
+              alert("Copie e cole:\n\n" + text);
+            }
+          } catch (err) {
+            console.error("Erro ao compartilhar agenda", err);
+          }
+        }
+
+        // Copia só o link da página da banda (pra colar no Linktree, bio etc).
+        async function copiarLink(btn) {
+          const url = btn.dataset.url || window.location.href;
+          const label = btn.querySelector(".copy-label");
+
+          try {
+            if (navigator.clipboard) {
+              await navigator.clipboard.writeText(url);
+            } else {
+              const tmp = document.createElement("input");
+              tmp.value = url;
+              document.body.appendChild(tmp);
+              tmp.select();
+              document.execCommand("copy");
+              tmp.remove();
+            }
+          } catch (err) {
+            console.error("Erro ao copiar link", err);
+            alert("Copie o link:\n\n" + url);
+            return;
+          }
+
+          if (!label) return;
+          const original = label.dataset.original || label.textContent;
+          label.dataset.original = original;
+          label.textContent = "Link copiado!";
+          btn.classList.add("copiado");
+          clearTimeout(btn.copyTimeout);
+          btn.copyTimeout = setTimeout(function () {
+            label.textContent = original;
+            btn.classList.remove("copiado");
+          }, 1800);
+        }
+
         document.addEventListener("click", function (ev) {
+          const copyBtn = ev.target.closest("[data-copy-link]");
+          if (copyBtn) {
+            ev.preventDefault();
+            copiarLink(copyBtn);
+            return;
+          }
+
+          const agendaBtn = ev.target.closest("[data-share-agenda]");
+          if (agendaBtn) {
+            ev.preventDefault();
+            shareAgenda(agendaBtn);
+            return;
+          }
+
           const btn = ev.target.closest("[data-share-show]");
           if (!btn) return;
           ev.preventDefault();
