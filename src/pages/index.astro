@@ -104,7 +104,7 @@ function getTicketLink(show) {
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta
       http-equiv="Content-Security-Policy"
-      content="default-src 'self'; script-src 'self' 'unsafe-inline' https://static.cloudflareinsights.com; style-src 'self' 'unsafe-inline'; img-src 'self' data: https://media.undershows.com.br https://assets.undershows.com.br https://cms.undershows.com.br; connect-src 'self' https://cms.undershows.com.br https://firebaseinstallations.googleapis.com https://fcmregistrations.googleapis.com; object-src 'none'; base-uri 'self'; form-action 'self'"
+      content="default-src 'self'; script-src 'self' https://static.cloudflareinsights.com; style-src 'self'; img-src 'self' data: https://media.undershows.com.br https://assets.undershows.com.br https://cms.undershows.com.br; connect-src 'self' https://cms.undershows.com.br https://firebaseinstallations.googleapis.com https://fcmregistrations.googleapis.com; object-src 'none'; base-uri 'self'; form-action 'self'"
     />
 
     <link rel="icon" type="image/x-icon" href="/favicon.ico">
@@ -276,6 +276,13 @@ function getTicketLink(show) {
       }
       #search:focus::placeholder { opacity: 0; }
 
+      .search-wrap {
+        max-width: 340px;
+        margin: 0 auto 28px;
+      }
+
+      .is-hidden { display: none; }
+
       .shows {
         margin-top: 24px;
         display: flex;
@@ -425,7 +432,7 @@ function getTicketLink(show) {
       </div>
 
       <!-- BUSCA -->
-      <div style="max-width:340px;margin:0 auto 28px;">
+      <div class="search-wrap">
         <input
           id="search"
           type="text"
@@ -506,7 +513,7 @@ function getTicketLink(show) {
       </section>
 
       <div class="box footer-text">
-        <p id="no-shows" class="empty" style="display:none;">
+        <p id="no-shows" class="empty is-hidden">
           No momento não temos shows cadastrados nesse estado. 😔🎸
         </p>
 
@@ -560,7 +567,7 @@ function getTicketLink(show) {
           const noShows = document.getElementById("no-shows");
           if (noShows) {
             noShows.textContent = "No momento não temos shows cadastrados nesse estado. 😔🎸";
-            noShows.style.display = visible === 0 ? "" : "none";
+            noShows.classList.toggle("is-hidden", visible !== 0);
           }
         }
 
@@ -595,7 +602,7 @@ function getTicketLink(show) {
 
           if (noShows) {
             noShows.textContent = "Nenhum show encontrado para essa busca. 😔🎸";
-            noShows.style.display = visible === 0 ? "" : "none";
+            noShows.classList.toggle("is-hidden", visible !== 0);
           }
         });
 
